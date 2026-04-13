@@ -48,6 +48,9 @@ body {
 }
 
 .archive-controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
   margin: 0 0 22px;
 }
 
@@ -234,6 +237,7 @@ body.lightbox-open {
   }
 
   .archive-controls {
+    gap: 10px;
     margin-bottom: 18px;
   }
 

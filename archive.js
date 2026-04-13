@@ -1,33 +1,57 @@
 (() => {
-  const REPLY_FILTER_STORAGE_KEY = "anincandescence-archive-hide-replies";
+  const TWEET_FILTERS = [
+    {
+      key: "reply",
+      storageKey: "anincandescence-archive-hide-replies",
+      label: "隐藏回复帖",
+      predicate: (text) => /^@\S+/.test(text),
+    },
+    {
+      key: "retweet",
+      storageKey: "anincandescence-archive-hide-retweets",
+      label: "隐藏转贴",
+      predicate: (text) => /^RT\s+@\S+/.test(text),
+    },
+  ];
 
-  setupReplyFilter();
+  setupTweetFilters();
   setupImageLightbox();
 
-  function setupReplyFilter() {
+  function setupTweetFilters() {
     const tweets = Array.from(document.querySelectorAll(".tweet"));
     if (!tweets.length) return;
 
-    const replyTweets = tweets.filter((tweet) => {
+    const classifiedFilters = TWEET_FILTERS.map((filter) => ({ ...filter, tweets: [] }));
+
+    tweets.forEach((tweet) => {
       const body = tweet.querySelector("p");
       const firstSegment = getFirstSegmentText(body);
-      const isReply = /^@\S+/.test(firstSegment);
-      tweet.classList.toggle("tweet-is-reply", isReply);
-      return isReply;
+      classifiedFilters.forEach((filter) => {
+        const matches = filter.predicate(firstSegment);
+        tweet.classList.toggle(`tweet-is-${filter.key}`, matches);
+        if (matches) {
+          filter.tweets.push(tweet);
+        }
+      });
     });
 
-    if (!replyTweets.length) return;
+    const activeFilters = classifiedFilters.filter((filter) => filter.tweets.length);
+    if (!activeFilters.length) return;
 
     const controls = document.createElement("div");
     controls.className = "archive-controls";
-    controls.innerHTML = `
-      <label class="archive-toggle">
-        <input class="archive-toggle-input" type="checkbox" />
-        <span class="archive-toggle-switch" aria-hidden="true"></span>
-        <span class="archive-toggle-label">隐藏回复帖</span>
-        <span class="archive-toggle-meta">${replyTweets.length} / ${tweets.length}</span>
-      </label>
-    `;
+    controls.innerHTML = activeFilters
+      .map(
+        (filter) => `
+          <label class="archive-toggle">
+            <input class="archive-toggle-input" type="checkbox" data-filter-key="${filter.key}" />
+            <span class="archive-toggle-switch" aria-hidden="true"></span>
+            <span class="archive-toggle-label">${filter.label}</span>
+            <span class="archive-toggle-meta">${filter.tweets.length} / ${tweets.length}</span>
+          </label>
+        `,
+      )
+      .join("");
 
     const intro = document.querySelector(".archive-intro");
     const shell = document.querySelector(".archive-shell");
@@ -38,18 +62,18 @@
       shell.insertBefore(controls, shell.firstChild);
     }
 
-    const checkbox = controls.querySelector(".archive-toggle-input");
-    if (!checkbox) return;
+    activeFilters.forEach((filter) => {
+      const checkbox = controls.querySelector(`[data-filter-key="${filter.key}"]`);
+      if (!checkbox) return;
 
-    const initialState = readReplyFilterState();
-    checkbox.checked = initialState;
-    applyReplyFilter(replyTweets, initialState);
-
-    checkbox.addEventListener("change", () => {
-      const enabled = checkbox.checked;
-      applyReplyFilter(replyTweets, enabled);
-      writeReplyFilterState(enabled);
+      checkbox.checked = readFilterState(filter.storageKey);
+      checkbox.addEventListener("change", () => {
+        writeFilterState(filter.storageKey, checkbox.checked);
+        applyTweetFilters(tweets, activeFilters, controls);
+      });
     });
+
+    applyTweetFilters(tweets, activeFilters, controls);
   }
 
   function getFirstSegmentText(body) {
@@ -60,23 +84,35 @@
     return (scratch.textContent || "").trim();
   }
 
-  function applyReplyFilter(replyTweets, hideReplies) {
-    replyTweets.forEach((tweet) => {
-      tweet.hidden = hideReplies;
+  function applyTweetFilters(tweets, filters, controls) {
+    const enabledFilters = new Set(
+      filters
+        .filter((filter) => {
+          const checkbox = controls.querySelector(`[data-filter-key="${filter.key}"]`);
+          return checkbox?.checked;
+        })
+        .map((filter) => filter.key),
+    );
+
+    tweets.forEach((tweet) => {
+      const shouldHide = filters.some(
+        (filter) => enabledFilters.has(filter.key) && tweet.classList.contains(`tweet-is-${filter.key}`),
+      );
+      tweet.hidden = shouldHide;
     });
   }
 
-  function readReplyFilterState() {
+  function readFilterState(storageKey) {
     try {
-      return window.localStorage.getItem(REPLY_FILTER_STORAGE_KEY) === "1";
+      return window.localStorage.getItem(storageKey) === "1";
     } catch {
       return false;
     }
   }
 
-  function writeReplyFilterState(enabled) {
+  function writeFilterState(storageKey, enabled) {
     try {
-      window.localStorage.setItem(REPLY_FILTER_STORAGE_KEY, enabled ? "1" : "0");
+      window.localStorage.setItem(storageKey, enabled ? "1" : "0");
     } catch {
       // Ignore storage failures and keep the filter session-local.
     }
