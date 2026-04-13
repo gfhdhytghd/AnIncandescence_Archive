@@ -53,11 +53,6 @@ def transform_html(text: str, filename: str) -> str:
     body_open = (
         "<body>\n"
         "<div class='archive-shell'>\n"
-        "  <nav class='archive-nav'>\n"
-        "    <div class='archive-nav-group'>\n"
-        "      <a class='archive-home' href='index.html'>Back to navigation</a>\n"
-        "    </div>\n"
-        "  </nav>\n"
     )
     text = text.replace("<body>\n", body_open, 1)
 

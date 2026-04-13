@@ -33,51 +33,6 @@ body {
   padding: 24px 16px 64px;
 }
 
-.archive-nav {
-  position: sticky;
-  top: 12px;
-  z-index: 20;
-  display: none;
-  align-items: center;
-  justify-content: space-between;
-  gap: 12px;
-  margin-bottom: 18px;
-  padding: 12px 14px;
-  border: 1px solid var(--line);
-  border-radius: 18px;
-  background: rgba(255, 253, 249, 0.86);
-  backdrop-filter: blur(12px);
-  box-shadow: var(--shadow);
-}
-
-.archive-nav-group {
-  display: flex;
-  align-items: center;
-  gap: 10px;
-  min-width: 0;
-}
-
-.archive-nav a {
-  color: var(--accent);
-  text-decoration: none;
-}
-
-.archive-nav a:hover {
-  text-decoration: underline;
-}
-
-.archive-home {
-  display: inline-flex;
-  align-items: center;
-  gap: 8px;
-  padding: 8px 12px;
-  border-radius: 999px;
-  border: 1px solid rgba(159, 67, 35, 0.18);
-  background: var(--accent-soft);
-  font-size: 14px;
-  white-space: nowrap;
-}
-
 .archive-page-title {
   margin: 0;
   font-size: clamp(28px, 6vw, 52px);
@@ -211,16 +166,6 @@ body.lightbox-open {
 @media (max-width: 720px) {
   .archive-shell {
     padding: 14px 10px 40px;
-  }
-
-  .archive-nav {
-    display: flex;
-    top: 8px;
-    justify-content: flex-start;
-  }
-
-  .archive-nav-group {
-    justify-content: flex-start;
   }
 
   .tweet {
