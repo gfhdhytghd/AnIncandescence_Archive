@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang='zh-CN'>
+<head>
+<meta charset='UTF-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1.0'>
+<title>AnIncandescence Archive</title>
+<style>
+:root {
+  --bg: #f4efe6;
+  --paper: rgba(255,255,255,0.82);
+  --ink: #1c1a18;
+  --muted: #6e6257;
+  --line: rgba(28,26,24,0.12);
+  --accent: #b44f2c;
+  --accent-2: #274690;
+  --shadow: 0 24px 60px rgba(37, 29, 22, 0.12);
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  color: var(--ink);
+  font-family: 'Iowan Old Style', 'Palatino Linotype', 'Book Antiqua', Georgia, serif;
+  background:
+    radial-gradient(circle at top left, rgba(180,79,44,0.20), transparent 32%),
+    radial-gradient(circle at top right, rgba(39,70,144,0.16), transparent 28%),
+    linear-gradient(180deg, #f9f5ef 0%, var(--bg) 48%, #efe4d4 100%);
+}
+main {
+  max-width: 1080px;
+  margin: 0 auto;
+  padding: 56px 24px 72px;
+}
+.hero {
+  padding: 28px 0 24px;
+}
+.kicker {
+  display: inline-block;
+  margin-bottom: 14px;
+  padding: 6px 10px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  color: var(--accent-2);
+  background: rgba(255,255,255,0.55);
+  font-size: 13px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+h1 {
+  margin: 0;
+  font-size: clamp(36px, 8vw, 72px);
+  line-height: 0.95;
+  letter-spacing: -0.04em;
+}
+.lead {
+  max-width: 760px;
+  margin: 18px 0 0;
+  color: var(--muted);
+  font-size: clamp(18px, 2.4vw, 24px);
+  line-height: 1.5;
+}
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 18px;
+  margin-top: 34px;
+}
+.card {
+  display: block;
+  min-height: 220px;
+  padding: 22px;
+  border: 1px solid var(--line);
+  border-radius: 24px;
+  background: var(--paper);
+  box-shadow: var(--shadow);
+  text-decoration: none;
+  color: inherit;
+  backdrop-filter: blur(10px);
+  transition: transform 180ms ease, box-shadow 180ms ease, border-color 180ms ease;
+}
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 28px 70px rgba(37, 29, 22, 0.18);
+  border-color: rgba(180,79,44,0.35);
+}
+.eyebrow {
+  display: inline-block;
+  color: var(--accent);
+  font-size: 12px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+.card h2 {
+  margin: 14px 0 12px;
+  font-size: 28px;
+  line-height: 1.02;
+}
+.card p {
+  margin: 0;
+  color: var(--muted);
+  line-height: 1.6;
+}
+.meta {
+  display: block;
+  margin-top: 18px;
+  color: var(--accent-2);
+  font-size: 14px;
+}
+.footer {
+  margin-top: 26px;
+  color: var(--muted);
+  font-size: 14px;
+}
+@media (max-width: 640px) {
+  main { padding: 28px 16px 40px; }
+  .card { min-height: unset; }
+}
+</style>
+</head>
+<body>
+<main>
+  <section class='hero'>
+    <span class='kicker'>GitHub Pages</span>
+    <h1>AnIncandescence Archive</h1>
+    <p class='lead'>导航页包含 5 个版本：原始时间正序、时间倒序、有图优先、正文长度排序、正文信息熵排序。所有页面内容保持不变，仅共享同一套图片资源以便稳定托管。</p>
+  </section>
+  <section class='grid'>
+    
+      <a class='card' href='anincandescence_archive.html'>
+        <span class='eyebrow'>AnIncandescence Archive</span>
+        <h2>时间正序</h2>
+        <p>原始归档顺序，最早到最新。</p>
+        <span class='meta'>anincandescence_archive.html · 2.2 MB</span>
+      </a>
+    
+      <a class='card' href='anincandescence_archive_time_desc.html'>
+        <span class='eyebrow'>AnIncandescence Archive</span>
+        <h2>时间倒序</h2>
+        <p>按时间从新到旧浏览。</p>
+        <span class='meta'>anincandescence_archive_time_desc.html · 2.2 MB</span>
+      </a>
+    
+      <a class='card' href='anincandescence_archive_media_first_time_desc.html'>
+        <span class='eyebrow'>AnIncandescence Archive</span>
+        <h2>有图优先 + 时间倒序</h2>
+        <p>优先显示带图推文，再按时间从新到旧。</p>
+        <span class='meta'>anincandescence_archive_media_first_time_desc.html · 2.2 MB</span>
+      </a>
+    
+      <a class='card' href='anincandescence_archive_text_length_desc.html'>
+        <span class='eyebrow'>AnIncandescence Archive</span>
+        <h2>正文长度倒序</h2>
+        <p>按正文可见文本长度从长到短。</p>
+        <span class='meta'>anincandescence_archive_text_length_desc.html · 2.2 MB</span>
+      </a>
+    
+      <a class='card' href='anincandescence_archive_text_entropy_desc.html'>
+        <span class='eyebrow'>AnIncandescence Archive</span>
+        <h2>正文信息熵倒序</h2>
+        <p>按正文字符信息熵从高到低。</p>
+        <span class='meta'>anincandescence_archive_text_entropy_desc.html · 2.2 MB</span>
+      </a>
+    
+  </section>
+  <p class='footer'>Published from a static offline archive. Shared image assets are stored once under <code>assets/</code>.</p>
+</main>
+</body>
+</html>
