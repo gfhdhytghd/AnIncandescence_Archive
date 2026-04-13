@@ -56,7 +56,6 @@ def transform_html(text: str, filename: str) -> str:
         "  <nav class='archive-nav'>\n"
         "    <div class='archive-nav-group'>\n"
         "      <a class='archive-home' href='index.html'>Back to navigation</a>\n"
-        "      <span class='archive-kicker'>Mobile-friendly archive with tap-to-zoom images</span>\n"
         "    </div>\n"
         "  </nav>\n"
     )
