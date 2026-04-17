@@ -14,3 +14,4 @@
 
 信息来自Web_Archive
 <br>网页 https://gfhdhytghd.github.io/AnIncandescence_Archive/
+<br>炽烈已极的最后一个账号：https://x.com/ASplendour15
