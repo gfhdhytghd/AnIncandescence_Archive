@@ -292,13 +292,379 @@
     "x_api_reply_chains": {
       "1956414246407045319": {
         "version": 1,
-        "fetched_at": "2026-04-18T04:12:57Z",
+        "fetched_at": "2026-04-18T06:18:21Z",
         "max_depth": 63,
-        "posts": [],
-        "terminal_error": {
-          "id": "1956414246407045319",
-          "message": "Wayback fallback did not find archived JSON for tweet id 1956414246407045319."
-        }
+        "posts": [
+          {
+            "id": "1956414246407045319",
+            "source": "x_api_oauth1",
+            "payload": {
+              "data": {
+                "lang": "qme",
+                "author_id": "1597257668313260033",
+                "possibly_sensitive": false,
+                "reply_settings": "everyone",
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 370
+                },
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 0,
+                      "end": 16,
+                      "username": "PaitangOfficial",
+                      "id": "1272405078683430913"
+                    },
+                    {
+                      "start": 17,
+                      "end": 33,
+                      "username": "AnIncandescence",
+                      "id": "1741993395910811648"
+                    }
+                  ]
+                },
+                "edit_history_tweet_ids": [
+                  "1956414246407045319"
+                ],
+                "id": "1956414246407045319",
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "1956414143768195258"
+                  }
+                ],
+                "conversation_id": "1956414143768195258",
+                "in_reply_to_user_id": "1272405078683430913",
+                "text": "@PaitangOfficial @AnIncandescence 😁",
+                "created_at": "2025-08-15T17:54:39.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2025-08-15T18:54:39.000Z"
+                }
+              },
+              "includes": {
+                "users": [
+                  {
+                    "protected": false,
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+                    "username": "Minokakay",
+                    "public_metrics": {
+                      "followers_count": 14164,
+                      "following_count": 1051,
+                      "tweet_count": 25885,
+                      "listed_count": 53,
+                      "like_count": 44029,
+                      "media_count": 1790
+                    },
+                    "name": "Minokakay",
+                    "entities": {
+                      "description": {
+                        "urls": [
+                          {
+                            "start": 54,
+                            "end": 77,
+                            "url": "https://t.co/hStQSlMtBp",
+                            "expanded_url": "http://linktr.ee/choseki111",
+                            "display_url": "linktr.ee/choseki111"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1597257668313260033",
+                    "verified": false,
+                    "location": "Tokyo",
+                    "created_at": "2022-11-28T15:54:46.000Z",
+                    "description": "发着光的半平米，胡乱哼唱的旋律，但是还想拯救你，同时拯救我自己。 \n成都大阪随机刷新✝️🍬找choseki见https://t.co/hStQSlMtBp"
+                  }
+                ]
+              },
+              "errors": [
+                {
+                  "parameter": "in_reply_to_user_id",
+                  "resource_id": "1272405078683430913",
+                  "value": "1272405078683430913",
+                  "detail": "User has been suspended: [1272405078683430913].",
+                  "title": "Forbidden",
+                  "resource_type": "user",
+                  "type": "https://api.twitter.com/2/problems/resource-not-found"
+                },
+                {
+                  "value": "1956414143768195258",
+                  "detail": "Could not find tweet with referenced_tweets.id: [1956414143768195258].",
+                  "title": "Not Found Error",
+                  "resource_type": "tweet",
+                  "parameter": "referenced_tweets.id",
+                  "resource_id": "1956414143768195258",
+                  "type": "https://api.twitter.com/2/problems/resource-not-found"
+                }
+              ]
+            }
+          },
+          {
+            "id": "1956414143768195258",
+            "source": "local_json",
+            "payload": {
+              "data": {
+                "article": {},
+                "attachments": {},
+                "author_id": "1741993395910811648",
+                "conversation_id": "1956414143768195258",
+                "created_at": "2025-08-15T18:14:14.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2025-08-15T19:14:14.000Z"
+                },
+                "edit_history_tweet_ids": [
+                  "1956419173934039474"
+                ],
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 0,
+                      "end": 16,
+                      "username": "PaitangOfficial",
+                      "id": "1272405078683430913"
+                    }
+                  ]
+                },
+                "geo": {},
+                "id": "1956419173934039474",
+                "in_reply_to_user_id": "1272405078683430913",
+                "lang": "zh",
+                "note_tweet": {
+                  "entities": {}
+                },
+                "possibly_sensitive": false,
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 0
+                },
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "1956414143768195258"
+                  }
+                ],
+                "reply_settings": "everyone",
+                "text": "@PaitangOfficial 挂二十分钟够了吧你怎么还没删😭😭"
+              },
+              "includes": {
+                "media": [
+                  {
+                    "height": 2048,
+                    "media_key": "3_1956414140391813120",
+                    "public_metrics": {},
+                    "type": "photo",
+                    "url": "https://pbs.twimg.com/media/GyaUS4-a8AAkEFa.jpg",
+                    "width": 1134
+                  }
+                ],
+                "users": [
+                  {
+                    "created_at": "2024-01-02T01:22:57.000Z",
+                    "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/MuEKSg4tIS",
+                            "expanded_url": "https://ngl.link/anincandescence",
+                            "display_url": "ngl.link/anincandescence"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1741993395910811648",
+                    "location": "天鹅座X-1",
+                    "name": "炽烈已极",
+                    "pinned_tweet_id": "1944465960406245490",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1947176726292725760/VAZ0WSeY_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 1126,
+                      "following_count": 201,
+                      "tweet_count": 3648,
+                      "listed_count": 2,
+                      "like_count": 9975,
+                      "media_count": 732
+                    },
+                    "url": "https://t.co/MuEKSg4tIS",
+                    "username": "AnIncandescence",
+                    "verified": false
+                  },
+                  {
+                    "created_at": "2020-06-15T05:46:41.000Z",
+                    "description": "Biohacker/认知提升剂 （nootropics）X/ADHD 专注商品/推特第二大促智商 “本研究化合物仅供实验室研究使用，严禁用于人体和动物” \n\n客服 @paipaipaitang tg客服 @paipaipaitang",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/r6ojtqNEYk",
+                            "expanded_url": "https://t.me/paitangcuzhi",
+                            "display_url": "t.me/paitangcuzhi"
+                          }
+                        ]
+                      },
+                      "description": {
+                        "mentions": [
+                          {
+                            "start": 82,
+                            "end": 96,
+                            "username": "paipaipaitang"
+                          },
+                          {
+                            "start": 102,
+                            "end": 116,
+                            "username": "paipaipaitang"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1272405078683430913",
+                    "location": "下ネタ〇 |病み垢|不登校|",
+                    "name": "☯️🧬無極 利他林和专注达",
+                    "pinned_tweet_id": "1955566211783389373",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1955346918139432960/NdXnRHYi_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 9285,
+                      "following_count": 506,
+                      "tweet_count": 12834,
+                      "listed_count": 25,
+                      "like_count": 7521,
+                      "media_count": 1537
+                    },
+                    "url": "https://t.co/r6ojtqNEYk",
+                    "username": "PaitangOfficial",
+                    "verified": false
+                  }
+                ],
+                "tweets": [
+                  {
+                    "article": {},
+                    "attachments": {},
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "1956414143768195258",
+                    "created_at": "2025-08-15T18:14:14.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2025-08-15T19:14:14.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "1956419173934039474"
+                    ],
+                    "entities": {
+                      "mentions": [
+                        {
+                          "start": 0,
+                          "end": 16,
+                          "username": "PaitangOfficial",
+                          "id": "1272405078683430913"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "1956419173934039474",
+                    "in_reply_to_user_id": "1272405078683430913",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 0,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 0
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "1956414143768195258"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "@PaitangOfficial 挂二十分钟够了吧你怎么还没删😭😭"
+                  },
+                  {
+                    "article": {},
+                    "attachments": {
+                      "media_keys": [
+                        "3_1956414140391813120"
+                      ]
+                    },
+                    "author_id": "1272405078683430913",
+                    "conversation_id": "1956414143768195258",
+                    "created_at": "2025-08-15T17:54:14.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": true,
+                      "editable_until": "2025-08-15T18:54:14.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "1956414143768195258"
+                    ],
+                    "entities": {
+                      "mentions": [
+                        {
+                          "start": 10,
+                          "end": 26,
+                          "username": "AnIncandescence",
+                          "id": "1741993395910811648"
+                        }
+                      ],
+                      "urls": [
+                        {
+                          "start": 27,
+                          "end": 50,
+                          "url": "https://t.co/XuNvIV44TF",
+                          "expanded_url": "https://x.com/PaitangOfficial/status/1956414143768195258/photo/1",
+                          "display_url": "pic.x.com/XuNvIV44TF",
+                          "media_key": "3_1956414140391813120"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "1956414143768195258",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 3,
+                      "like_count": 2,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 72
+                    },
+                    "reply_settings": "everyone",
+                    "text": "你这个小笨蛋！！！ @AnIncandescence https://t.co/XuNvIV44TF"
+                  }
+                ]
+              }
+            }
+          }
+        ]
       }
     }
   }

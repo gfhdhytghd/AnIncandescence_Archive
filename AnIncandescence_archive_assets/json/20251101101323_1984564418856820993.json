@@ -280,13 +280,178 @@
     "x_api_reply_chains": {
       "1984084016715452521": {
         "version": 1,
-        "fetched_at": "2026-04-18T04:14:42Z",
+        "fetched_at": "2026-04-18T06:18:24Z",
         "max_depth": 63,
-        "posts": [],
-        "terminal_error": {
-          "id": "1984084016715452521",
-          "message": "Wayback fallback did not find archived JSON for tweet id 1984084016715452521."
-        }
+        "posts": [
+          {
+            "id": "1984084016715452521",
+            "source": "x_api_oauth1",
+            "payload": {
+              "data": {
+                "possibly_sensitive": false,
+                "id": "1984084016715452521",
+                "conversation_id": "1984084016715452521",
+                "lang": "zh",
+                "text": "有的哦🥺(指液体鼻涕)\n鼻吸给药需要粉末在鼻涕中溶解，才能通过鼻黏膜吸收入血液，而且吸的时候鼻腔会自动分泌鼻涕。(直肠和阴道给药同理)\n然而问题就是鼻涕容易从鼻孔流出来。所以鼻吸药物时，注意粉末要深入鼻腔，吸管多伸进去一点，稍微用点力。但是不要太深，不然鼻涕直接滴进食管，就相当于口服了 https://t.co/BwjT2QEI3O",
+                "reply_settings": "everyone",
+                "referenced_tweets": [
+                  {
+                    "type": "quoted",
+                    "id": "1601612876807929857"
+                  }
+                ],
+                "edit_history_tweet_ids": [
+                  "1984084016715452521"
+                ],
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 18,
+                  "quote_count": 0,
+                  "bookmark_count": 3,
+                  "impression_count": 3573
+                },
+                "author_id": "1659962043460354050",
+                "entities": {
+                  "urls": [
+                    {
+                      "start": 144,
+                      "end": 167,
+                      "url": "https://t.co/BwjT2QEI3O",
+                      "expanded_url": "https://twitter.com/Spr1ngW1nd/status/1601612876807929857",
+                      "display_url": "x.com/Spr1ngW1nd/sta…"
+                    }
+                  ]
+                },
+                "created_at": "2025-10-31T02:24:26.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": true,
+                  "editable_until": "2025-10-31T03:24:26.000Z"
+                }
+              },
+              "includes": {
+                "users": [
+                  {
+                    "protected": false,
+                    "created_at": "2023-05-20T16:39:35.000Z",
+                    "url": "https://t.co/20q0OtAeQd",
+                    "verified": false,
+                    "name": "鼠尾草～🌿",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/20q0OtAeQd",
+                            "expanded_url": "https://freeodwiki.org",
+                            "display_url": "freeodwiki.org"
+                          }
+                        ]
+                      },
+                      "description": {
+                        "urls": [
+                          {
+                            "start": 92,
+                            "end": 115,
+                            "url": "https://t.co/ki2TerCl7C",
+                            "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                            "display_url": "github.com/SalviaSWC/Free…"
+                          }
+                        ],
+                        "mentions": [
+                          {
+                            "start": 54,
+                            "end": 65,
+                            "username": "DXM8964LXM"
+                          }
+                        ]
+                      }
+                    },
+                    "username": "SalviaSWC",
+                    "public_metrics": {
+                      "followers_count": 3804,
+                      "following_count": 981,
+                      "tweet_count": 6983,
+                      "listed_count": 8,
+                      "like_count": 22133,
+                      "media_count": 439
+                    },
+                    "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+                    "id": "1659962043460354050"
+                  },
+                  {
+                    "protected": false,
+                    "created_at": "2022-06-04T09:55:35.000Z",
+                    "verified": false,
+                    "name": "Spring风#参宿四",
+                    "entities": {
+                      "description": {
+                        "hashtags": [
+                          {
+                            "start": 29,
+                            "end": 46,
+                            "tag": "StandWithUkraine"
+                          }
+                        ],
+                        "mentions": [
+                          {
+                            "start": 13,
+                            "end": 27,
+                            "username": "Overdose_Wind"
+                          }
+                        ]
+                      }
+                    },
+                    "username": "Spr1ngW1nd",
+                    "location": "Japan",
+                    "public_metrics": {
+                      "followers_count": 6507,
+                      "following_count": 360,
+                      "tweet_count": 4951,
+                      "listed_count": 16,
+                      "like_count": 4420,
+                      "media_count": 450
+                    },
+                    "description": "药物滥用的内容相关会转发到@Overdose_Wind /#StandWithUkraine/",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1606726635713335296/TrmJq-XY_normal.jpg",
+                    "id": "1533024617811812352"
+                  }
+                ],
+                "tweets": [
+                  {
+                    "possibly_sensitive": false,
+                    "id": "1601612876807929857",
+                    "conversation_id": "1601612876807929857",
+                    "lang": "zh",
+                    "text": "想问问如果有鼻涕这种吸入粉进去还能到鼻腔黏膜吗",
+                    "reply_settings": "everyone",
+                    "edit_history_tweet_ids": [
+                      "1601612876807929857"
+                    ],
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 2,
+                      "like_count": 2,
+                      "quote_count": 1,
+                      "bookmark_count": 0,
+                      "impression_count": 0
+                    },
+                    "author_id": "1533024617811812352",
+                    "created_at": "2022-12-10T16:20:41.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": true,
+                      "editable_until": "2022-12-10T16:50:41.000Z"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        ]
       }
     }
   }

@@ -1,1 +1,246 @@
-{"data":{"article":{},"attachments":{"media_keys":["3_1820855446179020800"]},"author_id":"1741993395910811648","conversation_id":"1819503298237407669","created_at":"2024-08-06T16:12:24.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2024-08-06T17:12:24.000Z"},"edit_history_tweet_ids":["1820855452264960314"],"entities":{"urls":[{"start":6,"end":29,"url":"https://t.co/OGKW5ngXpU","expanded_url":"https://twitter.com/AnIncandescence/status/1820855452264960314/photo/1","display_url":"pic.twitter.com/OGKW5ngXpU","media_key":"3_1820855446179020800"}]},"geo":{},"id":"1820855452264960314","in_reply_to_user_id":"1741993395910811648","lang":"ja","possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1819503298237407669"}],"reply_settings":"everyone","text":"河流... https://t.co/OGKW5ngXpU"},"includes":{"media":[{"height":3333,"media_key":"3_1820855446179020800","public_metrics":{},"type":"photo","url":"https://pbs.twimg.com/media/GUT6YYjWAAAzucC.jpg","width":2500}],"users":[{"created_at":"2024-01-02T01:22:57.000Z","description":"互fo欢迎！ 猫，诗歌，精神动力学。艺术，C#，波粒二象性。回归曲线上的量子生物，无攻击性。提问箱👇","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/MuEKSg3VTk","expanded_url":"https://ngl.link/anincandescence","display_url":"ngl.link/anincandescence"}]}},"id":"1741993395910811648","location":"0°00′N 260°00′E Mars","name":"炽烈已极","pinned_tweet_id":"1820433583070142491","profile_image_url":"https://pbs.twimg.com/profile_images/1789433740277567488/d3KhwUX1_normal.jpg","protected":false,"public_metrics":{"followers_count":199,"following_count":134,"tweet_count":936,"listed_count":0,"like_count":3071},"url":"https://t.co/MuEKSg3VTk","username":"AnIncandescence","verified":false}],"tweets":[{"article":{},"attachments":{"media_keys":["3_1820855446179020800"]},"author_id":"1741993395910811648","conversation_id":"1819503298237407669","created_at":"2024-08-06T16:12:24.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2024-08-06T17:12:24.000Z"},"edit_history_tweet_ids":["1820855452264960314"],"entities":{"urls":[{"start":6,"end":29,"url":"https://t.co/OGKW5ngXpU","expanded_url":"https://twitter.com/AnIncandescence/status/1820855452264960314/photo/1","display_url":"pic.twitter.com/OGKW5ngXpU","media_key":"3_1820855446179020800"}]},"geo":{},"id":"1820855452264960314","in_reply_to_user_id":"1741993395910811648","lang":"ja","possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1819503298237407669"}],"reply_settings":"everyone","text":"河流... https://t.co/OGKW5ngXpU"},{"article":{},"attachments":{"media_keys":["3_1819503290771501056","3_1819503290742091776","7_1819503290771533824"]},"author_id":"1741993395910811648","context_annotations":[{"domain":{"id":"46","name":"Business Taxonomy","description":"Categories within Brand Verticals that narrow down the scope of Brands"},"entity":{"id":"1557696888568045569","name":"Food & Beverage Business","description":"Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers."}}],"conversation_id":"1819503298237407669","created_at":"2024-08-02T22:39:25.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2024-08-02T23:39:25.000Z"},"edit_history_tweet_ids":["1819503298237407669"],"entities":{"urls":[{"start":18,"end":41,"url":"https://t.co/raFcXFyUVW","expanded_url":"https://twitter.com/AnIncandescence/status/1819503298237407669/video/1","display_url":"pic.twitter.com/raFcXFyUVW","media_key":"3_1819503290771501056"},{"start":18,"end":41,"url":"https://t.co/raFcXFyUVW","expanded_url":"https://twitter.com/AnIncandescence/status/1819503298237407669/video/1","display_url":"pic.twitter.com/raFcXFyUVW","media_key":"3_1819503290742091776"},{"start":18,"end":41,"url":"https://t.co/raFcXFyUVW","expanded_url":"https://twitter.com/AnIncandescence/status/1819503298237407669/video/1","display_url":"pic.twitter.com/raFcXFyUVW","media_key":"7_1819503290771533824"}]},"geo":{},"id":"1819503298237407669","lang":"zh","possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":6,"like_count":18,"quote_count":0,"bookmark_count":2,"impression_count":553},"reply_settings":"everyone","text":"加了抗凝剂，可以用来写写画画吗☺️ https://t.co/raFcXFyUVW"}]}}
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1820855446179020800"
+      ]
+    },
+    "author_id": "1741993395910811648",
+    "conversation_id": "1819503298237407669",
+    "created_at": "2024-08-06T16:12:24.000Z",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-08-06T17:12:24.000Z"
+    },
+    "edit_history_tweet_ids": [
+      "1820855452264960314"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "start": 6,
+          "end": 29,
+          "url": "https://t.co/OGKW5ngXpU",
+          "expanded_url": "https://twitter.com/AnIncandescence/status/1820855452264960314/photo/1",
+          "display_url": "pic.twitter.com/OGKW5ngXpU",
+          "media_key": "3_1820855446179020800"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1820855452264960314",
+    "in_reply_to_user_id": "1741993395910811648",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1819503298237407669"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "河流... https://t.co/OGKW5ngXpU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3333,
+        "media_key": "3_1820855446179020800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GUT6YYjWAAAzucC.jpg",
+        "width": 2500
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "互fo欢迎！ 猫，诗歌，精神动力学。艺术，C#，波粒二象性。回归曲线上的量子生物，无攻击性。提问箱👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/MuEKSg3VTk",
+                "expanded_url": "https://ngl.link/anincandescence",
+                "display_url": "ngl.link/anincandescence"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "0°00′N 260°00′E Mars",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "1820433583070142491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789433740277567488/d3KhwUX1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 134,
+          "tweet_count": 936,
+          "listed_count": 0,
+          "like_count": 3071
+        },
+        "url": "https://t.co/MuEKSg3VTk",
+        "username": "AnIncandescence",
+        "verified": false
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1820855446179020800"
+          ]
+        },
+        "author_id": "1741993395910811648",
+        "conversation_id": "1819503298237407669",
+        "created_at": "2024-08-06T16:12:24.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2024-08-06T17:12:24.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1820855452264960314"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "start": 6,
+              "end": 29,
+              "url": "https://t.co/OGKW5ngXpU",
+              "expanded_url": "https://twitter.com/AnIncandescence/status/1820855452264960314/photo/1",
+              "display_url": "pic.twitter.com/OGKW5ngXpU",
+              "media_key": "3_1820855446179020800"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820855452264960314",
+        "in_reply_to_user_id": "1741993395910811648",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1819503298237407669"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "河流... https://t.co/OGKW5ngXpU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1819503290771501056",
+            "3_1819503290742091776",
+            "7_1819503290771533824"
+          ]
+        },
+        "author_id": "1741993395910811648",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "46",
+              "name": "Business Taxonomy",
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+            },
+            "entity": {
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business",
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers."
+            }
+          }
+        ],
+        "conversation_id": "1819503298237407669",
+        "created_at": "2024-08-02T22:39:25.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2024-08-02T23:39:25.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1819503298237407669"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "start": 18,
+              "end": 41,
+              "url": "https://t.co/raFcXFyUVW",
+              "expanded_url": "https://twitter.com/AnIncandescence/status/1819503298237407669/video/1",
+              "display_url": "pic.twitter.com/raFcXFyUVW",
+              "media_key": "3_1819503290771501056"
+            },
+            {
+              "start": 18,
+              "end": 41,
+              "url": "https://t.co/raFcXFyUVW",
+              "expanded_url": "https://twitter.com/AnIncandescence/status/1819503298237407669/video/1",
+              "display_url": "pic.twitter.com/raFcXFyUVW",
+              "media_key": "3_1819503290742091776"
+            },
+            {
+              "start": 18,
+              "end": 41,
+              "url": "https://t.co/raFcXFyUVW",
+              "expanded_url": "https://twitter.com/AnIncandescence/status/1819503298237407669/video/1",
+              "display_url": "pic.twitter.com/raFcXFyUVW",
+              "media_key": "7_1819503290771533824"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819503298237407669",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 6,
+          "like_count": 18,
+          "quote_count": 0,
+          "bookmark_count": 2,
+          "impression_count": 553
+        },
+        "reply_settings": "everyone",
+        "text": "加了抗凝剂，可以用来写写画画吗☺️ https://t.co/raFcXFyUVW"
+      }
+    ]
+  },
+  "_pale_fire": {
+    "x_api_reply_chains": {
+      "1819503298237407669": {
+        "version": 1,
+        "fetched_at": "2026-04-18T07:05:48Z",
+        "max_depth": 1,
+        "posts": [],
+        "terminal_error": {
+          "id": "1819503298237407669",
+          "message": "./.env: Sorry, you are not authorized to see the Tweet with id: [1819503298237407669]. ./env.pale-fire: Sorry, you are not authorized to see the Tweet with id: [1819503298237407669]. Wayback fallback: Wayback fallback did not find archived JSON for tweet id 1819503298237407669."
+        }
+      }
+    }
+  }
+}

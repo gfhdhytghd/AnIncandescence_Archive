@@ -261,13 +261,405 @@
     "x_api_reply_chains": {
       "2025960710904189103": {
         "version": 1,
-        "fetched_at": "2026-04-18T02:41:40Z",
+        "fetched_at": "2026-04-18T07:07:40Z",
         "max_depth": 63,
-        "posts": [],
-        "terminal_error": {
-          "id": "2025960710904189103",
-          "message": "Sorry, you are not authorized to see the Tweet with id: [2025960710904189103]. Wayback fallback: Wayback fallback did not find archived JSON for tweet id 2025960710904189103."
-        }
+        "posts": [
+          {
+            "id": "2025960710904189103",
+            "source": "x_api_oauth1:./env.pale-fire",
+            "payload": {
+              "data": {
+                "in_reply_to_user_id": "1965393379224944645",
+                "lang": "zh",
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "2025959936249754095"
+                  }
+                ],
+                "author_id": "1808933044545630208",
+                "conversation_id": "2025958564817195463",
+                "reply_settings": "everyone",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2026-02-23T16:47:28.000Z"
+                },
+                "id": "2025960710904189103",
+                "possibly_sensitive": false,
+                "edit_history_tweet_ids": [
+                  "2025960710904189103"
+                ],
+                "created_at": "2026-02-23T15:47:28.000Z",
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 0,
+                      "end": 12,
+                      "username": "hagishigure",
+                      "id": "1965393379224944645"
+                    }
+                  ]
+                },
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 45
+                },
+                "text": "@hagishigure 好好听…老师你什么时候出道"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "name": "Pale Fire",
+                    "id": "1808933044545630208",
+                    "verified": false,
+                    "location": "0°00′N 260°00′E Mars",
+                    "description": "穿越语言的壳，任思维溢出容器——请听，离群者无法永恒的悲歌。炽在水洼中的倒影，因为星光获得了生命 /Per aspera ad astra.",
+                    "protected": true,
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1853163363142115328/S5o_Yawf_normal.jpg",
+                    "username": "TauCeti_10700",
+                    "created_at": "2024-07-04T18:37:10.000Z",
+                    "public_metrics": {
+                      "followers_count": 133,
+                      "following_count": 67,
+                      "tweet_count": 578,
+                      "listed_count": 1,
+                      "like_count": 702,
+                      "media_count": 148
+                    }
+                  },
+                  {
+                    "name": "時璃風医詩🌈🏳️‍🌈",
+                    "entities": {
+                      "description": {
+                        "mentions": [
+                          {
+                            "start": 121,
+                            "end": 134,
+                            "username": "amber_toffee"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1965393379224944645",
+                    "verified": false,
+                    "location": "Wan Chai District, Hong Kong",
+                    "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——嫌疑人X|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|好看的@amber_toffee |現涉及10个專業|治愈的资格將由痛苦计量。",
+                    "protected": false,
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+                    "username": "hagishigure",
+                    "created_at": "2025-09-09T12:34:37.000Z",
+                    "public_metrics": {
+                      "followers_count": 742,
+                      "following_count": 147,
+                      "tweet_count": 6473,
+                      "listed_count": 2,
+                      "like_count": 27193,
+                      "media_count": 730
+                    }
+                  }
+                ],
+                "tweets": [
+                  {
+                    "in_reply_to_user_id": "1808933044545630208",
+                    "lang": "zh",
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "2025958564817195463"
+                      }
+                    ],
+                    "author_id": "1965393379224944645",
+                    "conversation_id": "2025958564817195463",
+                    "reply_settings": "everyone",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2026-02-23T16:44:23.000Z"
+                    },
+                    "id": "2025959936249754095",
+                    "possibly_sensitive": false,
+                    "edit_history_tweet_ids": [
+                      "2025959936249754095"
+                    ],
+                    "created_at": "2026-02-23T15:44:23.000Z",
+                    "entities": {
+                      "mentions": [
+                        {
+                          "start": 0,
+                          "end": 14,
+                          "username": "TauCeti_10700",
+                          "id": "1808933044545630208"
+                        }
+                      ],
+                      "urls": [
+                        {
+                          "start": 47,
+                          "end": 70,
+                          "url": "https://t.co/8oVqLE0KED",
+                          "expanded_url": "https://x.com/hagishigure/status/2025959936249754095/video/1",
+                          "display_url": "pic.x.com/8oVqLE0KED",
+                          "media_key": "7_2025959867815485440"
+                        }
+                      ]
+                    },
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 2,
+                      "like_count": 3,
+                      "quote_count": 0,
+                      "bookmark_count": 1,
+                      "impression_count": 187
+                    },
+                    "attachments": {
+                      "media_keys": [
+                        "7_2025959867815485440"
+                      ]
+                    },
+                    "text": "@TauCeti_10700 给你听这个。姬金鱼草盛放。网易云偶然刷到的，觉得很温柔就唱了。 https://t.co/8oVqLE0KED"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "2025959936249754095",
+            "source": "x_api_oauth1:./env.pale-fire",
+            "payload": {
+              "data": {
+                "attachments": {
+                  "media_keys": [
+                    "7_2025959867815485440"
+                  ]
+                },
+                "reply_settings": "everyone",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2026-02-23T16:44:23.000Z"
+                },
+                "lang": "zh",
+                "possibly_sensitive": false,
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "2025958564817195463"
+                  }
+                ],
+                "text": "@TauCeti_10700 给你听这个。姬金鱼草盛放。网易云偶然刷到的，觉得很温柔就唱了。 https://t.co/8oVqLE0KED",
+                "created_at": "2026-02-23T15:44:23.000Z",
+                "id": "2025959936249754095",
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 0,
+                      "end": 14,
+                      "username": "TauCeti_10700",
+                      "id": "1808933044545630208"
+                    }
+                  ],
+                  "urls": [
+                    {
+                      "start": 47,
+                      "end": 70,
+                      "url": "https://t.co/8oVqLE0KED",
+                      "expanded_url": "https://x.com/hagishigure/status/2025959936249754095/video/1",
+                      "display_url": "pic.x.com/8oVqLE0KED",
+                      "media_key": "7_2025959867815485440"
+                    }
+                  ]
+                },
+                "conversation_id": "2025958564817195463",
+                "edit_history_tweet_ids": [
+                  "2025959936249754095"
+                ],
+                "author_id": "1965393379224944645",
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 3,
+                  "quote_count": 0,
+                  "bookmark_count": 1,
+                  "impression_count": 187
+                },
+                "in_reply_to_user_id": "1808933044545630208"
+              },
+              "includes": {
+                "media": [
+                  {
+                    "variants": [
+                      {
+                        "bit_rate": 632000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/2025959867815485440/pu/vid/avc1/320x690/2cOjRUN3o_6lmF90.mp4?tag=12"
+                      },
+                      {
+                        "bit_rate": 950000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/2025959867815485440/pu/vid/avc1/480x1036/xU4j-8Ojr-r0O5fr.mp4?tag=12"
+                      },
+                      {
+                        "bit_rate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/2025959867815485440/pu/vid/avc1/592x1280/HHXOryE0fB8vgdbX.mp4?tag=12"
+                      },
+                      {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/2025959867815485440/pu/pl/G3vbgJs6PHNlitCQ.m3u8?tag=12"
+                      }
+                    ],
+                    "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2025959867815485440/pu/img/Ulzd1EDMf42XuTu-.jpg",
+                    "height": 1280,
+                    "public_metrics": {
+                      "view_count": 47
+                    },
+                    "type": "video",
+                    "width": 592,
+                    "media_key": "7_2025959867815485440"
+                  }
+                ],
+                "users": [
+                  {
+                    "entities": {
+                      "description": {
+                        "mentions": [
+                          {
+                            "start": 121,
+                            "end": 134,
+                            "username": "amber_toffee"
+                          }
+                        ]
+                      }
+                    },
+                    "verified": false,
+                    "protected": false,
+                    "id": "1965393379224944645",
+                    "username": "hagishigure",
+                    "location": "Wan Chai District, Hong Kong",
+                    "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——嫌疑人X|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|好看的@amber_toffee |現涉及10个專業|治愈的资格將由痛苦计量。",
+                    "public_metrics": {
+                      "followers_count": 742,
+                      "following_count": 147,
+                      "tweet_count": 6473,
+                      "listed_count": 2,
+                      "like_count": 27194,
+                      "media_count": 730
+                    },
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+                    "name": "時璃風医詩🌈🏳️‍🌈",
+                    "created_at": "2025-09-09T12:34:37.000Z"
+                  },
+                  {
+                    "verified": false,
+                    "protected": true,
+                    "id": "1808933044545630208",
+                    "username": "TauCeti_10700",
+                    "location": "0°00′N 260°00′E Mars",
+                    "description": "穿越语言的壳，任思维溢出容器——请听，离群者无法永恒的悲歌。炽在水洼中的倒影，因为星光获得了生命 /Per aspera ad astra.",
+                    "public_metrics": {
+                      "followers_count": 133,
+                      "following_count": 67,
+                      "tweet_count": 578,
+                      "listed_count": 1,
+                      "like_count": 702,
+                      "media_count": 148
+                    },
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1853163363142115328/S5o_Yawf_normal.jpg",
+                    "name": "Pale Fire",
+                    "created_at": "2024-07-04T18:37:10.000Z"
+                  }
+                ],
+                "tweets": [
+                  {
+                    "reply_settings": "everyone",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": true,
+                      "editable_until": "2026-02-23T16:38:56.000Z"
+                    },
+                    "lang": "zh",
+                    "possibly_sensitive": false,
+                    "text": "寒假是不是快要结束了…为什么不来见我也不让我去找你TT明明我努力活下来了我好想你…（高中同桌）\n呜呜我好想你我好想你我好想你我好想你我在米兰的岔路口的时候有一部分原因就是想着要见你才坚持下来的然后一直等一直等等你回来……犯病中（抱头）啊啊",
+                    "created_at": "2026-02-23T15:38:56.000Z",
+                    "id": "2025958564817195463",
+                    "conversation_id": "2025958564817195463",
+                    "edit_history_tweet_ids": [
+                      "2025958564817195463"
+                    ],
+                    "author_id": "1808933044545630208",
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 1,
+                      "like_count": 13,
+                      "quote_count": 1,
+                      "bookmark_count": 0,
+                      "impression_count": 410
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "2025958564817195463",
+            "source": "x_api_oauth1:./env.pale-fire",
+            "payload": {
+              "data": {
+                "author_id": "1808933044545630208",
+                "text": "寒假是不是快要结束了…为什么不来见我也不让我去找你TT明明我努力活下来了我好想你…（高中同桌）\n呜呜我好想你我好想你我好想你我好想你我在米兰的岔路口的时候有一部分原因就是想着要见你才坚持下来的然后一直等一直等等你回来……犯病中（抱头）啊啊",
+                "id": "2025958564817195463",
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 13,
+                  "quote_count": 1,
+                  "bookmark_count": 0,
+                  "impression_count": 410
+                },
+                "edit_history_tweet_ids": [
+                  "2025958564817195463"
+                ],
+                "lang": "zh",
+                "reply_settings": "everyone",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": true,
+                  "editable_until": "2026-02-23T16:38:56.000Z"
+                },
+                "conversation_id": "2025958564817195463",
+                "possibly_sensitive": false,
+                "created_at": "2026-02-23T15:38:56.000Z"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "protected": true,
+                    "id": "1808933044545630208",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1853163363142115328/S5o_Yawf_normal.jpg",
+                    "created_at": "2024-07-04T18:37:10.000Z",
+                    "verified": false,
+                    "name": "Pale Fire",
+                    "location": "0°00′N 260°00′E Mars",
+                    "public_metrics": {
+                      "followers_count": 133,
+                      "following_count": 67,
+                      "tweet_count": 578,
+                      "listed_count": 1,
+                      "like_count": 702,
+                      "media_count": 148
+                    },
+                    "description": "穿越语言的壳，任思维溢出容器——请听，离群者无法永恒的悲歌。炽在水洼中的倒影，因为星光获得了生命 /Per aspera ad astra.",
+                    "username": "TauCeti_10700"
+                  }
+                ]
+              }
+            }
+          }
+        ]
       }
     }
   }

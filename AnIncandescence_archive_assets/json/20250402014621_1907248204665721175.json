@@ -331,7 +331,7 @@
     "x_api_reply_chains": {
       "1907233363708289268": {
         "version": 1,
-        "fetched_at": "2026-04-18T00:08:52Z",
+        "fetched_at": "2026-04-18T07:07:07Z",
         "max_depth": 63,
         "posts": [
           {
@@ -664,12 +664,12 @@
                 "x_api_reply_chains": {
                   "1906056328793202821": {
                     "version": 1,
-                    "fetched_at": "2026-04-17T23:18:46Z",
-                    "max_depth": 7,
+                    "fetched_at": "2026-04-18T06:54:42Z",
+                    "max_depth": 63,
                     "posts": [],
                     "terminal_error": {
                       "id": "1906056328793202821",
-                      "message": "X API returned HTTP 429."
+                      "message": "Could not find tweet with id: [1906056328793202821]. Wayback fallback: Wayback fallback did not find archived JSON for tweet id 1906056328793202821."
                     }
                   }
                 }
@@ -1006,19 +1006,23 @@
                 "x_api_reply_chains": {
                   "1906056328793202821": {
                     "version": 1,
-                    "fetched_at": "2026-04-17T23:18:46Z",
-                    "max_depth": 7,
+                    "fetched_at": "2026-04-18T06:54:42Z",
+                    "max_depth": 63,
                     "posts": [],
                     "terminal_error": {
                       "id": "1906056328793202821",
-                      "message": "X API returned HTTP 429."
+                      "message": "Could not find tweet with id: [1906056328793202821]. Wayback fallback: Wayback fallback did not find archived JSON for tweet id 1906056328793202821."
                     }
                   }
                 }
               }
             }
           }
-        ]
+        ],
+        "terminal_error": {
+          "id": "1906056328793202821",
+          "message": "./.env: Could not find tweet with id: [1906056328793202821]. ./env.pale-fire: Could not find tweet with id: [1906056328793202821]. Wayback fallback: Wayback fallback did not find archived JSON for tweet id 1906056328793202821."
+        }
       }
     }
   }

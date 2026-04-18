@@ -263,13 +263,241 @@
     "x_api_reply_chains": {
       "1953425963494351223": {
         "version": 1,
-        "fetched_at": "2026-04-18T04:12:25Z",
+        "fetched_at": "2026-04-18T06:18:21Z",
         "max_depth": 63,
-        "posts": [],
-        "terminal_error": {
-          "id": "1953425963494351223",
-          "message": "Wayback fallback did not find archived JSON for tweet id 1953425963494351223."
-        }
+        "posts": [
+          {
+            "id": "1953425963494351223",
+            "source": "x_api_oauth1",
+            "payload": {
+              "data": {
+                "text": "@Minokakay 效果最好的抗抑郁药，我认为是莫达非尼。\n不知道你吃过吗？",
+                "lang": "zh",
+                "possibly_sensitive": false,
+                "id": "1953425963494351223",
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 5,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 1077
+                },
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2025-08-07T13:00:17.000Z"
+                },
+                "author_id": "1186651487155322880",
+                "edit_history_tweet_ids": [
+                  "1953425963494351223"
+                ],
+                "created_at": "2025-08-07T12:00:17.000Z",
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 0,
+                      "end": 10,
+                      "username": "Minokakay",
+                      "id": "1597257668313260033"
+                    }
+                  ]
+                },
+                "reply_settings": "everyone",
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "1953199806253597172"
+                  }
+                ],
+                "in_reply_to_user_id": "1597257668313260033",
+                "conversation_id": "1953199806253597172"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "id": "1186651487155322880",
+                    "name": "Ronald Simmons🇺🇸🦅✝️",
+                    "verified": false,
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1343476573706485760/y4nITVko_normal.jpg",
+                    "description": "American, Christian, patriot(Republican), journalist, Julian Assange supporter.\nGod bless America!\n🇺🇸🤝🇮🇱\n#MadeInUSA\n#1A\n#2A\n#FollowBack 100%\n#IFBAP",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 64131,
+                      "following_count": 56855,
+                      "tweet_count": 169130,
+                      "listed_count": 112,
+                      "like_count": 224706,
+                      "media_count": 25430
+                    },
+                    "entities": {
+                      "description": {
+                        "hashtags": [
+                          {
+                            "start": 105,
+                            "end": 115,
+                            "tag": "MadeInUSA"
+                          },
+                          {
+                            "start": 116,
+                            "end": 119,
+                            "tag": "1A"
+                          },
+                          {
+                            "start": 120,
+                            "end": 123,
+                            "tag": "2A"
+                          },
+                          {
+                            "start": 124,
+                            "end": 135,
+                            "tag": "FollowBack"
+                          },
+                          {
+                            "start": 141,
+                            "end": 147,
+                            "tag": "IFBAP"
+                          }
+                        ]
+                      }
+                    },
+                    "username": "RonaldSimmonsUS",
+                    "created_at": "2019-10-22T14:32:26.000Z",
+                    "location": "Washington, DC"
+                  },
+                  {
+                    "id": "1597257668313260033",
+                    "name": "Minokakay",
+                    "verified": false,
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+                    "description": "发着光的半平米，胡乱哼唱的旋律，但是还想拯救你，同时拯救我自己。 \n成都大阪随机刷新✝️🍬找choseki见https://t.co/hStQSlMtBp",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 14164,
+                      "following_count": 1051,
+                      "tweet_count": 25885,
+                      "listed_count": 53,
+                      "like_count": 44029,
+                      "media_count": 1790
+                    },
+                    "entities": {
+                      "description": {
+                        "urls": [
+                          {
+                            "start": 54,
+                            "end": 77,
+                            "url": "https://t.co/hStQSlMtBp",
+                            "expanded_url": "http://linktr.ee/choseki111",
+                            "display_url": "linktr.ee/choseki111"
+                          }
+                        ]
+                      }
+                    },
+                    "username": "Minokakay",
+                    "created_at": "2022-11-28T15:54:46.000Z",
+                    "location": "Tokyo"
+                  }
+                ],
+                "tweets": [
+                  {
+                    "text": "2021年，我吃下了人生中的第一款SSRI。\n到2025年，我已经吃过了市面上几乎所有能买到的抗抑郁药。\n我大概是我的精神科医生见过最难治的患者，从第一次就诊我问她氟西汀和帕罗西汀能不能一起吃这蠢问题，到我现在可以和任何一个精神科医生站在平等角度来讨论药物方案，只花了一年，我人生中最宝贵的17岁",
+                    "lang": "zh",
+                    "possibly_sensitive": false,
+                    "id": "1953199806253597172",
+                    "public_metrics": {
+                      "retweet_count": 1,
+                      "reply_count": 1,
+                      "like_count": 34,
+                      "quote_count": 1,
+                      "bookmark_count": 4,
+                      "impression_count": 5671
+                    },
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": true,
+                      "editable_until": "2025-08-06T22:01:37.000Z"
+                    },
+                    "author_id": "1597257668313260033",
+                    "edit_history_tweet_ids": [
+                      "1953199806253597172"
+                    ],
+                    "created_at": "2025-08-06T21:01:37.000Z",
+                    "reply_settings": "everyone",
+                    "conversation_id": "1953199806253597172"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "1953199806253597172",
+            "source": "x_api_oauth1",
+            "payload": {
+              "data": {
+                "author_id": "1597257668313260033",
+                "possibly_sensitive": false,
+                "lang": "zh",
+                "created_at": "2025-08-06T21:01:37.000Z",
+                "edit_history_tweet_ids": [
+                  "1953199806253597172"
+                ],
+                "id": "1953199806253597172",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": true,
+                  "editable_until": "2025-08-06T22:01:37.000Z"
+                },
+                "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 1,
+                  "like_count": 34,
+                  "quote_count": 1,
+                  "bookmark_count": 4,
+                  "impression_count": 5671
+                },
+                "reply_settings": "everyone",
+                "conversation_id": "1953199806253597172",
+                "text": "2021年，我吃下了人生中的第一款SSRI。\n到2025年，我已经吃过了市面上几乎所有能买到的抗抑郁药。\n我大概是我的精神科医生见过最难治的患者，从第一次就诊我问她氟西汀和帕罗西汀能不能一起吃这蠢问题，到我现在可以和任何一个精神科医生站在平等角度来讨论药物方案，只花了一年，我人生中最宝贵的17岁"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "name": "Minokakay",
+                    "entities": {
+                      "description": {
+                        "urls": [
+                          {
+                            "start": 54,
+                            "end": 77,
+                            "url": "https://t.co/hStQSlMtBp",
+                            "expanded_url": "http://linktr.ee/choseki111",
+                            "display_url": "linktr.ee/choseki111"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1597257668313260033",
+                    "username": "Minokakay",
+                    "verified": false,
+                    "protected": false,
+                    "created_at": "2022-11-28T15:54:46.000Z",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+                    "description": "发着光的半平米，胡乱哼唱的旋律，但是还想拯救你，同时拯救我自己。 \n成都大阪随机刷新✝️🍬找choseki见https://t.co/hStQSlMtBp",
+                    "public_metrics": {
+                      "followers_count": 14164,
+                      "following_count": 1051,
+                      "tweet_count": 25885,
+                      "listed_count": 53,
+                      "like_count": 44029,
+                      "media_count": 1790
+                    },
+                    "location": "Tokyo"
+                  }
+                ]
+              }
+            }
+          }
+        ]
       }
     }
   }

@@ -224,12 +224,105 @@
     "x_api_reply_chains": {
       "1953974256712499561": {
         "version": 1,
-        "fetched_at": "2026-04-18T04:12:37Z",
+        "fetched_at": "2026-04-18T07:07:17Z",
         "max_depth": 63,
-        "posts": [],
+        "posts": [
+          {
+            "id": "1953974256712499561",
+            "source": "x_api_oauth1:./.env",
+            "payload": {
+              "data": {
+                "created_at": "2025-08-09T00:19:00.000Z",
+                "edit_history_tweet_ids": [
+                  "1953974256712499561"
+                ],
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "1953797506984226993"
+                  }
+                ],
+                "reply_settings": "everyone",
+                "id": "1953974256712499561",
+                "author_id": "1456231777224347651",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2025-08-09T01:19:00.000Z"
+                },
+                "lang": "zh",
+                "conversation_id": "1953797506984226993",
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 73
+                },
+                "in_reply_to_user_id": "1272405078683430913",
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 0,
+                      "end": 16,
+                      "username": "PaitangOfficial",
+                      "id": "1272405078683430913"
+                    }
+                  ]
+                },
+                "text": "@PaitangOfficial 他们都是馋你身子",
+                "possibly_sensitive": false
+              },
+              "includes": {
+                "users": [
+                  {
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1932707072468217856/Yd5nKEM7_normal.jpg",
+                    "public_metrics": {
+                      "followers_count": 305,
+                      "following_count": 75,
+                      "tweet_count": 10910,
+                      "listed_count": 0,
+                      "like_count": 4074,
+                      "media_count": 778
+                    },
+                    "description": "江湖有缘再见",
+                    "username": "dDguwkiRkZcCSrt",
+                    "name": "无名",
+                    "verified": false,
+                    "id": "1456231777224347651",
+                    "protected": true,
+                    "created_at": "2021-11-04T12:08:26.000Z"
+                  }
+                ]
+              },
+              "errors": [
+                {
+                  "parameter": "in_reply_to_user_id",
+                  "resource_id": "1272405078683430913",
+                  "value": "1272405078683430913",
+                  "detail": "User has been suspended: [1272405078683430913].",
+                  "title": "Forbidden",
+                  "resource_type": "user",
+                  "type": "https://api.twitter.com/2/problems/resource-not-found"
+                },
+                {
+                  "resource_id": "1953797506984226993",
+                  "parameter": "referenced_tweets.id",
+                  "resource_type": "tweet",
+                  "section": "includes",
+                  "title": "Authorization Error",
+                  "value": "1953797506984226993",
+                  "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1953797506984226993].",
+                  "type": "https://api.twitter.com/2/problems/not-authorized-for-resource"
+                }
+              ]
+            }
+          }
+        ],
         "terminal_error": {
-          "id": "1953974256712499561",
-          "message": "Wayback fallback did not find archived JSON for tweet id 1953974256712499561."
+          "id": "1953797506984226993",
+          "message": "./.env: Sorry, you are not authorized to see the Tweet with id: [1953797506984226993]. ./env.pale-fire: Sorry, you are not authorized to see the Tweet with id: [1953797506984226993]. Wayback fallback: Wayback fallback did not find archived JSON for tweet id 1953797506984226993."
         }
       }
     }

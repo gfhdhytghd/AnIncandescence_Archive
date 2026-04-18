@@ -313,7 +313,7 @@
     "x_api_reply_chains": {
       "2020516967661084908": {
         "version": 1,
-        "fetched_at": "2026-04-18T01:28:20Z",
+        "fetched_at": "2026-04-18T07:08:46Z",
         "max_depth": 63,
         "posts": [
           {
@@ -634,19 +634,210 @@
                 "x_api_reply_chains": {
                   "2020516490160513355": {
                     "version": 1,
-                    "fetched_at": "2026-04-17T23:23:48Z",
-                    "max_depth": 7,
-                    "posts": [],
+                    "fetched_at": "2026-04-18T06:56:22Z",
+                    "max_depth": 63,
+                    "posts": [
+                      {
+                        "id": "2020516490160513355",
+                        "source": "x_api_oauth1:./.env",
+                        "payload": {
+                          "data": {
+                            "conversation_id": "2020467252991070547",
+                            "edit_history_tweet_ids": [
+                              "2020516490160513355"
+                            ],
+                            "id": "2020516490160513355",
+                            "referenced_tweets": [
+                              {
+                                "type": "replied_to",
+                                "id": "2020515891021013237"
+                              }
+                            ],
+                            "text": "@AnIncandescence ……天哪我也这样。我和我nt朋友聊天然后对面说我说话太多信息太碎像刷了10h抖音听力竭了突然感觉到压力了",
+                            "lang": "zh",
+                            "entities": {
+                              "mentions": [
+                                {
+                                  "start": 0,
+                                  "end": 16,
+                                  "username": "AnIncandescence",
+                                  "id": "1741993395910811648"
+                                }
+                              ]
+                            },
+                            "reply_settings": "everyone",
+                            "in_reply_to_user_id": "1741993395910811648",
+                            "public_metrics": {
+                              "retweet_count": 0,
+                              "reply_count": 2,
+                              "like_count": 2,
+                              "quote_count": 0,
+                              "bookmark_count": 0,
+                              "impression_count": 68
+                            },
+                            "author_id": "1799795163843436544",
+                            "edit_controls": {
+                              "edits_remaining": 5,
+                              "is_edit_eligible": false,
+                              "editable_until": "2026-02-08T16:14:05.000Z"
+                            },
+                            "created_at": "2026-02-08T15:14:05.000Z",
+                            "possibly_sensitive": false
+                          },
+                          "includes": {
+                            "users": [
+                              {
+                                "name": "🧬ビーチイ小犬U⁠ ⁠´⁠꓃⁠ ⁠`⁠ ⁠U",
+                                "username": "BeetiIsDog",
+                                "public_metrics": {
+                                  "followers_count": 522,
+                                  "following_count": 947,
+                                  "tweet_count": 8440,
+                                  "listed_count": 2,
+                                  "like_count": 39625,
+                                  "media_count": 505
+                                },
+                                "description": "常助無傷 愛全奉全//用繁體字只是因為好看//不看私信//只是个普通人,画我想画写我想写,不接稿,此账号用于堆积画作+迷思+碎碎念❌所有画作禁止用于AI训练❌",
+                                "created_at": "2024-06-09T13:26:33.000Z",
+                                "protected": false,
+                                "profile_image_url": "https://pbs.twimg.com/profile_images/2042972730803523593/1ojSP8EY_normal.jpg",
+                                "location": "藤井風的钢琴",
+                                "id": "1799795163843436544",
+                                "verified": false
+                              }
+                            ]
+                          },
+                          "errors": [
+                            {
+                              "parameter": "in_reply_to_user_id",
+                              "resource_id": "1741993395910811648",
+                              "value": "1741993395910811648",
+                              "detail": "User has been suspended: [1741993395910811648].",
+                              "title": "Forbidden",
+                              "resource_type": "user",
+                              "type": "https://api.twitter.com/2/problems/resource-not-found"
+                            },
+                            {
+                              "resource_id": "2020515891021013237",
+                              "parameter": "referenced_tweets.id",
+                              "resource_type": "tweet",
+                              "section": "includes",
+                              "title": "Authorization Error",
+                              "value": "2020515891021013237",
+                              "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2020515891021013237].",
+                              "type": "https://api.twitter.com/2/problems/not-authorized-for-resource"
+                            }
+                          ]
+                        }
+                      }
+                    ],
                     "terminal_error": {
-                      "id": "2020516490160513355",
-                      "message": "X API returned HTTP 429."
+                      "id": "2020515891021013237",
+                      "message": "Sorry, you are not authorized to see the Tweet with id: [2020515891021013237]. Wayback fallback: Wayback fallback did not find archived JSON for tweet id 2020515891021013237."
                     }
                   }
                 }
               }
             }
+          },
+          {
+            "id": "2020516490160513355",
+            "source": "x_api_oauth1:./env.pale-fire",
+            "payload": {
+              "data": {
+                "author_id": "1799795163843436544",
+                "id": "2020516490160513355",
+                "possibly_sensitive": false,
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "2020515891021013237"
+                  }
+                ],
+                "edit_history_tweet_ids": [
+                  "2020516490160513355"
+                ],
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 0,
+                      "end": 16,
+                      "username": "AnIncandescence",
+                      "id": "1741993395910811648"
+                    }
+                  ]
+                },
+                "lang": "zh",
+                "conversation_id": "2020467252991070547",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2026-02-08T16:14:05.000Z"
+                },
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 68
+                },
+                "reply_settings": "everyone",
+                "created_at": "2026-02-08T15:14:05.000Z",
+                "in_reply_to_user_id": "1741993395910811648",
+                "text": "@AnIncandescence ……天哪我也这样。我和我nt朋友聊天然后对面说我说话太多信息太碎像刷了10h抖音听力竭了突然感觉到压力了"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "public_metrics": {
+                      "followers_count": 522,
+                      "following_count": 947,
+                      "tweet_count": 8440,
+                      "listed_count": 2,
+                      "like_count": 39625,
+                      "media_count": 505
+                    },
+                    "description": "常助無傷 愛全奉全//用繁體字只是因為好看//不看私信//只是个普通人,画我想画写我想写,不接稿,此账号用于堆积画作+迷思+碎碎念❌所有画作禁止用于AI训练❌",
+                    "username": "BeetiIsDog",
+                    "protected": false,
+                    "name": "🧬ビーチイ小犬U⁠ ⁠´⁠꓃⁠ ⁠`⁠ ⁠U",
+                    "verified": false,
+                    "location": "藤井風的钢琴",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2042972730803523593/1ojSP8EY_normal.jpg",
+                    "id": "1799795163843436544",
+                    "created_at": "2024-06-09T13:26:33.000Z"
+                  }
+                ]
+              },
+              "errors": [
+                {
+                  "parameter": "in_reply_to_user_id",
+                  "resource_id": "1741993395910811648",
+                  "value": "1741993395910811648",
+                  "detail": "User has been suspended: [1741993395910811648].",
+                  "title": "Forbidden",
+                  "resource_type": "user",
+                  "type": "https://api.twitter.com/2/problems/resource-not-found"
+                },
+                {
+                  "resource_id": "2020515891021013237",
+                  "parameter": "referenced_tweets.id",
+                  "resource_type": "tweet",
+                  "section": "includes",
+                  "title": "Authorization Error",
+                  "value": "2020515891021013237",
+                  "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2020515891021013237].",
+                  "type": "https://api.twitter.com/2/problems/not-authorized-for-resource"
+                }
+              ]
+            }
           }
-        ]
+        ],
+        "terminal_error": {
+          "id": "2020515891021013237",
+          "message": "./.env: X API OAuth 1.0a returned HTTP 429. ./env.pale-fire: Sorry, you are not authorized to see the Tweet with id: [2020515891021013237]. Wayback fallback: Wayback fallback did not find archived JSON for tweet id 2020515891021013237."
+        }
       }
     }
   }

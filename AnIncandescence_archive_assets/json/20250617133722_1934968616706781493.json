@@ -262,12 +262,126 @@
     "x_api_reply_chains": {
       "1934676867598176651": {
         "version": 1,
-        "fetched_at": "2026-04-18T04:11:22Z",
+        "fetched_at": "2026-04-18T07:07:09Z",
         "max_depth": 63,
-        "posts": [],
+        "posts": [
+          {
+            "id": "1934676867598176651",
+            "source": "x_api_oauth1:./.env",
+            "payload": {
+              "data": {
+                "text": "@yCxYP599 次次寶寶我揉揉你",
+                "edit_history_tweet_ids": [
+                  "1934676867598176651"
+                ],
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 50
+                },
+                "created_at": "2025-06-16T18:18:04.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2025-06-16T19:18:04.000Z"
+                },
+                "in_reply_to_user_id": "1805577098234675202",
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 0,
+                      "end": 9,
+                      "username": "yCxYP599",
+                      "id": "1805577098234675202"
+                    }
+                  ]
+                },
+                "possibly_sensitive": false,
+                "reply_settings": "everyone",
+                "conversation_id": "1934672597859344555",
+                "id": "1934676867598176651",
+                "author_id": "1558547901164318728",
+                "lang": "zh",
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "1934672597859344555"
+                  }
+                ]
+              },
+              "includes": {
+                "users": [
+                  {
+                    "protected": false,
+                    "id": "1558547901164318728",
+                    "created_at": "2022-08-13T20:16:01.000Z",
+                    "location": "天堂",
+                    "name": "ʚ✞ɞ",
+                    "public_metrics": {
+                      "followers_count": 200,
+                      "following_count": 406,
+                      "tweet_count": 10726,
+                      "listed_count": 0,
+                      "like_count": 22194,
+                      "media_count": 457
+                    },
+                    "verified": false,
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1873311243852976128/T-qCTONh_normal.jpg",
+                    "username": "saiyadayoo",
+                    "description": "什麼時候開始變成這樣的呢"
+                  },
+                  {
+                    "entities": {
+                      "description": {
+                        "mentions": [
+                          {
+                            "start": 20,
+                            "end": 32,
+                            "username": "jellyfishci"
+                          }
+                        ]
+                      }
+                    },
+                    "protected": false,
+                    "id": "1805577098234675202",
+                    "created_at": "2024-06-25T12:21:56.000Z",
+                    "location": "夢",
+                    "name": "一次性",
+                    "public_metrics": {
+                      "followers_count": 1352,
+                      "following_count": 96,
+                      "tweet_count": 1863,
+                      "listed_count": 5,
+                      "like_count": 12556,
+                      "media_count": 122
+                    },
+                    "verified": false,
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+                    "username": "yCxYP599",
+                    "description": "你好，我是小次，很高兴遇见你 ｜ 涂鸦册@jellyfishci  ｜ 这里是湿哒哒的日记本，一直更新至终末的连载遗书 ｜ 请在一次性的旅途中，再尽兴一点吧"
+                  }
+                ]
+              },
+              "errors": [
+                {
+                  "value": "1934672597859344555",
+                  "detail": "Could not find tweet with referenced_tweets.id: [1934672597859344555].",
+                  "title": "Not Found Error",
+                  "resource_type": "tweet",
+                  "parameter": "referenced_tweets.id",
+                  "resource_id": "1934672597859344555",
+                  "type": "https://api.twitter.com/2/problems/resource-not-found"
+                }
+              ]
+            }
+          }
+        ],
         "terminal_error": {
-          "id": "1934676867598176651",
-          "message": "Wayback fallback did not find archived JSON for tweet id 1934676867598176651."
+          "id": "1934672597859344555",
+          "message": "./.env: Could not find tweet with id: [1934672597859344555]. ./env.pale-fire: Could not find tweet with id: [1934672597859344555]. Wayback fallback: Wayback fallback did not find archived JSON for tweet id 1934672597859344555."
         }
       }
     }

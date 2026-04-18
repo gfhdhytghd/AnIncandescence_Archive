@@ -240,13 +240,92 @@
     "x_api_reply_chains": {
       "1968037700994539543": {
         "version": 1,
-        "fetched_at": "2026-04-18T04:13:41Z",
+        "fetched_at": "2026-04-18T06:18:23Z",
         "max_depth": 63,
-        "posts": [],
-        "terminal_error": {
-          "id": "1968037700994539543",
-          "message": "Wayback fallback did not find archived JSON for tweet id 1968037700994539543."
-        }
+        "posts": [
+          {
+            "id": "1968037700994539543",
+            "source": "x_api_oauth1",
+            "payload": {
+              "data": {
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": true,
+                  "editable_until": "2025-09-16T20:42:06.000Z"
+                },
+                "text": "比我家都好 我要住这里 https://t.co/FsyGGuMo4r",
+                "created_at": "2025-09-16T19:42:06.000Z",
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 3,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 460
+                },
+                "possibly_sensitive": false,
+                "referenced_tweets": [
+                  {
+                    "type": "quoted",
+                    "id": "1967769050572001757"
+                  }
+                ],
+                "reply_settings": "everyone",
+                "author_id": "1484077799678050305",
+                "lang": "zh",
+                "edit_history_tweet_ids": [
+                  "1968037700994539543"
+                ],
+                "id": "1968037700994539543",
+                "entities": {
+                  "urls": [
+                    {
+                      "start": 12,
+                      "end": 35,
+                      "url": "https://t.co/FsyGGuMo4r",
+                      "expanded_url": "https://twitter.com/AnIncandescence/status/1967769050572001757",
+                      "display_url": "x.com/AnIncandescenc…"
+                    }
+                  ]
+                },
+                "conversation_id": "1968037700994539543"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "username": "soaweerl",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2045233030248484864/Qd85ul0D_normal.jpg",
+                    "name": "衣姨",
+                    "protected": false,
+                    "id": "1484077799678050305",
+                    "created_at": "2022-01-20T08:18:22.000Z",
+                    "public_metrics": {
+                      "followers_count": 600,
+                      "following_count": 176,
+                      "tweet_count": 8168,
+                      "listed_count": 0,
+                      "like_count": 4854,
+                      "media_count": 1580
+                    },
+                    "description": "+特推重度依赖+\n很疯癫额什么都发的碎碎念。！",
+                    "verified": false
+                  }
+                ]
+              },
+              "errors": [
+                {
+                  "value": "1967769050572001757",
+                  "detail": "Could not find tweet with referenced_tweets.id: [1967769050572001757].",
+                  "title": "Not Found Error",
+                  "resource_type": "tweet",
+                  "parameter": "referenced_tweets.id",
+                  "resource_id": "1967769050572001757",
+                  "type": "https://api.twitter.com/2/problems/resource-not-found"
+                }
+              ]
+            }
+          }
+        ]
       }
     }
   }

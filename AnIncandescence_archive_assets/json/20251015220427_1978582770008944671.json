@@ -301,13 +301,168 @@
     "x_api_reply_chains": {
       "1978332520459424064": {
         "version": 1,
-        "fetched_at": "2026-04-18T04:14:24Z",
+        "fetched_at": "2026-04-18T06:18:23Z",
         "max_depth": 63,
-        "posts": [],
-        "terminal_error": {
-          "id": "1978332520459424064",
-          "message": "Wayback fallback did not find archived JSON for tweet id 1978332520459424064."
-        }
+        "posts": [
+          {
+            "id": "1978332520459424064",
+            "source": "x_api_oauth1",
+            "payload": {
+              "data": {
+                "edit_history_tweet_ids": [
+                  "1978332520459424064"
+                ],
+                "conversation_id": "1978332520459424064",
+                "text": "芳樟醇虽对人体有许多功效，但它的毒性也不容小觑。感兴趣的可以买一些精油来闻。还有迷迭香精油作为可逆性酶抑制剂可以起到清脑解郁等效果。 https://t.co/ju5fL3XzdR",
+                "author_id": "1847712034361659392",
+                "possibly_sensitive": false,
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 6,
+                  "quote_count": 0,
+                  "bookmark_count": 1,
+                  "impression_count": 779
+                },
+                "id": "1978332520459424064",
+                "reply_settings": "everyone",
+                "created_at": "2025-10-15T05:30:03.000Z",
+                "attachments": {
+                  "media_keys": [
+                    "3_1978331811169386496",
+                    "3_1978331813224620032",
+                    "3_1978331813195210752"
+                  ]
+                },
+                "lang": "zh",
+                "entities": {
+                  "urls": [
+                    {
+                      "start": 67,
+                      "end": 90,
+                      "url": "https://t.co/ju5fL3XzdR",
+                      "expanded_url": "https://x.com/yumeng0721/status/1978332520459424064/photo/1",
+                      "display_url": "pic.x.com/ju5fL3XzdR",
+                      "media_key": "3_1978331811169386496"
+                    },
+                    {
+                      "start": 67,
+                      "end": 90,
+                      "url": "https://t.co/ju5fL3XzdR",
+                      "expanded_url": "https://x.com/yumeng0721/status/1978332520459424064/photo/1",
+                      "display_url": "pic.x.com/ju5fL3XzdR",
+                      "media_key": "3_1978331813224620032"
+                    },
+                    {
+                      "start": 67,
+                      "end": 90,
+                      "url": "https://t.co/ju5fL3XzdR",
+                      "expanded_url": "https://x.com/yumeng0721/status/1978332520459424064/photo/1",
+                      "display_url": "pic.x.com/ju5fL3XzdR",
+                      "media_key": "3_1978331813195210752"
+                    }
+                  ]
+                },
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": true,
+                  "editable_until": "2025-10-15T06:30:03.000Z"
+                },
+                "context_annotations": [
+                  {
+                    "domain": {
+                      "id": "46",
+                      "name": "Business Taxonomy",
+                      "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                      "id": "1557696940178935808",
+                      "name": "Gaming Business",
+                      "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers"
+                    }
+                  }
+                ]
+              },
+              "includes": {
+                "media": [
+                  {
+                    "width": 1000,
+                    "type": "photo",
+                    "url": "https://pbs.twimg.com/media/G3RyTPSbQAA9sLF.jpg",
+                    "media_key": "3_1978331811169386496",
+                    "height": 960
+                  },
+                  {
+                    "width": 931,
+                    "type": "photo",
+                    "url": "https://pbs.twimg.com/media/G3RyTW8boAAR1ek.jpg",
+                    "media_key": "3_1978331813224620032",
+                    "height": 4096
+                  },
+                  {
+                    "width": 770,
+                    "type": "photo",
+                    "url": "https://pbs.twimg.com/media/G3RyTW1a4AAWXiL.jpg",
+                    "media_key": "3_1978331813195210752",
+                    "height": 563
+                  }
+                ],
+                "users": [
+                  {
+                    "public_metrics": {
+                      "followers_count": 1312,
+                      "following_count": 912,
+                      "tweet_count": 2833,
+                      "listed_count": 2,
+                      "like_count": 24150,
+                      "media_count": 377
+                    },
+                    "name": "Meng",
+                    "username": "yumeng0721",
+                    "url": "https://t.co/N4ALMth1xa",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1939203974260768768/sFFZD2jj_normal.jpg",
+                    "id": "1847712034361659392",
+                    "created_at": "2024-10-19T18:51:20.000Z",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/N4ALMth1xa",
+                            "expanded_url": "http://fayou.fyi",
+                            "display_url": "fayou.fyi"
+                          }
+                        ]
+                      },
+                      "description": {
+                        "urls": [
+                          {
+                            "start": 12,
+                            "end": 35,
+                            "url": "https://t.co/8eHnljmbAD",
+                            "expanded_url": "https://ngl.link/yumeng_0721",
+                            "display_url": "ngl.link/yumeng_0721"
+                          },
+                          {
+                            "start": 40,
+                            "end": 63,
+                            "url": "https://t.co/mGkj2AAFom",
+                            "expanded_url": "http://t.me/Guisland",
+                            "display_url": "t.me/Guisland"
+                          }
+                        ]
+                      }
+                    },
+                    "description": "玩乐、性爱与嗑药。提问箱https://t.co/8eHnljmbAD\n个人频道https://t.co/mGkj2AAFom",
+                    "verified": false,
+                    "protected": false
+                  }
+                ]
+              }
+            }
+          }
+        ]
       }
     }
   }

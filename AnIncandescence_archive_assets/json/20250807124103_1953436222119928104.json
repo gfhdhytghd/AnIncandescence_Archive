@@ -277,13 +277,226 @@
     "x_api_reply_chains": {
       "1953318333270429860": {
         "version": 1,
-        "fetched_at": "2026-04-18T04:12:26Z",
+        "fetched_at": "2026-04-18T06:18:21Z",
         "max_depth": 63,
-        "posts": [],
-        "terminal_error": {
-          "id": "1953318333270429860",
-          "message": "Wayback fallback did not find archived JSON for tweet id 1953318333270429860."
-        }
+        "posts": [
+          {
+            "id": "1953318333270429860",
+            "source": "x_api_oauth1",
+            "payload": {
+              "data": {
+                "conversation_id": "1953316885287829898",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2025-08-07T05:52:36.000Z"
+                },
+                "in_reply_to_user_id": "1621552410048237569",
+                "lang": "zh",
+                "text": "@amecandy_x (ᗒᗩᗕ)՞胃不难受吗",
+                "edit_history_tweet_ids": [
+                  "1953318333270429860"
+                ],
+                "reply_settings": "everyone",
+                "author_id": "1554488846620016641",
+                "created_at": "2025-08-07T04:52:36.000Z",
+                "id": "1953318333270429860",
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 3,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 126
+                },
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "1953316885287829898"
+                  }
+                ],
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 0,
+                      "end": 11,
+                      "username": "amecandy_x",
+                      "id": "1621552410048237569"
+                    }
+                  ]
+                },
+                "possibly_sensitive": false
+              },
+              "includes": {
+                "users": [
+                  {
+                    "protected": false,
+                    "id": "1554488846620016641",
+                    "created_at": "2022-08-02T15:27:12.000Z",
+                    "entities": {
+                      "description": {
+                        "mentions": [
+                          {
+                            "start": 144,
+                            "end": 152,
+                            "username": "qqnjjwb"
+                          }
+                        ]
+                      }
+                    },
+                    "name": "乌米🏳‍⚧🍥🍬✨",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1882726775182303232/c-zE53Ot_normal.jpg",
+                    "verified": false,
+                    "username": "kkblm_",
+                    "public_metrics": {
+                      "followers_count": 654,
+                      "following_count": 900,
+                      "tweet_count": 3911,
+                      "listed_count": 4,
+                      "like_count": 17921,
+                      "media_count": 101
+                    },
+                    "description": "无证被迫断糖mtf……（2003-2025即将）/infp-t/百合/原神/鸣潮/星穹铁道/不键政  / 欢迎各位骚扰孤独的喵喵(◍•ᴗ•◍)/励志作为安慰大家的猫猫树洞，随叫随到喵，工作是全力倾听大家的负面情绪喵~/梦想是什么~？希望大家健康幸福吧，实现自己的梦想…/🚪30/可爱的妹妹@qqnjjwb"
+                  },
+                  {
+                    "protected": false,
+                    "location": "山东·济南",
+                    "id": "1621552410048237569",
+                    "created_at": "2023-02-03T16:53:25.000Z",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/Ul32kqG4uh",
+                            "expanded_url": "https://angelkawaii.xyz",
+                            "display_url": "angelkawaii.xyz"
+                          }
+                        ]
+                      }
+                    },
+                    "name": "小雨",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2023354415944495104/Uixnel15_normal.jpg",
+                    "url": "https://t.co/Ul32kqG4uh",
+                    "verified": false,
+                    "username": "amecandy_x",
+                    "public_metrics": {
+                      "followers_count": 6091,
+                      "following_count": 2114,
+                      "tweet_count": 10071,
+                      "listed_count": 15,
+                      "like_count": 27048,
+                      "media_count": 1408
+                    },
+                    "description": "07 / MtF / 自由意志左翼🚩/ 全栈工程师 / 独立LLM研究者 / 药百GPT开发者 / 抽烟嗑药"
+                  }
+                ],
+                "tweets": [
+                  {
+                    "conversation_id": "1953316885287829898",
+                    "edit_controls": {
+                      "edits_remaining": 3,
+                      "is_edit_eligible": true,
+                      "editable_until": "2025-08-07T05:11:38.000Z"
+                    },
+                    "lang": "ja",
+                    "text": "金刚烷胺 800mg",
+                    "edit_history_tweet_ids": [
+                      "1953308024556405169",
+                      "1953316754169413639",
+                      "1953316885287829898"
+                    ],
+                    "reply_settings": "everyone",
+                    "author_id": "1621552410048237569",
+                    "created_at": "2025-08-07T04:46:50.000Z",
+                    "id": "1953316885287829898",
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 1,
+                      "like_count": 11,
+                      "quote_count": 1,
+                      "bookmark_count": 0,
+                      "impression_count": 2049
+                    },
+                    "possibly_sensitive": false
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "1953316885287829898",
+            "source": "x_api_oauth1",
+            "payload": {
+              "data": {
+                "edit_controls": {
+                  "edits_remaining": 3,
+                  "is_edit_eligible": true,
+                  "editable_until": "2025-08-07T05:11:38.000Z"
+                },
+                "text": "金刚烷胺 800mg",
+                "conversation_id": "1953316885287829898",
+                "reply_settings": "everyone",
+                "possibly_sensitive": false,
+                "id": "1953316885287829898",
+                "created_at": "2025-08-07T04:46:50.000Z",
+                "author_id": "1621552410048237569",
+                "lang": "ja",
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 11,
+                  "quote_count": 1,
+                  "bookmark_count": 0,
+                  "impression_count": 2049
+                },
+                "edit_history_tweet_ids": [
+                  "1953308024556405169",
+                  "1953316754169413639",
+                  "1953316885287829898"
+                ]
+              },
+              "includes": {
+                "users": [
+                  {
+                    "verified": false,
+                    "username": "amecandy_x",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2023354415944495104/Uixnel15_normal.jpg",
+                    "description": "07 / MtF / 自由意志左翼🚩/ 全栈工程师 / 独立LLM研究者 / 药百GPT开发者 / 抽烟嗑药",
+                    "location": "山东·济南",
+                    "id": "1621552410048237569",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 6091,
+                      "following_count": 2114,
+                      "tweet_count": 10071,
+                      "listed_count": 15,
+                      "like_count": 27048,
+                      "media_count": 1408
+                    },
+                    "url": "https://t.co/Ul32kqG4uh",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/Ul32kqG4uh",
+                            "expanded_url": "https://angelkawaii.xyz",
+                            "display_url": "angelkawaii.xyz"
+                          }
+                        ]
+                      }
+                    },
+                    "name": "小雨",
+                    "created_at": "2023-02-03T16:53:25.000Z"
+                  }
+                ]
+              }
+            }
+          }
+        ]
       }
     }
   }

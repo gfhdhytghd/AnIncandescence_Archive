@@ -309,7 +309,7 @@
     "x_api_reply_chains": {
       "1926599437914157157": {
         "version": 1,
-        "fetched_at": "2026-04-18T00:17:22Z",
+        "fetched_at": "2026-04-18T07:07:11Z",
         "max_depth": 63,
         "posts": [
           {
@@ -633,12 +633,129 @@
                 "x_api_reply_chains": {
                   "1926572843833139555": {
                     "version": 1,
-                    "fetched_at": "2026-04-17T23:20:01Z",
-                    "max_depth": 7,
-                    "posts": [],
+                    "fetched_at": "2026-04-18T06:54:54Z",
+                    "max_depth": 63,
+                    "posts": [
+                      {
+                        "id": "1926572843833139555",
+                        "source": "x_api_oauth1:./.env",
+                        "payload": {
+                          "data": {
+                            "edit_history_tweet_ids": [
+                              "1926572843833139555"
+                            ],
+                            "lang": "zh",
+                            "conversation_id": "1926552651753259183",
+                            "possibly_sensitive": false,
+                            "id": "1926572843833139555",
+                            "referenced_tweets": [
+                              {
+                                "type": "replied_to",
+                                "id": "1926552651753259183"
+                              }
+                            ],
+                            "created_at": "2025-05-25T09:35:34.000Z",
+                            "in_reply_to_user_id": "1679805896967483393",
+                            "edit_controls": {
+                              "edits_remaining": 5,
+                              "is_edit_eligible": false,
+                              "editable_until": "2025-05-25T10:35:34.000Z"
+                            },
+                            "entities": {
+                              "mentions": [
+                                {
+                                  "start": 0,
+                                  "end": 12,
+                                  "username": "VSanxi18865",
+                                  "id": "1679805896967483393"
+                                }
+                              ]
+                            },
+                            "reply_settings": "everyone",
+                            "text": "@VSanxi18865 真火吗？如火  其实根本就开不到\n一般情况下只会把你拉去做几个疗程的mect把你脑子电坏\n起码比mect好",
+                            "public_metrics": {
+                              "retweet_count": 0,
+                              "reply_count": 3,
+                              "like_count": 3,
+                              "quote_count": 0,
+                              "bookmark_count": 0,
+                              "impression_count": 334
+                            },
+                            "author_id": "1565231003987505153"
+                          },
+                          "includes": {
+                            "users": [
+                              {
+                                "verified": false,
+                                "protected": false,
+                                "name": "小雾岛岚",
+                                "public_metrics": {
+                                  "followers_count": 6577,
+                                  "following_count": 7201,
+                                  "tweet_count": 82437,
+                                  "listed_count": 10,
+                                  "like_count": 114517,
+                                  "media_count": 743
+                                },
+                                "username": "Kirishima_Arash",
+                                "description": "是重度正太控~  🏳️‍⚧️🏳️‍🌈 好想变成可爱的正太呜哇",
+                                "created_at": "2022-09-01T06:52:35.000Z",
+                                "profile_image_url": "https://pbs.twimg.com/profile_images/1817574608364781568/YWrCGDIZ_normal.jpg",
+                                "id": "1565231003987505153",
+                                "location": "广州"
+                              },
+                              {
+                                "verified": false,
+                                "protected": false,
+                                "name": "雨晴守望Vack",
+                                "public_metrics": {
+                                  "followers_count": 1120,
+                                  "following_count": 494,
+                                  "tweet_count": 5877,
+                                  "listed_count": 6,
+                                  "like_count": 22936,
+                                  "media_count": 324
+                                },
+                                "entities": {
+                                  "url": {
+                                    "urls": [
+                                      {
+                                        "start": 0,
+                                        "end": 23,
+                                        "url": "https://t.co/PmvsNW3cTq",
+                                        "expanded_url": "https://overspeed.wiki/",
+                                        "display_url": "overspeed.wiki"
+                                      }
+                                    ]
+                                  }
+                                },
+                                "url": "https://t.co/PmvsNW3cTq",
+                                "username": "VSanxi18865",
+                                "description": "INFP | ASD | ADHD | Transhumanism | Postgenderism | Biohacker",
+                                "created_at": "2023-07-14T10:51:58.000Z",
+                                "profile_image_url": "https://pbs.twimg.com/profile_images/2033003555121209344/i-Ez5-cI_normal.jpg",
+                                "id": "1679805896967483393",
+                                "location": "Melbourne, Victoria"
+                              }
+                            ]
+                          },
+                          "errors": [
+                            {
+                              "value": "1926552651753259183",
+                              "detail": "Could not find tweet with referenced_tweets.id: [1926552651753259183].",
+                              "title": "Not Found Error",
+                              "resource_type": "tweet",
+                              "parameter": "referenced_tweets.id",
+                              "resource_id": "1926552651753259183",
+                              "type": "https://api.twitter.com/2/problems/resource-not-found"
+                            }
+                          ]
+                        }
+                      }
+                    ],
                     "terminal_error": {
-                      "id": "1926572843833139555",
-                      "message": "X API returned HTTP 429."
+                      "id": "1926552651753259183",
+                      "message": "Could not find tweet with id: [1926552651753259183]. Wayback fallback: Wayback fallback did not find archived JSON for tweet id 1926552651753259183."
                     }
                   }
                 }
@@ -966,19 +1083,256 @@
                 "x_api_reply_chains": {
                   "1926572843833139555": {
                     "version": 1,
-                    "fetched_at": "2026-04-17T23:20:01Z",
-                    "max_depth": 7,
-                    "posts": [],
+                    "fetched_at": "2026-04-18T06:54:54Z",
+                    "max_depth": 63,
+                    "posts": [
+                      {
+                        "id": "1926572843833139555",
+                        "source": "x_api_oauth1:./.env",
+                        "payload": {
+                          "data": {
+                            "edit_history_tweet_ids": [
+                              "1926572843833139555"
+                            ],
+                            "lang": "zh",
+                            "conversation_id": "1926552651753259183",
+                            "possibly_sensitive": false,
+                            "id": "1926572843833139555",
+                            "referenced_tweets": [
+                              {
+                                "type": "replied_to",
+                                "id": "1926552651753259183"
+                              }
+                            ],
+                            "created_at": "2025-05-25T09:35:34.000Z",
+                            "in_reply_to_user_id": "1679805896967483393",
+                            "edit_controls": {
+                              "edits_remaining": 5,
+                              "is_edit_eligible": false,
+                              "editable_until": "2025-05-25T10:35:34.000Z"
+                            },
+                            "entities": {
+                              "mentions": [
+                                {
+                                  "start": 0,
+                                  "end": 12,
+                                  "username": "VSanxi18865",
+                                  "id": "1679805896967483393"
+                                }
+                              ]
+                            },
+                            "reply_settings": "everyone",
+                            "text": "@VSanxi18865 真火吗？如火  其实根本就开不到\n一般情况下只会把你拉去做几个疗程的mect把你脑子电坏\n起码比mect好",
+                            "public_metrics": {
+                              "retweet_count": 0,
+                              "reply_count": 3,
+                              "like_count": 3,
+                              "quote_count": 0,
+                              "bookmark_count": 0,
+                              "impression_count": 334
+                            },
+                            "author_id": "1565231003987505153"
+                          },
+                          "includes": {
+                            "users": [
+                              {
+                                "verified": false,
+                                "protected": false,
+                                "name": "小雾岛岚",
+                                "public_metrics": {
+                                  "followers_count": 6577,
+                                  "following_count": 7201,
+                                  "tweet_count": 82437,
+                                  "listed_count": 10,
+                                  "like_count": 114517,
+                                  "media_count": 743
+                                },
+                                "username": "Kirishima_Arash",
+                                "description": "是重度正太控~  🏳️‍⚧️🏳️‍🌈 好想变成可爱的正太呜哇",
+                                "created_at": "2022-09-01T06:52:35.000Z",
+                                "profile_image_url": "https://pbs.twimg.com/profile_images/1817574608364781568/YWrCGDIZ_normal.jpg",
+                                "id": "1565231003987505153",
+                                "location": "广州"
+                              },
+                              {
+                                "verified": false,
+                                "protected": false,
+                                "name": "雨晴守望Vack",
+                                "public_metrics": {
+                                  "followers_count": 1120,
+                                  "following_count": 494,
+                                  "tweet_count": 5877,
+                                  "listed_count": 6,
+                                  "like_count": 22936,
+                                  "media_count": 324
+                                },
+                                "entities": {
+                                  "url": {
+                                    "urls": [
+                                      {
+                                        "start": 0,
+                                        "end": 23,
+                                        "url": "https://t.co/PmvsNW3cTq",
+                                        "expanded_url": "https://overspeed.wiki/",
+                                        "display_url": "overspeed.wiki"
+                                      }
+                                    ]
+                                  }
+                                },
+                                "url": "https://t.co/PmvsNW3cTq",
+                                "username": "VSanxi18865",
+                                "description": "INFP | ASD | ADHD | Transhumanism | Postgenderism | Biohacker",
+                                "created_at": "2023-07-14T10:51:58.000Z",
+                                "profile_image_url": "https://pbs.twimg.com/profile_images/2033003555121209344/i-Ez5-cI_normal.jpg",
+                                "id": "1679805896967483393",
+                                "location": "Melbourne, Victoria"
+                              }
+                            ]
+                          },
+                          "errors": [
+                            {
+                              "value": "1926552651753259183",
+                              "detail": "Could not find tweet with referenced_tweets.id: [1926552651753259183].",
+                              "title": "Not Found Error",
+                              "resource_type": "tweet",
+                              "parameter": "referenced_tweets.id",
+                              "resource_id": "1926552651753259183",
+                              "type": "https://api.twitter.com/2/problems/resource-not-found"
+                            }
+                          ]
+                        }
+                      }
+                    ],
                     "terminal_error": {
-                      "id": "1926572843833139555",
-                      "message": "X API returned HTTP 429."
+                      "id": "1926552651753259183",
+                      "message": "Could not find tweet with id: [1926552651753259183]. Wayback fallback: Wayback fallback did not find archived JSON for tweet id 1926552651753259183."
                     }
                   }
                 }
               }
             }
+          },
+          {
+            "id": "1926572843833139555",
+            "source": "x_api_oauth1:./.env",
+            "payload": {
+              "data": {
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 0,
+                      "end": 12,
+                      "username": "VSanxi18865",
+                      "id": "1679805896967483393"
+                    }
+                  ]
+                },
+                "author_id": "1565231003987505153",
+                "possibly_sensitive": false,
+                "in_reply_to_user_id": "1679805896967483393",
+                "lang": "zh",
+                "created_at": "2025-05-25T09:35:34.000Z",
+                "edit_history_tweet_ids": [
+                  "1926572843833139555"
+                ],
+                "id": "1926572843833139555",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2025-05-25T10:35:34.000Z"
+                },
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 3,
+                  "like_count": 3,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 334
+                },
+                "reply_settings": "everyone",
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "1926552651753259183"
+                  }
+                ],
+                "conversation_id": "1926552651753259183",
+                "text": "@VSanxi18865 真火吗？如火  其实根本就开不到\n一般情况下只会把你拉去做几个疗程的mect把你脑子电坏\n起码比mect好"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "name": "小雾岛岚",
+                    "id": "1565231003987505153",
+                    "username": "Kirishima_Arash",
+                    "verified": false,
+                    "protected": false,
+                    "created_at": "2022-09-01T06:52:35.000Z",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1817574608364781568/YWrCGDIZ_normal.jpg",
+                    "description": "是重度正太控~  🏳️‍⚧️🏳️‍🌈 好想变成可爱的正太呜哇",
+                    "public_metrics": {
+                      "followers_count": 6577,
+                      "following_count": 7201,
+                      "tweet_count": 82437,
+                      "listed_count": 10,
+                      "like_count": 114517,
+                      "media_count": 743
+                    },
+                    "location": "广州"
+                  },
+                  {
+                    "name": "雨晴守望Vack",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/PmvsNW3cTq",
+                            "expanded_url": "https://overspeed.wiki/",
+                            "display_url": "overspeed.wiki"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1679805896967483393",
+                    "username": "VSanxi18865",
+                    "verified": false,
+                    "protected": false,
+                    "url": "https://t.co/PmvsNW3cTq",
+                    "created_at": "2023-07-14T10:51:58.000Z",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2033003555121209344/i-Ez5-cI_normal.jpg",
+                    "description": "INFP | ASD | ADHD | Transhumanism | Postgenderism | Biohacker",
+                    "public_metrics": {
+                      "followers_count": 1120,
+                      "following_count": 494,
+                      "tweet_count": 5877,
+                      "listed_count": 6,
+                      "like_count": 22936,
+                      "media_count": 324
+                    },
+                    "location": "Melbourne, Victoria"
+                  }
+                ]
+              },
+              "errors": [
+                {
+                  "value": "1926552651753259183",
+                  "detail": "Could not find tweet with referenced_tweets.id: [1926552651753259183].",
+                  "title": "Not Found Error",
+                  "resource_type": "tweet",
+                  "parameter": "referenced_tweets.id",
+                  "resource_id": "1926552651753259183",
+                  "type": "https://api.twitter.com/2/problems/resource-not-found"
+                }
+              ]
+            }
           }
-        ]
+        ],
+        "terminal_error": {
+          "id": "1926552651753259183",
+          "message": "./.env: Could not find tweet with id: [1926552651753259183]. ./env.pale-fire: Could not find tweet with id: [1926552651753259183]. Wayback fallback: Wayback fallback did not find archived JSON for tweet id 1926552651753259183."
+        }
       }
     }
   }

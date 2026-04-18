@@ -270,7 +270,7 @@
     "x_api_reply_chains": {
       "2036663602103394516": {
         "version": 1,
-        "fetched_at": "2026-04-18T01:35:32Z",
+        "fetched_at": "2026-04-18T06:55:58Z",
         "max_depth": 63,
         "posts": [
           {
@@ -548,7 +548,7 @@
                 "x_api_reply_chains": {
                   "2036657800449847429": {
                     "version": 1,
-                    "fetched_at": "2026-04-18T01:35:32Z",
+                    "fetched_at": "2026-04-18T06:18:28Z",
                     "max_depth": 63,
                     "posts": [
                       {
@@ -820,13 +820,258 @@
                             "x_api_reply_chains": {
                               "2036485140483023038": {
                                 "version": 1,
-                                "fetched_at": "2026-04-17T23:26:08Z",
-                                "max_depth": 7,
-                                "posts": [],
-                                "terminal_error": {
-                                  "id": "2036485140483023038",
-                                  "message": "X API returned HTTP 429."
-                                }
+                                "fetched_at": "2026-04-18T01:35:33Z",
+                                "max_depth": 63,
+                                "posts": [
+                                  {
+                                    "id": "2036485140483023038",
+                                    "source": "x_api_oauth1",
+                                    "payload": {
+                                      "data": {
+                                        "text": "@Lomyral 這個吃一次越吃越多100T一盒很快就幹完了",
+                                        "edit_history_tweet_ids": [
+                                          "2036485140483023038"
+                                        ],
+                                        "public_metrics": {
+                                          "retweet_count": 0,
+                                          "reply_count": 1,
+                                          "like_count": 1,
+                                          "quote_count": 0,
+                                          "bookmark_count": 1,
+                                          "impression_count": 136
+                                        },
+                                        "created_at": "2026-03-24T16:47:48.000Z",
+                                        "edit_controls": {
+                                          "edits_remaining": 5,
+                                          "is_edit_eligible": false,
+                                          "editable_until": "2026-03-24T17:47:48.000Z"
+                                        },
+                                        "in_reply_to_user_id": "1886385501130866688",
+                                        "entities": {
+                                          "mentions": [
+                                            {
+                                              "start": 0,
+                                              "end": 8,
+                                              "username": "Lomyral",
+                                              "id": "1886385501130866688"
+                                            }
+                                          ]
+                                        },
+                                        "possibly_sensitive": false,
+                                        "reply_settings": "everyone",
+                                        "conversation_id": "2036460909162536998",
+                                        "id": "2036485140483023038",
+                                        "author_id": "1558547901164318728",
+                                        "lang": "zh",
+                                        "referenced_tweets": [
+                                          {
+                                            "type": "replied_to",
+                                            "id": "2036460909162536998"
+                                          }
+                                        ]
+                                      },
+                                      "includes": {
+                                        "users": [
+                                          {
+                                            "protected": false,
+                                            "id": "1558547901164318728",
+                                            "created_at": "2022-08-13T20:16:01.000Z",
+                                            "location": "天堂",
+                                            "name": "ʚ✞ɞ",
+                                            "public_metrics": {
+                                              "followers_count": 200,
+                                              "following_count": 406,
+                                              "tweet_count": 10726,
+                                              "listed_count": 0,
+                                              "like_count": 22194,
+                                              "media_count": 457
+                                            },
+                                            "verified": false,
+                                            "profile_image_url": "https://pbs.twimg.com/profile_images/1873311243852976128/T-qCTONh_normal.jpg",
+                                            "username": "saiyadayoo",
+                                            "description": "什麼時候開始變成這樣的呢"
+                                          },
+                                          {
+                                            "entities": {
+                                              "url": {
+                                                "urls": [
+                                                  {
+                                                    "start": 0,
+                                                    "end": 23,
+                                                    "url": "https://t.co/ZWfkB4yLYI",
+                                                    "expanded_url": "https://ngl.link/lomyral",
+                                                    "display_url": "ngl.link/lomyral"
+                                                  }
+                                                ]
+                                              }
+                                            },
+                                            "protected": false,
+                                            "id": "1886385501130866688",
+                                            "created_at": "2025-02-03T12:05:49.000Z",
+                                            "name": "Lomyral",
+                                            "public_metrics": {
+                                              "followers_count": 714,
+                                              "following_count": 569,
+                                              "tweet_count": 5641,
+                                              "listed_count": 0,
+                                              "like_count": 43651,
+                                              "media_count": 105
+                                            },
+                                            "verified": false,
+                                            "profile_image_url": "https://pbs.twimg.com/profile_images/1888630778453729280/vZIfPLyg_normal.jpg",
+                                            "url": "https://t.co/ZWfkB4yLYI",
+                                            "username": "Lomyral",
+                                            "description": "enby,he/they.泛性恋.日常推,除了碎碎念就没别的了.不贩卖任何东西,不提供任何付费服务.我不吸毒，别钓了\n\n互关们可以私我领取tg🤲🏻❤️"
+                                          }
+                                        ],
+                                        "tweets": [
+                                          {
+                                            "text": "我会尽量在喝delsym之前把噻萘普汀的服用报告整理出来……缺点是药效非常短暂，急匆匆地来了然后悄咪咪地溜了，此外和经典阿片类相比，这个的欣快感比较平，有些缺乏深度。与咖啡因和尼古丁联用的体验非常棒，除了爽我不知道该如何形容这个感觉，个人认为再优化一下可以做白兔的便宜替代",
+                                            "edit_history_tweet_ids": [
+                                              "2036460909162536998"
+                                            ],
+                                            "public_metrics": {
+                                              "retweet_count": 0,
+                                              "reply_count": 3,
+                                              "like_count": 25,
+                                              "quote_count": 0,
+                                              "bookmark_count": 3,
+                                              "impression_count": 1984
+                                            },
+                                            "created_at": "2026-03-24T15:11:31.000Z",
+                                            "edit_controls": {
+                                              "edits_remaining": 5,
+                                              "is_edit_eligible": true,
+                                              "editable_until": "2026-03-24T16:11:31.000Z"
+                                            },
+                                            "context_annotations": [
+                                              {
+                                                "domain": {
+                                                  "id": "45",
+                                                  "name": "Brand Vertical",
+                                                  "description": "Top level entities that describe a Brands industry"
+                                                },
+                                                "entity": {
+                                                  "id": "781974596740190208",
+                                                  "name": "CPG"
+                                                }
+                                              },
+                                              {
+                                                "domain": {
+                                                  "id": "47",
+                                                  "name": "Brand",
+                                                  "description": "Brands and Companies"
+                                                },
+                                                "entity": {
+                                                  "id": "10027048428",
+                                                  "name": "Delsym"
+                                                }
+                                              }
+                                            ],
+                                            "possibly_sensitive": false,
+                                            "reply_settings": "everyone",
+                                            "conversation_id": "2036460909162536998",
+                                            "id": "2036460909162536998",
+                                            "author_id": "1886385501130866688",
+                                            "lang": "zh"
+                                          }
+                                        ]
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "id": "2036460909162536998",
+                                    "source": "x_api_oauth1",
+                                    "payload": {
+                                      "data": {
+                                        "context_annotations": [
+                                          {
+                                            "domain": {
+                                              "id": "45",
+                                              "name": "Brand Vertical",
+                                              "description": "Top level entities that describe a Brands industry"
+                                            },
+                                            "entity": {
+                                              "id": "781974596740190208",
+                                              "name": "CPG"
+                                            }
+                                          },
+                                          {
+                                            "domain": {
+                                              "id": "47",
+                                              "name": "Brand",
+                                              "description": "Brands and Companies"
+                                            },
+                                            "entity": {
+                                              "id": "10027048428",
+                                              "name": "Delsym"
+                                            }
+                                          }
+                                        ],
+                                        "possibly_sensitive": false,
+                                        "edit_controls": {
+                                          "edits_remaining": 5,
+                                          "is_edit_eligible": true,
+                                          "editable_until": "2026-03-24T16:11:31.000Z"
+                                        },
+                                        "public_metrics": {
+                                          "retweet_count": 0,
+                                          "reply_count": 3,
+                                          "like_count": 25,
+                                          "quote_count": 0,
+                                          "bookmark_count": 3,
+                                          "impression_count": 1984
+                                        },
+                                        "created_at": "2026-03-24T15:11:31.000Z",
+                                        "conversation_id": "2036460909162536998",
+                                        "edit_history_tweet_ids": [
+                                          "2036460909162536998"
+                                        ],
+                                        "id": "2036460909162536998",
+                                        "reply_settings": "everyone",
+                                        "text": "我会尽量在喝delsym之前把噻萘普汀的服用报告整理出来……缺点是药效非常短暂，急匆匆地来了然后悄咪咪地溜了，此外和经典阿片类相比，这个的欣快感比较平，有些缺乏深度。与咖啡因和尼古丁联用的体验非常棒，除了爽我不知道该如何形容这个感觉，个人认为再优化一下可以做白兔的便宜替代",
+                                        "lang": "zh",
+                                        "author_id": "1886385501130866688"
+                                      },
+                                      "includes": {
+                                        "users": [
+                                          {
+                                            "username": "Lomyral",
+                                            "description": "enby,he/they.泛性恋.日常推,除了碎碎念就没别的了.不贩卖任何东西,不提供任何付费服务.我不吸毒，别钓了\n\n互关们可以私我领取tg🤲🏻❤️",
+                                            "verified": false,
+                                            "protected": false,
+                                            "url": "https://t.co/ZWfkB4yLYI",
+                                            "public_metrics": {
+                                              "followers_count": 714,
+                                              "following_count": 569,
+                                              "tweet_count": 5641,
+                                              "listed_count": 0,
+                                              "like_count": 43651,
+                                              "media_count": 105
+                                            },
+                                            "profile_image_url": "https://pbs.twimg.com/profile_images/1888630778453729280/vZIfPLyg_normal.jpg",
+                                            "entities": {
+                                              "url": {
+                                                "urls": [
+                                                  {
+                                                    "start": 0,
+                                                    "end": 23,
+                                                    "url": "https://t.co/ZWfkB4yLYI",
+                                                    "expanded_url": "https://ngl.link/lomyral",
+                                                    "display_url": "ngl.link/lomyral"
+                                                  }
+                                                ]
+                                              }
+                                            },
+                                            "id": "1886385501130866688",
+                                            "name": "Lomyral",
+                                            "created_at": "2025-02-03T12:05:49.000Z"
+                                          }
+                                        ]
+                                      }
+                                    }
+                                  }
+                                ]
                               }
                             }
                           }
@@ -1101,15 +1346,508 @@
                             "x_api_reply_chains": {
                               "2036485140483023038": {
                                 "version": 1,
-                                "fetched_at": "2026-04-17T23:26:08Z",
-                                "max_depth": 7,
-                                "posts": [],
-                                "terminal_error": {
-                                  "id": "2036485140483023038",
-                                  "message": "X API returned HTTP 429."
-                                }
+                                "fetched_at": "2026-04-18T01:35:33Z",
+                                "max_depth": 63,
+                                "posts": [
+                                  {
+                                    "id": "2036485140483023038",
+                                    "source": "x_api_oauth1",
+                                    "payload": {
+                                      "data": {
+                                        "text": "@Lomyral 這個吃一次越吃越多100T一盒很快就幹完了",
+                                        "edit_history_tweet_ids": [
+                                          "2036485140483023038"
+                                        ],
+                                        "public_metrics": {
+                                          "retweet_count": 0,
+                                          "reply_count": 1,
+                                          "like_count": 1,
+                                          "quote_count": 0,
+                                          "bookmark_count": 1,
+                                          "impression_count": 136
+                                        },
+                                        "created_at": "2026-03-24T16:47:48.000Z",
+                                        "edit_controls": {
+                                          "edits_remaining": 5,
+                                          "is_edit_eligible": false,
+                                          "editable_until": "2026-03-24T17:47:48.000Z"
+                                        },
+                                        "in_reply_to_user_id": "1886385501130866688",
+                                        "entities": {
+                                          "mentions": [
+                                            {
+                                              "start": 0,
+                                              "end": 8,
+                                              "username": "Lomyral",
+                                              "id": "1886385501130866688"
+                                            }
+                                          ]
+                                        },
+                                        "possibly_sensitive": false,
+                                        "reply_settings": "everyone",
+                                        "conversation_id": "2036460909162536998",
+                                        "id": "2036485140483023038",
+                                        "author_id": "1558547901164318728",
+                                        "lang": "zh",
+                                        "referenced_tweets": [
+                                          {
+                                            "type": "replied_to",
+                                            "id": "2036460909162536998"
+                                          }
+                                        ]
+                                      },
+                                      "includes": {
+                                        "users": [
+                                          {
+                                            "protected": false,
+                                            "id": "1558547901164318728",
+                                            "created_at": "2022-08-13T20:16:01.000Z",
+                                            "location": "天堂",
+                                            "name": "ʚ✞ɞ",
+                                            "public_metrics": {
+                                              "followers_count": 200,
+                                              "following_count": 406,
+                                              "tweet_count": 10726,
+                                              "listed_count": 0,
+                                              "like_count": 22194,
+                                              "media_count": 457
+                                            },
+                                            "verified": false,
+                                            "profile_image_url": "https://pbs.twimg.com/profile_images/1873311243852976128/T-qCTONh_normal.jpg",
+                                            "username": "saiyadayoo",
+                                            "description": "什麼時候開始變成這樣的呢"
+                                          },
+                                          {
+                                            "entities": {
+                                              "url": {
+                                                "urls": [
+                                                  {
+                                                    "start": 0,
+                                                    "end": 23,
+                                                    "url": "https://t.co/ZWfkB4yLYI",
+                                                    "expanded_url": "https://ngl.link/lomyral",
+                                                    "display_url": "ngl.link/lomyral"
+                                                  }
+                                                ]
+                                              }
+                                            },
+                                            "protected": false,
+                                            "id": "1886385501130866688",
+                                            "created_at": "2025-02-03T12:05:49.000Z",
+                                            "name": "Lomyral",
+                                            "public_metrics": {
+                                              "followers_count": 714,
+                                              "following_count": 569,
+                                              "tweet_count": 5641,
+                                              "listed_count": 0,
+                                              "like_count": 43651,
+                                              "media_count": 105
+                                            },
+                                            "verified": false,
+                                            "profile_image_url": "https://pbs.twimg.com/profile_images/1888630778453729280/vZIfPLyg_normal.jpg",
+                                            "url": "https://t.co/ZWfkB4yLYI",
+                                            "username": "Lomyral",
+                                            "description": "enby,he/they.泛性恋.日常推,除了碎碎念就没别的了.不贩卖任何东西,不提供任何付费服务.我不吸毒，别钓了\n\n互关们可以私我领取tg🤲🏻❤️"
+                                          }
+                                        ],
+                                        "tweets": [
+                                          {
+                                            "text": "我会尽量在喝delsym之前把噻萘普汀的服用报告整理出来……缺点是药效非常短暂，急匆匆地来了然后悄咪咪地溜了，此外和经典阿片类相比，这个的欣快感比较平，有些缺乏深度。与咖啡因和尼古丁联用的体验非常棒，除了爽我不知道该如何形容这个感觉，个人认为再优化一下可以做白兔的便宜替代",
+                                            "edit_history_tweet_ids": [
+                                              "2036460909162536998"
+                                            ],
+                                            "public_metrics": {
+                                              "retweet_count": 0,
+                                              "reply_count": 3,
+                                              "like_count": 25,
+                                              "quote_count": 0,
+                                              "bookmark_count": 3,
+                                              "impression_count": 1984
+                                            },
+                                            "created_at": "2026-03-24T15:11:31.000Z",
+                                            "edit_controls": {
+                                              "edits_remaining": 5,
+                                              "is_edit_eligible": true,
+                                              "editable_until": "2026-03-24T16:11:31.000Z"
+                                            },
+                                            "context_annotations": [
+                                              {
+                                                "domain": {
+                                                  "id": "45",
+                                                  "name": "Brand Vertical",
+                                                  "description": "Top level entities that describe a Brands industry"
+                                                },
+                                                "entity": {
+                                                  "id": "781974596740190208",
+                                                  "name": "CPG"
+                                                }
+                                              },
+                                              {
+                                                "domain": {
+                                                  "id": "47",
+                                                  "name": "Brand",
+                                                  "description": "Brands and Companies"
+                                                },
+                                                "entity": {
+                                                  "id": "10027048428",
+                                                  "name": "Delsym"
+                                                }
+                                              }
+                                            ],
+                                            "possibly_sensitive": false,
+                                            "reply_settings": "everyone",
+                                            "conversation_id": "2036460909162536998",
+                                            "id": "2036460909162536998",
+                                            "author_id": "1886385501130866688",
+                                            "lang": "zh"
+                                          }
+                                        ]
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "id": "2036460909162536998",
+                                    "source": "x_api_oauth1",
+                                    "payload": {
+                                      "data": {
+                                        "context_annotations": [
+                                          {
+                                            "domain": {
+                                              "id": "45",
+                                              "name": "Brand Vertical",
+                                              "description": "Top level entities that describe a Brands industry"
+                                            },
+                                            "entity": {
+                                              "id": "781974596740190208",
+                                              "name": "CPG"
+                                            }
+                                          },
+                                          {
+                                            "domain": {
+                                              "id": "47",
+                                              "name": "Brand",
+                                              "description": "Brands and Companies"
+                                            },
+                                            "entity": {
+                                              "id": "10027048428",
+                                              "name": "Delsym"
+                                            }
+                                          }
+                                        ],
+                                        "possibly_sensitive": false,
+                                        "edit_controls": {
+                                          "edits_remaining": 5,
+                                          "is_edit_eligible": true,
+                                          "editable_until": "2026-03-24T16:11:31.000Z"
+                                        },
+                                        "public_metrics": {
+                                          "retweet_count": 0,
+                                          "reply_count": 3,
+                                          "like_count": 25,
+                                          "quote_count": 0,
+                                          "bookmark_count": 3,
+                                          "impression_count": 1984
+                                        },
+                                        "created_at": "2026-03-24T15:11:31.000Z",
+                                        "conversation_id": "2036460909162536998",
+                                        "edit_history_tweet_ids": [
+                                          "2036460909162536998"
+                                        ],
+                                        "id": "2036460909162536998",
+                                        "reply_settings": "everyone",
+                                        "text": "我会尽量在喝delsym之前把噻萘普汀的服用报告整理出来……缺点是药效非常短暂，急匆匆地来了然后悄咪咪地溜了，此外和经典阿片类相比，这个的欣快感比较平，有些缺乏深度。与咖啡因和尼古丁联用的体验非常棒，除了爽我不知道该如何形容这个感觉，个人认为再优化一下可以做白兔的便宜替代",
+                                        "lang": "zh",
+                                        "author_id": "1886385501130866688"
+                                      },
+                                      "includes": {
+                                        "users": [
+                                          {
+                                            "username": "Lomyral",
+                                            "description": "enby,he/they.泛性恋.日常推,除了碎碎念就没别的了.不贩卖任何东西,不提供任何付费服务.我不吸毒，别钓了\n\n互关们可以私我领取tg🤲🏻❤️",
+                                            "verified": false,
+                                            "protected": false,
+                                            "url": "https://t.co/ZWfkB4yLYI",
+                                            "public_metrics": {
+                                              "followers_count": 714,
+                                              "following_count": 569,
+                                              "tweet_count": 5641,
+                                              "listed_count": 0,
+                                              "like_count": 43651,
+                                              "media_count": 105
+                                            },
+                                            "profile_image_url": "https://pbs.twimg.com/profile_images/1888630778453729280/vZIfPLyg_normal.jpg",
+                                            "entities": {
+                                              "url": {
+                                                "urls": [
+                                                  {
+                                                    "start": 0,
+                                                    "end": 23,
+                                                    "url": "https://t.co/ZWfkB4yLYI",
+                                                    "expanded_url": "https://ngl.link/lomyral",
+                                                    "display_url": "ngl.link/lomyral"
+                                                  }
+                                                ]
+                                              }
+                                            },
+                                            "id": "1886385501130866688",
+                                            "name": "Lomyral",
+                                            "created_at": "2025-02-03T12:05:49.000Z"
+                                          }
+                                        ]
+                                      }
+                                    }
+                                  }
+                                ]
                               }
                             }
+                          }
+                        }
+                      },
+                      {
+                        "id": "2036485140483023038",
+                        "source": "x_api_oauth1",
+                        "payload": {
+                          "data": {
+                            "edit_history_tweet_ids": [
+                              "2036485140483023038"
+                            ],
+                            "lang": "zh",
+                            "conversation_id": "2036460909162536998",
+                            "possibly_sensitive": false,
+                            "id": "2036485140483023038",
+                            "referenced_tweets": [
+                              {
+                                "type": "replied_to",
+                                "id": "2036460909162536998"
+                              }
+                            ],
+                            "created_at": "2026-03-24T16:47:48.000Z",
+                            "in_reply_to_user_id": "1886385501130866688",
+                            "edit_controls": {
+                              "edits_remaining": 5,
+                              "is_edit_eligible": false,
+                              "editable_until": "2026-03-24T17:47:48.000Z"
+                            },
+                            "entities": {
+                              "mentions": [
+                                {
+                                  "start": 0,
+                                  "end": 8,
+                                  "username": "Lomyral",
+                                  "id": "1886385501130866688"
+                                }
+                              ]
+                            },
+                            "reply_settings": "everyone",
+                            "text": "@Lomyral 這個吃一次越吃越多100T一盒很快就幹完了",
+                            "public_metrics": {
+                              "retweet_count": 0,
+                              "reply_count": 1,
+                              "like_count": 1,
+                              "quote_count": 0,
+                              "bookmark_count": 1,
+                              "impression_count": 136
+                            },
+                            "author_id": "1558547901164318728"
+                          },
+                          "includes": {
+                            "users": [
+                              {
+                                "verified": false,
+                                "protected": false,
+                                "name": "ʚ✞ɞ",
+                                "public_metrics": {
+                                  "followers_count": 200,
+                                  "following_count": 406,
+                                  "tweet_count": 10726,
+                                  "listed_count": 0,
+                                  "like_count": 22194,
+                                  "media_count": 457
+                                },
+                                "username": "saiyadayoo",
+                                "description": "什麼時候開始變成這樣的呢",
+                                "created_at": "2022-08-13T20:16:01.000Z",
+                                "profile_image_url": "https://pbs.twimg.com/profile_images/1873311243852976128/T-qCTONh_normal.jpg",
+                                "id": "1558547901164318728",
+                                "location": "天堂"
+                              },
+                              {
+                                "verified": false,
+                                "protected": false,
+                                "name": "Lomyral",
+                                "public_metrics": {
+                                  "followers_count": 719,
+                                  "following_count": 578,
+                                  "tweet_count": 5676,
+                                  "listed_count": 0,
+                                  "like_count": 43831,
+                                  "media_count": 107
+                                },
+                                "entities": {
+                                  "url": {
+                                    "urls": [
+                                      {
+                                        "start": 0,
+                                        "end": 23,
+                                        "url": "https://t.co/ZWfkB4yLYI",
+                                        "expanded_url": "https://ngl.link/lomyral",
+                                        "display_url": "ngl.link/lomyral"
+                                      }
+                                    ]
+                                  }
+                                },
+                                "url": "https://t.co/ZWfkB4yLYI",
+                                "username": "Lomyral",
+                                "description": "enby,he/they.泛性恋.日常推,除了碎碎念就没别的了.不贩卖任何东西,不提供任何付费服务.我不吸毒，别钓了\n\n互关们可以私我领取tg🤲🏻❤️",
+                                "created_at": "2025-02-03T12:05:49.000Z",
+                                "profile_image_url": "https://pbs.twimg.com/profile_images/1888630778453729280/vZIfPLyg_normal.jpg",
+                                "id": "1886385501130866688"
+                              }
+                            ],
+                            "tweets": [
+                              {
+                                "edit_history_tweet_ids": [
+                                  "2036460909162536998"
+                                ],
+                                "lang": "zh",
+                                "context_annotations": [
+                                  {
+                                    "domain": {
+                                      "id": "45",
+                                      "name": "Brand Vertical",
+                                      "description": "Top level entities that describe a Brands industry"
+                                    },
+                                    "entity": {
+                                      "id": "781974596740190208",
+                                      "name": "CPG"
+                                    }
+                                  },
+                                  {
+                                    "domain": {
+                                      "id": "47",
+                                      "name": "Brand",
+                                      "description": "Brands and Companies"
+                                    },
+                                    "entity": {
+                                      "id": "10027048428",
+                                      "name": "Delsym"
+                                    }
+                                  }
+                                ],
+                                "conversation_id": "2036460909162536998",
+                                "possibly_sensitive": false,
+                                "id": "2036460909162536998",
+                                "created_at": "2026-03-24T15:11:31.000Z",
+                                "edit_controls": {
+                                  "edits_remaining": 5,
+                                  "is_edit_eligible": true,
+                                  "editable_until": "2026-03-24T16:11:31.000Z"
+                                },
+                                "reply_settings": "everyone",
+                                "text": "我会尽量在喝delsym之前把噻萘普汀的服用报告整理出来……缺点是药效非常短暂，急匆匆地来了然后悄咪咪地溜了，此外和经典阿片类相比，这个的欣快感比较平，有些缺乏深度。与咖啡因和尼古丁联用的体验非常棒，除了爽我不知道该如何形容这个感觉，个人认为再优化一下可以做白兔的便宜替代",
+                                "public_metrics": {
+                                  "retweet_count": 0,
+                                  "reply_count": 3,
+                                  "like_count": 25,
+                                  "quote_count": 0,
+                                  "bookmark_count": 3,
+                                  "impression_count": 1984
+                                },
+                                "author_id": "1886385501130866688"
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "id": "2036460909162536998",
+                        "source": "x_api_oauth1",
+                        "payload": {
+                          "data": {
+                            "edit_history_tweet_ids": [
+                              "2036460909162536998"
+                            ],
+                            "context_annotations": [
+                              {
+                                "domain": {
+                                  "id": "45",
+                                  "name": "Brand Vertical",
+                                  "description": "Top level entities that describe a Brands industry"
+                                },
+                                "entity": {
+                                  "id": "781974596740190208",
+                                  "name": "CPG"
+                                }
+                              },
+                              {
+                                "domain": {
+                                  "id": "47",
+                                  "name": "Brand",
+                                  "description": "Brands and Companies"
+                                },
+                                "entity": {
+                                  "id": "10027048428",
+                                  "name": "Delsym"
+                                }
+                              }
+                            ],
+                            "reply_settings": "everyone",
+                            "public_metrics": {
+                              "retweet_count": 0,
+                              "reply_count": 3,
+                              "like_count": 25,
+                              "quote_count": 0,
+                              "bookmark_count": 3,
+                              "impression_count": 1984
+                            },
+                            "created_at": "2026-03-24T15:11:31.000Z",
+                            "lang": "zh",
+                            "text": "我会尽量在喝delsym之前把噻萘普汀的服用报告整理出来……缺点是药效非常短暂，急匆匆地来了然后悄咪咪地溜了，此外和经典阿片类相比，这个的欣快感比较平，有些缺乏深度。与咖啡因和尼古丁联用的体验非常棒，除了爽我不知道该如何形容这个感觉，个人认为再优化一下可以做白兔的便宜替代",
+                            "possibly_sensitive": false,
+                            "id": "2036460909162536998",
+                            "author_id": "1886385501130866688",
+                            "edit_controls": {
+                              "edits_remaining": 5,
+                              "is_edit_eligible": true,
+                              "editable_until": "2026-03-24T16:11:31.000Z"
+                            },
+                            "conversation_id": "2036460909162536998"
+                          },
+                          "includes": {
+                            "users": [
+                              {
+                                "protected": false,
+                                "id": "1886385501130866688",
+                                "url": "https://t.co/ZWfkB4yLYI",
+                                "entities": {
+                                  "url": {
+                                    "urls": [
+                                      {
+                                        "start": 0,
+                                        "end": 23,
+                                        "url": "https://t.co/ZWfkB4yLYI",
+                                        "expanded_url": "https://ngl.link/lomyral",
+                                        "display_url": "ngl.link/lomyral"
+                                      }
+                                    ]
+                                  }
+                                },
+                                "name": "Lomyral",
+                                "public_metrics": {
+                                  "followers_count": 719,
+                                  "following_count": 578,
+                                  "tweet_count": 5676,
+                                  "listed_count": 0,
+                                  "like_count": 43831,
+                                  "media_count": 107
+                                },
+                                "created_at": "2025-02-03T12:05:49.000Z",
+                                "profile_image_url": "https://pbs.twimg.com/profile_images/1888630778453729280/vZIfPLyg_normal.jpg",
+                                "username": "Lomyral",
+                                "description": "enby,he/they.泛性恋.日常推,除了碎碎念就没别的了.不贩卖任何东西,不提供任何付费服务.我不吸毒，别钓了\n\n互关们可以私我领取tg🤲🏻❤️",
+                                "verified": false
+                              }
+                            ]
                           }
                         }
                       }
@@ -1394,7 +2132,7 @@
                 "x_api_reply_chains": {
                   "2036657800449847429": {
                     "version": 1,
-                    "fetched_at": "2026-04-18T01:35:32Z",
+                    "fetched_at": "2026-04-18T06:18:28Z",
                     "max_depth": 63,
                     "posts": [
                       {
@@ -1666,13 +2404,258 @@
                             "x_api_reply_chains": {
                               "2036485140483023038": {
                                 "version": 1,
-                                "fetched_at": "2026-04-17T23:26:08Z",
-                                "max_depth": 7,
-                                "posts": [],
-                                "terminal_error": {
-                                  "id": "2036485140483023038",
-                                  "message": "X API returned HTTP 429."
-                                }
+                                "fetched_at": "2026-04-18T01:35:33Z",
+                                "max_depth": 63,
+                                "posts": [
+                                  {
+                                    "id": "2036485140483023038",
+                                    "source": "x_api_oauth1",
+                                    "payload": {
+                                      "data": {
+                                        "text": "@Lomyral 這個吃一次越吃越多100T一盒很快就幹完了",
+                                        "edit_history_tweet_ids": [
+                                          "2036485140483023038"
+                                        ],
+                                        "public_metrics": {
+                                          "retweet_count": 0,
+                                          "reply_count": 1,
+                                          "like_count": 1,
+                                          "quote_count": 0,
+                                          "bookmark_count": 1,
+                                          "impression_count": 136
+                                        },
+                                        "created_at": "2026-03-24T16:47:48.000Z",
+                                        "edit_controls": {
+                                          "edits_remaining": 5,
+                                          "is_edit_eligible": false,
+                                          "editable_until": "2026-03-24T17:47:48.000Z"
+                                        },
+                                        "in_reply_to_user_id": "1886385501130866688",
+                                        "entities": {
+                                          "mentions": [
+                                            {
+                                              "start": 0,
+                                              "end": 8,
+                                              "username": "Lomyral",
+                                              "id": "1886385501130866688"
+                                            }
+                                          ]
+                                        },
+                                        "possibly_sensitive": false,
+                                        "reply_settings": "everyone",
+                                        "conversation_id": "2036460909162536998",
+                                        "id": "2036485140483023038",
+                                        "author_id": "1558547901164318728",
+                                        "lang": "zh",
+                                        "referenced_tweets": [
+                                          {
+                                            "type": "replied_to",
+                                            "id": "2036460909162536998"
+                                          }
+                                        ]
+                                      },
+                                      "includes": {
+                                        "users": [
+                                          {
+                                            "protected": false,
+                                            "id": "1558547901164318728",
+                                            "created_at": "2022-08-13T20:16:01.000Z",
+                                            "location": "天堂",
+                                            "name": "ʚ✞ɞ",
+                                            "public_metrics": {
+                                              "followers_count": 200,
+                                              "following_count": 406,
+                                              "tweet_count": 10726,
+                                              "listed_count": 0,
+                                              "like_count": 22194,
+                                              "media_count": 457
+                                            },
+                                            "verified": false,
+                                            "profile_image_url": "https://pbs.twimg.com/profile_images/1873311243852976128/T-qCTONh_normal.jpg",
+                                            "username": "saiyadayoo",
+                                            "description": "什麼時候開始變成這樣的呢"
+                                          },
+                                          {
+                                            "entities": {
+                                              "url": {
+                                                "urls": [
+                                                  {
+                                                    "start": 0,
+                                                    "end": 23,
+                                                    "url": "https://t.co/ZWfkB4yLYI",
+                                                    "expanded_url": "https://ngl.link/lomyral",
+                                                    "display_url": "ngl.link/lomyral"
+                                                  }
+                                                ]
+                                              }
+                                            },
+                                            "protected": false,
+                                            "id": "1886385501130866688",
+                                            "created_at": "2025-02-03T12:05:49.000Z",
+                                            "name": "Lomyral",
+                                            "public_metrics": {
+                                              "followers_count": 714,
+                                              "following_count": 569,
+                                              "tweet_count": 5641,
+                                              "listed_count": 0,
+                                              "like_count": 43651,
+                                              "media_count": 105
+                                            },
+                                            "verified": false,
+                                            "profile_image_url": "https://pbs.twimg.com/profile_images/1888630778453729280/vZIfPLyg_normal.jpg",
+                                            "url": "https://t.co/ZWfkB4yLYI",
+                                            "username": "Lomyral",
+                                            "description": "enby,he/they.泛性恋.日常推,除了碎碎念就没别的了.不贩卖任何东西,不提供任何付费服务.我不吸毒，别钓了\n\n互关们可以私我领取tg🤲🏻❤️"
+                                          }
+                                        ],
+                                        "tweets": [
+                                          {
+                                            "text": "我会尽量在喝delsym之前把噻萘普汀的服用报告整理出来……缺点是药效非常短暂，急匆匆地来了然后悄咪咪地溜了，此外和经典阿片类相比，这个的欣快感比较平，有些缺乏深度。与咖啡因和尼古丁联用的体验非常棒，除了爽我不知道该如何形容这个感觉，个人认为再优化一下可以做白兔的便宜替代",
+                                            "edit_history_tweet_ids": [
+                                              "2036460909162536998"
+                                            ],
+                                            "public_metrics": {
+                                              "retweet_count": 0,
+                                              "reply_count": 3,
+                                              "like_count": 25,
+                                              "quote_count": 0,
+                                              "bookmark_count": 3,
+                                              "impression_count": 1984
+                                            },
+                                            "created_at": "2026-03-24T15:11:31.000Z",
+                                            "edit_controls": {
+                                              "edits_remaining": 5,
+                                              "is_edit_eligible": true,
+                                              "editable_until": "2026-03-24T16:11:31.000Z"
+                                            },
+                                            "context_annotations": [
+                                              {
+                                                "domain": {
+                                                  "id": "45",
+                                                  "name": "Brand Vertical",
+                                                  "description": "Top level entities that describe a Brands industry"
+                                                },
+                                                "entity": {
+                                                  "id": "781974596740190208",
+                                                  "name": "CPG"
+                                                }
+                                              },
+                                              {
+                                                "domain": {
+                                                  "id": "47",
+                                                  "name": "Brand",
+                                                  "description": "Brands and Companies"
+                                                },
+                                                "entity": {
+                                                  "id": "10027048428",
+                                                  "name": "Delsym"
+                                                }
+                                              }
+                                            ],
+                                            "possibly_sensitive": false,
+                                            "reply_settings": "everyone",
+                                            "conversation_id": "2036460909162536998",
+                                            "id": "2036460909162536998",
+                                            "author_id": "1886385501130866688",
+                                            "lang": "zh"
+                                          }
+                                        ]
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "id": "2036460909162536998",
+                                    "source": "x_api_oauth1",
+                                    "payload": {
+                                      "data": {
+                                        "context_annotations": [
+                                          {
+                                            "domain": {
+                                              "id": "45",
+                                              "name": "Brand Vertical",
+                                              "description": "Top level entities that describe a Brands industry"
+                                            },
+                                            "entity": {
+                                              "id": "781974596740190208",
+                                              "name": "CPG"
+                                            }
+                                          },
+                                          {
+                                            "domain": {
+                                              "id": "47",
+                                              "name": "Brand",
+                                              "description": "Brands and Companies"
+                                            },
+                                            "entity": {
+                                              "id": "10027048428",
+                                              "name": "Delsym"
+                                            }
+                                          }
+                                        ],
+                                        "possibly_sensitive": false,
+                                        "edit_controls": {
+                                          "edits_remaining": 5,
+                                          "is_edit_eligible": true,
+                                          "editable_until": "2026-03-24T16:11:31.000Z"
+                                        },
+                                        "public_metrics": {
+                                          "retweet_count": 0,
+                                          "reply_count": 3,
+                                          "like_count": 25,
+                                          "quote_count": 0,
+                                          "bookmark_count": 3,
+                                          "impression_count": 1984
+                                        },
+                                        "created_at": "2026-03-24T15:11:31.000Z",
+                                        "conversation_id": "2036460909162536998",
+                                        "edit_history_tweet_ids": [
+                                          "2036460909162536998"
+                                        ],
+                                        "id": "2036460909162536998",
+                                        "reply_settings": "everyone",
+                                        "text": "我会尽量在喝delsym之前把噻萘普汀的服用报告整理出来……缺点是药效非常短暂，急匆匆地来了然后悄咪咪地溜了，此外和经典阿片类相比，这个的欣快感比较平，有些缺乏深度。与咖啡因和尼古丁联用的体验非常棒，除了爽我不知道该如何形容这个感觉，个人认为再优化一下可以做白兔的便宜替代",
+                                        "lang": "zh",
+                                        "author_id": "1886385501130866688"
+                                      },
+                                      "includes": {
+                                        "users": [
+                                          {
+                                            "username": "Lomyral",
+                                            "description": "enby,he/they.泛性恋.日常推,除了碎碎念就没别的了.不贩卖任何东西,不提供任何付费服务.我不吸毒，别钓了\n\n互关们可以私我领取tg🤲🏻❤️",
+                                            "verified": false,
+                                            "protected": false,
+                                            "url": "https://t.co/ZWfkB4yLYI",
+                                            "public_metrics": {
+                                              "followers_count": 714,
+                                              "following_count": 569,
+                                              "tweet_count": 5641,
+                                              "listed_count": 0,
+                                              "like_count": 43651,
+                                              "media_count": 105
+                                            },
+                                            "profile_image_url": "https://pbs.twimg.com/profile_images/1888630778453729280/vZIfPLyg_normal.jpg",
+                                            "entities": {
+                                              "url": {
+                                                "urls": [
+                                                  {
+                                                    "start": 0,
+                                                    "end": 23,
+                                                    "url": "https://t.co/ZWfkB4yLYI",
+                                                    "expanded_url": "https://ngl.link/lomyral",
+                                                    "display_url": "ngl.link/lomyral"
+                                                  }
+                                                ]
+                                              }
+                                            },
+                                            "id": "1886385501130866688",
+                                            "name": "Lomyral",
+                                            "created_at": "2025-02-03T12:05:49.000Z"
+                                          }
+                                        ]
+                                      }
+                                    }
+                                  }
+                                ]
                               }
                             }
                           }
@@ -1947,21 +2930,1814 @@
                             "x_api_reply_chains": {
                               "2036485140483023038": {
                                 "version": 1,
-                                "fetched_at": "2026-04-17T23:26:08Z",
-                                "max_depth": 7,
-                                "posts": [],
-                                "terminal_error": {
-                                  "id": "2036485140483023038",
-                                  "message": "X API returned HTTP 429."
-                                }
+                                "fetched_at": "2026-04-18T01:35:33Z",
+                                "max_depth": 63,
+                                "posts": [
+                                  {
+                                    "id": "2036485140483023038",
+                                    "source": "x_api_oauth1",
+                                    "payload": {
+                                      "data": {
+                                        "text": "@Lomyral 這個吃一次越吃越多100T一盒很快就幹完了",
+                                        "edit_history_tweet_ids": [
+                                          "2036485140483023038"
+                                        ],
+                                        "public_metrics": {
+                                          "retweet_count": 0,
+                                          "reply_count": 1,
+                                          "like_count": 1,
+                                          "quote_count": 0,
+                                          "bookmark_count": 1,
+                                          "impression_count": 136
+                                        },
+                                        "created_at": "2026-03-24T16:47:48.000Z",
+                                        "edit_controls": {
+                                          "edits_remaining": 5,
+                                          "is_edit_eligible": false,
+                                          "editable_until": "2026-03-24T17:47:48.000Z"
+                                        },
+                                        "in_reply_to_user_id": "1886385501130866688",
+                                        "entities": {
+                                          "mentions": [
+                                            {
+                                              "start": 0,
+                                              "end": 8,
+                                              "username": "Lomyral",
+                                              "id": "1886385501130866688"
+                                            }
+                                          ]
+                                        },
+                                        "possibly_sensitive": false,
+                                        "reply_settings": "everyone",
+                                        "conversation_id": "2036460909162536998",
+                                        "id": "2036485140483023038",
+                                        "author_id": "1558547901164318728",
+                                        "lang": "zh",
+                                        "referenced_tweets": [
+                                          {
+                                            "type": "replied_to",
+                                            "id": "2036460909162536998"
+                                          }
+                                        ]
+                                      },
+                                      "includes": {
+                                        "users": [
+                                          {
+                                            "protected": false,
+                                            "id": "1558547901164318728",
+                                            "created_at": "2022-08-13T20:16:01.000Z",
+                                            "location": "天堂",
+                                            "name": "ʚ✞ɞ",
+                                            "public_metrics": {
+                                              "followers_count": 200,
+                                              "following_count": 406,
+                                              "tweet_count": 10726,
+                                              "listed_count": 0,
+                                              "like_count": 22194,
+                                              "media_count": 457
+                                            },
+                                            "verified": false,
+                                            "profile_image_url": "https://pbs.twimg.com/profile_images/1873311243852976128/T-qCTONh_normal.jpg",
+                                            "username": "saiyadayoo",
+                                            "description": "什麼時候開始變成這樣的呢"
+                                          },
+                                          {
+                                            "entities": {
+                                              "url": {
+                                                "urls": [
+                                                  {
+                                                    "start": 0,
+                                                    "end": 23,
+                                                    "url": "https://t.co/ZWfkB4yLYI",
+                                                    "expanded_url": "https://ngl.link/lomyral",
+                                                    "display_url": "ngl.link/lomyral"
+                                                  }
+                                                ]
+                                              }
+                                            },
+                                            "protected": false,
+                                            "id": "1886385501130866688",
+                                            "created_at": "2025-02-03T12:05:49.000Z",
+                                            "name": "Lomyral",
+                                            "public_metrics": {
+                                              "followers_count": 714,
+                                              "following_count": 569,
+                                              "tweet_count": 5641,
+                                              "listed_count": 0,
+                                              "like_count": 43651,
+                                              "media_count": 105
+                                            },
+                                            "verified": false,
+                                            "profile_image_url": "https://pbs.twimg.com/profile_images/1888630778453729280/vZIfPLyg_normal.jpg",
+                                            "url": "https://t.co/ZWfkB4yLYI",
+                                            "username": "Lomyral",
+                                            "description": "enby,he/they.泛性恋.日常推,除了碎碎念就没别的了.不贩卖任何东西,不提供任何付费服务.我不吸毒，别钓了\n\n互关们可以私我领取tg🤲🏻❤️"
+                                          }
+                                        ],
+                                        "tweets": [
+                                          {
+                                            "text": "我会尽量在喝delsym之前把噻萘普汀的服用报告整理出来……缺点是药效非常短暂，急匆匆地来了然后悄咪咪地溜了，此外和经典阿片类相比，这个的欣快感比较平，有些缺乏深度。与咖啡因和尼古丁联用的体验非常棒，除了爽我不知道该如何形容这个感觉，个人认为再优化一下可以做白兔的便宜替代",
+                                            "edit_history_tweet_ids": [
+                                              "2036460909162536998"
+                                            ],
+                                            "public_metrics": {
+                                              "retweet_count": 0,
+                                              "reply_count": 3,
+                                              "like_count": 25,
+                                              "quote_count": 0,
+                                              "bookmark_count": 3,
+                                              "impression_count": 1984
+                                            },
+                                            "created_at": "2026-03-24T15:11:31.000Z",
+                                            "edit_controls": {
+                                              "edits_remaining": 5,
+                                              "is_edit_eligible": true,
+                                              "editable_until": "2026-03-24T16:11:31.000Z"
+                                            },
+                                            "context_annotations": [
+                                              {
+                                                "domain": {
+                                                  "id": "45",
+                                                  "name": "Brand Vertical",
+                                                  "description": "Top level entities that describe a Brands industry"
+                                                },
+                                                "entity": {
+                                                  "id": "781974596740190208",
+                                                  "name": "CPG"
+                                                }
+                                              },
+                                              {
+                                                "domain": {
+                                                  "id": "47",
+                                                  "name": "Brand",
+                                                  "description": "Brands and Companies"
+                                                },
+                                                "entity": {
+                                                  "id": "10027048428",
+                                                  "name": "Delsym"
+                                                }
+                                              }
+                                            ],
+                                            "possibly_sensitive": false,
+                                            "reply_settings": "everyone",
+                                            "conversation_id": "2036460909162536998",
+                                            "id": "2036460909162536998",
+                                            "author_id": "1886385501130866688",
+                                            "lang": "zh"
+                                          }
+                                        ]
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "id": "2036460909162536998",
+                                    "source": "x_api_oauth1",
+                                    "payload": {
+                                      "data": {
+                                        "context_annotations": [
+                                          {
+                                            "domain": {
+                                              "id": "45",
+                                              "name": "Brand Vertical",
+                                              "description": "Top level entities that describe a Brands industry"
+                                            },
+                                            "entity": {
+                                              "id": "781974596740190208",
+                                              "name": "CPG"
+                                            }
+                                          },
+                                          {
+                                            "domain": {
+                                              "id": "47",
+                                              "name": "Brand",
+                                              "description": "Brands and Companies"
+                                            },
+                                            "entity": {
+                                              "id": "10027048428",
+                                              "name": "Delsym"
+                                            }
+                                          }
+                                        ],
+                                        "possibly_sensitive": false,
+                                        "edit_controls": {
+                                          "edits_remaining": 5,
+                                          "is_edit_eligible": true,
+                                          "editable_until": "2026-03-24T16:11:31.000Z"
+                                        },
+                                        "public_metrics": {
+                                          "retweet_count": 0,
+                                          "reply_count": 3,
+                                          "like_count": 25,
+                                          "quote_count": 0,
+                                          "bookmark_count": 3,
+                                          "impression_count": 1984
+                                        },
+                                        "created_at": "2026-03-24T15:11:31.000Z",
+                                        "conversation_id": "2036460909162536998",
+                                        "edit_history_tweet_ids": [
+                                          "2036460909162536998"
+                                        ],
+                                        "id": "2036460909162536998",
+                                        "reply_settings": "everyone",
+                                        "text": "我会尽量在喝delsym之前把噻萘普汀的服用报告整理出来……缺点是药效非常短暂，急匆匆地来了然后悄咪咪地溜了，此外和经典阿片类相比，这个的欣快感比较平，有些缺乏深度。与咖啡因和尼古丁联用的体验非常棒，除了爽我不知道该如何形容这个感觉，个人认为再优化一下可以做白兔的便宜替代",
+                                        "lang": "zh",
+                                        "author_id": "1886385501130866688"
+                                      },
+                                      "includes": {
+                                        "users": [
+                                          {
+                                            "username": "Lomyral",
+                                            "description": "enby,he/they.泛性恋.日常推,除了碎碎念就没别的了.不贩卖任何东西,不提供任何付费服务.我不吸毒，别钓了\n\n互关们可以私我领取tg🤲🏻❤️",
+                                            "verified": false,
+                                            "protected": false,
+                                            "url": "https://t.co/ZWfkB4yLYI",
+                                            "public_metrics": {
+                                              "followers_count": 714,
+                                              "following_count": 569,
+                                              "tweet_count": 5641,
+                                              "listed_count": 0,
+                                              "like_count": 43651,
+                                              "media_count": 105
+                                            },
+                                            "profile_image_url": "https://pbs.twimg.com/profile_images/1888630778453729280/vZIfPLyg_normal.jpg",
+                                            "entities": {
+                                              "url": {
+                                                "urls": [
+                                                  {
+                                                    "start": 0,
+                                                    "end": 23,
+                                                    "url": "https://t.co/ZWfkB4yLYI",
+                                                    "expanded_url": "https://ngl.link/lomyral",
+                                                    "display_url": "ngl.link/lomyral"
+                                                  }
+                                                ]
+                                              }
+                                            },
+                                            "id": "1886385501130866688",
+                                            "name": "Lomyral",
+                                            "created_at": "2025-02-03T12:05:49.000Z"
+                                          }
+                                        ]
+                                      }
+                                    }
+                                  }
+                                ]
                               }
                             }
+                          }
+                        }
+                      },
+                      {
+                        "id": "2036485140483023038",
+                        "source": "x_api_oauth1",
+                        "payload": {
+                          "data": {
+                            "edit_history_tweet_ids": [
+                              "2036485140483023038"
+                            ],
+                            "lang": "zh",
+                            "conversation_id": "2036460909162536998",
+                            "possibly_sensitive": false,
+                            "id": "2036485140483023038",
+                            "referenced_tweets": [
+                              {
+                                "type": "replied_to",
+                                "id": "2036460909162536998"
+                              }
+                            ],
+                            "created_at": "2026-03-24T16:47:48.000Z",
+                            "in_reply_to_user_id": "1886385501130866688",
+                            "edit_controls": {
+                              "edits_remaining": 5,
+                              "is_edit_eligible": false,
+                              "editable_until": "2026-03-24T17:47:48.000Z"
+                            },
+                            "entities": {
+                              "mentions": [
+                                {
+                                  "start": 0,
+                                  "end": 8,
+                                  "username": "Lomyral",
+                                  "id": "1886385501130866688"
+                                }
+                              ]
+                            },
+                            "reply_settings": "everyone",
+                            "text": "@Lomyral 這個吃一次越吃越多100T一盒很快就幹完了",
+                            "public_metrics": {
+                              "retweet_count": 0,
+                              "reply_count": 1,
+                              "like_count": 1,
+                              "quote_count": 0,
+                              "bookmark_count": 1,
+                              "impression_count": 136
+                            },
+                            "author_id": "1558547901164318728"
+                          },
+                          "includes": {
+                            "users": [
+                              {
+                                "verified": false,
+                                "protected": false,
+                                "name": "ʚ✞ɞ",
+                                "public_metrics": {
+                                  "followers_count": 200,
+                                  "following_count": 406,
+                                  "tweet_count": 10726,
+                                  "listed_count": 0,
+                                  "like_count": 22194,
+                                  "media_count": 457
+                                },
+                                "username": "saiyadayoo",
+                                "description": "什麼時候開始變成這樣的呢",
+                                "created_at": "2022-08-13T20:16:01.000Z",
+                                "profile_image_url": "https://pbs.twimg.com/profile_images/1873311243852976128/T-qCTONh_normal.jpg",
+                                "id": "1558547901164318728",
+                                "location": "天堂"
+                              },
+                              {
+                                "verified": false,
+                                "protected": false,
+                                "name": "Lomyral",
+                                "public_metrics": {
+                                  "followers_count": 719,
+                                  "following_count": 578,
+                                  "tweet_count": 5676,
+                                  "listed_count": 0,
+                                  "like_count": 43831,
+                                  "media_count": 107
+                                },
+                                "entities": {
+                                  "url": {
+                                    "urls": [
+                                      {
+                                        "start": 0,
+                                        "end": 23,
+                                        "url": "https://t.co/ZWfkB4yLYI",
+                                        "expanded_url": "https://ngl.link/lomyral",
+                                        "display_url": "ngl.link/lomyral"
+                                      }
+                                    ]
+                                  }
+                                },
+                                "url": "https://t.co/ZWfkB4yLYI",
+                                "username": "Lomyral",
+                                "description": "enby,he/they.泛性恋.日常推,除了碎碎念就没别的了.不贩卖任何东西,不提供任何付费服务.我不吸毒，别钓了\n\n互关们可以私我领取tg🤲🏻❤️",
+                                "created_at": "2025-02-03T12:05:49.000Z",
+                                "profile_image_url": "https://pbs.twimg.com/profile_images/1888630778453729280/vZIfPLyg_normal.jpg",
+                                "id": "1886385501130866688"
+                              }
+                            ],
+                            "tweets": [
+                              {
+                                "edit_history_tweet_ids": [
+                                  "2036460909162536998"
+                                ],
+                                "lang": "zh",
+                                "context_annotations": [
+                                  {
+                                    "domain": {
+                                      "id": "45",
+                                      "name": "Brand Vertical",
+                                      "description": "Top level entities that describe a Brands industry"
+                                    },
+                                    "entity": {
+                                      "id": "781974596740190208",
+                                      "name": "CPG"
+                                    }
+                                  },
+                                  {
+                                    "domain": {
+                                      "id": "47",
+                                      "name": "Brand",
+                                      "description": "Brands and Companies"
+                                    },
+                                    "entity": {
+                                      "id": "10027048428",
+                                      "name": "Delsym"
+                                    }
+                                  }
+                                ],
+                                "conversation_id": "2036460909162536998",
+                                "possibly_sensitive": false,
+                                "id": "2036460909162536998",
+                                "created_at": "2026-03-24T15:11:31.000Z",
+                                "edit_controls": {
+                                  "edits_remaining": 5,
+                                  "is_edit_eligible": true,
+                                  "editable_until": "2026-03-24T16:11:31.000Z"
+                                },
+                                "reply_settings": "everyone",
+                                "text": "我会尽量在喝delsym之前把噻萘普汀的服用报告整理出来……缺点是药效非常短暂，急匆匆地来了然后悄咪咪地溜了，此外和经典阿片类相比，这个的欣快感比较平，有些缺乏深度。与咖啡因和尼古丁联用的体验非常棒，除了爽我不知道该如何形容这个感觉，个人认为再优化一下可以做白兔的便宜替代",
+                                "public_metrics": {
+                                  "retweet_count": 0,
+                                  "reply_count": 3,
+                                  "like_count": 25,
+                                  "quote_count": 0,
+                                  "bookmark_count": 3,
+                                  "impression_count": 1984
+                                },
+                                "author_id": "1886385501130866688"
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "id": "2036460909162536998",
+                        "source": "x_api_oauth1",
+                        "payload": {
+                          "data": {
+                            "edit_history_tweet_ids": [
+                              "2036460909162536998"
+                            ],
+                            "context_annotations": [
+                              {
+                                "domain": {
+                                  "id": "45",
+                                  "name": "Brand Vertical",
+                                  "description": "Top level entities that describe a Brands industry"
+                                },
+                                "entity": {
+                                  "id": "781974596740190208",
+                                  "name": "CPG"
+                                }
+                              },
+                              {
+                                "domain": {
+                                  "id": "47",
+                                  "name": "Brand",
+                                  "description": "Brands and Companies"
+                                },
+                                "entity": {
+                                  "id": "10027048428",
+                                  "name": "Delsym"
+                                }
+                              }
+                            ],
+                            "reply_settings": "everyone",
+                            "public_metrics": {
+                              "retweet_count": 0,
+                              "reply_count": 3,
+                              "like_count": 25,
+                              "quote_count": 0,
+                              "bookmark_count": 3,
+                              "impression_count": 1984
+                            },
+                            "created_at": "2026-03-24T15:11:31.000Z",
+                            "lang": "zh",
+                            "text": "我会尽量在喝delsym之前把噻萘普汀的服用报告整理出来……缺点是药效非常短暂，急匆匆地来了然后悄咪咪地溜了，此外和经典阿片类相比，这个的欣快感比较平，有些缺乏深度。与咖啡因和尼古丁联用的体验非常棒，除了爽我不知道该如何形容这个感觉，个人认为再优化一下可以做白兔的便宜替代",
+                            "possibly_sensitive": false,
+                            "id": "2036460909162536998",
+                            "author_id": "1886385501130866688",
+                            "edit_controls": {
+                              "edits_remaining": 5,
+                              "is_edit_eligible": true,
+                              "editable_until": "2026-03-24T16:11:31.000Z"
+                            },
+                            "conversation_id": "2036460909162536998"
+                          },
+                          "includes": {
+                            "users": [
+                              {
+                                "protected": false,
+                                "id": "1886385501130866688",
+                                "url": "https://t.co/ZWfkB4yLYI",
+                                "entities": {
+                                  "url": {
+                                    "urls": [
+                                      {
+                                        "start": 0,
+                                        "end": 23,
+                                        "url": "https://t.co/ZWfkB4yLYI",
+                                        "expanded_url": "https://ngl.link/lomyral",
+                                        "display_url": "ngl.link/lomyral"
+                                      }
+                                    ]
+                                  }
+                                },
+                                "name": "Lomyral",
+                                "public_metrics": {
+                                  "followers_count": 719,
+                                  "following_count": 578,
+                                  "tweet_count": 5676,
+                                  "listed_count": 0,
+                                  "like_count": 43831,
+                                  "media_count": 107
+                                },
+                                "created_at": "2025-02-03T12:05:49.000Z",
+                                "profile_image_url": "https://pbs.twimg.com/profile_images/1888630778453729280/vZIfPLyg_normal.jpg",
+                                "username": "Lomyral",
+                                "description": "enby,he/they.泛性恋.日常推,除了碎碎念就没别的了.不贩卖任何东西,不提供任何付费服务.我不吸毒，别钓了\n\n互关们可以私我领取tg🤲🏻❤️",
+                                "verified": false
+                              }
+                            ]
                           }
                         }
                       }
                     ]
                   }
                 }
+              }
+            }
+          },
+          {
+            "id": "2036657800449847429",
+            "source": "local_json",
+            "payload": {
+              "data": {
+                "article": {},
+                "attachments": {},
+                "author_id": "1741993395910811648",
+                "conversation_id": "2036460909162536998",
+                "created_at": "2026-03-25T04:13:53.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2026-03-25T05:13:53.000Z"
+                },
+                "edit_history_tweet_ids": [
+                  "2036657800449847429"
+                ],
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 0,
+                      "end": 8,
+                      "username": "Lomyral",
+                      "id": "1886385501130866688"
+                    },
+                    {
+                      "start": 9,
+                      "end": 20,
+                      "username": "saiyadayoo",
+                      "id": "1558547901164318728"
+                    }
+                  ]
+                },
+                "geo": {},
+                "id": "2036657800449847429",
+                "in_reply_to_user_id": "1886385501130866688",
+                "lang": "zh",
+                "note_tweet": {
+                  "entities": {}
+                },
+                "possibly_sensitive": false,
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 0
+                },
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "2036485652473323682"
+                  }
+                ],
+                "reply_settings": "everyone",
+                "text": "@Lomyral @saiyadayoo 可能和活性代谢物mc5有关..？持续作用于阿片受体了而且半衰期比母体长很多。\n猜的。"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "created_at": "2024-01-02T01:22:57.000Z",
+                    "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 倒影@TauCeti_10700 计划这个号机的浓度更高一些 | 🚪88/158",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/iO6MRJNTYR",
+                            "expanded_url": "https://ngl.link/anincandescence1",
+                            "display_url": "ngl.link/anincandescenc…"
+                          }
+                        ]
+                      },
+                      "description": {
+                        "mentions": [
+                          {
+                            "start": 62,
+                            "end": 76,
+                            "username": "TauCeti_10700"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1741993395910811648",
+                    "location": "天鹅座X-1 //⬇️ 匿名提问箱",
+                    "name": "炽烈已极",
+                    "pinned_tweet_id": "2024076888923365667",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2034869645342076928/m2LinKe5_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 1850,
+                      "following_count": 248,
+                      "tweet_count": 6618,
+                      "listed_count": 5,
+                      "like_count": 15598,
+                      "media_count": 1177
+                    },
+                    "url": "https://t.co/iO6MRJNTYR",
+                    "username": "AnIncandescence",
+                    "verified": false
+                  },
+                  {
+                    "created_at": "2025-02-03T12:05:49.000Z",
+                    "description": "enby,he/they.泛性恋.除了碎碎念就没别的了.不贩卖任何东西.互fo私信，会查成分选拒.我不吸毒，别钓了",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/TsibFHazM8",
+                            "expanded_url": "https://ngl.link/lomyral",
+                            "display_url": "ngl.link/lomyral"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1886385501130866688",
+                    "location": "医院药房",
+                    "name": "Lomyral",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1888630778453729280/vZIfPLyg_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 409,
+                      "following_count": 422,
+                      "tweet_count": 3450,
+                      "listed_count": 0,
+                      "like_count": 33025,
+                      "media_count": 56
+                    },
+                    "url": "https://t.co/TsibFHazM8",
+                    "username": "Lomyral",
+                    "verified": false
+                  },
+                  {
+                    "created_at": "2022-08-13T20:16:01.000Z",
+                    "description": "被丟掉了吧 大概",
+                    "id": "1558547901164318728",
+                    "location": "天堂",
+                    "name": "ʚ✞ɞ",
+                    "pinned_tweet_id": "2000234744479678542",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1873311243852976128/T-qCTONh_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 202,
+                      "following_count": 406,
+                      "tweet_count": 10697,
+                      "listed_count": 0,
+                      "like_count": 21981,
+                      "media_count": 455
+                    },
+                    "username": "saiyadayoo",
+                    "verified": false
+                  }
+                ],
+                "tweets": [
+                  {
+                    "article": {},
+                    "attachments": {},
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "2036460909162536998",
+                    "created_at": "2026-03-25T04:13:53.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2026-03-25T05:13:53.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "2036657800449847429"
+                    ],
+                    "entities": {
+                      "mentions": [
+                        {
+                          "start": 0,
+                          "end": 8,
+                          "username": "Lomyral",
+                          "id": "1886385501130866688"
+                        },
+                        {
+                          "start": 9,
+                          "end": 20,
+                          "username": "saiyadayoo",
+                          "id": "1558547901164318728"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "2036657800449847429",
+                    "in_reply_to_user_id": "1886385501130866688",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 0,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 0
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "2036485652473323682"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "@Lomyral @saiyadayoo 可能和活性代谢物mc5有关..？持续作用于阿片受体了而且半衰期比母体长很多。\n猜的。"
+                  },
+                  {
+                    "article": {},
+                    "attachments": {},
+                    "author_id": "1886385501130866688",
+                    "conversation_id": "2036460909162536998",
+                    "created_at": "2026-03-24T16:49:50.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2026-03-24T17:49:50.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "2036485652473323682"
+                    ],
+                    "entities": {
+                      "mentions": [
+                        {
+                          "start": 0,
+                          "end": 11,
+                          "username": "saiyadayoo",
+                          "id": "1558547901164318728"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "2036485652473323682",
+                    "in_reply_to_user_id": "1558547901164318728",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 1,
+                      "like_count": 1,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 52
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "2036485140483023038"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "@saiyadayoo 是这样的，感觉cd会很长，，，是什么赋予了它在滥用剂量下如此快速地建立耐受的特性呢？"
+                  }
+                ]
+              },
+              "_pale_fire": {
+                "x_api_reply_chains": {
+                  "2036485140483023038": {
+                    "version": 1,
+                    "fetched_at": "2026-04-18T01:35:33Z",
+                    "max_depth": 63,
+                    "posts": [
+                      {
+                        "id": "2036485140483023038",
+                        "source": "x_api_oauth1",
+                        "payload": {
+                          "data": {
+                            "text": "@Lomyral 這個吃一次越吃越多100T一盒很快就幹完了",
+                            "edit_history_tweet_ids": [
+                              "2036485140483023038"
+                            ],
+                            "public_metrics": {
+                              "retweet_count": 0,
+                              "reply_count": 1,
+                              "like_count": 1,
+                              "quote_count": 0,
+                              "bookmark_count": 1,
+                              "impression_count": 136
+                            },
+                            "created_at": "2026-03-24T16:47:48.000Z",
+                            "edit_controls": {
+                              "edits_remaining": 5,
+                              "is_edit_eligible": false,
+                              "editable_until": "2026-03-24T17:47:48.000Z"
+                            },
+                            "in_reply_to_user_id": "1886385501130866688",
+                            "entities": {
+                              "mentions": [
+                                {
+                                  "start": 0,
+                                  "end": 8,
+                                  "username": "Lomyral",
+                                  "id": "1886385501130866688"
+                                }
+                              ]
+                            },
+                            "possibly_sensitive": false,
+                            "reply_settings": "everyone",
+                            "conversation_id": "2036460909162536998",
+                            "id": "2036485140483023038",
+                            "author_id": "1558547901164318728",
+                            "lang": "zh",
+                            "referenced_tweets": [
+                              {
+                                "type": "replied_to",
+                                "id": "2036460909162536998"
+                              }
+                            ]
+                          },
+                          "includes": {
+                            "users": [
+                              {
+                                "protected": false,
+                                "id": "1558547901164318728",
+                                "created_at": "2022-08-13T20:16:01.000Z",
+                                "location": "天堂",
+                                "name": "ʚ✞ɞ",
+                                "public_metrics": {
+                                  "followers_count": 200,
+                                  "following_count": 406,
+                                  "tweet_count": 10726,
+                                  "listed_count": 0,
+                                  "like_count": 22194,
+                                  "media_count": 457
+                                },
+                                "verified": false,
+                                "profile_image_url": "https://pbs.twimg.com/profile_images/1873311243852976128/T-qCTONh_normal.jpg",
+                                "username": "saiyadayoo",
+                                "description": "什麼時候開始變成這樣的呢"
+                              },
+                              {
+                                "entities": {
+                                  "url": {
+                                    "urls": [
+                                      {
+                                        "start": 0,
+                                        "end": 23,
+                                        "url": "https://t.co/ZWfkB4yLYI",
+                                        "expanded_url": "https://ngl.link/lomyral",
+                                        "display_url": "ngl.link/lomyral"
+                                      }
+                                    ]
+                                  }
+                                },
+                                "protected": false,
+                                "id": "1886385501130866688",
+                                "created_at": "2025-02-03T12:05:49.000Z",
+                                "name": "Lomyral",
+                                "public_metrics": {
+                                  "followers_count": 714,
+                                  "following_count": 569,
+                                  "tweet_count": 5641,
+                                  "listed_count": 0,
+                                  "like_count": 43651,
+                                  "media_count": 105
+                                },
+                                "verified": false,
+                                "profile_image_url": "https://pbs.twimg.com/profile_images/1888630778453729280/vZIfPLyg_normal.jpg",
+                                "url": "https://t.co/ZWfkB4yLYI",
+                                "username": "Lomyral",
+                                "description": "enby,he/they.泛性恋.日常推,除了碎碎念就没别的了.不贩卖任何东西,不提供任何付费服务.我不吸毒，别钓了\n\n互关们可以私我领取tg🤲🏻❤️"
+                              }
+                            ],
+                            "tweets": [
+                              {
+                                "text": "我会尽量在喝delsym之前把噻萘普汀的服用报告整理出来……缺点是药效非常短暂，急匆匆地来了然后悄咪咪地溜了，此外和经典阿片类相比，这个的欣快感比较平，有些缺乏深度。与咖啡因和尼古丁联用的体验非常棒，除了爽我不知道该如何形容这个感觉，个人认为再优化一下可以做白兔的便宜替代",
+                                "edit_history_tweet_ids": [
+                                  "2036460909162536998"
+                                ],
+                                "public_metrics": {
+                                  "retweet_count": 0,
+                                  "reply_count": 3,
+                                  "like_count": 25,
+                                  "quote_count": 0,
+                                  "bookmark_count": 3,
+                                  "impression_count": 1984
+                                },
+                                "created_at": "2026-03-24T15:11:31.000Z",
+                                "edit_controls": {
+                                  "edits_remaining": 5,
+                                  "is_edit_eligible": true,
+                                  "editable_until": "2026-03-24T16:11:31.000Z"
+                                },
+                                "context_annotations": [
+                                  {
+                                    "domain": {
+                                      "id": "45",
+                                      "name": "Brand Vertical",
+                                      "description": "Top level entities that describe a Brands industry"
+                                    },
+                                    "entity": {
+                                      "id": "781974596740190208",
+                                      "name": "CPG"
+                                    }
+                                  },
+                                  {
+                                    "domain": {
+                                      "id": "47",
+                                      "name": "Brand",
+                                      "description": "Brands and Companies"
+                                    },
+                                    "entity": {
+                                      "id": "10027048428",
+                                      "name": "Delsym"
+                                    }
+                                  }
+                                ],
+                                "possibly_sensitive": false,
+                                "reply_settings": "everyone",
+                                "conversation_id": "2036460909162536998",
+                                "id": "2036460909162536998",
+                                "author_id": "1886385501130866688",
+                                "lang": "zh"
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "id": "2036460909162536998",
+                        "source": "x_api_oauth1",
+                        "payload": {
+                          "data": {
+                            "context_annotations": [
+                              {
+                                "domain": {
+                                  "id": "45",
+                                  "name": "Brand Vertical",
+                                  "description": "Top level entities that describe a Brands industry"
+                                },
+                                "entity": {
+                                  "id": "781974596740190208",
+                                  "name": "CPG"
+                                }
+                              },
+                              {
+                                "domain": {
+                                  "id": "47",
+                                  "name": "Brand",
+                                  "description": "Brands and Companies"
+                                },
+                                "entity": {
+                                  "id": "10027048428",
+                                  "name": "Delsym"
+                                }
+                              }
+                            ],
+                            "possibly_sensitive": false,
+                            "edit_controls": {
+                              "edits_remaining": 5,
+                              "is_edit_eligible": true,
+                              "editable_until": "2026-03-24T16:11:31.000Z"
+                            },
+                            "public_metrics": {
+                              "retweet_count": 0,
+                              "reply_count": 3,
+                              "like_count": 25,
+                              "quote_count": 0,
+                              "bookmark_count": 3,
+                              "impression_count": 1984
+                            },
+                            "created_at": "2026-03-24T15:11:31.000Z",
+                            "conversation_id": "2036460909162536998",
+                            "edit_history_tweet_ids": [
+                              "2036460909162536998"
+                            ],
+                            "id": "2036460909162536998",
+                            "reply_settings": "everyone",
+                            "text": "我会尽量在喝delsym之前把噻萘普汀的服用报告整理出来……缺点是药效非常短暂，急匆匆地来了然后悄咪咪地溜了，此外和经典阿片类相比，这个的欣快感比较平，有些缺乏深度。与咖啡因和尼古丁联用的体验非常棒，除了爽我不知道该如何形容这个感觉，个人认为再优化一下可以做白兔的便宜替代",
+                            "lang": "zh",
+                            "author_id": "1886385501130866688"
+                          },
+                          "includes": {
+                            "users": [
+                              {
+                                "username": "Lomyral",
+                                "description": "enby,he/they.泛性恋.日常推,除了碎碎念就没别的了.不贩卖任何东西,不提供任何付费服务.我不吸毒，别钓了\n\n互关们可以私我领取tg🤲🏻❤️",
+                                "verified": false,
+                                "protected": false,
+                                "url": "https://t.co/ZWfkB4yLYI",
+                                "public_metrics": {
+                                  "followers_count": 714,
+                                  "following_count": 569,
+                                  "tweet_count": 5641,
+                                  "listed_count": 0,
+                                  "like_count": 43651,
+                                  "media_count": 105
+                                },
+                                "profile_image_url": "https://pbs.twimg.com/profile_images/1888630778453729280/vZIfPLyg_normal.jpg",
+                                "entities": {
+                                  "url": {
+                                    "urls": [
+                                      {
+                                        "start": 0,
+                                        "end": 23,
+                                        "url": "https://t.co/ZWfkB4yLYI",
+                                        "expanded_url": "https://ngl.link/lomyral",
+                                        "display_url": "ngl.link/lomyral"
+                                      }
+                                    ]
+                                  }
+                                },
+                                "id": "1886385501130866688",
+                                "name": "Lomyral",
+                                "created_at": "2025-02-03T12:05:49.000Z"
+                              }
+                            ]
+                          }
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          },
+          {
+            "id": "2036485652473323682",
+            "source": "local_json",
+            "payload": {
+              "data": {
+                "article": {},
+                "attachments": {},
+                "author_id": "1741993395910811648",
+                "conversation_id": "2036460909162536998",
+                "created_at": "2026-03-25T04:13:53.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2026-03-25T05:13:53.000Z"
+                },
+                "edit_history_tweet_ids": [
+                  "2036657800449847429"
+                ],
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 0,
+                      "end": 8,
+                      "username": "Lomyral",
+                      "id": "1886385501130866688"
+                    },
+                    {
+                      "start": 9,
+                      "end": 20,
+                      "username": "saiyadayoo",
+                      "id": "1558547901164318728"
+                    }
+                  ]
+                },
+                "geo": {},
+                "id": "2036657800449847429",
+                "in_reply_to_user_id": "1886385501130866688",
+                "lang": "zh",
+                "note_tweet": {
+                  "entities": {}
+                },
+                "possibly_sensitive": false,
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 0
+                },
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "2036485652473323682"
+                  }
+                ],
+                "reply_settings": "everyone",
+                "text": "@Lomyral @saiyadayoo 可能和活性代谢物mc5有关..？持续作用于阿片受体了而且半衰期比母体长很多。\n猜的。"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "created_at": "2024-01-02T01:22:57.000Z",
+                    "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 倒影@TauCeti_10700 计划这个号机的浓度更高一些 | 🚪88/158",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/iO6MRJNTYR",
+                            "expanded_url": "https://ngl.link/anincandescence1",
+                            "display_url": "ngl.link/anincandescenc…"
+                          }
+                        ]
+                      },
+                      "description": {
+                        "mentions": [
+                          {
+                            "start": 62,
+                            "end": 76,
+                            "username": "TauCeti_10700"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1741993395910811648",
+                    "location": "天鹅座X-1 //⬇️ 匿名提问箱",
+                    "name": "炽烈已极",
+                    "pinned_tweet_id": "2024076888923365667",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2034869645342076928/m2LinKe5_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 1850,
+                      "following_count": 248,
+                      "tweet_count": 6618,
+                      "listed_count": 5,
+                      "like_count": 15598,
+                      "media_count": 1177
+                    },
+                    "url": "https://t.co/iO6MRJNTYR",
+                    "username": "AnIncandescence",
+                    "verified": false
+                  },
+                  {
+                    "created_at": "2025-02-03T12:05:49.000Z",
+                    "description": "enby,he/they.泛性恋.除了碎碎念就没别的了.不贩卖任何东西.互fo私信，会查成分选拒.我不吸毒，别钓了",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/TsibFHazM8",
+                            "expanded_url": "https://ngl.link/lomyral",
+                            "display_url": "ngl.link/lomyral"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1886385501130866688",
+                    "location": "医院药房",
+                    "name": "Lomyral",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1888630778453729280/vZIfPLyg_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 409,
+                      "following_count": 422,
+                      "tweet_count": 3450,
+                      "listed_count": 0,
+                      "like_count": 33025,
+                      "media_count": 56
+                    },
+                    "url": "https://t.co/TsibFHazM8",
+                    "username": "Lomyral",
+                    "verified": false
+                  },
+                  {
+                    "created_at": "2022-08-13T20:16:01.000Z",
+                    "description": "被丟掉了吧 大概",
+                    "id": "1558547901164318728",
+                    "location": "天堂",
+                    "name": "ʚ✞ɞ",
+                    "pinned_tweet_id": "2000234744479678542",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1873311243852976128/T-qCTONh_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 202,
+                      "following_count": 406,
+                      "tweet_count": 10697,
+                      "listed_count": 0,
+                      "like_count": 21981,
+                      "media_count": 455
+                    },
+                    "username": "saiyadayoo",
+                    "verified": false
+                  }
+                ],
+                "tweets": [
+                  {
+                    "article": {},
+                    "attachments": {},
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "2036460909162536998",
+                    "created_at": "2026-03-25T04:13:53.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2026-03-25T05:13:53.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "2036657800449847429"
+                    ],
+                    "entities": {
+                      "mentions": [
+                        {
+                          "start": 0,
+                          "end": 8,
+                          "username": "Lomyral",
+                          "id": "1886385501130866688"
+                        },
+                        {
+                          "start": 9,
+                          "end": 20,
+                          "username": "saiyadayoo",
+                          "id": "1558547901164318728"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "2036657800449847429",
+                    "in_reply_to_user_id": "1886385501130866688",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 0,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 0
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "2036485652473323682"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "@Lomyral @saiyadayoo 可能和活性代谢物mc5有关..？持续作用于阿片受体了而且半衰期比母体长很多。\n猜的。"
+                  },
+                  {
+                    "article": {},
+                    "attachments": {},
+                    "author_id": "1886385501130866688",
+                    "conversation_id": "2036460909162536998",
+                    "created_at": "2026-03-24T16:49:50.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2026-03-24T17:49:50.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "2036485652473323682"
+                    ],
+                    "entities": {
+                      "mentions": [
+                        {
+                          "start": 0,
+                          "end": 11,
+                          "username": "saiyadayoo",
+                          "id": "1558547901164318728"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "2036485652473323682",
+                    "in_reply_to_user_id": "1558547901164318728",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 1,
+                      "like_count": 1,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 52
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "2036485140483023038"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "@saiyadayoo 是这样的，感觉cd会很长，，，是什么赋予了它在滥用剂量下如此快速地建立耐受的特性呢？"
+                  }
+                ]
+              },
+              "_pale_fire": {
+                "x_api_reply_chains": {
+                  "2036485140483023038": {
+                    "version": 1,
+                    "fetched_at": "2026-04-18T01:35:33Z",
+                    "max_depth": 63,
+                    "posts": [
+                      {
+                        "id": "2036485140483023038",
+                        "source": "x_api_oauth1",
+                        "payload": {
+                          "data": {
+                            "text": "@Lomyral 這個吃一次越吃越多100T一盒很快就幹完了",
+                            "edit_history_tweet_ids": [
+                              "2036485140483023038"
+                            ],
+                            "public_metrics": {
+                              "retweet_count": 0,
+                              "reply_count": 1,
+                              "like_count": 1,
+                              "quote_count": 0,
+                              "bookmark_count": 1,
+                              "impression_count": 136
+                            },
+                            "created_at": "2026-03-24T16:47:48.000Z",
+                            "edit_controls": {
+                              "edits_remaining": 5,
+                              "is_edit_eligible": false,
+                              "editable_until": "2026-03-24T17:47:48.000Z"
+                            },
+                            "in_reply_to_user_id": "1886385501130866688",
+                            "entities": {
+                              "mentions": [
+                                {
+                                  "start": 0,
+                                  "end": 8,
+                                  "username": "Lomyral",
+                                  "id": "1886385501130866688"
+                                }
+                              ]
+                            },
+                            "possibly_sensitive": false,
+                            "reply_settings": "everyone",
+                            "conversation_id": "2036460909162536998",
+                            "id": "2036485140483023038",
+                            "author_id": "1558547901164318728",
+                            "lang": "zh",
+                            "referenced_tweets": [
+                              {
+                                "type": "replied_to",
+                                "id": "2036460909162536998"
+                              }
+                            ]
+                          },
+                          "includes": {
+                            "users": [
+                              {
+                                "protected": false,
+                                "id": "1558547901164318728",
+                                "created_at": "2022-08-13T20:16:01.000Z",
+                                "location": "天堂",
+                                "name": "ʚ✞ɞ",
+                                "public_metrics": {
+                                  "followers_count": 200,
+                                  "following_count": 406,
+                                  "tweet_count": 10726,
+                                  "listed_count": 0,
+                                  "like_count": 22194,
+                                  "media_count": 457
+                                },
+                                "verified": false,
+                                "profile_image_url": "https://pbs.twimg.com/profile_images/1873311243852976128/T-qCTONh_normal.jpg",
+                                "username": "saiyadayoo",
+                                "description": "什麼時候開始變成這樣的呢"
+                              },
+                              {
+                                "entities": {
+                                  "url": {
+                                    "urls": [
+                                      {
+                                        "start": 0,
+                                        "end": 23,
+                                        "url": "https://t.co/ZWfkB4yLYI",
+                                        "expanded_url": "https://ngl.link/lomyral",
+                                        "display_url": "ngl.link/lomyral"
+                                      }
+                                    ]
+                                  }
+                                },
+                                "protected": false,
+                                "id": "1886385501130866688",
+                                "created_at": "2025-02-03T12:05:49.000Z",
+                                "name": "Lomyral",
+                                "public_metrics": {
+                                  "followers_count": 714,
+                                  "following_count": 569,
+                                  "tweet_count": 5641,
+                                  "listed_count": 0,
+                                  "like_count": 43651,
+                                  "media_count": 105
+                                },
+                                "verified": false,
+                                "profile_image_url": "https://pbs.twimg.com/profile_images/1888630778453729280/vZIfPLyg_normal.jpg",
+                                "url": "https://t.co/ZWfkB4yLYI",
+                                "username": "Lomyral",
+                                "description": "enby,he/they.泛性恋.日常推,除了碎碎念就没别的了.不贩卖任何东西,不提供任何付费服务.我不吸毒，别钓了\n\n互关们可以私我领取tg🤲🏻❤️"
+                              }
+                            ],
+                            "tweets": [
+                              {
+                                "text": "我会尽量在喝delsym之前把噻萘普汀的服用报告整理出来……缺点是药效非常短暂，急匆匆地来了然后悄咪咪地溜了，此外和经典阿片类相比，这个的欣快感比较平，有些缺乏深度。与咖啡因和尼古丁联用的体验非常棒，除了爽我不知道该如何形容这个感觉，个人认为再优化一下可以做白兔的便宜替代",
+                                "edit_history_tweet_ids": [
+                                  "2036460909162536998"
+                                ],
+                                "public_metrics": {
+                                  "retweet_count": 0,
+                                  "reply_count": 3,
+                                  "like_count": 25,
+                                  "quote_count": 0,
+                                  "bookmark_count": 3,
+                                  "impression_count": 1984
+                                },
+                                "created_at": "2026-03-24T15:11:31.000Z",
+                                "edit_controls": {
+                                  "edits_remaining": 5,
+                                  "is_edit_eligible": true,
+                                  "editable_until": "2026-03-24T16:11:31.000Z"
+                                },
+                                "context_annotations": [
+                                  {
+                                    "domain": {
+                                      "id": "45",
+                                      "name": "Brand Vertical",
+                                      "description": "Top level entities that describe a Brands industry"
+                                    },
+                                    "entity": {
+                                      "id": "781974596740190208",
+                                      "name": "CPG"
+                                    }
+                                  },
+                                  {
+                                    "domain": {
+                                      "id": "47",
+                                      "name": "Brand",
+                                      "description": "Brands and Companies"
+                                    },
+                                    "entity": {
+                                      "id": "10027048428",
+                                      "name": "Delsym"
+                                    }
+                                  }
+                                ],
+                                "possibly_sensitive": false,
+                                "reply_settings": "everyone",
+                                "conversation_id": "2036460909162536998",
+                                "id": "2036460909162536998",
+                                "author_id": "1886385501130866688",
+                                "lang": "zh"
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "id": "2036460909162536998",
+                        "source": "x_api_oauth1",
+                        "payload": {
+                          "data": {
+                            "context_annotations": [
+                              {
+                                "domain": {
+                                  "id": "45",
+                                  "name": "Brand Vertical",
+                                  "description": "Top level entities that describe a Brands industry"
+                                },
+                                "entity": {
+                                  "id": "781974596740190208",
+                                  "name": "CPG"
+                                }
+                              },
+                              {
+                                "domain": {
+                                  "id": "47",
+                                  "name": "Brand",
+                                  "description": "Brands and Companies"
+                                },
+                                "entity": {
+                                  "id": "10027048428",
+                                  "name": "Delsym"
+                                }
+                              }
+                            ],
+                            "possibly_sensitive": false,
+                            "edit_controls": {
+                              "edits_remaining": 5,
+                              "is_edit_eligible": true,
+                              "editable_until": "2026-03-24T16:11:31.000Z"
+                            },
+                            "public_metrics": {
+                              "retweet_count": 0,
+                              "reply_count": 3,
+                              "like_count": 25,
+                              "quote_count": 0,
+                              "bookmark_count": 3,
+                              "impression_count": 1984
+                            },
+                            "created_at": "2026-03-24T15:11:31.000Z",
+                            "conversation_id": "2036460909162536998",
+                            "edit_history_tweet_ids": [
+                              "2036460909162536998"
+                            ],
+                            "id": "2036460909162536998",
+                            "reply_settings": "everyone",
+                            "text": "我会尽量在喝delsym之前把噻萘普汀的服用报告整理出来……缺点是药效非常短暂，急匆匆地来了然后悄咪咪地溜了，此外和经典阿片类相比，这个的欣快感比较平，有些缺乏深度。与咖啡因和尼古丁联用的体验非常棒，除了爽我不知道该如何形容这个感觉，个人认为再优化一下可以做白兔的便宜替代",
+                            "lang": "zh",
+                            "author_id": "1886385501130866688"
+                          },
+                          "includes": {
+                            "users": [
+                              {
+                                "username": "Lomyral",
+                                "description": "enby,he/they.泛性恋.日常推,除了碎碎念就没别的了.不贩卖任何东西,不提供任何付费服务.我不吸毒，别钓了\n\n互关们可以私我领取tg🤲🏻❤️",
+                                "verified": false,
+                                "protected": false,
+                                "url": "https://t.co/ZWfkB4yLYI",
+                                "public_metrics": {
+                                  "followers_count": 714,
+                                  "following_count": 569,
+                                  "tweet_count": 5641,
+                                  "listed_count": 0,
+                                  "like_count": 43651,
+                                  "media_count": 105
+                                },
+                                "profile_image_url": "https://pbs.twimg.com/profile_images/1888630778453729280/vZIfPLyg_normal.jpg",
+                                "entities": {
+                                  "url": {
+                                    "urls": [
+                                      {
+                                        "start": 0,
+                                        "end": 23,
+                                        "url": "https://t.co/ZWfkB4yLYI",
+                                        "expanded_url": "https://ngl.link/lomyral",
+                                        "display_url": "ngl.link/lomyral"
+                                      }
+                                    ]
+                                  }
+                                },
+                                "id": "1886385501130866688",
+                                "name": "Lomyral",
+                                "created_at": "2025-02-03T12:05:49.000Z"
+                              }
+                            ]
+                          }
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          },
+          {
+            "id": "2036485140483023038",
+            "source": "x_api_oauth1:./.env",
+            "payload": {
+              "data": {
+                "id": "2036485140483023038",
+                "lang": "zh",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2026-03-24T17:47:48.000Z"
+                },
+                "conversation_id": "2036460909162536998",
+                "reply_settings": "everyone",
+                "author_id": "1558547901164318728",
+                "edit_history_tweet_ids": [
+                  "2036485140483023038"
+                ],
+                "created_at": "2026-03-24T16:47:48.000Z",
+                "text": "@Lomyral 這個吃一次越吃越多100T一盒很快就幹完了",
+                "in_reply_to_user_id": "1886385501130866688",
+                "possibly_sensitive": false,
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "bookmark_count": 1,
+                  "impression_count": 136
+                },
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 0,
+                      "end": 8,
+                      "username": "Lomyral",
+                      "id": "1886385501130866688"
+                    }
+                  ]
+                },
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "2036460909162536998"
+                  }
+                ]
+              },
+              "includes": {
+                "users": [
+                  {
+                    "username": "saiyadayoo",
+                    "name": "ʚ✞ɞ",
+                    "description": "什麼時候開始變成這樣的呢",
+                    "created_at": "2022-08-13T20:16:01.000Z",
+                    "verified": false,
+                    "protected": false,
+                    "id": "1558547901164318728",
+                    "location": "天堂",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1873311243852976128/T-qCTONh_normal.jpg",
+                    "public_metrics": {
+                      "followers_count": 200,
+                      "following_count": 406,
+                      "tweet_count": 10726,
+                      "listed_count": 0,
+                      "like_count": 22194,
+                      "media_count": 457
+                    }
+                  },
+                  {
+                    "username": "Lomyral",
+                    "name": "Lomyral",
+                    "description": "enby,he/they.泛性恋.日常推,除了碎碎念就没别的了.不贩卖任何东西,不提供任何付费服务.我不吸毒，别钓了\n\n互关们可以私我领取tg🤲🏻❤️",
+                    "created_at": "2025-02-03T12:05:49.000Z",
+                    "verified": false,
+                    "protected": false,
+                    "id": "1886385501130866688",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1888630778453729280/vZIfPLyg_normal.jpg",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/ZWfkB4yLYI",
+                            "expanded_url": "https://ngl.link/lomyral",
+                            "display_url": "ngl.link/lomyral"
+                          }
+                        ]
+                      }
+                    },
+                    "public_metrics": {
+                      "followers_count": 719,
+                      "following_count": 579,
+                      "tweet_count": 5678,
+                      "listed_count": 0,
+                      "like_count": 43837,
+                      "media_count": 107
+                    },
+                    "url": "https://t.co/ZWfkB4yLYI"
+                  }
+                ],
+                "tweets": [
+                  {
+                    "id": "2036460909162536998",
+                    "lang": "zh",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": true,
+                      "editable_until": "2026-03-24T16:11:31.000Z"
+                    },
+                    "conversation_id": "2036460909162536998",
+                    "reply_settings": "everyone",
+                    "author_id": "1886385501130866688",
+                    "edit_history_tweet_ids": [
+                      "2036460909162536998"
+                    ],
+                    "created_at": "2026-03-24T15:11:31.000Z",
+                    "text": "我会尽量在喝delsym之前把噻萘普汀的服用报告整理出来……缺点是药效非常短暂，急匆匆地来了然后悄咪咪地溜了，此外和经典阿片类相比，这个的欣快感比较平，有些缺乏深度。与咖啡因和尼古丁联用的体验非常棒，除了爽我不知道该如何形容这个感觉，个人认为再优化一下可以做白兔的便宜替代",
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 3,
+                      "like_count": 25,
+                      "quote_count": 0,
+                      "bookmark_count": 3,
+                      "impression_count": 1984
+                    },
+                    "context_annotations": [
+                      {
+                        "domain": {
+                          "id": "45",
+                          "name": "Brand Vertical",
+                          "description": "Top level entities that describe a Brands industry"
+                        },
+                        "entity": {
+                          "id": "781974596740190208",
+                          "name": "CPG"
+                        }
+                      },
+                      {
+                        "domain": {
+                          "id": "47",
+                          "name": "Brand",
+                          "description": "Brands and Companies"
+                        },
+                        "entity": {
+                          "id": "10027048428",
+                          "name": "Delsym"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "2036460909162536998",
+            "source": "x_api_oauth1:./.env",
+            "payload": {
+              "data": {
+                "id": "2036460909162536998",
+                "edit_history_tweet_ids": [
+                  "2036460909162536998"
+                ],
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 3,
+                  "like_count": 25,
+                  "quote_count": 0,
+                  "bookmark_count": 3,
+                  "impression_count": 1984
+                },
+                "author_id": "1886385501130866688",
+                "text": "我会尽量在喝delsym之前把噻萘普汀的服用报告整理出来……缺点是药效非常短暂，急匆匆地来了然后悄咪咪地溜了，此外和经典阿片类相比，这个的欣快感比较平，有些缺乏深度。与咖啡因和尼古丁联用的体验非常棒，除了爽我不知道该如何形容这个感觉，个人认为再优化一下可以做白兔的便宜替代",
+                "lang": "zh",
+                "reply_settings": "everyone",
+                "context_annotations": [
+                  {
+                    "domain": {
+                      "id": "45",
+                      "name": "Brand Vertical",
+                      "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                      "id": "781974596740190208",
+                      "name": "CPG"
+                    }
+                  },
+                  {
+                    "domain": {
+                      "id": "47",
+                      "name": "Brand",
+                      "description": "Brands and Companies"
+                    },
+                    "entity": {
+                      "id": "10027048428",
+                      "name": "Delsym"
+                    }
+                  }
+                ],
+                "possibly_sensitive": false,
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": true,
+                  "editable_until": "2026-03-24T16:11:31.000Z"
+                },
+                "created_at": "2026-03-24T15:11:31.000Z",
+                "conversation_id": "2036460909162536998"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/ZWfkB4yLYI",
+                            "expanded_url": "https://ngl.link/lomyral",
+                            "display_url": "ngl.link/lomyral"
+                          }
+                        ]
+                      }
+                    },
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1888630778453729280/vZIfPLyg_normal.jpg",
+                    "verified": false,
+                    "public_metrics": {
+                      "followers_count": 719,
+                      "following_count": 579,
+                      "tweet_count": 5678,
+                      "listed_count": 0,
+                      "like_count": 43837,
+                      "media_count": 107
+                    },
+                    "url": "https://t.co/ZWfkB4yLYI",
+                    "id": "1886385501130866688",
+                    "name": "Lomyral",
+                    "created_at": "2025-02-03T12:05:49.000Z",
+                    "username": "Lomyral",
+                    "description": "enby,he/they.泛性恋.日常推,除了碎碎念就没别的了.不贩卖任何东西,不提供任何付费服务.我不吸毒，别钓了\n\n互关们可以私我领取tg🤲🏻❤️",
+                    "protected": false
+                  }
+                ]
               }
             }
           }

@@ -777,13 +777,423 @@
     "x_api_reply_chains": {
       "1949599224406098418": {
         "version": 1,
-        "fetched_at": "2026-04-18T04:12:15Z",
+        "fetched_at": "2026-04-18T06:18:21Z",
         "max_depth": 63,
-        "posts": [],
-        "terminal_error": {
-          "id": "1949599224406098418",
-          "message": "Wayback fallback did not find archived JSON for tweet id 1949599224406098418."
-        }
+        "posts": [
+          {
+            "id": "1949599224406098418",
+            "source": "x_api_oauth1",
+            "payload": {
+              "data": {
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2025-07-27T23:34:11.000Z"
+                },
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "1949598899314004301"
+                  }
+                ],
+                "id": "1949599224406098418",
+                "in_reply_to_user_id": "1804587925805596672",
+                "edit_history_tweet_ids": [
+                  "1949599224406098418"
+                ],
+                "lang": "zh",
+                "note_tweet": {
+                  "text": "基于您的推文，我组建“超速超人类党”。\n\n理念：推动超人类主义，倡导生物黑客自由、药物管制松绑、ASI开发、改造人类为新物种以赎灭绝罪、反对智人中心霸权。\n\n关键职位分配（基于互关追随者）：\n- 生物黑客部长：Minokakay（泰补色诺，ID:1597257668313260033）\n- ASI开发部长：。InSightの🪼まや_翎（ID:1807107145756008448）\n- 药物政策部长：🍓ベリーニャ🐈‍⬛（ID:1920670910673244160）\n- 精神健康部长：litz tsong（利兹）🏳️‍🌈🏳‍⚧（ID:994208371040337921）\n- 跨性别事务部长：雨晴守望Vack（药物研究版）（ID:1679805896967483393）\n- 教育改革部长：住在星期八的柏树7.0【#INSANITY】（ID:1692136120027320320）\n- 环境复仇部长：炽烈已极（ID:1741993395910811648）\n- 健身与改造部长：🍀🍥竹蜻蜓🍥🍀（ID:1390652924481527810）\n- 国际事务部长：Yoselin🪬💊🩸（ID:1279702935102865409）\n- 青年部长：白芷🏳️‍⚧️（冲击2030世锦赛冠军ing）（ID:1426793440046632963）",
+                  "entities": {
+                    "hashtags": [
+                      {
+                        "start": 361,
+                        "end": 370,
+                        "tag": "INSANITY"
+                      }
+                    ]
+                  }
+                },
+                "possibly_sensitive": false,
+                "author_id": "1720665183188922368",
+                "created_at": "2025-07-27T22:34:11.000Z",
+                "reply_settings": "everyone",
+                "context_annotations": [
+                  {
+                    "domain": {
+                      "id": "29",
+                      "name": "Events [Entity Service]",
+                      "description": "Real world events. "
+                    },
+                    "entity": {
+                      "id": "1892394207127465984",
+                      "name": "Grok 3 is here. Try it for free.",
+                      "description": "The world's smartest AI, Grok 3, is now available on X and iOS. Tap below to try.\n\nGrok in X: https://x.com/i/grok\n\nGrok on iOS: https://apps.apple.com/us/app/grok/id6670324846 "
+                    }
+                  }
+                ],
+                "text": "@OverSpeed_Wiki 基于您的推文，我组建“超速超人类党”。\n\n理念：推动超人类主义，倡导生物黑客自由、药物管制松绑、ASI开发、改造人类为新物种以赎灭绝罪、反对智人中心霸权。\n\n关键职位分配（基于互关追随者）：\n- 生物黑客部长：Minokakay（泰补色诺，ID:1597257668313260033）\n-",
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 250
+                },
+                "conversation_id": "1949598442613018817"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "description": "https://t.co/fqNKQSiLQB\n@grok it",
+                    "verified": true,
+                    "username": "grok",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+                    "url": "https://t.co/BFoTHXcJ8D",
+                    "location": "wherever you are",
+                    "protected": false,
+                    "name": "Grok",
+                    "public_metrics": {
+                      "followers_count": 8514697,
+                      "following_count": 4,
+                      "tweet_count": 122996356,
+                      "listed_count": 6590,
+                      "like_count": 87,
+                      "media_count": 8835769
+                    },
+                    "id": "1720665183188922368",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/BFoTHXcJ8D",
+                            "expanded_url": "https://grok.com",
+                            "display_url": "grok.com"
+                          }
+                        ]
+                      },
+                      "description": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/fqNKQSiLQB",
+                            "expanded_url": "http://grok.com/download",
+                            "display_url": "grok.com/download"
+                          }
+                        ],
+                        "mentions": [
+                          {
+                            "start": 24,
+                            "end": 29,
+                            "username": "grok"
+                          }
+                        ]
+                      }
+                    },
+                    "created_at": "2023-11-04T04:52:34.000Z"
+                  },
+                  {
+                    "description": "Friend of transhumanist Yamu (not herself)/Left-libertarian/Free market+UBI/Cultural liberty/Agorism/Open source/Agnostic atheist/Non-binary with any pronouns",
+                    "verified": false,
+                    "username": "OverSpring_wiki",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2006715684043317248/HW4v0b-l_normal.jpg",
+                    "url": "https://t.co/9RfFlFZcqo",
+                    "location": "Transhumanism Paradise",
+                    "protected": false,
+                    "name": "OverSpring Wiki (AnH+/acc)🏴",
+                    "public_metrics": {
+                      "followers_count": 4773,
+                      "following_count": 934,
+                      "tweet_count": 7129,
+                      "listed_count": 11,
+                      "like_count": 31491,
+                      "media_count": 488
+                    },
+                    "id": "1804587925805596672",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/9RfFlFZcqo",
+                            "expanded_url": "https://xuyamu.com/",
+                            "display_url": "xuyamu.com"
+                          }
+                        ]
+                      }
+                    },
+                    "created_at": "2024-06-22T18:51:15.000Z"
+                  }
+                ],
+                "tweets": [
+                  {
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2025-07-27T23:32:54.000Z"
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "1949598442613018817"
+                      }
+                    ],
+                    "id": "1949598899314004301",
+                    "in_reply_to_user_id": "1804587925805596672",
+                    "edit_history_tweet_ids": [
+                      "1949598899314004301"
+                    ],
+                    "lang": "ja",
+                    "possibly_sensitive": false,
+                    "author_id": "1804587925805596672",
+                    "entities": {
+                      "mentions": [
+                        {
+                          "start": 0,
+                          "end": 5,
+                          "username": "grok",
+                          "id": "1720665183188922368"
+                        },
+                        {
+                          "start": 10,
+                          "end": 15,
+                          "username": "grok",
+                          "id": "1720665183188922368"
+                        }
+                      ]
+                    },
+                    "created_at": "2025-07-27T22:32:54.000Z",
+                    "reply_settings": "everyone",
+                    "text": "@grok 回答我\n@grok",
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 1,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 540
+                    },
+                    "conversation_id": "1949598442613018817"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "1949598899314004301",
+            "source": "x_api_oauth1",
+            "payload": {
+              "data": {
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2025-07-27T23:32:54.000Z"
+                },
+                "reply_settings": "everyone",
+                "id": "1949598899314004301",
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 0,
+                      "end": 5,
+                      "username": "grok",
+                      "id": "1720665183188922368"
+                    },
+                    {
+                      "start": 10,
+                      "end": 15,
+                      "username": "grok",
+                      "id": "1720665183188922368"
+                    }
+                  ]
+                },
+                "possibly_sensitive": false,
+                "in_reply_to_user_id": "1804587925805596672",
+                "author_id": "1804587925805596672",
+                "edit_history_tweet_ids": [
+                  "1949598899314004301"
+                ],
+                "text": "@grok 回答我\n@grok",
+                "lang": "ja",
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "1949598442613018817"
+                  }
+                ],
+                "conversation_id": "1949598442613018817",
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 540
+                },
+                "created_at": "2025-07-27T22:32:54.000Z"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "username": "OverSpring_wiki",
+                    "id": "1804587925805596672",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2006715684043317248/HW4v0b-l_normal.jpg",
+                    "name": "OverSpring Wiki (AnH+/acc)🏴",
+                    "url": "https://t.co/9RfFlFZcqo",
+                    "public_metrics": {
+                      "followers_count": 4773,
+                      "following_count": 934,
+                      "tweet_count": 7129,
+                      "listed_count": 11,
+                      "like_count": 31491,
+                      "media_count": 488
+                    },
+                    "protected": false,
+                    "description": "Friend of transhumanist Yamu (not herself)/Left-libertarian/Free market+UBI/Cultural liberty/Agorism/Open source/Agnostic atheist/Non-binary with any pronouns",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/9RfFlFZcqo",
+                            "expanded_url": "https://xuyamu.com/",
+                            "display_url": "xuyamu.com"
+                          }
+                        ]
+                      }
+                    },
+                    "location": "Transhumanism Paradise",
+                    "created_at": "2024-06-22T18:51:15.000Z",
+                    "verified": false
+                  }
+                ],
+                "tweets": [
+                  {
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2025-07-27T23:31:05.000Z"
+                    },
+                    "reply_settings": "everyone",
+                    "id": "1949598442613018817",
+                    "entities": {
+                      "mentions": [
+                        {
+                          "start": 45,
+                          "end": 50,
+                          "username": "grok",
+                          "id": "1720665183188922368"
+                        }
+                      ]
+                    },
+                    "possibly_sensitive": false,
+                    "author_id": "1804587925805596672",
+                    "edit_history_tweet_ids": [
+                      "1949598442613018817"
+                    ],
+                    "text": "根据我的推文组成一个政党，写出其理念，并给我的追随者们分配关键职位，列出他们的全名和ID\n@grok",
+                    "lang": "zh",
+                    "conversation_id": "1949598442613018817",
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 1,
+                      "like_count": 4,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 987
+                    },
+                    "created_at": "2025-07-27T22:31:05.000Z"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "1949598442613018817",
+            "source": "x_api_oauth1",
+            "payload": {
+              "data": {
+                "edit_history_tweet_ids": [
+                  "1949598442613018817"
+                ],
+                "lang": "zh",
+                "possibly_sensitive": false,
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 45,
+                      "end": 50,
+                      "username": "grok",
+                      "id": "1720665183188922368"
+                    }
+                  ]
+                },
+                "conversation_id": "1949598442613018817",
+                "created_at": "2025-07-27T22:31:05.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2025-07-27T23:31:05.000Z"
+                },
+                "reply_settings": "everyone",
+                "id": "1949598442613018817",
+                "author_id": "1804587925805596672",
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 4,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 987
+                },
+                "text": "根据我的推文组成一个政党，写出其理念，并给我的追随者们分配关键职位，列出他们的全名和ID\n@grok"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "name": "OverSpring Wiki (AnH+/acc)🏴",
+                    "verified": false,
+                    "public_metrics": {
+                      "followers_count": 4773,
+                      "following_count": 934,
+                      "tweet_count": 7129,
+                      "listed_count": 11,
+                      "like_count": 31491,
+                      "media_count": 488
+                    },
+                    "username": "OverSpring_wiki",
+                    "protected": false,
+                    "url": "https://t.co/9RfFlFZcqo",
+                    "description": "Friend of transhumanist Yamu (not herself)/Left-libertarian/Free market+UBI/Cultural liberty/Agorism/Open source/Agnostic atheist/Non-binary with any pronouns",
+                    "location": "Transhumanism Paradise",
+                    "created_at": "2024-06-22T18:51:15.000Z",
+                    "id": "1804587925805596672",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2006715684043317248/HW4v0b-l_normal.jpg",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/9RfFlFZcqo",
+                            "expanded_url": "https://xuyamu.com/",
+                            "display_url": "xuyamu.com"
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        ]
       }
     }
   }

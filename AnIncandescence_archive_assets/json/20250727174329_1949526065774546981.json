@@ -241,13 +241,65 @@
     "x_api_reply_chains": {
       "1949277449122206052": {
         "version": 1,
-        "fetched_at": "2026-04-18T04:12:15Z",
+        "fetched_at": "2026-04-18T06:18:20Z",
         "max_depth": 63,
-        "posts": [],
-        "terminal_error": {
-          "id": "1949277449122206052",
-          "message": "Wayback fallback did not find archived JSON for tweet id 1949277449122206052."
-        }
+        "posts": [
+          {
+            "id": "1949277449122206052",
+            "source": "x_api_oauth1",
+            "payload": {
+              "data": {
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": true,
+                  "editable_until": "2025-07-27T02:15:34.000Z"
+                },
+                "reply_settings": "everyone",
+                "id": "1949277449122206052",
+                "possibly_sensitive": false,
+                "author_id": "1785682886089232384",
+                "edit_history_tweet_ids": [
+                  "1949277449122206052"
+                ],
+                "text": "自慰之后去看中医会被医生看出来吗",
+                "lang": "zh",
+                "conversation_id": "1949277449122206052",
+                "public_metrics": {
+                  "retweet_count": 9,
+                  "reply_count": 165,
+                  "like_count": 1179,
+                  "quote_count": 9,
+                  "bookmark_count": 108,
+                  "impression_count": 333904
+                },
+                "created_at": "2025-07-27T01:15:34.000Z"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "username": "MomokoOoum",
+                    "id": "1785682886089232384",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1813209043705733120/C05okhTb_normal.jpg",
+                    "name": "Momoko",
+                    "public_metrics": {
+                      "followers_count": 7984,
+                      "following_count": 46,
+                      "tweet_count": 4311,
+                      "listed_count": 21,
+                      "like_count": 4937,
+                      "media_count": 556
+                    },
+                    "protected": false,
+                    "description": "infpuppy 日记本 不接推广勿私信",
+                    "location": "止于推 骚扰我的我要把你们头扭下来当球踢",
+                    "created_at": "2024-05-01T14:49:38.000Z",
+                    "verified": false
+                  }
+                ]
+              }
+            }
+          }
+        ]
       }
     }
   }

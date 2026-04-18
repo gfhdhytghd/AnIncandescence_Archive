@@ -418,12 +418,126 @@
     "x_api_reply_chains": {
       "1972044731984269383": {
         "version": 1,
-        "fetched_at": "2026-04-18T04:14:06Z",
+        "fetched_at": "2026-04-18T07:09:06Z",
         "max_depth": 63,
-        "posts": [],
+        "posts": [
+          {
+            "id": "1972044731984269383",
+            "source": "x_api_oauth1:./env.pale-fire",
+            "payload": {
+              "data": {
+                "reply_settings": "everyone",
+                "possibly_sensitive": false,
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "1971940399087603867"
+                  }
+                ],
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 85
+                },
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 0,
+                      "end": 12,
+                      "username": "Kafu_Chiino",
+                      "id": "1666402694494560256"
+                    },
+                    {
+                      "start": 13,
+                      "end": 25,
+                      "username": "daokeshisan",
+                      "id": "1955986481782333440"
+                    },
+                    {
+                      "start": 26,
+                      "end": 34,
+                      "username": "N_N_DPT",
+                      "id": "522147771"
+                    }
+                  ]
+                },
+                "created_at": "2025-09-27T21:04:37.000Z",
+                "author_id": "1894524347609726976",
+                "in_reply_to_user_id": "1666402694494560256",
+                "conversation_id": "1971843013577265567",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2025-09-27T22:04:37.000Z"
+                },
+                "text": "@Kafu_Chiino @daokeshisan @N_N_DPT 这不麻醉药品嘛😡",
+                "lang": "zh",
+                "edit_history_tweet_ids": [
+                  "1972044731984269383"
+                ],
+                "id": "1972044731984269383"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "name": "派派爱吃葱花",
+                    "description": "来财来财来财来财来财来财来财来财来财来财来财来财来财来财来财来财来财来财来财来财来财来财来财来财来财来财来财来财来财来财来财来财来财来财来财来财来财来财来财来财来财来财来财来财来财来财来财来财来财来财来财来财来财来财来财来财来财来财来财来财来财来财来财来财来财来财来财来财来财来财来财来财来财来财来财来财来财来财来财来财",
+                    "username": "pai_ai24551",
+                    "verified": false,
+                    "id": "1894524347609726976",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1894524516522471424/pajyJqJy_normal.jpg",
+                    "created_at": "2025-02-25T23:06:37.000Z",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 8,
+                      "following_count": 51,
+                      "tweet_count": 44,
+                      "listed_count": 0,
+                      "like_count": 2200,
+                      "media_count": 5
+                    }
+                  },
+                  {
+                    "name": "CHINO",
+                    "description": "",
+                    "username": "Kafu_Chiino",
+                    "verified": false,
+                    "id": "1666402694494560256",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1666402947209793537/jb9jjts2_normal.jpg",
+                    "created_at": "2023-06-07T11:13:17.000Z",
+                    "protected": true,
+                    "public_metrics": {
+                      "followers_count": 79,
+                      "following_count": 210,
+                      "tweet_count": 633,
+                      "listed_count": 1,
+                      "like_count": 11968,
+                      "media_count": 24
+                    }
+                  }
+                ]
+              },
+              "errors": [
+                {
+                  "resource_id": "1971940399087603867",
+                  "parameter": "referenced_tweets.id",
+                  "resource_type": "tweet",
+                  "section": "includes",
+                  "title": "Authorization Error",
+                  "value": "1971940399087603867",
+                  "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1971940399087603867].",
+                  "type": "https://api.twitter.com/2/problems/not-authorized-for-resource"
+                }
+              ]
+            }
+          }
+        ],
         "terminal_error": {
-          "id": "1972044731984269383",
-          "message": "Wayback fallback did not find archived JSON for tweet id 1972044731984269383."
+          "id": "1971940399087603867",
+          "message": "./.env: X API OAuth 1.0a returned HTTP 429. ./env.pale-fire: Sorry, you are not authorized to see the Tweet with id: [1971940399087603867]. Wayback fallback: Wayback fallback did not find archived JSON for tweet id 1971940399087603867."
         }
       }
     }

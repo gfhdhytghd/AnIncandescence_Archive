@@ -249,13 +249,64 @@
     "x_api_reply_chains": {
       "1916115691230663026": {
         "version": 1,
-        "fetched_at": "2026-04-18T02:00:24Z",
+        "fetched_at": "2026-04-18T07:05:46Z",
         "max_depth": 63,
-        "posts": [],
-        "terminal_error": {
-          "id": "1916115691230663026",
-          "message": "Sorry, you are not authorized to see the Tweet with id: [1916115691230663026]. Wayback fallback: Wayback fallback did not find archived JSON for tweet id 1916115691230663026."
-        }
+        "posts": [
+          {
+            "id": "1916115691230663026",
+            "source": "x_api_oauth1:./env.pale-fire",
+            "payload": {
+              "data": {
+                "lang": "zh",
+                "author_id": "1897309588699168768",
+                "possibly_sensitive": false,
+                "reply_settings": "everyone",
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 10,
+                  "like_count": 74,
+                  "quote_count": 0,
+                  "bookmark_count": 5,
+                  "impression_count": 11996
+                },
+                "edit_history_tweet_ids": [
+                  "1916115691230663026"
+                ],
+                "id": "1916115691230663026",
+                "conversation_id": "1916115691230663026",
+                "text": "我现在觉得白天od pr80 很有感觉，带着劲参加社会活动有很大加持。这有点像LSD的microdose。嗑药不一定要很大很有幻觉，微微上劲然后进行正常的生活活动也很有意思！",
+                "created_at": "2025-04-26T13:02:35.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": true,
+                  "editable_until": "2025-04-26T14:02:35.000Z"
+                }
+              },
+              "includes": {
+                "users": [
+                  {
+                    "protected": true,
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1897310227135107072/qqKL1C9D_normal.jpg",
+                    "username": "right_drugs_knl",
+                    "public_metrics": {
+                      "followers_count": 1678,
+                      "following_count": 70,
+                      "tweet_count": 198,
+                      "listed_count": 4,
+                      "like_count": 12,
+                      "media_count": 4
+                    },
+                    "name": "正确药物知识",
+                    "id": "1897309588699168768",
+                    "verified": false,
+                    "created_at": "2025-03-05T15:34:16.000Z",
+                    "description": "每天至少一条正确的药物知识介绍，对抗简中网上的错误垃圾信息\n\n10年💊经验/已基本戒除\n\n高度了解大麻/LSD/Meth/MDMA/Coke/蘑菇/2cb/N2O/右美/普瑞……\n\n个人账号\n\n相信你们一看就知道这里都是正确的\n\n祝大家早日戒毒"
+                  }
+                ]
+              }
+            }
+          }
+        ]
       }
     }
   }

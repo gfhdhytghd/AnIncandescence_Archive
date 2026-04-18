@@ -45,8 +45,17 @@
   function setupArchiveTabs(tweets, container) {
     const tabKey = `${getArchiveStorageNamespace()}-archive-tab`;
     const posts = tweets.filter((t) => t.dataset.isReply !== "true");
-    const replies = tweets.filter((t) => t.dataset.isReply === "true");
-    if (!replies.length) return;
+    const replyTweets = tweets.filter((t) => t.dataset.isReply === "true");
+    const commentIds = new Set();
+    tweets.forEach((tweet) => {
+      tweet.querySelectorAll(".tweet-comments [data-comment-id]").forEach((node) => {
+        if (node.dataset.commentId) commentIds.add(node.dataset.commentId);
+      });
+    });
+    const threadRoots = tweets.filter((t) => t.querySelector(".tweet-comments") && !commentIds.has(t.dataset.tweetId));
+    const orphanReplies = replyTweets.filter((t) => !commentIds.has(t.dataset.tweetId));
+    const replyViewTweets = new Set([...threadRoots, ...orphanReplies]);
+    if (!replyTweets.length && !threadRoots.length) return;
 
     const tabBar = document.createElement("div");
     tabBar.className = "archive-tabs";
@@ -54,12 +63,13 @@
       `<button class="archive-tab active" data-archive-tab="posts">` +
       `帖子<span class="archive-tab-meta">${posts.length}</span></button>` +
     `<button class="archive-tab" data-archive-tab="replies">` +
-      `回复<span class="archive-tab-meta">${replies.length}</span></button>`;
+      `回复<span class="archive-tab-meta">${replyTweets.length}</span></button>`;
 
     container.appendChild(tabBar);
 
     const tabButtons = Array.from(tabBar.querySelectorAll(".archive-tab"));
     const scrollPositions = { posts: 0, replies: 0 };
+    const originalOrder = new Map(tweets.map((tweet, index) => [tweet, index]));
     let currentTab = "posts";
 
     const saved = readTabState(tabKey);
@@ -76,19 +86,42 @@
       currentTab = name;
       tabButtons.forEach((b) => b.classList.toggle("active", b.dataset.archiveTab === name));
       writeTabState(tabKey, name);
+      orderTweetsForTab(name);
       tweets.forEach((tweet) => {
-        const isReply = tweet.dataset.isReply === "true";
         const isRepost = tweet.classList.contains("tweet-is-repost");
         const hiddenByFilter = isRepost && (document.querySelector("[data-filter-key=\"repost\"]")?.checked || false);
-        if (hiddenByFilter) {
-          tweet.hidden = true;
-        } else if (name === "posts") {
-          tweet.hidden = isReply;
-        } else {
-          tweet.hidden = !isReply;
-        }
+        tweet.hidden = hiddenByFilter || !tabAllowsTweet(tweet, name);
       });
+      if (window._archiveSetCommentExpansionForTab) window._archiveSetCommentExpansionForTab();
       if (!isInit) window.scrollTo(0, scrollPositions[name]);
+    }
+
+    function tabAllowsTweet(tweet, name) {
+      if (name === "posts") return tweet.dataset.isReply !== "true";
+      return replyViewTweets.has(tweet);
+    }
+
+    function orderTweetsForTab(name) {
+      const shell = document.querySelector(".archive-shell");
+      if (!shell) return;
+      const ordered = tweets.slice().sort((a, b) => {
+        if (name !== "replies") return originalOrder.get(a) - originalOrder.get(b);
+        const aVisible = tabAllowsTweet(a, "replies") ? 1 : 0;
+        const bVisible = tabAllowsTweet(b, "replies") ? 1 : 0;
+        if (aVisible !== bVisible) return bVisible - aVisible;
+        const timeDelta = getReplyViewSortTime(b) - getReplyViewSortTime(a);
+        if (timeDelta) return timeDelta;
+        return originalOrder.get(a) - originalOrder.get(b);
+      });
+      ordered.forEach((tweet) => shell.appendChild(tweet));
+    }
+
+    function getReplyViewSortTime(tweet) {
+      const comments = tweet.querySelector(".tweet-comments");
+      const latestComment = comments ? Number(comments.dataset.commentLatestTs || 0) : 0;
+      const ownTimeText = (tweet.querySelector("h3")?.textContent || "").replace(" UTC", "Z").replace(" ", "T");
+      const ownTime = Date.parse(ownTimeText);
+      return Math.max(latestComment, Number.isFinite(ownTime) ? Math.floor(ownTime / 1000) : 0);
     }
 
     function readTabState(key) {
@@ -103,6 +136,7 @@
       const active = tabBar.querySelector(".archive-tab.active");
       return active ? active.dataset.archiveTab : "posts";
     };
+    window._archiveTabAllowsTweet = tabAllowsTweet;
     window._archiveRefreshTab = () => {
       const active = tabBar.querySelector(".archive-tab.active");
       if (active) activateTab(active.dataset.archiveTab, true);
@@ -165,12 +199,11 @@
     globalCheckbox.checked = defaultExpand;
     globalCheckbox.addEventListener("change", () => {
       writeFilterState(expandKey, globalCheckbox.checked);
-      tweetsWithComments.forEach((tweet) => setCommentState(tweet, globalCheckbox.checked));
+      applyCommentExpansionForActiveTab();
     });
 
     // Per-tweet buttons
     tweetsWithComments.forEach((tweet) => {
-      setCommentState(tweet, defaultExpand);
       const btn = tweet.querySelector(".tweet-expand-btn");
       if (btn) {
         btn.addEventListener("click", (e) => {
@@ -180,6 +213,18 @@
         });
       }
     });
+    window._archiveSetCommentExpansionForTab = applyCommentExpansionForActiveTab;
+    applyCommentExpansionForActiveTab();
+
+    function applyCommentExpansionForActiveTab() {
+      const activeTab = window._archiveActiveTab ? window._archiveActiveTab() : "posts";
+      tweetsWithComments.forEach((tweet) => {
+        const forceExpanded = activeTab === "replies"
+          && window._archiveTabAllowsTweet
+          && window._archiveTabAllowsTweet(tweet, "replies");
+        setCommentState(tweet, forceExpanded || globalCheckbox.checked);
+      });
+    }
   }
 
   function setCommentState(tweet, expanded) {
@@ -313,8 +358,10 @@
       if (hiddenByFilter) {
         tweet.hidden = true;
       } else if (activeTab) {
-        const isReply = tweet.dataset.isReply === "true";
-        tweet.hidden = activeTab === "posts" ? isReply : !isReply;
+        const allowedByTab = window._archiveTabAllowsTweet
+          ? window._archiveTabAllowsTweet(tweet, activeTab)
+          : true;
+        tweet.hidden = !allowedByTab;
       } else {
         tweet.hidden = false;
       }

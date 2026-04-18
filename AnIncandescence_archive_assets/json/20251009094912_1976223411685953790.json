@@ -398,12 +398,111 @@
     "x_api_reply_chains": {
       "1976137574864589071": {
         "version": 1,
-        "fetched_at": "2026-04-18T04:14:23Z",
+        "fetched_at": "2026-04-18T07:08:35Z",
         "max_depth": 63,
-        "posts": [],
+        "posts": [
+          {
+            "id": "1976137574864589071",
+            "source": "x_api_oauth1:./env.pale-fire",
+            "payload": {
+              "data": {
+                "text": "@_mucha_000 @grok @grok回答他",
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 12,
+                      "end": 17,
+                      "username": "grok",
+                      "id": "1720665183188922368"
+                    },
+                    {
+                      "start": 18,
+                      "end": 23,
+                      "username": "grok",
+                      "id": "1720665183188922368"
+                    }
+                  ]
+                },
+                "author_id": "1799795163843436544",
+                "conversation_id": "1975990243485729133",
+                "in_reply_to_user_id": "1617685747116675073",
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 56
+                },
+                "lang": "ja",
+                "id": "1976137574864589071",
+                "possibly_sensitive": false,
+                "edit_history_tweet_ids": [
+                  "1976137574864589071"
+                ],
+                "reply_settings": "everyone",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2025-10-09T05:08:07.000Z"
+                },
+                "created_at": "2025-10-09T04:08:07.000Z",
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "1975990243485729133"
+                  }
+                ]
+              },
+              "includes": {
+                "users": [
+                  {
+                    "location": "藤井風的钢琴",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2042972730803523593/1ojSP8EY_normal.jpg",
+                    "name": "🧬ビーチイ小犬U⁠ ⁠´⁠꓃⁠ ⁠`⁠ ⁠U",
+                    "description": "常助無傷 愛全奉全//用繁體字只是因為好看//不看私信//只是个普通人,画我想画写我想写,不接稿,此账号用于堆积画作+迷思+碎碎念❌所有画作禁止用于AI训练❌",
+                    "protected": false,
+                    "id": "1799795163843436544",
+                    "created_at": "2024-06-09T13:26:33.000Z",
+                    "public_metrics": {
+                      "followers_count": 522,
+                      "following_count": 947,
+                      "tweet_count": 8440,
+                      "listed_count": 2,
+                      "like_count": 39625,
+                      "media_count": 505
+                    },
+                    "verified": false,
+                    "username": "BeetiIsDog"
+                  }
+                ]
+              },
+              "errors": [
+                {
+                  "value": "1617685747116675073",
+                  "detail": "Could not find user with in_reply_to_user_id: [1617685747116675073].",
+                  "title": "Not Found Error",
+                  "resource_type": "user",
+                  "parameter": "in_reply_to_user_id",
+                  "resource_id": "1617685747116675073",
+                  "type": "https://api.twitter.com/2/problems/resource-not-found"
+                },
+                {
+                  "value": "1975990243485729133",
+                  "detail": "Could not find tweet with referenced_tweets.id: [1975990243485729133].",
+                  "title": "Not Found Error",
+                  "resource_type": "tweet",
+                  "parameter": "referenced_tweets.id",
+                  "resource_id": "1975990243485729133",
+                  "type": "https://api.twitter.com/2/problems/resource-not-found"
+                }
+              ]
+            }
+          }
+        ],
         "terminal_error": {
-          "id": "1976137574864589071",
-          "message": "Wayback fallback did not find archived JSON for tweet id 1976137574864589071."
+          "id": "1975990243485729133",
+          "message": "./.env: X API OAuth 1.0a returned HTTP 429. ./env.pale-fire: Could not find tweet with id: [1975990243485729133]. Wayback fallback: Wayback fallback did not find archived JSON for tweet id 1975990243485729133."
         }
       }
     }

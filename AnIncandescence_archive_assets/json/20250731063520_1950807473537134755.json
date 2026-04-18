@@ -240,13 +240,145 @@
     "x_api_reply_chains": {
       "1950496690831569050": {
         "version": 1,
-        "fetched_at": "2026-04-18T04:12:46Z",
+        "fetched_at": "2026-04-18T06:18:21Z",
         "max_depth": 63,
-        "posts": [],
-        "terminal_error": {
-          "id": "1950496690831569050",
-          "message": "Wayback fallback did not find archived JSON for tweet id 1950496690831569050."
-        }
+        "posts": [
+          {
+            "id": "1950496690831569050",
+            "source": "x_api_oauth1",
+            "payload": {
+              "data": {
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": true,
+                  "editable_until": "2025-07-30T11:00:24.000Z"
+                },
+                "text": "推荐一本书《TiHKAL(我认识和爱过的色胺类物质们)》，可以在网页上免费看🥹\n书中有五十多种色胺衍生物(包括DMT，LSD)的合成、用量、药效、体验报告，对色胺衍生物感兴趣的推u们可以看看哦~\n网址:https://t.co/4KP985PEAH\n(仅供教育用途) https://t.co/IxXh8FSqhb",
+                "public_metrics": {
+                  "retweet_count": 10,
+                  "reply_count": 7,
+                  "like_count": 38,
+                  "quote_count": 1,
+                  "bookmark_count": 28,
+                  "impression_count": 7334
+                },
+                "entities": {
+                  "urls": [
+                    {
+                      "start": 101,
+                      "end": 124,
+                      "url": "https://t.co/4KP985PEAH",
+                      "expanded_url": "https://www.erowid.org/library/books_online/tihkal/tihkal.shtml",
+                      "display_url": "erowid.org/library/books_…",
+                      "images": [
+                        {
+                          "url": "https://pbs.twimg.com/news_img/2021184898111852544/W6Brir-U?format=jpg&name=orig",
+                          "width": 233,
+                          "height": 350
+                        },
+                        {
+                          "url": "https://pbs.twimg.com/news_img/2021184898111852544/W6Brir-U?format=jpg&name=150x150",
+                          "width": 150,
+                          "height": 150
+                        }
+                      ],
+                      "status": 200,
+                      "title": "Erowid Online Books : \"TIHKAL\" - The Continuation\" by Alexander and Ann Shulgin",
+                      "description": "TiHKAL: The Continuation, by Alexander and Ann Shulgin.",
+                      "unwound_url": "https://www.erowid.org/library/books_online/tihkal/tihkal.shtml"
+                    },
+                    {
+                      "start": 134,
+                      "end": 157,
+                      "url": "https://t.co/IxXh8FSqhb",
+                      "expanded_url": "https://x.com/SalviaSWC/status/1950496690831569050/photo/1",
+                      "display_url": "pic.x.com/IxXh8FSqhb",
+                      "media_key": "3_1950496423255916545"
+                    }
+                  ]
+                },
+                "reply_settings": "everyone",
+                "attachments": {
+                  "media_keys": [
+                    "3_1950496423255916545"
+                  ]
+                },
+                "edit_history_tweet_ids": [
+                  "1950496690831569050"
+                ],
+                "id": "1950496690831569050",
+                "possibly_sensitive": false,
+                "author_id": "1659962043460354050",
+                "created_at": "2025-07-30T10:00:24.000Z",
+                "lang": "zh",
+                "conversation_id": "1950496690831569050"
+              },
+              "includes": {
+                "media": [
+                  {
+                    "height": 1654,
+                    "type": "photo",
+                    "media_key": "3_1950496423255916545",
+                    "url": "https://pbs.twimg.com/media/GxGOKavWwAEFqCx.jpg",
+                    "width": 1080
+                  }
+                ],
+                "users": [
+                  {
+                    "url": "https://t.co/20q0OtAeQd",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+                    "name": "鼠尾草～🌿",
+                    "protected": false,
+                    "username": "SalviaSWC",
+                    "id": "1659962043460354050",
+                    "created_at": "2023-05-20T16:39:35.000Z",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/20q0OtAeQd",
+                            "expanded_url": "https://freeodwiki.org",
+                            "display_url": "freeodwiki.org"
+                          }
+                        ]
+                      },
+                      "description": {
+                        "urls": [
+                          {
+                            "start": 92,
+                            "end": 115,
+                            "url": "https://t.co/ki2TerCl7C",
+                            "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                            "display_url": "github.com/SalviaSWC/Free…"
+                          }
+                        ],
+                        "mentions": [
+                          {
+                            "start": 54,
+                            "end": 65,
+                            "username": "DXM8964LXM"
+                          }
+                        ]
+                      }
+                    },
+                    "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+                    "public_metrics": {
+                      "followers_count": 3804,
+                      "following_count": 981,
+                      "tweet_count": 6983,
+                      "listed_count": 8,
+                      "like_count": 22133,
+                      "media_count": 439
+                    },
+                    "verified": false
+                  }
+                ]
+              }
+            }
+          }
+        ]
       }
     }
   }

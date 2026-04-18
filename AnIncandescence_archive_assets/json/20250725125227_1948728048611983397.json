@@ -243,13 +243,88 @@
     "x_api_reply_chains": {
       "1948451497395847587": {
         "version": 1,
-        "fetched_at": "2026-04-18T04:11:58Z",
+        "fetched_at": "2026-04-18T06:18:20Z",
         "max_depth": 63,
-        "posts": [],
-        "terminal_error": {
-          "id": "1948451497395847587",
-          "message": "Wayback fallback did not find archived JSON for tweet id 1948451497395847587."
-        }
+        "posts": [
+          {
+            "id": "1948451497395847587",
+            "source": "x_api_oauth1",
+            "payload": {
+              "data": {
+                "id": "1948451497395847587",
+                "edit_history_tweet_ids": [
+                  "1948451497395847587"
+                ],
+                "public_metrics": {
+                  "retweet_count": 3,
+                  "reply_count": 5,
+                  "like_count": 48,
+                  "quote_count": 2,
+                  "bookmark_count": 11,
+                  "impression_count": 2710
+                },
+                "author_id": "1680834021377593344",
+                "text": "我认为不错甚至奠基了我价值观的书\n不分前后\n.《献给阿尔吉侬的花束》\n.《1984》\n.《狂人日记》\n.《人类群星闪耀时》\n.《梦的解析》\n.《高堡奇人》\n.《性学三论》\n.轻小说 nbuna的《盗作》",
+                "lang": "zh",
+                "reply_settings": "everyone",
+                "possibly_sensitive": false,
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": true,
+                  "editable_until": "2025-07-24T19:33:32.000Z"
+                },
+                "created_at": "2025-07-24T18:33:32.000Z",
+                "conversation_id": "1948451497395847587"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/vac9121CFI",
+                            "expanded_url": "http://t.me/ikukoo0413",
+                            "display_url": "t.me/ikukoo0413"
+                          }
+                        ]
+                      },
+                      "description": {
+                        "mentions": [
+                          {
+                            "start": 71,
+                            "end": 83,
+                            "username": "Lyrica_1005"
+                          }
+                        ]
+                      }
+                    },
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2040262760144175104/Kyeycx3d_normal.jpg",
+                    "verified": false,
+                    "public_metrics": {
+                      "followers_count": 2537,
+                      "following_count": 988,
+                      "tweet_count": 32354,
+                      "listed_count": 16,
+                      "like_count": 131648,
+                      "media_count": 4622
+                    },
+                    "location": "Room 13",
+                    "url": "https://t.co/vac9121CFI",
+                    "id": "1680834021377593344",
+                    "name": "粥白粥粥白🍥🌛🕊️🕊️",
+                    "created_at": "2023-07-17T06:57:26.000Z",
+                    "username": "Ikks0413",
+                    "description": "07｜MtFree｜Asexual/Agender｜Intel新芽衣滞华汁做题国难长毛人妖垮处 ｜ただ夏の匂いに目を瞑りたい｜◂Ⓘ▸ ｜🐖❤️@Lyrica_1005",
+                    "protected": false
+                  }
+                ]
+              }
+            }
+          }
+        ]
       }
     }
   }

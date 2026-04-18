@@ -284,13 +284,129 @@
     "x_api_reply_chains": {
       "1972678573392597241": {
         "version": 1,
-        "fetched_at": "2026-04-18T04:14:07Z",
+        "fetched_at": "2026-04-18T06:18:23Z",
         "max_depth": 63,
-        "posts": [],
-        "terminal_error": {
-          "id": "1972678573392597241",
-          "message": "Wayback fallback did not find archived JSON for tweet id 1972678573392597241."
-        }
+        "posts": [
+          {
+            "id": "1972678573392597241",
+            "source": "x_api_oauth1",
+            "payload": {
+              "data": {
+                "attachments": {
+                  "media_keys": [
+                    "3_1972678569865408512"
+                  ]
+                },
+                "created_at": "2025-09-29T15:03:17.000Z",
+                "entities": {
+                  "urls": [
+                    {
+                      "start": 79,
+                      "end": 102,
+                      "url": "https://t.co/xatPSdl96Q",
+                      "expanded_url": "https://x.com/zqtlovekris99/status/1972678573392597241/photo/1",
+                      "display_url": "pic.x.com/xatPSdl96Q",
+                      "media_key": "3_1972678569865408512"
+                    }
+                  ]
+                },
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": true,
+                  "editable_until": "2025-09-29T16:03:17.000Z"
+                },
+                "author_id": "1390652924481527810",
+                "possibly_sensitive": false,
+                "edit_history_tweet_ids": [
+                  "1972678573392597241"
+                ],
+                "reply_settings": "everyone",
+                "text": "好的我成功把3盒普瑞巴林8盒思诺思40颗氯硝西泮+若干右佐和劳拉带回来了，还好成都飞机安检不严，但是我过两天还要把更多量的药从北京再飞过去我就有点活人微亖了 https://t.co/xatPSdl96Q",
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 18,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 3523
+                },
+                "conversation_id": "1972678573392597241",
+                "id": "1972678573392597241",
+                "lang": "zh"
+              },
+              "includes": {
+                "media": [
+                  {
+                    "media_key": "3_1972678569865408512",
+                    "url": "https://pbs.twimg.com/media/G2BctSTacAAVhTQ.jpg",
+                    "type": "photo",
+                    "width": 1536,
+                    "height": 2048
+                  }
+                ],
+                "users": [
+                  {
+                    "username": "zqtlovekris99",
+                    "description": "出卖了灵魂的空壳，日常号 @Grtr_nk\n🍀关注竹蜻蜓喵谢谢喵🍀蓝v互关其他回fo请私信 | 闺蜜 @Misako_25ji 诡秘 @maoxian1527 🐱 @Citrus_amara",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/WeibacoXza",
+                            "expanded_url": "http://ngl.link/nekotonbo1",
+                            "display_url": "ngl.link/nekotonbo1"
+                          }
+                        ]
+                      },
+                      "description": {
+                        "mentions": [
+                          {
+                            "start": 13,
+                            "end": 21,
+                            "username": "Grtr_nk"
+                          },
+                          {
+                            "start": 51,
+                            "end": 63,
+                            "username": "Misako_25ji"
+                          },
+                          {
+                            "start": 67,
+                            "end": 79,
+                            "username": "maoxian1527"
+                          },
+                          {
+                            "start": 82,
+                            "end": 95,
+                            "username": "Citrus_amara"
+                          }
+                        ]
+                      }
+                    },
+                    "verified": false,
+                    "created_at": "2021-05-07T13:02:12.000Z",
+                    "public_metrics": {
+                      "followers_count": 11993,
+                      "following_count": 1486,
+                      "tweet_count": 27462,
+                      "listed_count": 16,
+                      "like_count": 25249,
+                      "media_count": 4627
+                    },
+                    "name": "🍀🍥竹蜻蜓🍥🍀",
+                    "url": "https://t.co/WeibacoXza",
+                    "location": "🚪68/128",
+                    "id": "1390652924481527810",
+                    "protected": false,
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg"
+                  }
+                ]
+              }
+            }
+          }
+        ]
       }
     }
   }

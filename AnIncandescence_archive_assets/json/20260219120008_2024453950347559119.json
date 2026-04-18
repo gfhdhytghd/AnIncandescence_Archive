@@ -303,7 +303,7 @@
     "x_api_reply_chains": {
       "2024451932367311108": {
         "version": 1,
-        "fetched_at": "2026-04-18T01:29:17Z",
+        "fetched_at": "2026-04-18T06:18:27Z",
         "max_depth": 63,
         "posts": [
           {
@@ -535,13 +535,105 @@
                 "x_api_reply_chains": {
                   "2024393471512150472": {
                     "version": 1,
-                    "fetched_at": "2026-04-17T23:24:18Z",
-                    "max_depth": 7,
-                    "posts": [],
-                    "terminal_error": {
-                      "id": "2024393471512150472",
-                      "message": "X API returned HTTP 429."
-                    }
+                    "fetched_at": "2026-04-18T01:29:17Z",
+                    "max_depth": 63,
+                    "posts": [
+                      {
+                        "id": "2024393471512150472",
+                        "source": "x_api_oauth1",
+                        "payload": {
+                          "data": {
+                            "lang": "zh",
+                            "edit_controls": {
+                              "edits_remaining": 5,
+                              "is_edit_eligible": true,
+                              "editable_until": "2026-02-19T08:59:49.000Z"
+                            },
+                            "reply_settings": "everyone",
+                            "created_at": "2026-02-19T07:59:49.000Z",
+                            "text": "我宣布，这是26年AI圈最拉风的情头\n找个人跟我用！ https://t.co/XjvRSrPfLx",
+                            "possibly_sensitive": false,
+                            "author_id": "1699797396589588480",
+                            "entities": {
+                              "urls": [
+                                {
+                                  "start": 27,
+                                  "end": 50,
+                                  "url": "https://t.co/XjvRSrPfLx",
+                                  "expanded_url": "https://x.com/MaxForAI/status/2024393471512150472/photo/1",
+                                  "display_url": "pic.x.com/XjvRSrPfLx",
+                                  "media_key": "3_2024393464314830848"
+                                }
+                              ]
+                            },
+                            "edit_history_tweet_ids": [
+                              "2024393471512150472"
+                            ],
+                            "conversation_id": "2024393471512150472",
+                            "public_metrics": {
+                              "retweet_count": 6,
+                              "reply_count": 15,
+                              "like_count": 200,
+                              "quote_count": 1,
+                              "bookmark_count": 20,
+                              "impression_count": 29531
+                            },
+                            "attachments": {
+                              "media_keys": [
+                                "3_2024393464314830848"
+                              ]
+                            },
+                            "id": "2024393471512150472"
+                          },
+                          "includes": {
+                            "media": [
+                              {
+                                "media_key": "3_2024393464314830848",
+                                "type": "photo",
+                                "height": 362,
+                                "url": "https://pbs.twimg.com/media/HBgXIU4boAAHFdn.jpg",
+                                "width": 422
+                              }
+                            ],
+                            "users": [
+                              {
+                                "public_metrics": {
+                                  "followers_count": 7482,
+                                  "following_count": 1218,
+                                  "tweet_count": 2312,
+                                  "listed_count": 72,
+                                  "like_count": 5178,
+                                  "media_count": 346
+                                },
+                                "entities": {
+                                  "url": {
+                                    "urls": [
+                                      {
+                                        "start": 0,
+                                        "end": 23,
+                                        "url": "https://t.co/Sl0Wv6feey",
+                                        "expanded_url": "http://maxforai.com",
+                                        "display_url": "maxforai.com"
+                                      }
+                                    ]
+                                  }
+                                },
+                                "id": "1699797396589588480",
+                                "verified": false,
+                                "created_at": "2023-09-07T14:51:17.000Z",
+                                "profile_image_url": "https://pbs.twimg.com/profile_images/1885611457376903171/zWWnahYp_normal.jpg",
+                                "url": "https://t.co/Sl0Wv6feey",
+                                "protected": false,
+                                "username": "MaxForAI",
+                                "location": "Singapore",
+                                "name": "Max For AI",
+                                "description": "没啥好看的，也就发点AI相关的内容    Prev双币基金行研、大模型团队、AI媒体"
+                              }
+                            ]
+                          }
+                        }
+                      }
+                    ]
                   }
                 }
               }
@@ -776,15 +868,202 @@
                 "x_api_reply_chains": {
                   "2024393471512150472": {
                     "version": 1,
-                    "fetched_at": "2026-04-17T23:24:18Z",
-                    "max_depth": 7,
-                    "posts": [],
-                    "terminal_error": {
-                      "id": "2024393471512150472",
-                      "message": "X API returned HTTP 429."
-                    }
+                    "fetched_at": "2026-04-18T01:29:17Z",
+                    "max_depth": 63,
+                    "posts": [
+                      {
+                        "id": "2024393471512150472",
+                        "source": "x_api_oauth1",
+                        "payload": {
+                          "data": {
+                            "lang": "zh",
+                            "edit_controls": {
+                              "edits_remaining": 5,
+                              "is_edit_eligible": true,
+                              "editable_until": "2026-02-19T08:59:49.000Z"
+                            },
+                            "reply_settings": "everyone",
+                            "created_at": "2026-02-19T07:59:49.000Z",
+                            "text": "我宣布，这是26年AI圈最拉风的情头\n找个人跟我用！ https://t.co/XjvRSrPfLx",
+                            "possibly_sensitive": false,
+                            "author_id": "1699797396589588480",
+                            "entities": {
+                              "urls": [
+                                {
+                                  "start": 27,
+                                  "end": 50,
+                                  "url": "https://t.co/XjvRSrPfLx",
+                                  "expanded_url": "https://x.com/MaxForAI/status/2024393471512150472/photo/1",
+                                  "display_url": "pic.x.com/XjvRSrPfLx",
+                                  "media_key": "3_2024393464314830848"
+                                }
+                              ]
+                            },
+                            "edit_history_tweet_ids": [
+                              "2024393471512150472"
+                            ],
+                            "conversation_id": "2024393471512150472",
+                            "public_metrics": {
+                              "retweet_count": 6,
+                              "reply_count": 15,
+                              "like_count": 200,
+                              "quote_count": 1,
+                              "bookmark_count": 20,
+                              "impression_count": 29531
+                            },
+                            "attachments": {
+                              "media_keys": [
+                                "3_2024393464314830848"
+                              ]
+                            },
+                            "id": "2024393471512150472"
+                          },
+                          "includes": {
+                            "media": [
+                              {
+                                "media_key": "3_2024393464314830848",
+                                "type": "photo",
+                                "height": 362,
+                                "url": "https://pbs.twimg.com/media/HBgXIU4boAAHFdn.jpg",
+                                "width": 422
+                              }
+                            ],
+                            "users": [
+                              {
+                                "public_metrics": {
+                                  "followers_count": 7482,
+                                  "following_count": 1218,
+                                  "tweet_count": 2312,
+                                  "listed_count": 72,
+                                  "like_count": 5178,
+                                  "media_count": 346
+                                },
+                                "entities": {
+                                  "url": {
+                                    "urls": [
+                                      {
+                                        "start": 0,
+                                        "end": 23,
+                                        "url": "https://t.co/Sl0Wv6feey",
+                                        "expanded_url": "http://maxforai.com",
+                                        "display_url": "maxforai.com"
+                                      }
+                                    ]
+                                  }
+                                },
+                                "id": "1699797396589588480",
+                                "verified": false,
+                                "created_at": "2023-09-07T14:51:17.000Z",
+                                "profile_image_url": "https://pbs.twimg.com/profile_images/1885611457376903171/zWWnahYp_normal.jpg",
+                                "url": "https://t.co/Sl0Wv6feey",
+                                "protected": false,
+                                "username": "MaxForAI",
+                                "location": "Singapore",
+                                "name": "Max For AI",
+                                "description": "没啥好看的，也就发点AI相关的内容    Prev双币基金行研、大模型团队、AI媒体"
+                              }
+                            ]
+                          }
+                        }
+                      }
+                    ]
                   }
                 }
+              }
+            }
+          },
+          {
+            "id": "2024393471512150472",
+            "source": "x_api_oauth1",
+            "payload": {
+              "data": {
+                "text": "我宣布，这是26年AI圈最拉风的情头\n找个人跟我用！ https://t.co/XjvRSrPfLx",
+                "conversation_id": "2024393471512150472",
+                "edit_history_tweet_ids": [
+                  "2024393471512150472"
+                ],
+                "created_at": "2026-02-19T07:59:49.000Z",
+                "possibly_sensitive": false,
+                "lang": "zh",
+                "author_id": "1699797396589588480",
+                "attachments": {
+                  "media_keys": [
+                    "3_2024393464314830848"
+                  ]
+                },
+                "id": "2024393471512150472",
+                "entities": {
+                  "urls": [
+                    {
+                      "start": 27,
+                      "end": 50,
+                      "url": "https://t.co/XjvRSrPfLx",
+                      "expanded_url": "https://x.com/MaxForAI/status/2024393471512150472/photo/1",
+                      "display_url": "pic.x.com/XjvRSrPfLx",
+                      "media_key": "3_2024393464314830848"
+                    }
+                  ]
+                },
+                "reply_settings": "everyone",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": true,
+                  "editable_until": "2026-02-19T08:59:49.000Z"
+                },
+                "public_metrics": {
+                  "retweet_count": 6,
+                  "reply_count": 15,
+                  "like_count": 200,
+                  "quote_count": 1,
+                  "bookmark_count": 20,
+                  "impression_count": 29533
+                }
+              },
+              "includes": {
+                "media": [
+                  {
+                    "type": "photo",
+                    "width": 422,
+                    "url": "https://pbs.twimg.com/media/HBgXIU4boAAHFdn.jpg",
+                    "height": 362,
+                    "media_key": "3_2024393464314830848"
+                  }
+                ],
+                "users": [
+                  {
+                    "username": "MaxForAI",
+                    "name": "Max For AI",
+                    "public_metrics": {
+                      "followers_count": 7483,
+                      "following_count": 1218,
+                      "tweet_count": 2312,
+                      "listed_count": 72,
+                      "like_count": 5178,
+                      "media_count": 346
+                    },
+                    "verified": false,
+                    "url": "https://t.co/Sl0Wv6feey",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/Sl0Wv6feey",
+                            "expanded_url": "http://maxforai.com",
+                            "display_url": "maxforai.com"
+                          }
+                        ]
+                      }
+                    },
+                    "description": "没啥好看的，也就发点AI相关的内容    Prev双币基金行研、大模型团队、AI媒体",
+                    "created_at": "2023-09-07T14:51:17.000Z",
+                    "location": "Singapore",
+                    "protected": false,
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1885611457376903171/zWWnahYp_normal.jpg",
+                    "id": "1699797396589588480"
+                  }
+                ]
               }
             }
           }

@@ -182,13 +182,1177 @@
     "x_api_reply_chains": {
       "2035342591890485306": {
         "version": 1,
-        "fetched_at": "2026-04-18T02:44:58Z",
+        "fetched_at": "2026-04-18T07:07:44Z",
         "max_depth": 64,
-        "posts": [],
-        "terminal_error": {
-          "id": "2035342591890485306",
-          "message": "Sorry, you are not authorized to see the Tweet with id: [2035342591890485306]. Wayback fallback: Wayback fallback did not find archived JSON for tweet id 2035342591890485306."
-        }
+        "posts": [
+          {
+            "id": "2035342591890485306",
+            "source": "x_api_oauth1:./env.pale-fire",
+            "payload": {
+              "data": {
+                "text": "@AnIncandescence 克老师让你出招你是真出啊（）\n不过，神医！ https://t.co/HUAhWMR2WK",
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 0,
+                      "end": 16,
+                      "username": "AnIncandescence",
+                      "id": "1741993395910811648"
+                    }
+                  ],
+                  "urls": [
+                    {
+                      "start": 39,
+                      "end": 62,
+                      "url": "https://t.co/HUAhWMR2WK",
+                      "expanded_url": "https://x.com/TauCeti_10700/status/2035342591890485306/photo/1",
+                      "display_url": "pic.x.com/HUAhWMR2WK",
+                      "media_key": "3_2035342556268212224"
+                    },
+                    {
+                      "start": 39,
+                      "end": 62,
+                      "url": "https://t.co/HUAhWMR2WK",
+                      "expanded_url": "https://x.com/TauCeti_10700/status/2035342591890485306/photo/1",
+                      "display_url": "pic.x.com/HUAhWMR2WK",
+                      "media_key": "3_2035342556352118784"
+                    },
+                    {
+                      "start": 39,
+                      "end": 62,
+                      "url": "https://t.co/HUAhWMR2WK",
+                      "expanded_url": "https://x.com/TauCeti_10700/status/2035342591890485306/photo/1",
+                      "display_url": "pic.x.com/HUAhWMR2WK",
+                      "media_key": "3_2035342556276645888"
+                    },
+                    {
+                      "start": 39,
+                      "end": 62,
+                      "url": "https://t.co/HUAhWMR2WK",
+                      "expanded_url": "https://x.com/TauCeti_10700/status/2035342591890485306/photo/1",
+                      "display_url": "pic.x.com/HUAhWMR2WK",
+                      "media_key": "3_2035342556310261760"
+                    }
+                  ]
+                },
+                "author_id": "1808933044545630208",
+                "conversation_id": "2034992856079933683",
+                "in_reply_to_user_id": "1741993395910811648",
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 35
+                },
+                "lang": "zh",
+                "attachments": {
+                  "media_keys": [
+                    "3_2035342556268212224",
+                    "3_2035342556352118784",
+                    "3_2035342556276645888",
+                    "3_2035342556310261760"
+                  ]
+                },
+                "id": "2035342591890485306",
+                "possibly_sensitive": false,
+                "edit_history_tweet_ids": [
+                  "2035342591890485306"
+                ],
+                "reply_settings": "everyone",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2026-03-21T14:07:43.000Z"
+                },
+                "created_at": "2026-03-21T13:07:43.000Z",
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "2035339901886243218"
+                  }
+                ]
+              },
+              "includes": {
+                "media": [
+                  {
+                    "media_key": "3_2035342556268212224",
+                    "width": 1206,
+                    "height": 2487,
+                    "url": "https://pbs.twimg.com/media/HD79RW6aMAALVIJ.jpg",
+                    "type": "photo"
+                  },
+                  {
+                    "media_key": "3_2035342556352118784",
+                    "width": 1206,
+                    "height": 2486,
+                    "url": "https://pbs.twimg.com/media/HD79RXOagAARmvv.jpg",
+                    "type": "photo"
+                  },
+                  {
+                    "media_key": "3_2035342556276645888",
+                    "width": 1206,
+                    "height": 2494,
+                    "url": "https://pbs.twimg.com/media/HD79RW8a4AAaIBU.jpg",
+                    "type": "photo"
+                  },
+                  {
+                    "media_key": "3_2035342556310261760",
+                    "width": 1206,
+                    "height": 2474,
+                    "url": "https://pbs.twimg.com/media/HD79RXEb0AARNlD.jpg",
+                    "type": "photo"
+                  }
+                ],
+                "users": [
+                  {
+                    "location": "0°00′N 260°00′E Mars",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1853163363142115328/S5o_Yawf_normal.jpg",
+                    "name": "Pale Fire",
+                    "description": "穿越语言的壳，任思维溢出容器——请听，离群者无法永恒的悲歌。炽在水洼中的倒影，因为星光获得了生命 /Per aspera ad astra.",
+                    "protected": true,
+                    "id": "1808933044545630208",
+                    "created_at": "2024-07-04T18:37:10.000Z",
+                    "public_metrics": {
+                      "followers_count": 133,
+                      "following_count": 67,
+                      "tweet_count": 578,
+                      "listed_count": 1,
+                      "like_count": 702,
+                      "media_count": 148
+                    },
+                    "verified": false,
+                    "username": "TauCeti_10700"
+                  }
+                ]
+              },
+              "errors": [
+                {
+                  "parameter": "in_reply_to_user_id",
+                  "resource_id": "1741993395910811648",
+                  "value": "1741993395910811648",
+                  "detail": "User has been suspended: [1741993395910811648].",
+                  "title": "Forbidden",
+                  "resource_type": "user",
+                  "type": "https://api.twitter.com/2/problems/resource-not-found"
+                },
+                {
+                  "resource_id": "2035339901886243218",
+                  "parameter": "referenced_tweets.id",
+                  "resource_type": "tweet",
+                  "section": "includes",
+                  "title": "Authorization Error",
+                  "value": "2035339901886243218",
+                  "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2035339901886243218].",
+                  "type": "https://api.twitter.com/2/problems/not-authorized-for-resource"
+                }
+              ]
+            }
+          },
+          {
+            "id": "2035339901886243218",
+            "source": "local_json",
+            "payload": {
+              "data": {
+                "article": {},
+                "attachments": {},
+                "author_id": "1741993395910811648",
+                "conversation_id": "2034992856079933683",
+                "created_at": "2026-03-21T12:57:02.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2026-03-21T13:57:02.000Z"
+                },
+                "edit_history_tweet_ids": [
+                  "2035339901886243218"
+                ],
+                "entities": {},
+                "geo": {},
+                "id": "2035339901886243218",
+                "in_reply_to_user_id": "1741993395910811648",
+                "lang": "zh",
+                "note_tweet": {
+                  "entities": {}
+                },
+                "possibly_sensitive": false,
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 0
+                },
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "2035309581082247395"
+                  }
+                ],
+                "reply_settings": "everyone",
+                "text": "“你不赶紧治好可怎么整啊”\n“你要是精神病了谁跟你结婚啊”\n冒犯了，您太冒犯了。\n首先，我就是精神病，其次，我不结婚。很诡异啊结婚这个东西，它带来了某种…益处吗？它的作用在哪里？有什么是只有结婚才能得到的？好诡异啊"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "created_at": "2024-01-02T01:22:57.000Z",
+                    "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 倒影@TauCeti_10700 计划这个号机的浓度更高一些 | 🚪88/158",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/iO6MRJNTYR",
+                            "expanded_url": "https://ngl.link/anincandescence1",
+                            "display_url": "ngl.link/anincandescenc…"
+                          }
+                        ]
+                      },
+                      "description": {
+                        "mentions": [
+                          {
+                            "start": 62,
+                            "end": 76,
+                            "username": "TauCeti_10700"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1741993395910811648",
+                    "location": "天鹅座X-1 //⬇️ 匿名提问箱",
+                    "name": "炽烈已极",
+                    "pinned_tweet_id": "2024076888923365667",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2034869645342076928/m2LinKe5_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 1832,
+                      "following_count": 245,
+                      "tweet_count": 6507,
+                      "listed_count": 6,
+                      "like_count": 15432,
+                      "media_count": 1161
+                    },
+                    "url": "https://t.co/iO6MRJNTYR",
+                    "username": "AnIncandescence",
+                    "verified": false
+                  }
+                ],
+                "tweets": [
+                  {
+                    "article": {},
+                    "attachments": {},
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "2034992856079933683",
+                    "created_at": "2026-03-21T12:57:02.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2026-03-21T13:57:02.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "2035339901886243218"
+                    ],
+                    "entities": {},
+                    "geo": {},
+                    "id": "2035339901886243218",
+                    "in_reply_to_user_id": "1741993395910811648",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 0,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 0
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "2035309581082247395"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "“你不赶紧治好可怎么整啊”\n“你要是精神病了谁跟你结婚啊”\n冒犯了，您太冒犯了。\n首先，我就是精神病，其次，我不结婚。很诡异啊结婚这个东西，它带来了某种…益处吗？它的作用在哪里？有什么是只有结婚才能得到的？好诡异啊"
+                  },
+                  {
+                    "article": {},
+                    "attachments": {},
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "2034992856079933683",
+                    "created_at": "2026-03-21T10:56:33.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2026-03-21T11:56:33.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "2035309581082247395"
+                    ],
+                    "entities": {},
+                    "geo": {},
+                    "id": "2035309581082247395",
+                    "in_reply_to_user_id": "1741993395910811648",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 4,
+                      "like_count": 6,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 100
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "2034992856079933683"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "隔壁床阿姨开始拆心理医生费劲建起来的房子中。。\n干什么你告诉我什么叫靠意志力好起来，什么叫痛就忍忍不然就是不想好$&amp;+%×/&gt;！？？？什么叫喝中药，嗯，嗯？？？这个社会里地位高的就是这种人，医技多高我不知道pua人是熟练的很，经典“我们那个年代小孩都挨打的现在年轻人太脆弱”，你谁啊？？？？？"
+                  }
+                ]
+              },
+              "_pale_fire": {
+                "x_api_reply_chains": {
+                  "2034992856079933683": {
+                    "version": 1,
+                    "fetched_at": "2026-04-18T01:34:43Z",
+                    "max_depth": 63,
+                    "posts": [
+                      {
+                        "id": "2034992856079933683",
+                        "source": "local_json",
+                        "payload": {
+                          "data": {
+                            "article": {},
+                            "attachments": {},
+                            "author_id": "1741993395910811648",
+                            "conversation_id": "2034992856079933683",
+                            "created_at": "2026-03-21T10:56:33.000Z",
+                            "edit_controls": {
+                              "edits_remaining": 5,
+                              "is_edit_eligible": false,
+                              "editable_until": "2026-03-21T11:56:33.000Z"
+                            },
+                            "edit_history_tweet_ids": [
+                              "2035309581082247395"
+                            ],
+                            "entities": {},
+                            "geo": {},
+                            "id": "2035309581082247395",
+                            "in_reply_to_user_id": "1741993395910811648",
+                            "lang": "zh",
+                            "note_tweet": {
+                              "entities": {}
+                            },
+                            "possibly_sensitive": false,
+                            "public_metrics": {
+                              "retweet_count": 0,
+                              "reply_count": 0,
+                              "like_count": 0,
+                              "quote_count": 0,
+                              "bookmark_count": 0,
+                              "impression_count": 0
+                            },
+                            "referenced_tweets": [
+                              {
+                                "type": "replied_to",
+                                "id": "2034992856079933683"
+                              }
+                            ],
+                            "reply_settings": "everyone",
+                            "text": "隔壁床阿姨开始拆心理医生费劲建起来的房子中。。\n干什么你告诉我什么叫靠意志力好起来，什么叫痛就忍忍不然就是不想好$&amp;+%×/&gt;！？？？什么叫喝中药，嗯，嗯？？？这个社会里地位高的就是这种人，医技多高我不知道pua人是熟练的很，经典“我们那个年代小孩都挨打的现在年轻人太脆弱”，你谁啊？？？？？"
+                          },
+                          "includes": {
+                            "media": [
+                              {
+                                "height": 4096,
+                                "media_key": "3_2034992793094168580",
+                                "public_metrics": {},
+                                "type": "photo",
+                                "url": "https://pbs.twimg.com/media/HD2_KdjboAQCE-s.jpg",
+                                "width": 3072
+                              },
+                              {
+                                "height": 4096,
+                                "media_key": "3_2034992793081585668",
+                                "public_metrics": {},
+                                "type": "photo",
+                                "url": "https://pbs.twimg.com/media/HD2_KdgboAQdNxY.jpg",
+                                "width": 3072
+                              }
+                            ],
+                            "users": [
+                              {
+                                "created_at": "2024-01-02T01:22:57.000Z",
+                                "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 倒影@TauCeti_10700 计划这个号机的浓度更高一些 | 🚪88/158",
+                                "entities": {
+                                  "url": {
+                                    "urls": [
+                                      {
+                                        "start": 0,
+                                        "end": 23,
+                                        "url": "https://t.co/iO6MRJNTYR",
+                                        "expanded_url": "https://ngl.link/anincandescence1",
+                                        "display_url": "ngl.link/anincandescenc…"
+                                      }
+                                    ]
+                                  },
+                                  "description": {
+                                    "mentions": [
+                                      {
+                                        "start": 62,
+                                        "end": 76,
+                                        "username": "TauCeti_10700"
+                                      }
+                                    ]
+                                  }
+                                },
+                                "id": "1741993395910811648",
+                                "location": "天鹅座X-1 //⬇️ 匿名提问箱",
+                                "name": "炽烈已极",
+                                "pinned_tweet_id": "2024076888923365667",
+                                "profile_image_url": "https://pbs.twimg.com/profile_images/2034869645342076928/m2LinKe5_normal.jpg",
+                                "protected": false,
+                                "public_metrics": {
+                                  "followers_count": 1830,
+                                  "following_count": 245,
+                                  "tweet_count": 6500,
+                                  "listed_count": 6,
+                                  "like_count": 15425,
+                                  "media_count": 1161
+                                },
+                                "url": "https://t.co/iO6MRJNTYR",
+                                "username": "AnIncandescence",
+                                "verified": false
+                              }
+                            ],
+                            "tweets": [
+                              {
+                                "article": {},
+                                "attachments": {},
+                                "author_id": "1741993395910811648",
+                                "conversation_id": "2034992856079933683",
+                                "created_at": "2026-03-21T10:56:33.000Z",
+                                "edit_controls": {
+                                  "edits_remaining": 5,
+                                  "is_edit_eligible": false,
+                                  "editable_until": "2026-03-21T11:56:33.000Z"
+                                },
+                                "edit_history_tweet_ids": [
+                                  "2035309581082247395"
+                                ],
+                                "entities": {},
+                                "geo": {},
+                                "id": "2035309581082247395",
+                                "in_reply_to_user_id": "1741993395910811648",
+                                "lang": "zh",
+                                "note_tweet": {
+                                  "entities": {}
+                                },
+                                "possibly_sensitive": false,
+                                "public_metrics": {
+                                  "retweet_count": 0,
+                                  "reply_count": 0,
+                                  "like_count": 0,
+                                  "quote_count": 0,
+                                  "bookmark_count": 0,
+                                  "impression_count": 0
+                                },
+                                "referenced_tweets": [
+                                  {
+                                    "type": "replied_to",
+                                    "id": "2034992856079933683"
+                                  }
+                                ],
+                                "reply_settings": "everyone",
+                                "text": "隔壁床阿姨开始拆心理医生费劲建起来的房子中。。\n干什么你告诉我什么叫靠意志力好起来，什么叫痛就忍忍不然就是不想好$&amp;+%×/&gt;！？？？什么叫喝中药，嗯，嗯？？？这个社会里地位高的就是这种人，医技多高我不知道pua人是熟练的很，经典“我们那个年代小孩都挨打的现在年轻人太脆弱”，你谁啊？？？？？"
+                              },
+                              {
+                                "article": {},
+                                "attachments": {
+                                  "media_keys": [
+                                    "3_2034992793094168580",
+                                    "3_2034992793081585668"
+                                  ]
+                                },
+                                "author_id": "1741993395910811648",
+                                "conversation_id": "2034992856079933683",
+                                "created_at": "2026-03-20T13:57:59.000Z",
+                                "edit_controls": {
+                                  "edits_remaining": 5,
+                                  "is_edit_eligible": false,
+                                  "editable_until": "2026-03-20T14:57:59.000Z"
+                                },
+                                "edit_history_tweet_ids": [
+                                  "2034992856079933683"
+                                ],
+                                "entities": {
+                                  "urls": [
+                                    {
+                                      "start": 20,
+                                      "end": 43,
+                                      "url": "https://t.co/WlUR7n0dWu",
+                                      "expanded_url": "https://x.com/AnIncandescence/status/2034992856079933683/photo/1",
+                                      "display_url": "pic.x.com/WlUR7n0dWu",
+                                      "media_key": "3_2034992793094168580"
+                                    },
+                                    {
+                                      "start": 20,
+                                      "end": 43,
+                                      "url": "https://t.co/WlUR7n0dWu",
+                                      "expanded_url": "https://x.com/AnIncandescence/status/2034992856079933683/photo/1",
+                                      "display_url": "pic.x.com/WlUR7n0dWu",
+                                      "media_key": "3_2034992793081585668"
+                                    }
+                                  ]
+                                },
+                                "geo": {},
+                                "id": "2034992856079933683",
+                                "lang": "zh",
+                                "note_tweet": {
+                                  "entities": {}
+                                },
+                                "possibly_sensitive": false,
+                                "public_metrics": {
+                                  "retweet_count": 1,
+                                  "reply_count": 11,
+                                  "like_count": 48,
+                                  "quote_count": 1,
+                                  "bookmark_count": 1,
+                                  "impression_count": 3171
+                                },
+                                "reply_settings": "everyone",
+                                "text": "说真的我没信心换个科室就能解决问题了。 https://t.co/WlUR7n0dWu"
+                              }
+                            ]
+                          }
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          },
+          {
+            "id": "2035309581082247395",
+            "source": "local_json",
+            "payload": {
+              "data": {
+                "article": {},
+                "attachments": {},
+                "author_id": "1741993395910811648",
+                "conversation_id": "2034992856079933683",
+                "created_at": "2026-03-21T12:57:02.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2026-03-21T13:57:02.000Z"
+                },
+                "edit_history_tweet_ids": [
+                  "2035339901886243218"
+                ],
+                "entities": {},
+                "geo": {},
+                "id": "2035339901886243218",
+                "in_reply_to_user_id": "1741993395910811648",
+                "lang": "zh",
+                "note_tweet": {
+                  "entities": {}
+                },
+                "possibly_sensitive": false,
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 0
+                },
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "2035309581082247395"
+                  }
+                ],
+                "reply_settings": "everyone",
+                "text": "“你不赶紧治好可怎么整啊”\n“你要是精神病了谁跟你结婚啊”\n冒犯了，您太冒犯了。\n首先，我就是精神病，其次，我不结婚。很诡异啊结婚这个东西，它带来了某种…益处吗？它的作用在哪里？有什么是只有结婚才能得到的？好诡异啊"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "created_at": "2024-01-02T01:22:57.000Z",
+                    "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 倒影@TauCeti_10700 计划这个号机的浓度更高一些 | 🚪88/158",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/iO6MRJNTYR",
+                            "expanded_url": "https://ngl.link/anincandescence1",
+                            "display_url": "ngl.link/anincandescenc…"
+                          }
+                        ]
+                      },
+                      "description": {
+                        "mentions": [
+                          {
+                            "start": 62,
+                            "end": 76,
+                            "username": "TauCeti_10700"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1741993395910811648",
+                    "location": "天鹅座X-1 //⬇️ 匿名提问箱",
+                    "name": "炽烈已极",
+                    "pinned_tweet_id": "2024076888923365667",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2034869645342076928/m2LinKe5_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 1832,
+                      "following_count": 245,
+                      "tweet_count": 6507,
+                      "listed_count": 6,
+                      "like_count": 15432,
+                      "media_count": 1161
+                    },
+                    "url": "https://t.co/iO6MRJNTYR",
+                    "username": "AnIncandescence",
+                    "verified": false
+                  }
+                ],
+                "tweets": [
+                  {
+                    "article": {},
+                    "attachments": {},
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "2034992856079933683",
+                    "created_at": "2026-03-21T12:57:02.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2026-03-21T13:57:02.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "2035339901886243218"
+                    ],
+                    "entities": {},
+                    "geo": {},
+                    "id": "2035339901886243218",
+                    "in_reply_to_user_id": "1741993395910811648",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 0,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 0
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "2035309581082247395"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "“你不赶紧治好可怎么整啊”\n“你要是精神病了谁跟你结婚啊”\n冒犯了，您太冒犯了。\n首先，我就是精神病，其次，我不结婚。很诡异啊结婚这个东西，它带来了某种…益处吗？它的作用在哪里？有什么是只有结婚才能得到的？好诡异啊"
+                  },
+                  {
+                    "article": {},
+                    "attachments": {},
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "2034992856079933683",
+                    "created_at": "2026-03-21T10:56:33.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2026-03-21T11:56:33.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "2035309581082247395"
+                    ],
+                    "entities": {},
+                    "geo": {},
+                    "id": "2035309581082247395",
+                    "in_reply_to_user_id": "1741993395910811648",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 4,
+                      "like_count": 6,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 100
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "2034992856079933683"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "隔壁床阿姨开始拆心理医生费劲建起来的房子中。。\n干什么你告诉我什么叫靠意志力好起来，什么叫痛就忍忍不然就是不想好$&amp;+%×/&gt;！？？？什么叫喝中药，嗯，嗯？？？这个社会里地位高的就是这种人，医技多高我不知道pua人是熟练的很，经典“我们那个年代小孩都挨打的现在年轻人太脆弱”，你谁啊？？？？？"
+                  }
+                ]
+              },
+              "_pale_fire": {
+                "x_api_reply_chains": {
+                  "2034992856079933683": {
+                    "version": 1,
+                    "fetched_at": "2026-04-18T01:34:43Z",
+                    "max_depth": 63,
+                    "posts": [
+                      {
+                        "id": "2034992856079933683",
+                        "source": "local_json",
+                        "payload": {
+                          "data": {
+                            "article": {},
+                            "attachments": {},
+                            "author_id": "1741993395910811648",
+                            "conversation_id": "2034992856079933683",
+                            "created_at": "2026-03-21T10:56:33.000Z",
+                            "edit_controls": {
+                              "edits_remaining": 5,
+                              "is_edit_eligible": false,
+                              "editable_until": "2026-03-21T11:56:33.000Z"
+                            },
+                            "edit_history_tweet_ids": [
+                              "2035309581082247395"
+                            ],
+                            "entities": {},
+                            "geo": {},
+                            "id": "2035309581082247395",
+                            "in_reply_to_user_id": "1741993395910811648",
+                            "lang": "zh",
+                            "note_tweet": {
+                              "entities": {}
+                            },
+                            "possibly_sensitive": false,
+                            "public_metrics": {
+                              "retweet_count": 0,
+                              "reply_count": 0,
+                              "like_count": 0,
+                              "quote_count": 0,
+                              "bookmark_count": 0,
+                              "impression_count": 0
+                            },
+                            "referenced_tweets": [
+                              {
+                                "type": "replied_to",
+                                "id": "2034992856079933683"
+                              }
+                            ],
+                            "reply_settings": "everyone",
+                            "text": "隔壁床阿姨开始拆心理医生费劲建起来的房子中。。\n干什么你告诉我什么叫靠意志力好起来，什么叫痛就忍忍不然就是不想好$&amp;+%×/&gt;！？？？什么叫喝中药，嗯，嗯？？？这个社会里地位高的就是这种人，医技多高我不知道pua人是熟练的很，经典“我们那个年代小孩都挨打的现在年轻人太脆弱”，你谁啊？？？？？"
+                          },
+                          "includes": {
+                            "media": [
+                              {
+                                "height": 4096,
+                                "media_key": "3_2034992793094168580",
+                                "public_metrics": {},
+                                "type": "photo",
+                                "url": "https://pbs.twimg.com/media/HD2_KdjboAQCE-s.jpg",
+                                "width": 3072
+                              },
+                              {
+                                "height": 4096,
+                                "media_key": "3_2034992793081585668",
+                                "public_metrics": {},
+                                "type": "photo",
+                                "url": "https://pbs.twimg.com/media/HD2_KdgboAQdNxY.jpg",
+                                "width": 3072
+                              }
+                            ],
+                            "users": [
+                              {
+                                "created_at": "2024-01-02T01:22:57.000Z",
+                                "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 倒影@TauCeti_10700 计划这个号机的浓度更高一些 | 🚪88/158",
+                                "entities": {
+                                  "url": {
+                                    "urls": [
+                                      {
+                                        "start": 0,
+                                        "end": 23,
+                                        "url": "https://t.co/iO6MRJNTYR",
+                                        "expanded_url": "https://ngl.link/anincandescence1",
+                                        "display_url": "ngl.link/anincandescenc…"
+                                      }
+                                    ]
+                                  },
+                                  "description": {
+                                    "mentions": [
+                                      {
+                                        "start": 62,
+                                        "end": 76,
+                                        "username": "TauCeti_10700"
+                                      }
+                                    ]
+                                  }
+                                },
+                                "id": "1741993395910811648",
+                                "location": "天鹅座X-1 //⬇️ 匿名提问箱",
+                                "name": "炽烈已极",
+                                "pinned_tweet_id": "2024076888923365667",
+                                "profile_image_url": "https://pbs.twimg.com/profile_images/2034869645342076928/m2LinKe5_normal.jpg",
+                                "protected": false,
+                                "public_metrics": {
+                                  "followers_count": 1830,
+                                  "following_count": 245,
+                                  "tweet_count": 6500,
+                                  "listed_count": 6,
+                                  "like_count": 15425,
+                                  "media_count": 1161
+                                },
+                                "url": "https://t.co/iO6MRJNTYR",
+                                "username": "AnIncandescence",
+                                "verified": false
+                              }
+                            ],
+                            "tweets": [
+                              {
+                                "article": {},
+                                "attachments": {},
+                                "author_id": "1741993395910811648",
+                                "conversation_id": "2034992856079933683",
+                                "created_at": "2026-03-21T10:56:33.000Z",
+                                "edit_controls": {
+                                  "edits_remaining": 5,
+                                  "is_edit_eligible": false,
+                                  "editable_until": "2026-03-21T11:56:33.000Z"
+                                },
+                                "edit_history_tweet_ids": [
+                                  "2035309581082247395"
+                                ],
+                                "entities": {},
+                                "geo": {},
+                                "id": "2035309581082247395",
+                                "in_reply_to_user_id": "1741993395910811648",
+                                "lang": "zh",
+                                "note_tweet": {
+                                  "entities": {}
+                                },
+                                "possibly_sensitive": false,
+                                "public_metrics": {
+                                  "retweet_count": 0,
+                                  "reply_count": 0,
+                                  "like_count": 0,
+                                  "quote_count": 0,
+                                  "bookmark_count": 0,
+                                  "impression_count": 0
+                                },
+                                "referenced_tweets": [
+                                  {
+                                    "type": "replied_to",
+                                    "id": "2034992856079933683"
+                                  }
+                                ],
+                                "reply_settings": "everyone",
+                                "text": "隔壁床阿姨开始拆心理医生费劲建起来的房子中。。\n干什么你告诉我什么叫靠意志力好起来，什么叫痛就忍忍不然就是不想好$&amp;+%×/&gt;！？？？什么叫喝中药，嗯，嗯？？？这个社会里地位高的就是这种人，医技多高我不知道pua人是熟练的很，经典“我们那个年代小孩都挨打的现在年轻人太脆弱”，你谁啊？？？？？"
+                              },
+                              {
+                                "article": {},
+                                "attachments": {
+                                  "media_keys": [
+                                    "3_2034992793094168580",
+                                    "3_2034992793081585668"
+                                  ]
+                                },
+                                "author_id": "1741993395910811648",
+                                "conversation_id": "2034992856079933683",
+                                "created_at": "2026-03-20T13:57:59.000Z",
+                                "edit_controls": {
+                                  "edits_remaining": 5,
+                                  "is_edit_eligible": false,
+                                  "editable_until": "2026-03-20T14:57:59.000Z"
+                                },
+                                "edit_history_tweet_ids": [
+                                  "2034992856079933683"
+                                ],
+                                "entities": {
+                                  "urls": [
+                                    {
+                                      "start": 20,
+                                      "end": 43,
+                                      "url": "https://t.co/WlUR7n0dWu",
+                                      "expanded_url": "https://x.com/AnIncandescence/status/2034992856079933683/photo/1",
+                                      "display_url": "pic.x.com/WlUR7n0dWu",
+                                      "media_key": "3_2034992793094168580"
+                                    },
+                                    {
+                                      "start": 20,
+                                      "end": 43,
+                                      "url": "https://t.co/WlUR7n0dWu",
+                                      "expanded_url": "https://x.com/AnIncandescence/status/2034992856079933683/photo/1",
+                                      "display_url": "pic.x.com/WlUR7n0dWu",
+                                      "media_key": "3_2034992793081585668"
+                                    }
+                                  ]
+                                },
+                                "geo": {},
+                                "id": "2034992856079933683",
+                                "lang": "zh",
+                                "note_tweet": {
+                                  "entities": {}
+                                },
+                                "possibly_sensitive": false,
+                                "public_metrics": {
+                                  "retweet_count": 1,
+                                  "reply_count": 11,
+                                  "like_count": 48,
+                                  "quote_count": 1,
+                                  "bookmark_count": 1,
+                                  "impression_count": 3171
+                                },
+                                "reply_settings": "everyone",
+                                "text": "说真的我没信心换个科室就能解决问题了。 https://t.co/WlUR7n0dWu"
+                              }
+                            ]
+                          }
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          },
+          {
+            "id": "2034992856079933683",
+            "source": "local_json",
+            "payload": {
+              "data": {
+                "article": {},
+                "attachments": {},
+                "author_id": "1741993395910811648",
+                "conversation_id": "2034992856079933683",
+                "created_at": "2026-03-21T10:56:33.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2026-03-21T11:56:33.000Z"
+                },
+                "edit_history_tweet_ids": [
+                  "2035309581082247395"
+                ],
+                "entities": {},
+                "geo": {},
+                "id": "2035309581082247395",
+                "in_reply_to_user_id": "1741993395910811648",
+                "lang": "zh",
+                "note_tweet": {
+                  "entities": {}
+                },
+                "possibly_sensitive": false,
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 0
+                },
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "2034992856079933683"
+                  }
+                ],
+                "reply_settings": "everyone",
+                "text": "隔壁床阿姨开始拆心理医生费劲建起来的房子中。。\n干什么你告诉我什么叫靠意志力好起来，什么叫痛就忍忍不然就是不想好$&amp;+%×/&gt;！？？？什么叫喝中药，嗯，嗯？？？这个社会里地位高的就是这种人，医技多高我不知道pua人是熟练的很，经典“我们那个年代小孩都挨打的现在年轻人太脆弱”，你谁啊？？？？？"
+              },
+              "includes": {
+                "media": [
+                  {
+                    "height": 4096,
+                    "media_key": "3_2034992793094168580",
+                    "public_metrics": {},
+                    "type": "photo",
+                    "url": "https://pbs.twimg.com/media/HD2_KdjboAQCE-s.jpg",
+                    "width": 3072
+                  },
+                  {
+                    "height": 4096,
+                    "media_key": "3_2034992793081585668",
+                    "public_metrics": {},
+                    "type": "photo",
+                    "url": "https://pbs.twimg.com/media/HD2_KdgboAQdNxY.jpg",
+                    "width": 3072
+                  }
+                ],
+                "users": [
+                  {
+                    "created_at": "2024-01-02T01:22:57.000Z",
+                    "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 倒影@TauCeti_10700 计划这个号机的浓度更高一些 | 🚪88/158",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/iO6MRJNTYR",
+                            "expanded_url": "https://ngl.link/anincandescence1",
+                            "display_url": "ngl.link/anincandescenc…"
+                          }
+                        ]
+                      },
+                      "description": {
+                        "mentions": [
+                          {
+                            "start": 62,
+                            "end": 76,
+                            "username": "TauCeti_10700"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1741993395910811648",
+                    "location": "天鹅座X-1 //⬇️ 匿名提问箱",
+                    "name": "炽烈已极",
+                    "pinned_tweet_id": "2024076888923365667",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2034869645342076928/m2LinKe5_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 1830,
+                      "following_count": 245,
+                      "tweet_count": 6500,
+                      "listed_count": 6,
+                      "like_count": 15425,
+                      "media_count": 1161
+                    },
+                    "url": "https://t.co/iO6MRJNTYR",
+                    "username": "AnIncandescence",
+                    "verified": false
+                  }
+                ],
+                "tweets": [
+                  {
+                    "article": {},
+                    "attachments": {},
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "2034992856079933683",
+                    "created_at": "2026-03-21T10:56:33.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2026-03-21T11:56:33.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "2035309581082247395"
+                    ],
+                    "entities": {},
+                    "geo": {},
+                    "id": "2035309581082247395",
+                    "in_reply_to_user_id": "1741993395910811648",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 0,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 0
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "2034992856079933683"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "隔壁床阿姨开始拆心理医生费劲建起来的房子中。。\n干什么你告诉我什么叫靠意志力好起来，什么叫痛就忍忍不然就是不想好$&amp;+%×/&gt;！？？？什么叫喝中药，嗯，嗯？？？这个社会里地位高的就是这种人，医技多高我不知道pua人是熟练的很，经典“我们那个年代小孩都挨打的现在年轻人太脆弱”，你谁啊？？？？？"
+                  },
+                  {
+                    "article": {},
+                    "attachments": {
+                      "media_keys": [
+                        "3_2034992793094168580",
+                        "3_2034992793081585668"
+                      ]
+                    },
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "2034992856079933683",
+                    "created_at": "2026-03-20T13:57:59.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2026-03-20T14:57:59.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "2034992856079933683"
+                    ],
+                    "entities": {
+                      "urls": [
+                        {
+                          "start": 20,
+                          "end": 43,
+                          "url": "https://t.co/WlUR7n0dWu",
+                          "expanded_url": "https://x.com/AnIncandescence/status/2034992856079933683/photo/1",
+                          "display_url": "pic.x.com/WlUR7n0dWu",
+                          "media_key": "3_2034992793094168580"
+                        },
+                        {
+                          "start": 20,
+                          "end": 43,
+                          "url": "https://t.co/WlUR7n0dWu",
+                          "expanded_url": "https://x.com/AnIncandescence/status/2034992856079933683/photo/1",
+                          "display_url": "pic.x.com/WlUR7n0dWu",
+                          "media_key": "3_2034992793081585668"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "2034992856079933683",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 1,
+                      "reply_count": 11,
+                      "like_count": 48,
+                      "quote_count": 1,
+                      "bookmark_count": 1,
+                      "impression_count": 3171
+                    },
+                    "reply_settings": "everyone",
+                    "text": "说真的我没信心换个科室就能解决问题了。 https://t.co/WlUR7n0dWu"
+                  }
+                ]
+              }
+            }
+          }
+        ]
       }
     }
   }

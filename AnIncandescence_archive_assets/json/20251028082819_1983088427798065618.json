@@ -278,13 +278,133 @@
     "x_api_reply_chains": {
       "1982778781766148327": {
         "version": 1,
-        "fetched_at": "2026-04-18T04:14:40Z",
+        "fetched_at": "2026-04-18T06:18:23Z",
         "max_depth": 63,
-        "posts": [],
-        "terminal_error": {
-          "id": "1982778781766148327",
-          "message": "Wayback fallback did not find archived JSON for tweet id 1982778781766148327."
-        }
+        "posts": [
+          {
+            "id": "1982778781766148327",
+            "source": "x_api_oauth1",
+            "payload": {
+              "data": {
+                "id": "1982778781766148327",
+                "entities": {
+                  "urls": [
+                    {
+                      "start": 5,
+                      "end": 28,
+                      "url": "https://t.co/OYvdPepzA2",
+                      "expanded_url": "https://x.com/kobone_fishbone/status/1982778781766148327/photo/1",
+                      "display_url": "pic.x.com/OYvdPepzA2",
+                      "media_key": "3_1982777278632247296"
+                    },
+                    {
+                      "start": 5,
+                      "end": 28,
+                      "url": "https://t.co/OYvdPepzA2",
+                      "expanded_url": "https://x.com/kobone_fishbone/status/1982778781766148327/photo/1",
+                      "display_url": "pic.x.com/OYvdPepzA2",
+                      "media_key": "3_1982778587636781056"
+                    }
+                  ]
+                },
+                "attachments": {
+                  "media_keys": [
+                    "3_1982777278632247296",
+                    "3_1982778587636781056"
+                  ]
+                },
+                "author_id": "1897580952488124416",
+                "reply_settings": "everyone",
+                "possibly_sensitive": false,
+                "created_at": "2025-10-27T11:57:54.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2025-10-27T12:57:54.000Z"
+                },
+                "conversation_id": "1982778781766148327",
+                "public_metrics": {
+                  "retweet_count": 5598,
+                  "reply_count": 46,
+                  "like_count": 68760,
+                  "quote_count": 78,
+                  "bookmark_count": 6578,
+                  "impression_count": 735182
+                },
+                "lang": "und",
+                "edit_history_tweet_ids": [
+                  "1982778781766148327"
+                ],
+                "text": "🏙️⇄🌆 https://t.co/OYvdPepzA2"
+              },
+              "includes": {
+                "media": [
+                  {
+                    "width": 1800,
+                    "type": "photo",
+                    "media_key": "3_1982777278632247296",
+                    "height": 2357,
+                    "url": "https://pbs.twimg.com/media/G4Q9bgGXQAAVsKp.jpg"
+                  },
+                  {
+                    "width": 1603,
+                    "type": "photo",
+                    "media_key": "3_1982778587636781056",
+                    "height": 2154,
+                    "url": "https://pbs.twimg.com/media/G4Q-nshXUAA2bbI.jpg"
+                  }
+                ],
+                "users": [
+                  {
+                    "created_at": "2025-03-06T09:32:59.000Z",
+                    "name": "小骨",
+                    "public_metrics": {
+                      "followers_count": 4997,
+                      "following_count": 56,
+                      "tweet_count": 212,
+                      "listed_count": 44,
+                      "like_count": 131,
+                      "media_count": 48
+                    },
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1997260370923393024/cVwYzoqj_normal.jpg",
+                    "description": "フリーダム絵描き 絵【https://t.co/XrKeDldZSo】 グッズ【https://t.co/sVKcBcX2qU】skeb【https://t.co/2OKIoLhSh4】 ※DM等での絵のお仕事、ご依頼は承っておりません",
+                    "verified": false,
+                    "id": "1897580952488124416",
+                    "username": "kobone_fishbone",
+                    "protected": false,
+                    "entities": {
+                      "description": {
+                        "urls": [
+                          {
+                            "start": 11,
+                            "end": 34,
+                            "url": "https://t.co/XrKeDldZSo",
+                            "expanded_url": "https://www.pixiv.net/users/7591351",
+                            "display_url": "pixiv.net/users/7591351"
+                          },
+                          {
+                            "start": 40,
+                            "end": 63,
+                            "url": "https://t.co/sVKcBcX2qU",
+                            "expanded_url": "https://kobonefishbone.booth.pm/",
+                            "display_url": "kobonefishbone.booth.pm"
+                          },
+                          {
+                            "start": 69,
+                            "end": 92,
+                            "url": "https://t.co/2OKIoLhSh4",
+                            "expanded_url": "https://skeb.jp/@kobone_fishbone",
+                            "display_url": "skeb.jp/@kobone_fishbo…"
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        ]
       }
     }
   }

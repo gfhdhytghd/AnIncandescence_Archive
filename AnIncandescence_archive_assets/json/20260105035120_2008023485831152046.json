@@ -290,12 +290,111 @@
     "x_api_reply_chains": {
       "2008000841811398768": {
         "version": 1,
-        "fetched_at": "2026-04-18T04:15:00Z",
+        "fetched_at": "2026-04-18T07:08:52Z",
         "max_depth": 63,
-        "posts": [],
+        "posts": [
+          {
+            "id": "2008000841811398768",
+            "source": "x_api_oauth1:./env.pale-fire",
+            "payload": {
+              "data": {
+                "created_at": "2026-01-05T02:21:22.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2026-01-05T03:21:22.000Z"
+                },
+                "in_reply_to_user_id": "1741993395910811648",
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "2007716096397512848"
+                  }
+                ],
+                "conversation_id": "2007680935865790589",
+                "reply_settings": "everyone",
+                "edit_history_tweet_ids": [
+                  "2008000841811398768"
+                ],
+                "id": "2008000841811398768",
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 0,
+                      "end": 16,
+                      "username": "AnIncandescence",
+                      "id": "1741993395910811648"
+                    },
+                    {
+                      "start": 17,
+                      "end": 33,
+                      "username": "Cheese_Ghostfox",
+                      "id": "1620506107306479617"
+                    }
+                  ]
+                },
+                "author_id": "1761821960978460672",
+                "text": "@AnIncandescence @Cheese_Ghostfox @D3XTR0M3TH_0w0 单手抽血好厉害……！",
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 54
+                },
+                "lang": "zh",
+                "possibly_sensitive": false
+              },
+              "includes": {
+                "users": [
+                  {
+                    "verified": false,
+                    "id": "1761821960978460672",
+                    "created_at": "2024-02-25T18:34:37.000Z",
+                    "protected": false,
+                    "username": "oct424242",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2025827248633171968/d7BX3Lk3_normal.jpg",
+                    "public_metrics": {
+                      "followers_count": 142,
+                      "following_count": 211,
+                      "tweet_count": 1273,
+                      "listed_count": 1,
+                      "like_count": 2036,
+                      "media_count": 58
+                    },
+                    "description": "they/them🏳️‍🌈🏳️‍⚧️ 务虚",
+                    "name": "🌌"
+                  }
+                ]
+              },
+              "errors": [
+                {
+                  "parameter": "in_reply_to_user_id",
+                  "resource_id": "1741993395910811648",
+                  "value": "1741993395910811648",
+                  "detail": "User has been suspended: [1741993395910811648].",
+                  "title": "Forbidden",
+                  "resource_type": "user",
+                  "type": "https://api.twitter.com/2/problems/resource-not-found"
+                },
+                {
+                  "resource_id": "2007716096397512848",
+                  "parameter": "referenced_tweets.id",
+                  "resource_type": "tweet",
+                  "section": "includes",
+                  "title": "Authorization Error",
+                  "value": "2007716096397512848",
+                  "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2007716096397512848].",
+                  "type": "https://api.twitter.com/2/problems/not-authorized-for-resource"
+                }
+              ]
+            }
+          }
+        ],
         "terminal_error": {
-          "id": "2008000841811398768",
-          "message": "Wayback fallback did not find archived JSON for tweet id 2008000841811398768."
+          "id": "2007716096397512848",
+          "message": "./.env: X API OAuth 1.0a returned HTTP 429. ./env.pale-fire: Sorry, you are not authorized to see the Tweet with id: [2007716096397512848]. Wayback fallback: Wayback fallback did not find archived JSON for tweet id 2007716096397512848."
         }
       }
     }

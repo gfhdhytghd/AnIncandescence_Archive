@@ -218,12 +218,12 @@
     "x_api_reply_chains": {
       "1943648774309437469": {
         "version": 1,
-        "fetched_at": "2026-04-18T02:05:16Z",
+        "fetched_at": "2026-04-18T07:07:13Z",
         "max_depth": 64,
         "posts": [],
         "terminal_error": {
           "id": "1943648774309437469",
-          "message": "Sorry, you are not authorized to see the Tweet with id: [1943648774309437469]. Wayback fallback: Wayback fallback did not find archived JSON for tweet id 1943648774309437469."
+          "message": "./.env: Sorry, you are not authorized to see the Tweet with id: [1943648774309437469]. ./env.pale-fire: Sorry, you are not authorized to see the Tweet with id: [1943648774309437469]. Wayback fallback: Wayback fallback did not find archived JSON for tweet id 1943648774309437469."
         }
       }
     }

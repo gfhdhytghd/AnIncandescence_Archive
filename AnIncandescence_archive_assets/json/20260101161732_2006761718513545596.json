@@ -400,12 +400,147 @@
     "x_api_reply_chains": {
       "2006759518722838914": {
         "version": 1,
-        "fetched_at": "2026-04-18T04:14:57Z",
+        "fetched_at": "2026-04-18T07:08:44Z",
         "max_depth": 63,
-        "posts": [],
+        "posts": [
+          {
+            "id": "2006759518722838914",
+            "source": "x_api_oauth1:./env.pale-fire",
+            "payload": {
+              "data": {
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 0,
+                      "end": 14,
+                      "username": "paipaipaitang",
+                      "id": "69280655"
+                    },
+                    {
+                      "start": 15,
+                      "end": 26,
+                      "username": "3He2_Ka1R0",
+                      "id": "1892114014563598339"
+                    },
+                    {
+                      "start": 27,
+                      "end": 37,
+                      "username": "Minokakay",
+                      "id": "1597257668313260033"
+                    },
+                    {
+                      "start": 38,
+                      "end": 49,
+                      "username": "jzm1919810",
+                      "id": "1912109703133646848"
+                    }
+                  ]
+                },
+                "author_id": "1620506107306479617",
+                "possibly_sensitive": false,
+                "in_reply_to_user_id": "69280655",
+                "lang": "zh",
+                "created_at": "2026-01-01T16:08:47.000Z",
+                "edit_history_tweet_ids": [
+                  "2006759518722838914"
+                ],
+                "id": "2006759518722838914",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2026-01-01T17:08:47.000Z"
+                },
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 331
+                },
+                "reply_settings": "everyone",
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "2006759015494406526"
+                  }
+                ],
+                "conversation_id": "2006753711830491203",
+                "text": "@paipaipaitang @3He2_Ka1R0 @Minokakay @jzm1919810 无极😭😭😭😭😭😭"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "name": "☯️🧬霊狐製作所 公式ツイッター",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/COn8ugIjyQ",
+                            "expanded_url": "https://github.com/CheeseGhostfox",
+                            "display_url": "github.com/CheeseGhostfox"
+                          }
+                        ]
+                      },
+                      "description": {
+                        "mentions": [
+                          {
+                            "start": 140,
+                            "end": 153,
+                            "username": "HEX_Ghostfox"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1620506107306479617",
+                    "username": "Cheese_Ghostfox",
+                    "verified": false,
+                    "protected": false,
+                    "url": "https://t.co/COn8ugIjyQ",
+                    "created_at": "2023-01-31T19:36:01.000Z",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+                    "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨She/Her丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+                    "public_metrics": {
+                      "followers_count": 1386,
+                      "following_count": 1467,
+                      "tweet_count": 5310,
+                      "listed_count": 4,
+                      "like_count": 16782,
+                      "media_count": 581
+                    },
+                    "location": "-0.15m"
+                  }
+                ]
+              },
+              "errors": [
+                {
+                  "parameter": "in_reply_to_user_id",
+                  "resource_id": "69280655",
+                  "value": "69280655",
+                  "detail": "User has been suspended: [69280655].",
+                  "title": "Forbidden",
+                  "resource_type": "user",
+                  "type": "https://api.twitter.com/2/problems/resource-not-found"
+                },
+                {
+                  "resource_id": "2006759015494406526",
+                  "parameter": "referenced_tweets.id",
+                  "resource_type": "tweet",
+                  "section": "includes",
+                  "title": "Authorization Error",
+                  "value": "2006759015494406526",
+                  "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2006759015494406526].",
+                  "type": "https://api.twitter.com/2/problems/not-authorized-for-resource"
+                }
+              ]
+            }
+          }
+        ],
         "terminal_error": {
-          "id": "2006759518722838914",
-          "message": "Wayback fallback did not find archived JSON for tweet id 2006759518722838914."
+          "id": "2006759015494406526",
+          "message": "./.env: X API OAuth 1.0a returned HTTP 429. ./env.pale-fire: Sorry, you are not authorized to see the Tweet with id: [2006759015494406526]. Wayback fallback: Wayback fallback did not find archived JSON for tweet id 2006759015494406526."
         }
       }
     }

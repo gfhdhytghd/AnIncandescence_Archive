@@ -148,45 +148,33 @@
     "x_api_reply_chains": {
       "1810333025076457763": {
         "version": 1,
-        "fetched_at": "2026-04-17T23:55:07Z",
+        "fetched_at": "2026-04-18T06:09:10Z",
         "max_depth": 64,
         "posts": [
           {
             "id": "1810333025076457763",
-            "source": "x_api",
+            "source": "x_api_oauth1",
             "payload": {
               "data": {
-                "possibly_sensitive": false,
-                "conversation_id": "1810245198661984605",
-                "id": "1810333025076457763",
-                "lang": "zh",
-                "author_id": "1552238688590958592",
-                "edit_history_tweet_ids": [
-                  "1810333025076457763"
-                ],
-                "created_at": "2024-07-08T15:20:02.000Z",
-                "public_metrics": {
-                  "retweet_count": 0,
-                  "reply_count": 1,
-                  "like_count": 0,
-                  "quote_count": 0,
-                  "bookmark_count": 0,
-                  "impression_count": 30
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2024-07-08T16:20:02.000Z"
                 },
-                "in_reply_to_user_id": "1741993395910811648",
                 "referenced_tweets": [
                   {
                     "type": "replied_to",
                     "id": "1810323828138299630"
                   }
                 ],
-                "reply_settings": "everyone",
-                "edit_controls": {
-                  "edits_remaining": 5,
-                  "is_edit_eligible": false,
-                  "editable_until": "2024-07-08T16:20:02.000Z"
-                },
-                "text": "@AnIncandescence 准备玩蹦极小英雄",
+                "id": "1810333025076457763",
+                "in_reply_to_user_id": "1741993395910811648",
+                "edit_history_tweet_ids": [
+                  "1810333025076457763"
+                ],
+                "lang": "zh",
+                "possibly_sensitive": false,
+                "author_id": "1552238688590958592",
                 "entities": {
                   "mentions": [
                     {
@@ -196,28 +184,39 @@
                       "id": "1741993395910811648"
                     }
                   ]
-                }
+                },
+                "created_at": "2024-07-08T15:20:02.000Z",
+                "reply_settings": "everyone",
+                "text": "@AnIncandescence 准备玩蹦极小英雄",
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 30
+                },
+                "conversation_id": "1810245198661984605"
               },
               "includes": {
                 "users": [
                   {
-                    "verified": false,
                     "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/诗歌/日本語-Deutsch-Français-Español/互关慎重/爱人：@Yesmynamehaer1",
-                    "location": "Funabashi-shi, Chiba",
-                    "public_metrics": {
-                      "followers_count": 866,
-                      "following_count": 2478,
-                      "tweet_count": 3539,
-                      "listed_count": 0,
-                      "like_count": 9685,
-                      "media_count": 656
-                    },
-                    "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+                    "verified": false,
                     "username": "Coccus_Swamer",
-                    "created_at": "2022-07-27T10:25:26.000Z",
-                    "id": "1552238688590958592",
-                    "protected": false,
                     "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+                    "location": "Funabashi-shi, Chiba",
+                    "protected": false,
+                    "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+                    "public_metrics": {
+                      "followers_count": 867,
+                      "following_count": 2481,
+                      "tweet_count": 3545,
+                      "listed_count": 0,
+                      "like_count": 9706,
+                      "media_count": 657
+                    },
+                    "id": "1552238688590958592",
                     "entities": {
                       "description": {
                         "mentions": [
@@ -228,7 +227,8 @@
                           }
                         ]
                       }
-                    }
+                    },
+                    "created_at": "2022-07-27T10:25:26.000Z"
                   }
                 ]
               },
@@ -456,13 +456,220 @@
                 "x_api_reply_chains": {
                   "1810279612586561978": {
                     "version": 1,
-                    "fetched_at": "2026-04-17T23:16:02Z",
-                    "max_depth": 8,
-                    "posts": [],
-                    "terminal_error": {
-                      "id": "1810279612586561978",
-                      "message": "X API returned HTTP 429."
-                    }
+                    "fetched_at": "2026-04-17T23:55:07Z",
+                    "max_depth": 64,
+                    "posts": [
+                      {
+                        "id": "1810279612586561978",
+                        "source": "x_api",
+                        "payload": {
+                          "data": {
+                            "edit_history_tweet_ids": [
+                              "1810279612586561978"
+                            ],
+                            "created_at": "2024-07-08T11:47:47.000Z",
+                            "referenced_tweets": [
+                              {
+                                "type": "replied_to",
+                                "id": "1810245198661984605"
+                              }
+                            ],
+                            "possibly_sensitive": false,
+                            "reply_settings": "everyone",
+                            "conversation_id": "1810245198661984605",
+                            "lang": "zh",
+                            "author_id": "1552238688590958592",
+                            "id": "1810279612586561978",
+                            "edit_controls": {
+                              "edits_remaining": 5,
+                              "is_edit_eligible": false,
+                              "editable_until": "2024-07-08T12:47:47.000Z"
+                            },
+                            "public_metrics": {
+                              "retweet_count": 0,
+                              "reply_count": 1,
+                              "like_count": 0,
+                              "quote_count": 0,
+                              "bookmark_count": 0,
+                              "impression_count": 236
+                            },
+                            "in_reply_to_user_id": "1552238688590958592",
+                            "text": "我认为是异烟肼的乙酰化代谢比较慢，应该是先服用异烟肼一小时后服用pea比较合适，待测试。"
+                          },
+                          "includes": {
+                            "users": [
+                              {
+                                "public_metrics": {
+                                  "followers_count": 866,
+                                  "following_count": 2478,
+                                  "tweet_count": 3539,
+                                  "listed_count": 0,
+                                  "like_count": 9685,
+                                  "media_count": 656
+                                },
+                                "verified": false,
+                                "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+                                "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+                                "username": "Coccus_Swamer",
+                                "created_at": "2022-07-27T10:25:26.000Z",
+                                "entities": {
+                                  "description": {
+                                    "mentions": [
+                                      {
+                                        "start": 105,
+                                        "end": 120,
+                                        "username": "Yesmynamehaer1"
+                                      }
+                                    ]
+                                  }
+                                },
+                                "protected": false,
+                                "location": "Funabashi-shi, Chiba",
+                                "id": "1552238688590958592",
+                                "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/诗歌/日本語-Deutsch-Français-Español/互关慎重/爱人：@Yesmynamehaer1"
+                              }
+                            ],
+                            "tweets": [
+                              {
+                                "edit_history_tweet_ids": [
+                                  "1810245198661984605"
+                                ],
+                                "attachments": {
+                                  "media_keys": [
+                                    "3_1810245195814109184"
+                                  ]
+                                },
+                                "created_at": "2024-07-08T09:31:02.000Z",
+                                "entities": {
+                                  "urls": [
+                                    {
+                                      "start": 45,
+                                      "end": 68,
+                                      "url": "https://t.co/TuISrw5trS",
+                                      "expanded_url": "https://x.com/Coccus_Swamer/status/1810245198661984605/photo/1",
+                                      "display_url": "pic.x.com/TuISrw5trS",
+                                      "media_key": "3_1810245195814109184"
+                                    }
+                                  ]
+                                },
+                                "possibly_sensitive": false,
+                                "reply_settings": "everyone",
+                                "conversation_id": "1810245198661984605",
+                                "lang": "zh",
+                                "author_id": "1552238688590958592",
+                                "id": "1810245198661984605",
+                                "edit_controls": {
+                                  "edits_remaining": 5,
+                                  "is_edit_eligible": false,
+                                  "editable_until": "2024-07-08T10:31:02.000Z"
+                                },
+                                "public_metrics": {
+                                  "retweet_count": 0,
+                                  "reply_count": 6,
+                                  "like_count": 6,
+                                  "quote_count": 0,
+                                  "bookmark_count": 3,
+                                  "impression_count": 773
+                                },
+                                "text": "测试\n\n普瑞300mg+B6 10mg+ 异烟肼100mg+pea（hcl）700+mg https://t.co/TuISrw5trS"
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "id": "1810245198661984605",
+                        "source": "x_api",
+                        "payload": {
+                          "data": {
+                            "possibly_sensitive": false,
+                            "attachments": {
+                              "media_keys": [
+                                "3_1810245195814109184"
+                              ]
+                            },
+                            "author_id": "1552238688590958592",
+                            "edit_history_tweet_ids": [
+                              "1810245198661984605"
+                            ],
+                            "entities": {
+                              "urls": [
+                                {
+                                  "start": 45,
+                                  "end": 68,
+                                  "url": "https://t.co/TuISrw5trS",
+                                  "expanded_url": "https://x.com/Coccus_Swamer/status/1810245198661984605/photo/1",
+                                  "display_url": "pic.x.com/TuISrw5trS",
+                                  "media_key": "3_1810245195814109184"
+                                }
+                              ]
+                            },
+                            "conversation_id": "1810245198661984605",
+                            "created_at": "2024-07-08T09:31:02.000Z",
+                            "edit_controls": {
+                              "edits_remaining": 5,
+                              "is_edit_eligible": false,
+                              "editable_until": "2024-07-08T10:31:02.000Z"
+                            },
+                            "reply_settings": "everyone",
+                            "lang": "zh",
+                            "public_metrics": {
+                              "retweet_count": 0,
+                              "reply_count": 6,
+                              "like_count": 6,
+                              "quote_count": 0,
+                              "bookmark_count": 3,
+                              "impression_count": 773
+                            },
+                            "id": "1810245198661984605",
+                            "text": "测试\n\n普瑞300mg+B6 10mg+ 异烟肼100mg+pea（hcl）700+mg https://t.co/TuISrw5trS"
+                          },
+                          "includes": {
+                            "media": [
+                              {
+                                "url": "https://pbs.twimg.com/media/GR9IahzbgAAJQkQ.jpg",
+                                "media_key": "3_1810245195814109184",
+                                "width": 2048,
+                                "type": "photo",
+                                "height": 1536
+                              }
+                            ],
+                            "users": [
+                              {
+                                "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+                                "public_metrics": {
+                                  "followers_count": 866,
+                                  "following_count": 2478,
+                                  "tweet_count": 3539,
+                                  "listed_count": 0,
+                                  "like_count": 9685,
+                                  "media_count": 656
+                                },
+                                "id": "1552238688590958592",
+                                "protected": false,
+                                "verified": false,
+                                "location": "Funabashi-shi, Chiba",
+                                "created_at": "2022-07-27T10:25:26.000Z",
+                                "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/诗歌/日本語-Deutsch-Français-Español/互关慎重/爱人：@Yesmynamehaer1",
+                                "entities": {
+                                  "description": {
+                                    "mentions": [
+                                      {
+                                        "start": 105,
+                                        "end": 120,
+                                        "username": "Yesmynamehaer1"
+                                      }
+                                    ]
+                                  }
+                                },
+                                "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+                                "username": "Coccus_Swamer"
+                              }
+                            ]
+                          }
+                        }
+                      }
+                    ]
                   }
                 }
               }
@@ -470,30 +677,12 @@
           },
           {
             "id": "1810279612586561978",
-            "source": "x_api",
+            "source": "x_api_oauth1",
             "payload": {
               "data": {
                 "edit_history_tweet_ids": [
                   "1810279612586561978"
                 ],
-                "created_at": "2024-07-08T11:47:47.000Z",
-                "referenced_tweets": [
-                  {
-                    "type": "replied_to",
-                    "id": "1810245198661984605"
-                  }
-                ],
-                "possibly_sensitive": false,
-                "reply_settings": "everyone",
-                "conversation_id": "1810245198661984605",
-                "lang": "zh",
-                "author_id": "1552238688590958592",
-                "id": "1810279612586561978",
-                "edit_controls": {
-                  "edits_remaining": 5,
-                  "is_edit_eligible": false,
-                  "editable_until": "2024-07-08T12:47:47.000Z"
-                },
                 "public_metrics": {
                   "retweet_count": 0,
                   "reply_count": 1,
@@ -502,25 +691,34 @@
                   "bookmark_count": 0,
                   "impression_count": 236
                 },
+                "lang": "zh",
+                "id": "1810279612586561978",
+                "reply_settings": "everyone",
+                "conversation_id": "1810245198661984605",
+                "possibly_sensitive": false,
                 "in_reply_to_user_id": "1552238688590958592",
-                "text": "我认为是异烟肼的乙酰化代谢比较慢，应该是先服用异烟肼一小时后服用pea比较合适，待测试。"
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2024-07-08T12:47:47.000Z"
+                },
+                "text": "我认为是异烟肼的乙酰化代谢比较慢，应该是先服用异烟肼一小时后服用pea比较合适，待测试。",
+                "created_at": "2024-07-08T11:47:47.000Z",
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "1810245198661984605"
+                  }
+                ],
+                "author_id": "1552238688590958592"
               },
               "includes": {
                 "users": [
                   {
-                    "public_metrics": {
-                      "followers_count": 866,
-                      "following_count": 2478,
-                      "tweet_count": 3539,
-                      "listed_count": 0,
-                      "like_count": 9685,
-                      "media_count": 656
-                    },
-                    "verified": false,
-                    "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
-                    "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
                     "username": "Coccus_Swamer",
+                    "location": "Funabashi-shi, Chiba",
                     "created_at": "2022-07-27T10:25:26.000Z",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
                     "entities": {
                       "description": {
                         "mentions": [
@@ -532,23 +730,31 @@
                         ]
                       }
                     },
+                    "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/诗歌/日本語-Deutsch-Français-Español/互关慎重/爱人：@Yesmynamehaer1",
+                    "public_metrics": {
+                      "followers_count": 867,
+                      "following_count": 2481,
+                      "tweet_count": 3545,
+                      "listed_count": 0,
+                      "like_count": 9706,
+                      "media_count": 657
+                    },
+                    "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+                    "verified": false,
                     "protected": false,
-                    "location": "Funabashi-shi, Chiba",
-                    "id": "1552238688590958592",
-                    "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/诗歌/日本語-Deutsch-Français-Español/互关慎重/爱人：@Yesmynamehaer1"
+                    "id": "1552238688590958592"
                   }
                 ],
                 "tweets": [
                   {
-                    "edit_history_tweet_ids": [
-                      "1810245198661984605"
-                    ],
                     "attachments": {
                       "media_keys": [
                         "3_1810245195814109184"
                       ]
                     },
-                    "created_at": "2024-07-08T09:31:02.000Z",
+                    "edit_history_tweet_ids": [
+                      "1810245198661984605"
+                    ],
                     "entities": {
                       "urls": [
                         {
@@ -561,17 +767,6 @@
                         }
                       ]
                     },
-                    "possibly_sensitive": false,
-                    "reply_settings": "everyone",
-                    "conversation_id": "1810245198661984605",
-                    "lang": "zh",
-                    "author_id": "1552238688590958592",
-                    "id": "1810245198661984605",
-                    "edit_controls": {
-                      "edits_remaining": 5,
-                      "is_edit_eligible": false,
-                      "editable_until": "2024-07-08T10:31:02.000Z"
-                    },
                     "public_metrics": {
                       "retweet_count": 0,
                       "reply_count": 6,
@@ -580,7 +775,19 @@
                       "bookmark_count": 3,
                       "impression_count": 773
                     },
-                    "text": "测试\n\n普瑞300mg+B6 10mg+ 异烟肼100mg+pea（hcl）700+mg https://t.co/TuISrw5trS"
+                    "lang": "zh",
+                    "id": "1810245198661984605",
+                    "reply_settings": "everyone",
+                    "conversation_id": "1810245198661984605",
+                    "possibly_sensitive": false,
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2024-07-08T10:31:02.000Z"
+                    },
+                    "text": "测试\n\n普瑞300mg+B6 10mg+ 异烟肼100mg+pea（hcl）700+mg https://t.co/TuISrw5trS",
+                    "created_at": "2024-07-08T09:31:02.000Z",
+                    "author_id": "1552238688590958592"
                   }
                 ]
               }
@@ -588,23 +795,38 @@
           },
           {
             "id": "1810245198661984605",
-            "source": "x_api",
+            "source": "x_api_oauth1",
             "payload": {
               "data": {
-                "conversation_id": "1810245198661984605",
                 "edit_controls": {
                   "edits_remaining": 5,
                   "is_edit_eligible": false,
                   "editable_until": "2024-07-08T10:31:02.000Z"
                 },
-                "text": "测试\n\n普瑞300mg+B6 10mg+ 异烟肼100mg+pea（hcl）700+mg https://t.co/TuISrw5trS",
+                "id": "1810245198661984605",
                 "edit_history_tweet_ids": [
                   "1810245198661984605"
                 ],
-                "reply_settings": "everyone",
-                "created_at": "2024-07-08T09:31:02.000Z",
+                "lang": "zh",
+                "possibly_sensitive": false,
                 "author_id": "1552238688590958592",
-                "id": "1810245198661984605",
+                "created_at": "2024-07-08T09:31:02.000Z",
+                "reply_settings": "everyone",
+                "text": "测试\n\n普瑞300mg+B6 10mg+ 异烟肼100mg+pea（hcl）700+mg https://t.co/TuISrw5trS",
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 6,
+                  "like_count": 6,
+                  "quote_count": 0,
+                  "bookmark_count": 3,
+                  "impression_count": 773
+                },
+                "attachments": {
+                  "media_keys": [
+                    "3_1810245195814109184"
+                  ]
+                },
+                "conversation_id": "1810245198661984605",
                 "entities": {
                   "urls": [
                     {
@@ -616,40 +838,36 @@
                       "media_key": "3_1810245195814109184"
                     }
                   ]
-                },
-                "attachments": {
-                  "media_keys": [
-                    "3_1810245195814109184"
-                  ]
-                },
-                "possibly_sensitive": false,
-                "lang": "zh",
-                "public_metrics": {
-                  "retweet_count": 0,
-                  "reply_count": 6,
-                  "like_count": 6,
-                  "quote_count": 0,
-                  "bookmark_count": 3,
-                  "impression_count": 773
                 }
               },
               "includes": {
                 "media": [
                   {
-                    "media_key": "3_1810245195814109184",
                     "height": 1536,
-                    "type": "photo",
                     "url": "https://pbs.twimg.com/media/GR9IahzbgAAJQkQ.jpg",
-                    "width": 2048
+                    "width": 2048,
+                    "media_key": "3_1810245195814109184",
+                    "type": "photo"
                   }
                 ],
                 "users": [
                   {
-                    "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
                     "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/诗歌/日本語-Deutsch-Français-Español/互关慎重/爱人：@Yesmynamehaer1",
+                    "verified": false,
+                    "username": "Coccus_Swamer",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
                     "location": "Funabashi-shi, Chiba",
                     "protected": false,
                     "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+                    "public_metrics": {
+                      "followers_count": 867,
+                      "following_count": 2481,
+                      "tweet_count": 3545,
+                      "listed_count": 0,
+                      "like_count": 9706,
+                      "media_count": 657
+                    },
+                    "id": "1552238688590958592",
                     "entities": {
                       "description": {
                         "mentions": [
@@ -661,18 +879,7 @@
                         ]
                       }
                     },
-                    "public_metrics": {
-                      "followers_count": 866,
-                      "following_count": 2478,
-                      "tweet_count": 3539,
-                      "listed_count": 0,
-                      "like_count": 9685,
-                      "media_count": 656
-                    },
-                    "id": "1552238688590958592",
-                    "username": "Coccus_Swamer",
-                    "created_at": "2022-07-27T10:25:26.000Z",
-                    "verified": false
+                    "created_at": "2022-07-27T10:25:26.000Z"
                   }
                 ]
               }

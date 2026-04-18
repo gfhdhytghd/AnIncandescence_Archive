@@ -272,13 +272,79 @@
     "x_api_reply_chains": {
       "1964490884973810079": {
         "version": 1,
-        "fetched_at": "2026-04-18T04:13:35Z",
+        "fetched_at": "2026-04-18T06:18:22Z",
         "max_depth": 63,
-        "posts": [],
-        "terminal_error": {
-          "id": "1964490884973810079",
-          "message": "Wayback fallback did not find archived JSON for tweet id 1964490884973810079."
-        }
+        "posts": [
+          {
+            "id": "1964490884973810079",
+            "source": "x_api_oauth1",
+            "payload": {
+              "data": {
+                "possibly_sensitive": false,
+                "conversation_id": "1964490884973810079",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": true,
+                  "editable_until": "2025-09-07T01:48:20.000Z"
+                },
+                "id": "1964490884973810079",
+                "lang": "zh",
+                "created_at": "2025-09-07T00:48:20.000Z",
+                "reply_settings": "everyone",
+                "public_metrics": {
+                  "retweet_count": 4,
+                  "reply_count": 9,
+                  "like_count": 82,
+                  "quote_count": 1,
+                  "bookmark_count": 7,
+                  "impression_count": 15227
+                },
+                "text": "我已不屑跟健全比解释抑郁是病理性的了，因为我发现压根起不到任何作用，只会显得我伶牙俐齿不知悔改，像是我想开了一切真的会好一样",
+                "edit_history_tweet_ids": [
+                  "1964490884973810079"
+                ],
+                "author_id": "1699445300950093824"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/ccXEa3StK7",
+                            "expanded_url": "https://www.laa.onl",
+                            "display_url": "laa.onl"
+                          }
+                        ]
+                      }
+                    },
+                    "description": "林林婊翻全世界",
+                    "id": "1699445300950093824",
+                    "username": "linlin444444",
+                    "protected": false,
+                    "verified": false,
+                    "public_metrics": {
+                      "followers_count": 5423,
+                      "following_count": 60,
+                      "tweet_count": 71,
+                      "listed_count": 12,
+                      "like_count": 461,
+                      "media_count": 25
+                    },
+                    "url": "https://t.co/ccXEa3StK7",
+                    "name": "林林林林林",
+                    "location": "Macau",
+                    "created_at": "2023-09-06T15:31:58.000Z",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg"
+                  }
+                ]
+              }
+            }
+          }
+        ]
       }
     }
   }

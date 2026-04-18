@@ -256,7 +256,7 @@
     "x_api_reply_chains": {
       "2024569767995310220": {
         "version": 1,
-        "fetched_at": "2026-04-18T01:29:17Z",
+        "fetched_at": "2026-04-18T06:18:27Z",
         "max_depth": 63,
         "posts": [
           {
@@ -514,13 +514,65 @@
                 "x_api_reply_chains": {
                   "2024442111119212626": {
                     "version": 1,
-                    "fetched_at": "2026-04-17T23:24:20Z",
-                    "max_depth": 7,
-                    "posts": [],
-                    "terminal_error": {
-                      "id": "2024442111119212626",
-                      "message": "X API returned HTTP 429."
-                    }
+                    "fetched_at": "2026-04-18T01:29:17Z",
+                    "max_depth": 63,
+                    "posts": [
+                      {
+                        "id": "2024442111119212626",
+                        "source": "x_api_oauth1",
+                        "payload": {
+                          "data": {
+                            "created_at": "2026-02-19T11:13:06.000Z",
+                            "public_metrics": {
+                              "retweet_count": 0,
+                              "reply_count": 5,
+                              "like_count": 8,
+                              "quote_count": 0,
+                              "bookmark_count": 0,
+                              "impression_count": 935
+                            },
+                            "reply_settings": "everyone",
+                            "edit_history_tweet_ids": [
+                              "2024442111119212626"
+                            ],
+                            "conversation_id": "2024442111119212626",
+                            "edit_controls": {
+                              "edits_remaining": 5,
+                              "is_edit_eligible": true,
+                              "editable_until": "2026-02-19T12:13:06.000Z"
+                            },
+                            "author_id": "1437034228768595977",
+                            "text": "头痛头晕，发冷出汗，肠胃不适，什么食物什么药都不想吃……想着爬起来洗个澡感觉可能好一点，但一坐起来就头晕目眩又躺下了……\n谁能告诉我硬抗戒断反应能好受点的办法",
+                            "id": "2024442111119212626",
+                            "lang": "zh",
+                            "possibly_sensitive": false
+                          },
+                          "includes": {
+                            "users": [
+                              {
+                                "verified": false,
+                                "profile_image_url": "https://pbs.twimg.com/profile_images/2008872173084229632/7RVhFGtF_normal.jpg",
+                                "id": "1437034228768595977",
+                                "location": "你的身旁",
+                                "username": "Kumamushi2021",
+                                "public_metrics": {
+                                  "followers_count": 200,
+                                  "following_count": 104,
+                                  "tweet_count": 2051,
+                                  "listed_count": 4,
+                                  "like_count": 3885,
+                                  "media_count": 207
+                                },
+                                "protected": false,
+                                "name": "🥛💤",
+                                "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/患有双相注意避雷/废话很多",
+                                "created_at": "2021-09-12T12:43:59.000Z"
+                              }
+                            ]
+                          }
+                        }
+                      }
+                    ]
                   }
                 }
               }
@@ -781,15 +833,122 @@
                 "x_api_reply_chains": {
                   "2024442111119212626": {
                     "version": 1,
-                    "fetched_at": "2026-04-17T23:24:20Z",
-                    "max_depth": 7,
-                    "posts": [],
-                    "terminal_error": {
-                      "id": "2024442111119212626",
-                      "message": "X API returned HTTP 429."
-                    }
+                    "fetched_at": "2026-04-18T01:29:17Z",
+                    "max_depth": 63,
+                    "posts": [
+                      {
+                        "id": "2024442111119212626",
+                        "source": "x_api_oauth1",
+                        "payload": {
+                          "data": {
+                            "created_at": "2026-02-19T11:13:06.000Z",
+                            "public_metrics": {
+                              "retweet_count": 0,
+                              "reply_count": 5,
+                              "like_count": 8,
+                              "quote_count": 0,
+                              "bookmark_count": 0,
+                              "impression_count": 935
+                            },
+                            "reply_settings": "everyone",
+                            "edit_history_tweet_ids": [
+                              "2024442111119212626"
+                            ],
+                            "conversation_id": "2024442111119212626",
+                            "edit_controls": {
+                              "edits_remaining": 5,
+                              "is_edit_eligible": true,
+                              "editable_until": "2026-02-19T12:13:06.000Z"
+                            },
+                            "author_id": "1437034228768595977",
+                            "text": "头痛头晕，发冷出汗，肠胃不适，什么食物什么药都不想吃……想着爬起来洗个澡感觉可能好一点，但一坐起来就头晕目眩又躺下了……\n谁能告诉我硬抗戒断反应能好受点的办法",
+                            "id": "2024442111119212626",
+                            "lang": "zh",
+                            "possibly_sensitive": false
+                          },
+                          "includes": {
+                            "users": [
+                              {
+                                "verified": false,
+                                "profile_image_url": "https://pbs.twimg.com/profile_images/2008872173084229632/7RVhFGtF_normal.jpg",
+                                "id": "1437034228768595977",
+                                "location": "你的身旁",
+                                "username": "Kumamushi2021",
+                                "public_metrics": {
+                                  "followers_count": 200,
+                                  "following_count": 104,
+                                  "tweet_count": 2051,
+                                  "listed_count": 4,
+                                  "like_count": 3885,
+                                  "media_count": 207
+                                },
+                                "protected": false,
+                                "name": "🥛💤",
+                                "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/患有双相注意避雷/废话很多",
+                                "created_at": "2021-09-12T12:43:59.000Z"
+                              }
+                            ]
+                          }
+                        }
+                      }
+                    ]
                   }
                 }
+              }
+            }
+          },
+          {
+            "id": "2024442111119212626",
+            "source": "x_api_oauth1",
+            "payload": {
+              "data": {
+                "text": "头痛头晕，发冷出汗，肠胃不适，什么食物什么药都不想吃……想着爬起来洗个澡感觉可能好一点，但一坐起来就头晕目眩又躺下了……\n谁能告诉我硬抗戒断反应能好受点的办法",
+                "conversation_id": "2024442111119212626",
+                "reply_settings": "everyone",
+                "edit_history_tweet_ids": [
+                  "2024442111119212626"
+                ],
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 5,
+                  "like_count": 8,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 935
+                },
+                "id": "2024442111119212626",
+                "lang": "zh",
+                "possibly_sensitive": false,
+                "author_id": "1437034228768595977",
+                "created_at": "2026-02-19T11:13:06.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": true,
+                  "editable_until": "2026-02-19T12:13:06.000Z"
+                }
+              },
+              "includes": {
+                "users": [
+                  {
+                    "location": "你的身旁",
+                    "public_metrics": {
+                      "followers_count": 200,
+                      "following_count": 104,
+                      "tweet_count": 2051,
+                      "listed_count": 4,
+                      "like_count": 3885,
+                      "media_count": 207
+                    },
+                    "verified": false,
+                    "name": "🥛💤",
+                    "id": "1437034228768595977",
+                    "username": "Kumamushi2021",
+                    "created_at": "2021-09-12T12:43:59.000Z",
+                    "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/患有双相注意避雷/废话很多",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2008872173084229632/7RVhFGtF_normal.jpg",
+                    "protected": false
+                  }
+                ]
               }
             }
           }

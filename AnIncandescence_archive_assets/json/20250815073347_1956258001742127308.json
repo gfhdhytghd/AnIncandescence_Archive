@@ -171,13 +171,120 @@
     "x_api_reply_chains": {
       "1956240619543912955": {
         "version": 1,
-        "fetched_at": "2026-04-18T04:12:57Z",
+        "fetched_at": "2026-04-18T06:18:21Z",
         "max_depth": 64,
-        "posts": [],
-        "terminal_error": {
-          "id": "1956240619543912955",
-          "message": "Wayback fallback did not find archived JSON for tweet id 1956240619543912955."
-        }
+        "posts": [
+          {
+            "id": "1956240619543912955",
+            "source": "x_api_oauth1",
+            "payload": {
+              "data": {
+                "edit_history_tweet_ids": [
+                  "1956240619543912955"
+                ],
+                "possibly_sensitive": false,
+                "author_id": "1909859675530797056",
+                "text": "不好玩🤡 https://t.co/10Xw3jmigt",
+                "reply_settings": "everyone",
+                "conversation_id": "1956240619543912955",
+                "context_annotations": [
+                  {
+                    "domain": {
+                      "id": "46",
+                      "name": "Business Taxonomy",
+                      "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                      "id": "1557696888568045569",
+                      "name": "Food & Beverage Business",
+                      "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers."
+                    }
+                  }
+                ],
+                "attachments": {
+                  "media_keys": [
+                    "3_1956240607921451008",
+                    "3_1956240607929884672"
+                  ]
+                },
+                "id": "1956240619543912955",
+                "entities": {
+                  "urls": [
+                    {
+                      "start": 5,
+                      "end": 28,
+                      "url": "https://t.co/10Xw3jmigt",
+                      "expanded_url": "https://x.com/suk1202xwast3d/status/1956240619543912955/photo/1",
+                      "display_url": "pic.x.com/10Xw3jmigt",
+                      "media_key": "3_1956240607921451008"
+                    },
+                    {
+                      "start": 5,
+                      "end": 28,
+                      "url": "https://t.co/10Xw3jmigt",
+                      "expanded_url": "https://x.com/suk1202xwast3d/status/1956240619543912955/photo/1",
+                      "display_url": "pic.x.com/10Xw3jmigt",
+                      "media_key": "3_1956240607929884672"
+                    }
+                  ]
+                },
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 6,
+                  "like_count": 6,
+                  "quote_count": 0,
+                  "bookmark_count": 1,
+                  "impression_count": 1388
+                },
+                "lang": "ja",
+                "created_at": "2025-08-15T06:24:43.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": true,
+                  "editable_until": "2025-08-15T07:24:43.000Z"
+                }
+              },
+              "includes": {
+                "media": [
+                  {
+                    "width": 1080,
+                    "height": 1920,
+                    "url": "https://pbs.twimg.com/media/GyX2d-JaMAAu3od.jpg",
+                    "type": "photo",
+                    "media_key": "3_1956240607921451008"
+                  },
+                  {
+                    "width": 3024,
+                    "height": 4032,
+                    "url": "https://pbs.twimg.com/media/GyX2d-La4AAQF0x.jpg",
+                    "type": "photo",
+                    "media_key": "3_1956240607929884672"
+                  }
+                ],
+                "users": [
+                  {
+                    "description": "",
+                    "id": "1909859675530797056",
+                    "name": ".",
+                    "public_metrics": {
+                      "followers_count": 573,
+                      "following_count": 310,
+                      "tweet_count": 1214,
+                      "listed_count": 2,
+                      "like_count": 4654,
+                      "media_count": 64
+                    },
+                    "protected": false,
+                    "username": "suk1202xwast3d",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1945843375824883712/T2PFrMVv_normal.jpg",
+                    "verified": false,
+                    "created_at": "2025-04-09T06:43:41.000Z"
+                  }
+                ]
+              }
+            }
+          }
+        ]
       }
     }
   }

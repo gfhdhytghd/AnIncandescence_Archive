@@ -403,13 +403,75 @@
     "x_api_reply_chains": {
       "1975814901219369341": {
         "version": 1,
-        "fetched_at": "2026-04-18T04:14:14Z",
+        "fetched_at": "2026-04-18T06:18:23Z",
         "max_depth": 63,
-        "posts": [],
-        "terminal_error": {
-          "id": "1975814901219369341",
-          "message": "Wayback fallback did not find archived JSON for tweet id 1975814901219369341."
-        }
+        "posts": [
+          {
+            "id": "1975814901219369341",
+            "source": "x_api_oauth1",
+            "payload": {
+              "data": {
+                "lang": "zh",
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 3,
+                  "quote_count": 1,
+                  "bookmark_count": 0,
+                  "impression_count": 1099
+                },
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": true,
+                  "editable_until": "2025-10-08T07:45:55.000Z"
+                },
+                "possibly_sensitive": false,
+                "edit_history_tweet_ids": [
+                  "1975814901219369341"
+                ],
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 43,
+                      "end": 48,
+                      "username": "grok",
+                      "id": "1720665183188922368"
+                    }
+                  ]
+                },
+                "reply_settings": "everyone",
+                "created_at": "2025-10-08T06:45:55.000Z",
+                "conversation_id": "1975814901219369341",
+                "author_id": "1614594152062406656",
+                "id": "1975814901219369341",
+                "text": "参考在和我互相关注的人中的推文，包括我。只用昵称告诉我，不要用@，昵称要有对应的前缀\n@grok\n\n香香软软：\n甜甜糯糯：\n长得帅：\n温柔体贴：\n耐心善良：\n聪明勇敢：\n脾气好：\n情绪稳定：\n幽默风趣：\n自制力强：\n有礼貌：\n爱干净：\n勤奋努力：\n乐于助人：\n衣品好：\n学习认真："
+              },
+              "includes": {
+                "users": [
+                  {
+                    "created_at": "2023-01-15T12:04:03.000Z",
+                    "username": "fnggnjn1",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 736,
+                      "following_count": 66,
+                      "tweet_count": 854,
+                      "listed_count": 1,
+                      "like_count": 355,
+                      "media_count": 63
+                    },
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1920055699050221568/hsi-1UL4_normal.jpg",
+                    "name": "Delirium⌬",
+                    "verified": false,
+                    "description": "药理药化药设研究者 物种：蛆 可以叫我蛆老师 提供用药及药理咨询（不包括任何已列管毒品！） 蛆蛆要涨粉🥺🥺🥺 不推荐任何人使用我提到的药品",
+                    "location": "北京安定医院",
+                    "id": "1614594152062406656"
+                  }
+                ]
+              }
+            }
+          }
+        ]
       }
     }
   }

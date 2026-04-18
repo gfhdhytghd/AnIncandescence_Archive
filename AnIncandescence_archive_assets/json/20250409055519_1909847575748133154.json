@@ -361,12 +361,415 @@
     "x_api_reply_chains": {
       "1909565509013848200": {
         "version": 1,
-        "fetched_at": "2026-04-18T04:11:37Z",
+        "fetched_at": "2026-04-18T07:07:12Z",
         "max_depth": 63,
-        "posts": [],
+        "posts": [
+          {
+            "id": "1909565509013848200",
+            "source": "x_api_oauth1:./.env",
+            "payload": {
+              "data": {
+                "in_reply_to_user_id": "1327260258830520321",
+                "created_at": "2025-04-08T11:14:30.000Z",
+                "reply_settings": "everyone",
+                "text": "@Hgtcjyzs2003 @d3vilsadvocate3 你趁他编辑的时候写好下一句话，他编辑好了你立马点暂停然后发下一句就可以",
+                "lang": "zh",
+                "author_id": "1646158513540874242",
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 0,
+                      "end": 13,
+                      "username": "Hgtcjyzs2003",
+                      "id": "1327260258830520321"
+                    },
+                    {
+                      "start": 14,
+                      "end": 30,
+                      "username": "d3vilsadvocate3",
+                      "id": "1876779131503013888"
+                    }
+                  ]
+                },
+                "edit_history_tweet_ids": [
+                  "1909565509013848200"
+                ],
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "1909221022705889433"
+                  }
+                ],
+                "id": "1909565509013848200",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2025-04-08T12:14:30.000Z"
+                },
+                "possibly_sensitive": false,
+                "conversation_id": "1909165487365431769",
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 5,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 2545
+                }
+              },
+              "includes": {
+                "users": [
+                  {
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1878379061409660929/Qihn4uB1_normal.jpg",
+                    "location": "1.88km",
+                    "name": "脆皮烤鸭𐃆 ˒˒",
+                    "id": "1646158513540874242",
+                    "description": "梦想是拯救世界🇳🇿只回感兴趣的私信 碎碎念日常 喜欢鲨鱼肌 4i/brat 打游戏厉害的请带我",
+                    "public_metrics": {
+                      "followers_count": 939,
+                      "following_count": 224,
+                      "tweet_count": 2239,
+                      "listed_count": 5,
+                      "like_count": 2835,
+                      "media_count": 404
+                    },
+                    "created_at": "2023-04-12T14:29:25.000Z",
+                    "username": "coynzh512364",
+                    "verified": false,
+                    "protected": false
+                  },
+                  {
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1725920758268858368/jluJbUT2_normal.jpg",
+                    "location": "湖南邵阳",
+                    "name": "危险，请远离",
+                    "id": "1327260258830520321",
+                    "description": "永远向着星辰前进，才不会迷失方向",
+                    "public_metrics": {
+                      "followers_count": 29,
+                      "following_count": 113,
+                      "tweet_count": 67,
+                      "listed_count": 0,
+                      "like_count": 2773,
+                      "media_count": 5
+                    },
+                    "created_at": "2020-11-13T14:41:49.000Z",
+                    "username": "Hgtcjyzs2003",
+                    "verified": false,
+                    "protected": false
+                  }
+                ],
+                "tweets": [
+                  {
+                    "in_reply_to_user_id": "1646158513540874242",
+                    "created_at": "2025-04-07T12:25:38.000Z",
+                    "reply_settings": "everyone",
+                    "text": "@coynzh512364 @d3vilsadvocate3 呜呜呜，还是不行呀",
+                    "lang": "zh",
+                    "author_id": "1327260258830520321",
+                    "entities": {
+                      "mentions": [
+                        {
+                          "start": 0,
+                          "end": 13,
+                          "username": "coynzh512364",
+                          "id": "1646158513540874242"
+                        },
+                        {
+                          "start": 14,
+                          "end": 30,
+                          "username": "d3vilsadvocate3",
+                          "id": "1876779131503013888"
+                        }
+                      ]
+                    },
+                    "edit_history_tweet_ids": [
+                      "1909221022705889433"
+                    ],
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "1909167823907336557"
+                      }
+                    ],
+                    "id": "1909221022705889433",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2025-04-07T13:25:38.000Z"
+                    },
+                    "possibly_sensitive": false,
+                    "conversation_id": "1909165487365431769",
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 1,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 2637
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "1909221022705889433",
+            "source": "x_api_oauth1:./.env",
+            "payload": {
+              "data": {
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2025-04-07T13:25:38.000Z"
+                },
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "1909167823907336557"
+                  }
+                ],
+                "id": "1909221022705889433",
+                "in_reply_to_user_id": "1646158513540874242",
+                "edit_history_tweet_ids": [
+                  "1909221022705889433"
+                ],
+                "lang": "zh",
+                "possibly_sensitive": false,
+                "author_id": "1327260258830520321",
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 0,
+                      "end": 13,
+                      "username": "coynzh512364",
+                      "id": "1646158513540874242"
+                    },
+                    {
+                      "start": 14,
+                      "end": 30,
+                      "username": "d3vilsadvocate3",
+                      "id": "1876779131503013888"
+                    }
+                  ]
+                },
+                "created_at": "2025-04-07T12:25:38.000Z",
+                "reply_settings": "everyone",
+                "text": "@coynzh512364 @d3vilsadvocate3 呜呜呜，还是不行呀",
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 2637
+                },
+                "conversation_id": "1909165487365431769"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "description": "永远向着星辰前进，才不会迷失方向",
+                    "verified": false,
+                    "username": "Hgtcjyzs2003",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1725920758268858368/jluJbUT2_normal.jpg",
+                    "location": "湖南邵阳",
+                    "protected": false,
+                    "name": "危险，请远离",
+                    "public_metrics": {
+                      "followers_count": 29,
+                      "following_count": 113,
+                      "tweet_count": 67,
+                      "listed_count": 0,
+                      "like_count": 2773,
+                      "media_count": 5
+                    },
+                    "id": "1327260258830520321",
+                    "created_at": "2020-11-13T14:41:49.000Z"
+                  },
+                  {
+                    "description": "梦想是拯救世界🇳🇿只回感兴趣的私信 碎碎念日常 喜欢鲨鱼肌 4i/brat 打游戏厉害的请带我",
+                    "verified": false,
+                    "username": "coynzh512364",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1878379061409660929/Qihn4uB1_normal.jpg",
+                    "location": "1.88km",
+                    "protected": false,
+                    "name": "脆皮烤鸭𐃆 ˒˒",
+                    "public_metrics": {
+                      "followers_count": 939,
+                      "following_count": 224,
+                      "tweet_count": 2239,
+                      "listed_count": 5,
+                      "like_count": 2835,
+                      "media_count": 404
+                    },
+                    "id": "1646158513540874242",
+                    "created_at": "2023-04-12T14:29:25.000Z"
+                  }
+                ],
+                "tweets": [
+                  {
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2025-04-07T09:54:14.000Z"
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "1909166555096658268"
+                      }
+                    ],
+                    "id": "1909167823907336557",
+                    "in_reply_to_user_id": "1876779131503013888",
+                    "edit_history_tweet_ids": [
+                      "1909167823907336557"
+                    ],
+                    "lang": "zh",
+                    "possibly_sensitive": false,
+                    "author_id": "1646158513540874242",
+                    "entities": {
+                      "mentions": [
+                        {
+                          "start": 0,
+                          "end": 16,
+                          "username": "d3vilsadvocate3",
+                          "id": "1876779131503013888"
+                        }
+                      ]
+                    },
+                    "created_at": "2025-04-07T08:54:14.000Z",
+                    "reply_settings": "everyone",
+                    "text": "@d3vilsadvocate3 开个新对话调教他宝宝，不要有其他正经问答的影子",
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 1,
+                      "like_count": 22,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 9810
+                    },
+                    "conversation_id": "1909165487365431769"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "1909167823907336557",
+            "source": "x_api_oauth1:./.env",
+            "payload": {
+              "data": {
+                "possibly_sensitive": false,
+                "conversation_id": "1909165487365431769",
+                "id": "1909167823907336557",
+                "lang": "zh",
+                "author_id": "1646158513540874242",
+                "edit_history_tweet_ids": [
+                  "1909167823907336557"
+                ],
+                "created_at": "2025-04-07T08:54:14.000Z",
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 22,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 9810
+                },
+                "in_reply_to_user_id": "1876779131503013888",
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "1909166555096658268"
+                  }
+                ],
+                "reply_settings": "everyone",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2025-04-07T09:54:14.000Z"
+                },
+                "text": "@d3vilsadvocate3 开个新对话调教他宝宝，不要有其他正经问答的影子",
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 0,
+                      "end": 16,
+                      "username": "d3vilsadvocate3",
+                      "id": "1876779131503013888"
+                    }
+                  ]
+                }
+              },
+              "includes": {
+                "users": [
+                  {
+                    "verified": false,
+                    "description": "梦想是拯救世界🇳🇿只回感兴趣的私信 碎碎念日常 喜欢鲨鱼肌 4i/brat 打游戏厉害的请带我",
+                    "location": "1.88km",
+                    "public_metrics": {
+                      "followers_count": 939,
+                      "following_count": 224,
+                      "tweet_count": 2239,
+                      "listed_count": 5,
+                      "like_count": 2835,
+                      "media_count": 404
+                    },
+                    "name": "脆皮烤鸭𐃆 ˒˒",
+                    "username": "coynzh512364",
+                    "created_at": "2023-04-12T14:29:25.000Z",
+                    "id": "1646158513540874242",
+                    "protected": false,
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1878379061409660929/Qihn4uB1_normal.jpg"
+                  },
+                  {
+                    "verified": false,
+                    "description": "我不在乎名字 叫什么都可以 ⁰⃚⃙̴ ༝ ⁰⃚⃙̴ ——————— ꒰中/EN꒱ 男的闲聊有🚪｜诞下一尊贵女婴@wormvirus812 🫀🫀",
+                    "public_metrics": {
+                      "followers_count": 188,
+                      "following_count": 88,
+                      "tweet_count": 2636,
+                      "listed_count": 4,
+                      "like_count": 3855,
+                      "media_count": 249
+                    },
+                    "name": "哭給妳一條河",
+                    "username": "d3vilsadvocate3",
+                    "created_at": "2025-01-07T23:53:18.000Z",
+                    "id": "1876779131503013888",
+                    "protected": false,
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1988919863272935424/Bwh0OKGy_normal.jpg",
+                    "entities": {
+                      "description": {
+                        "mentions": [
+                          {
+                            "start": 55,
+                            "end": 68,
+                            "username": "wormvirus812"
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              },
+              "errors": [
+                {
+                  "value": "1909166555096658268",
+                  "detail": "Could not find tweet with referenced_tweets.id: [1909166555096658268].",
+                  "title": "Not Found Error",
+                  "resource_type": "tweet",
+                  "parameter": "referenced_tweets.id",
+                  "resource_id": "1909166555096658268",
+                  "type": "https://api.twitter.com/2/problems/resource-not-found"
+                }
+              ]
+            }
+          }
+        ],
         "terminal_error": {
-          "id": "1909565509013848200",
-          "message": "Wayback fallback did not find archived JSON for tweet id 1909565509013848200."
+          "id": "1909166555096658268",
+          "message": "./.env: Could not find tweet with id: [1909166555096658268]. ./env.pale-fire: Could not find tweet with id: [1909166555096658268]. Wayback fallback: Wayback fallback did not find archived JSON for tweet id 1909166555096658268."
         }
       }
     }

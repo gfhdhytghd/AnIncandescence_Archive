@@ -247,7 +247,7 @@
     "x_api_reply_chains": {
       "1999360547293397301": {
         "version": 1,
-        "fetched_at": "2026-04-18T01:13:59Z",
+        "fetched_at": "2026-04-18T07:08:39Z",
         "max_depth": 63,
         "posts": [
           {
@@ -496,12 +496,129 @@
                 "x_api_reply_chains": {
                   "1999292511056212349": {
                     "version": 1,
-                    "fetched_at": "2026-04-17T23:21:59Z",
-                    "max_depth": 7,
-                    "posts": [],
+                    "fetched_at": "2026-04-18T06:56:19Z",
+                    "max_depth": 63,
+                    "posts": [
+                      {
+                        "id": "1999292511056212349",
+                        "source": "x_api_oauth1:./.env",
+                        "payload": {
+                          "data": {
+                            "author_id": "1598983658206945280",
+                            "id": "1999292511056212349",
+                            "possibly_sensitive": false,
+                            "attachments": {
+                              "media_keys": [
+                                "3_1999292508392816640"
+                              ]
+                            },
+                            "referenced_tweets": [
+                              {
+                                "type": "replied_to",
+                                "id": "1999291888021700670"
+                              }
+                            ],
+                            "edit_history_tweet_ids": [
+                              "1999292511056212349"
+                            ],
+                            "entities": {
+                              "urls": [
+                                {
+                                  "start": 27,
+                                  "end": 50,
+                                  "url": "https://t.co/obecwRhoDm",
+                                  "expanded_url": "https://x.com/ganjiuchawuduo/status/1999292511056212349/photo/1",
+                                  "display_url": "pic.x.com/obecwRhoDm",
+                                  "media_key": "3_1999292508392816640"
+                                }
+                              ],
+                              "mentions": [
+                                {
+                                  "start": 0,
+                                  "end": 11,
+                                  "username": "Muddledist",
+                                  "id": "1614768068353462273"
+                                }
+                              ]
+                            },
+                            "lang": "zh",
+                            "conversation_id": "1999291888021700670",
+                            "edit_controls": {
+                              "edits_remaining": 5,
+                              "is_edit_eligible": false,
+                              "editable_until": "2025-12-12T02:37:34.000Z"
+                            },
+                            "public_metrics": {
+                              "retweet_count": 0,
+                              "reply_count": 1,
+                              "like_count": 2,
+                              "quote_count": 0,
+                              "bookmark_count": 0,
+                              "impression_count": 1238
+                            },
+                            "reply_settings": "everyone",
+                            "created_at": "2025-12-12T01:37:34.000Z",
+                            "in_reply_to_user_id": "1614768068353462273",
+                            "text": "@Muddledist 还真找人买啊，你不怕被抓了？ https://t.co/obecwRhoDm"
+                          },
+                          "includes": {
+                            "media": [
+                              {
+                                "height": 541,
+                                "width": 509,
+                                "url": "https://pbs.twimg.com/media/G77p8ZTagAAazba.jpg",
+                                "media_key": "3_1999292508392816640",
+                                "type": "photo"
+                              }
+                            ],
+                            "users": [
+                              {
+                                "public_metrics": {
+                                  "followers_count": 53,
+                                  "following_count": 437,
+                                  "tweet_count": 5008,
+                                  "listed_count": 0,
+                                  "like_count": 22099,
+                                  "media_count": 749
+                                },
+                                "description": "感受更多的终会被逐渐忘却，但也会想起往昔的痕迹的",
+                                "username": "ganjiuchawuduo",
+                                "protected": false,
+                                "name": "看到我就去喝杯水好吗",
+                                "verified": false,
+                                "location": "山卡拉",
+                                "profile_image_url": "https://pbs.twimg.com/profile_images/2004366356872155138/cVxb7fKy_normal.jpg",
+                                "id": "1598983658206945280",
+                                "created_at": "2022-12-03T10:13:17.000Z"
+                              }
+                            ]
+                          },
+                          "errors": [
+                            {
+                              "parameter": "in_reply_to_user_id",
+                              "resource_id": "1614768068353462273",
+                              "value": "1614768068353462273",
+                              "detail": "User has been suspended: [1614768068353462273].",
+                              "title": "Forbidden",
+                              "resource_type": "user",
+                              "type": "https://api.twitter.com/2/problems/resource-not-found"
+                            },
+                            {
+                              "value": "1999291888021700670",
+                              "detail": "Could not find tweet with referenced_tweets.id: [1999291888021700670].",
+                              "title": "Not Found Error",
+                              "resource_type": "tweet",
+                              "parameter": "referenced_tweets.id",
+                              "resource_id": "1999291888021700670",
+                              "type": "https://api.twitter.com/2/problems/resource-not-found"
+                            }
+                          ]
+                        }
+                      }
+                    ],
                     "terminal_error": {
-                      "id": "1999292511056212349",
-                      "message": "X API returned HTTP 429."
+                      "id": "1999291888021700670",
+                      "message": "Could not find tweet with id: [1999291888021700670]. Wayback fallback: Wayback fallback did not find archived JSON for tweet id 1999291888021700670."
                     }
                   }
                 }
@@ -754,19 +871,256 @@
                 "x_api_reply_chains": {
                   "1999292511056212349": {
                     "version": 1,
-                    "fetched_at": "2026-04-17T23:21:59Z",
-                    "max_depth": 7,
-                    "posts": [],
+                    "fetched_at": "2026-04-18T06:56:19Z",
+                    "max_depth": 63,
+                    "posts": [
+                      {
+                        "id": "1999292511056212349",
+                        "source": "x_api_oauth1:./.env",
+                        "payload": {
+                          "data": {
+                            "author_id": "1598983658206945280",
+                            "id": "1999292511056212349",
+                            "possibly_sensitive": false,
+                            "attachments": {
+                              "media_keys": [
+                                "3_1999292508392816640"
+                              ]
+                            },
+                            "referenced_tweets": [
+                              {
+                                "type": "replied_to",
+                                "id": "1999291888021700670"
+                              }
+                            ],
+                            "edit_history_tweet_ids": [
+                              "1999292511056212349"
+                            ],
+                            "entities": {
+                              "urls": [
+                                {
+                                  "start": 27,
+                                  "end": 50,
+                                  "url": "https://t.co/obecwRhoDm",
+                                  "expanded_url": "https://x.com/ganjiuchawuduo/status/1999292511056212349/photo/1",
+                                  "display_url": "pic.x.com/obecwRhoDm",
+                                  "media_key": "3_1999292508392816640"
+                                }
+                              ],
+                              "mentions": [
+                                {
+                                  "start": 0,
+                                  "end": 11,
+                                  "username": "Muddledist",
+                                  "id": "1614768068353462273"
+                                }
+                              ]
+                            },
+                            "lang": "zh",
+                            "conversation_id": "1999291888021700670",
+                            "edit_controls": {
+                              "edits_remaining": 5,
+                              "is_edit_eligible": false,
+                              "editable_until": "2025-12-12T02:37:34.000Z"
+                            },
+                            "public_metrics": {
+                              "retweet_count": 0,
+                              "reply_count": 1,
+                              "like_count": 2,
+                              "quote_count": 0,
+                              "bookmark_count": 0,
+                              "impression_count": 1238
+                            },
+                            "reply_settings": "everyone",
+                            "created_at": "2025-12-12T01:37:34.000Z",
+                            "in_reply_to_user_id": "1614768068353462273",
+                            "text": "@Muddledist 还真找人买啊，你不怕被抓了？ https://t.co/obecwRhoDm"
+                          },
+                          "includes": {
+                            "media": [
+                              {
+                                "height": 541,
+                                "width": 509,
+                                "url": "https://pbs.twimg.com/media/G77p8ZTagAAazba.jpg",
+                                "media_key": "3_1999292508392816640",
+                                "type": "photo"
+                              }
+                            ],
+                            "users": [
+                              {
+                                "public_metrics": {
+                                  "followers_count": 53,
+                                  "following_count": 437,
+                                  "tweet_count": 5008,
+                                  "listed_count": 0,
+                                  "like_count": 22099,
+                                  "media_count": 749
+                                },
+                                "description": "感受更多的终会被逐渐忘却，但也会想起往昔的痕迹的",
+                                "username": "ganjiuchawuduo",
+                                "protected": false,
+                                "name": "看到我就去喝杯水好吗",
+                                "verified": false,
+                                "location": "山卡拉",
+                                "profile_image_url": "https://pbs.twimg.com/profile_images/2004366356872155138/cVxb7fKy_normal.jpg",
+                                "id": "1598983658206945280",
+                                "created_at": "2022-12-03T10:13:17.000Z"
+                              }
+                            ]
+                          },
+                          "errors": [
+                            {
+                              "parameter": "in_reply_to_user_id",
+                              "resource_id": "1614768068353462273",
+                              "value": "1614768068353462273",
+                              "detail": "User has been suspended: [1614768068353462273].",
+                              "title": "Forbidden",
+                              "resource_type": "user",
+                              "type": "https://api.twitter.com/2/problems/resource-not-found"
+                            },
+                            {
+                              "value": "1999291888021700670",
+                              "detail": "Could not find tweet with referenced_tweets.id: [1999291888021700670].",
+                              "title": "Not Found Error",
+                              "resource_type": "tweet",
+                              "parameter": "referenced_tweets.id",
+                              "resource_id": "1999291888021700670",
+                              "type": "https://api.twitter.com/2/problems/resource-not-found"
+                            }
+                          ]
+                        }
+                      }
+                    ],
                     "terminal_error": {
-                      "id": "1999292511056212349",
-                      "message": "X API returned HTTP 429."
+                      "id": "1999291888021700670",
+                      "message": "Could not find tweet with id: [1999291888021700670]. Wayback fallback: Wayback fallback did not find archived JSON for tweet id 1999291888021700670."
                     }
                   }
                 }
               }
             }
+          },
+          {
+            "id": "1999292511056212349",
+            "source": "x_api_oauth1:./env.pale-fire",
+            "payload": {
+              "data": {
+                "attachments": {
+                  "media_keys": [
+                    "3_1999292508392816640"
+                  ]
+                },
+                "conversation_id": "1999291888021700670",
+                "edit_history_tweet_ids": [
+                  "1999292511056212349"
+                ],
+                "id": "1999292511056212349",
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "1999291888021700670"
+                  }
+                ],
+                "text": "@Muddledist 还真找人买啊，你不怕被抓了？ https://t.co/obecwRhoDm",
+                "lang": "zh",
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 0,
+                      "end": 11,
+                      "username": "Muddledist",
+                      "id": "1614768068353462273"
+                    }
+                  ],
+                  "urls": [
+                    {
+                      "start": 27,
+                      "end": 50,
+                      "url": "https://t.co/obecwRhoDm",
+                      "expanded_url": "https://x.com/ganjiuchawuduo/status/1999292511056212349/photo/1",
+                      "display_url": "pic.x.com/obecwRhoDm",
+                      "media_key": "3_1999292508392816640"
+                    }
+                  ]
+                },
+                "reply_settings": "everyone",
+                "in_reply_to_user_id": "1614768068353462273",
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 1238
+                },
+                "author_id": "1598983658206945280",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2025-12-12T02:37:34.000Z"
+                },
+                "created_at": "2025-12-12T01:37:34.000Z",
+                "possibly_sensitive": false
+              },
+              "includes": {
+                "media": [
+                  {
+                    "width": 509,
+                    "media_key": "3_1999292508392816640",
+                    "height": 541,
+                    "url": "https://pbs.twimg.com/media/G77p8ZTagAAazba.jpg",
+                    "type": "photo"
+                  }
+                ],
+                "users": [
+                  {
+                    "name": "看到我就去喝杯水好吗",
+                    "username": "ganjiuchawuduo",
+                    "public_metrics": {
+                      "followers_count": 53,
+                      "following_count": 437,
+                      "tweet_count": 5008,
+                      "listed_count": 0,
+                      "like_count": 22099,
+                      "media_count": 749
+                    },
+                    "description": "感受更多的终会被逐渐忘却，但也会想起往昔的痕迹的",
+                    "created_at": "2022-12-03T10:13:17.000Z",
+                    "protected": false,
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2004366356872155138/cVxb7fKy_normal.jpg",
+                    "location": "山卡拉",
+                    "id": "1598983658206945280",
+                    "verified": false
+                  }
+                ]
+              },
+              "errors": [
+                {
+                  "parameter": "in_reply_to_user_id",
+                  "resource_id": "1614768068353462273",
+                  "value": "1614768068353462273",
+                  "detail": "User has been suspended: [1614768068353462273].",
+                  "title": "Forbidden",
+                  "resource_type": "user",
+                  "type": "https://api.twitter.com/2/problems/resource-not-found"
+                },
+                {
+                  "value": "1999291888021700670",
+                  "detail": "Could not find tweet with referenced_tweets.id: [1999291888021700670].",
+                  "title": "Not Found Error",
+                  "resource_type": "tweet",
+                  "parameter": "referenced_tweets.id",
+                  "resource_id": "1999291888021700670",
+                  "type": "https://api.twitter.com/2/problems/resource-not-found"
+                }
+              ]
+            }
           }
-        ]
+        ],
+        "terminal_error": {
+          "id": "1999291888021700670",
+          "message": "./.env: X API OAuth 1.0a returned HTTP 429. ./env.pale-fire: Could not find tweet with id: [1999291888021700670]. Wayback fallback: Wayback fallback did not find archived JSON for tweet id 1999291888021700670."
+        }
       }
     }
   }

@@ -257,13 +257,219 @@
     "x_api_reply_chains": {
       "1974858033332391970": {
         "version": 1,
-        "fetched_at": "2026-04-18T04:14:12Z",
+        "fetched_at": "2026-04-18T06:18:23Z",
         "max_depth": 63,
-        "posts": [],
-        "terminal_error": {
-          "id": "1974858033332391970",
-          "message": "Wayback fallback did not find archived JSON for tweet id 1974858033332391970."
-        }
+        "posts": [
+          {
+            "id": "1974858033332391970",
+            "source": "x_api_oauth1",
+            "payload": {
+              "data": {
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 0,
+                      "end": 5,
+                      "username": "grok",
+                      "id": "1720665183188922368"
+                    },
+                    {
+                      "start": 6,
+                      "end": 11,
+                      "username": "grok",
+                      "id": "1720665183188922368"
+                    }
+                  ]
+                },
+                "lang": "ja",
+                "edit_history_tweet_ids": [
+                  "1974858033332391970"
+                ],
+                "author_id": "1516058815652777989",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2025-10-05T16:23:40.000Z"
+                },
+                "possibly_sensitive": false,
+                "id": "1974858033332391970",
+                "in_reply_to_user_id": "1516058815652777989",
+                "text": "@grok @grok\n回答我",
+                "reply_settings": "everyone",
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "1974857965703434423"
+                  }
+                ],
+                "created_at": "2025-10-05T15:23:40.000Z",
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 14,
+                  "quote_count": 0,
+                  "bookmark_count": 1,
+                  "impression_count": 8323
+                },
+                "conversation_id": "1974857965703434423"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1861784087079587840/IS606ZqE_normal.jpg",
+                    "protected": false,
+                    "verified": false,
+                    "username": "PaulKochakin",
+                    "public_metrics": {
+                      "followers_count": 793,
+                      "following_count": 1208,
+                      "tweet_count": 11442,
+                      "listed_count": 4,
+                      "like_count": 42492,
+                      "media_count": 2057
+                    },
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/NGAYH5sCI3",
+                            "expanded_url": "https://www.militarykit.com/",
+                            "display_url": "militarykit.com"
+                          }
+                        ]
+                      }
+                    },
+                    "name": "超级神奇白皮书书 #​9-12A",
+                    "id": "1516058815652777989",
+                    "location": "「向日葵花開滿的地方」",
+                    "url": "https://t.co/NGAYH5sCI3",
+                    "created_at": "2022-04-18T14:19:37.000Z",
+                    "description": "你好啊，恭喜你找到了一具尸体（很普通的摄影师，核生化防护研究中）｜C(化学)B(生物)R(放射性物质)N(核)N(麻醉物)E(爆炸物) |NATO Rd40 40mm |SCBA/PAPR/APR |摄影/NVG微光管 |LGBBQ+/WTF |整点薯条先 |Gas Mask爱好者，Military enthusias"
+                  }
+                ],
+                "tweets": [
+                  {
+                    "entities": {
+                      "mentions": [
+                        {
+                          "start": 37,
+                          "end": 42,
+                          "username": "grok",
+                          "id": "1720665183188922368"
+                        }
+                      ]
+                    },
+                    "lang": "zh",
+                    "edit_history_tweet_ids": [
+                      "1974857965703434423"
+                    ],
+                    "author_id": "1516058815652777989",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2025-10-05T16:23:24.000Z"
+                    },
+                    "possibly_sensitive": false,
+                    "id": "1974857965703434423",
+                    "text": "参考在和我互相关注的人中的推文，也包括我的推文，只用昵称告诉我，不要用@\n@grok\n\n叛徒： 特务： 大军阀： 反党分子： 野心家： 走资派： 投降派； 修正主义： 大恶霸： 黑线人物： 不革命： 黑秀才： 黑手： 黑帮凶： 造谣公司： 传话筒： 逆流： 邪风： 小爬虫： 资产阶级野心家：",
+                    "reply_settings": "everyone",
+                    "created_at": "2025-10-05T15:23:24.000Z",
+                    "public_metrics": {
+                      "retweet_count": 1,
+                      "reply_count": 2,
+                      "like_count": 22,
+                      "quote_count": 1,
+                      "bookmark_count": 10,
+                      "impression_count": 9785
+                    },
+                    "conversation_id": "1974857965703434423"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "1974857965703434423",
+            "source": "x_api_oauth1",
+            "payload": {
+              "data": {
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 37,
+                      "end": 42,
+                      "username": "grok",
+                      "id": "1720665183188922368"
+                    }
+                  ]
+                },
+                "conversation_id": "1974857965703434423",
+                "created_at": "2025-10-05T15:23:24.000Z",
+                "author_id": "1516058815652777989",
+                "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 2,
+                  "like_count": 22,
+                  "quote_count": 1,
+                  "bookmark_count": 10,
+                  "impression_count": 9785
+                },
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2025-10-05T16:23:24.000Z"
+                },
+                "reply_settings": "everyone",
+                "possibly_sensitive": false,
+                "edit_history_tweet_ids": [
+                  "1974857965703434423"
+                ],
+                "id": "1974857965703434423",
+                "lang": "zh",
+                "text": "参考在和我互相关注的人中的推文，也包括我的推文，只用昵称告诉我，不要用@\n@grok\n\n叛徒： 特务： 大军阀： 反党分子： 野心家： 走资派： 投降派； 修正主义： 大恶霸： 黑线人物： 不革命： 黑秀才： 黑手： 黑帮凶： 造谣公司： 传话筒： 逆流： 邪风： 小爬虫： 资产阶级野心家："
+              },
+              "includes": {
+                "users": [
+                  {
+                    "url": "https://t.co/NGAYH5sCI3",
+                    "public_metrics": {
+                      "followers_count": 793,
+                      "following_count": 1208,
+                      "tweet_count": 11442,
+                      "listed_count": 4,
+                      "like_count": 42492,
+                      "media_count": 2057
+                    },
+                    "protected": false,
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1861784087079587840/IS606ZqE_normal.jpg",
+                    "name": "超级神奇白皮书书 #​9-12A",
+                    "created_at": "2022-04-18T14:19:37.000Z",
+                    "username": "PaulKochakin",
+                    "verified": false,
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/NGAYH5sCI3",
+                            "expanded_url": "https://www.militarykit.com/",
+                            "display_url": "militarykit.com"
+                          }
+                        ]
+                      }
+                    },
+                    "description": "你好啊，恭喜你找到了一具尸体（很普通的摄影师，核生化防护研究中）｜C(化学)B(生物)R(放射性物质)N(核)N(麻醉物)E(爆炸物) |NATO Rd40 40mm |SCBA/PAPR/APR |摄影/NVG微光管 |LGBBQ+/WTF |整点薯条先 |Gas Mask爱好者，Military enthusias",
+                    "id": "1516058815652777989",
+                    "location": "「向日葵花開滿的地方」"
+                  }
+                ]
+              }
+            }
+          }
+        ]
       }
     }
   }

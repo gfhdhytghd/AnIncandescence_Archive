@@ -311,7 +311,7 @@
     "x_api_reply_chains": {
       "1981417962847211690": {
         "version": 1,
-        "fetched_at": "2026-04-18T04:14:25Z",
+        "fetched_at": "2026-04-18T07:08:22Z",
         "max_depth": 63,
         "posts": [
           {
@@ -532,7 +532,7 @@
                 "x_api_reply_chains": {
                   "1981412021993447537": {
                     "version": 1,
-                    "fetched_at": "2026-04-18T02:22:01Z",
+                    "fetched_at": "2026-04-18T06:56:11Z",
                     "max_depth": 64,
                     "posts": [],
                     "terminal_error": {
@@ -547,7 +547,7 @@
         ],
         "terminal_error": {
           "id": "1981412021993447537",
-          "message": "Wayback fallback did not find archived JSON for tweet id 1981412021993447537."
+          "message": "./.env: X API OAuth 1.0a returned HTTP 429. ./env.pale-fire: Sorry, you are not authorized to see the Tweet with id: [1981412021993447537]. Wayback fallback: Wayback fallback did not find archived JSON for tweet id 1981412021993447537."
         }
       }
     }

@@ -311,12 +311,171 @@
     "x_api_reply_chains": {
       "1964173088578224309": {
         "version": 1,
-        "fetched_at": "2026-04-18T04:13:19Z",
+        "fetched_at": "2026-04-18T07:07:17Z",
         "max_depth": 63,
-        "posts": [],
+        "posts": [
+          {
+            "id": "1964173088578224309",
+            "source": "x_api_oauth1:./.env",
+            "payload": {
+              "data": {
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "1964162030941692343"
+                  }
+                ],
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 0,
+                      "end": 13,
+                      "username": "uranus_chaos",
+                      "id": "1502654786453204994"
+                    },
+                    {
+                      "start": 14,
+                      "end": 30,
+                      "username": "PaitangOfficial",
+                      "id": "1272405078683430913"
+                    },
+                    {
+                      "start": 31,
+                      "end": 44,
+                      "username": "drug_artist1",
+                      "id": "1963867793776070656"
+                    },
+                    {
+                      "start": 59,
+                      "end": 75,
+                      "username": "AnIncandescence",
+                      "id": "1741993395910811648"
+                    }
+                  ],
+                  "urls": [
+                    {
+                      "start": 110,
+                      "end": 133,
+                      "url": "https://t.co/3NRBnwAdgs",
+                      "expanded_url": "https://x.com/Cheese_Ghostfox/status/1964173088578224309/photo/1",
+                      "display_url": "pic.x.com/3NRBnwAdgs",
+                      "media_key": "3_1964173086049390594"
+                    }
+                  ]
+                },
+                "created_at": "2025-09-06T03:45:31.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2025-09-06T04:45:31.000Z"
+                },
+                "conversation_id": "1964162030941692343",
+                "edit_history_tweet_ids": [
+                  "1964173088578224309"
+                ],
+                "in_reply_to_user_id": "1502654786453204994",
+                "lang": "zh",
+                "text": "@uranus_chaos @PaitangOfficial @drug_artist1 @xiaosong2_33 @AnIncandescence @Drugs_Kitten 自制药品…等于…危险分子…喵…\n📝📝📝 https://t.co/3NRBnwAdgs",
+                "reply_settings": "everyone",
+                "possibly_sensitive": false,
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 3,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 326
+                },
+                "attachments": {
+                  "media_keys": [
+                    "3_1964173086049390594"
+                  ]
+                },
+                "author_id": "1620506107306479617",
+                "id": "1964173088578224309"
+              },
+              "includes": {
+                "media": [
+                  {
+                    "media_key": "3_1964173086049390594",
+                    "type": "photo",
+                    "width": 300,
+                    "url": "https://pbs.twimg.com/media/G0IlA99bUAI424x.jpg",
+                    "height": 300
+                  }
+                ],
+                "users": [
+                  {
+                    "public_metrics": {
+                      "followers_count": 1386,
+                      "following_count": 1467,
+                      "tweet_count": 5310,
+                      "listed_count": 4,
+                      "like_count": 16782,
+                      "media_count": 581
+                    },
+                    "username": "Cheese_Ghostfox",
+                    "name": "☯️🧬霊狐製作所 公式ツイッター",
+                    "protected": false,
+                    "id": "1620506107306479617",
+                    "verified": false,
+                    "url": "https://t.co/COn8ugIjyQ",
+                    "location": "-0.15m",
+                    "created_at": "2023-01-31T19:36:01.000Z",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/COn8ugIjyQ",
+                            "expanded_url": "https://github.com/CheeseGhostfox",
+                            "display_url": "github.com/CheeseGhostfox"
+                          }
+                        ]
+                      },
+                      "description": {
+                        "mentions": [
+                          {
+                            "start": 140,
+                            "end": 153,
+                            "username": "HEX_Ghostfox"
+                          }
+                        ]
+                      }
+                    },
+                    "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨She/Her丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg"
+                  }
+                ]
+              },
+              "errors": [
+                {
+                  "parameter": "in_reply_to_user_id",
+                  "resource_id": "1502654786453204994",
+                  "value": "1502654786453204994",
+                  "detail": "User has been suspended: [1502654786453204994].",
+                  "title": "Forbidden",
+                  "resource_type": "user",
+                  "type": "https://api.twitter.com/2/problems/resource-not-found"
+                },
+                {
+                  "resource_id": "1964162030941692343",
+                  "parameter": "referenced_tweets.id",
+                  "resource_type": "tweet",
+                  "section": "includes",
+                  "title": "Authorization Error",
+                  "value": "1964162030941692343",
+                  "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1964162030941692343].",
+                  "type": "https://api.twitter.com/2/problems/not-authorized-for-resource"
+                }
+              ]
+            }
+          }
+        ],
         "terminal_error": {
-          "id": "1964173088578224309",
-          "message": "Wayback fallback did not find archived JSON for tweet id 1964173088578224309."
+          "id": "1964162030941692343",
+          "message": "./.env: Sorry, you are not authorized to see the Tweet with id: [1964162030941692343]. ./env.pale-fire: Sorry, you are not authorized to see the Tweet with id: [1964162030941692343]. Wayback fallback: Wayback fallback did not find archived JSON for tweet id 1964162030941692343."
         }
       }
     }

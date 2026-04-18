@@ -215,13 +215,65 @@
     "x_api_reply_chains": {
       "1953477679115837585": {
         "version": 1,
-        "fetched_at": "2026-04-18T04:13:37Z",
+        "fetched_at": "2026-04-18T06:18:23Z",
         "max_depth": 63,
-        "posts": [],
-        "terminal_error": {
-          "id": "1953477679115837585",
-          "message": "Wayback fallback did not find archived JSON for tweet id 1953477679115837585."
-        }
+        "posts": [
+          {
+            "id": "1953477679115837585",
+            "source": "x_api_oauth1",
+            "payload": {
+              "data": {
+                "id": "1953477679115837585",
+                "author_id": "1437034228768595977",
+                "reply_settings": "everyone",
+                "possibly_sensitive": false,
+                "created_at": "2025-08-07T15:25:47.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2025-08-07T16:25:47.000Z"
+                },
+                "conversation_id": "1953477679115837585",
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 174
+                },
+                "lang": "zh",
+                "edit_history_tweet_ids": [
+                  "1953477679115837585"
+                ],
+                "text": "睡醒之后看着手机屏幕看不清键盘，自己大概只睡了两个多小时，听到了奇怪的指令，无法理解其意思，照着做但感觉肢体疲软又瘫到床上，听着怪异的儿歌。那个儿歌现在都在放，但我无法理解那是什么内容\n看到的一个物体会很明显的分成两部分，手机出现了两张屏幕，水瓶背后站着一个水瓶，之类的。（1）"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "location": "你的身旁",
+                    "created_at": "2021-09-12T12:43:59.000Z",
+                    "name": "🥛💤",
+                    "public_metrics": {
+                      "followers_count": 200,
+                      "following_count": 104,
+                      "tweet_count": 2051,
+                      "listed_count": 4,
+                      "like_count": 3885,
+                      "media_count": 207
+                    },
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2008872173084229632/7RVhFGtF_normal.jpg",
+                    "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/患有双相注意避雷/废话很多",
+                    "verified": false,
+                    "id": "1437034228768595977",
+                    "username": "Kumamushi2021",
+                    "protected": false
+                  }
+                ]
+              }
+            }
+          }
+        ]
       }
     }
   }

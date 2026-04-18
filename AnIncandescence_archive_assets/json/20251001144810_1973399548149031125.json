@@ -278,13 +278,92 @@
     "x_api_reply_chains": {
       "1973096798014308373": {
         "version": 1,
-        "fetched_at": "2026-04-18T04:14:09Z",
+        "fetched_at": "2026-04-18T06:18:23Z",
         "max_depth": 63,
-        "posts": [],
-        "terminal_error": {
-          "id": "1973096798014308373",
-          "message": "Wayback fallback did not find archived JSON for tweet id 1973096798014308373."
-        }
+        "posts": [
+          {
+            "id": "1973096798014308373",
+            "source": "x_api_oauth1",
+            "payload": {
+              "data": {
+                "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 9,
+                  "like_count": 18,
+                  "quote_count": 2,
+                  "bookmark_count": 1,
+                  "impression_count": 2954
+                },
+                "id": "1973096798014308373",
+                "reply_settings": "everyone",
+                "conversation_id": "1973096798014308373",
+                "possibly_sensitive": false,
+                "author_id": "622036546",
+                "text": "很难想象 如果真的进入了全民od的时代 那会是什么样的？",
+                "created_at": "2025-09-30T18:45:09.000Z",
+                "lang": "zh",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": true,
+                  "editable_until": "2025-09-30T19:45:09.000Z"
+                },
+                "edit_history_tweet_ids": [
+                  "1973096798014308373"
+                ]
+              },
+              "includes": {
+                "users": [
+                  {
+                    "description": "官网：https://t.co/9HsNdQiida | 提问箱：https://t.co/b5c8bbntR6 | 里账号:@fuck_8964",
+                    "public_metrics": {
+                      "followers_count": 2788,
+                      "following_count": 99,
+                      "tweet_count": 4112,
+                      "listed_count": 8,
+                      "like_count": 11451,
+                      "media_count": 679
+                    },
+                    "location": "天国",
+                    "created_at": "2012-06-29T16:18:50.000Z",
+                    "verified": false,
+                    "id": "622036546",
+                    "protected": false,
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2004582178806693888/5V-kT5y0_normal.jpg",
+                    "entities": {
+                      "description": {
+                        "urls": [
+                          {
+                            "start": 3,
+                            "end": 26,
+                            "url": "https://t.co/9HsNdQiida",
+                            "expanded_url": "http://fayou.fyi",
+                            "display_url": "fayou.fyi"
+                          },
+                          {
+                            "start": 33,
+                            "end": 56,
+                            "url": "https://t.co/b5c8bbntR6",
+                            "expanded_url": "https://ngl.link/oder_six",
+                            "display_url": "ngl.link/oder_six"
+                          }
+                        ],
+                        "mentions": [
+                          {
+                            "start": 63,
+                            "end": 73,
+                            "username": "fuck_8964"
+                          }
+                        ]
+                      }
+                    },
+                    "name": "椎名#心宿二",
+                    "username": "overdose_six"
+                  }
+                ]
+              }
+            }
+          }
+        ]
       }
     }
   }

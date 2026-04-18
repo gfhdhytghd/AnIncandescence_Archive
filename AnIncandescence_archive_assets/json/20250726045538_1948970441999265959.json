@@ -195,12 +195,12 @@
     "x_api_reply_chains": {
       "1948832350512840996": {
         "version": 1,
-        "fetched_at": "2026-04-18T02:07:44Z",
+        "fetched_at": "2026-04-18T07:07:14Z",
         "max_depth": 64,
         "posts": [],
         "terminal_error": {
           "id": "1948832350512840996",
-          "message": "Could not find tweet with id: [1948832350512840996]. Wayback fallback: Wayback fallback did not find archived JSON for tweet id 1948832350512840996."
+          "message": "./.env: Could not find tweet with id: [1948832350512840996]. ./env.pale-fire: Could not find tweet with id: [1948832350512840996]. Wayback fallback: Wayback fallback did not find archived JSON for tweet id 1948832350512840996."
         }
       }
     }

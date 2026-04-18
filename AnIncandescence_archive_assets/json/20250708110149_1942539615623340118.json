@@ -266,12 +266,107 @@
     "x_api_reply_chains": {
       "1942520134759055522": {
         "version": 1,
-        "fetched_at": "2026-04-18T04:12:06Z",
+        "fetched_at": "2026-04-18T07:07:12Z",
         "max_depth": 63,
-        "posts": [],
+        "posts": [
+          {
+            "id": "1942520134759055522",
+            "source": "x_api_oauth1:./.env",
+            "payload": {
+              "data": {
+                "in_reply_to_user_id": "1279702935102865409",
+                "lang": "ja",
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "1942460354115821623"
+                  }
+                ],
+                "author_id": "1739908593254883328",
+                "conversation_id": "1942460354115821623",
+                "reply_settings": "everyone",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2025-07-08T10:44:25.000Z"
+                },
+                "id": "1942520134759055522",
+                "possibly_sensitive": false,
+                "edit_history_tweet_ids": [
+                  "1942520134759055522"
+                ],
+                "created_at": "2025-07-08T09:44:25.000Z",
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 261
+                },
+                "text": "@YoselinZhang 吃碳酸锂不能抽🍃"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "name": "安坠鸭鸭🏳️‍🌈🏳️‍⚧️（重生版）",
+                    "entities": {
+                      "description": {
+                        "urls": [
+                          {
+                            "start": 58,
+                            "end": 81,
+                            "url": "https://t.co/FGoF2GVQbK",
+                            "expanded_url": "https://t.me/adxahemhemhem",
+                            "display_url": "t.me/adxahemhemhem"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1739908593254883328",
+                    "verified": false,
+                    "description": "xtx/pan (ta/it/es)🏳️‍⚧️🏳️‍🌈Taiwanese💖😚我是鸭鸭^^⚠️健康无毒生活坐标北美⚠️https://t.co/FGoF2GVQbK",
+                    "protected": false,
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1888626247548514304/MegS1DUU_normal.jpg",
+                    "username": "AngelSexyHem",
+                    "created_at": "2023-12-27T07:18:44.000Z",
+                    "public_metrics": {
+                      "followers_count": 908,
+                      "following_count": 357,
+                      "tweet_count": 2452,
+                      "listed_count": 2,
+                      "like_count": 5105,
+                      "media_count": 305
+                    }
+                  }
+                ]
+              },
+              "errors": [
+                {
+                  "value": "1279702935102865409",
+                  "detail": "Could not find user with in_reply_to_user_id: [1279702935102865409].",
+                  "title": "Not Found Error",
+                  "resource_type": "user",
+                  "parameter": "in_reply_to_user_id",
+                  "resource_id": "1279702935102865409",
+                  "type": "https://api.twitter.com/2/problems/resource-not-found"
+                },
+                {
+                  "value": "1942460354115821623",
+                  "detail": "Could not find tweet with referenced_tweets.id: [1942460354115821623].",
+                  "title": "Not Found Error",
+                  "resource_type": "tweet",
+                  "parameter": "referenced_tweets.id",
+                  "resource_id": "1942460354115821623",
+                  "type": "https://api.twitter.com/2/problems/resource-not-found"
+                }
+              ]
+            }
+          }
+        ],
         "terminal_error": {
-          "id": "1942520134759055522",
-          "message": "Wayback fallback did not find archived JSON for tweet id 1942520134759055522."
+          "id": "1942460354115821623",
+          "message": "./.env: Could not find tweet with id: [1942460354115821623]. ./env.pale-fire: Could not find tweet with id: [1942460354115821623]. Wayback fallback: Wayback fallback did not find archived JSON for tweet id 1942460354115821623."
         }
       }
     }

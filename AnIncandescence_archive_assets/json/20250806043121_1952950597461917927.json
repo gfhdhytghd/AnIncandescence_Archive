@@ -253,13 +253,567 @@
     "x_api_reply_chains": {
       "1952740337367011638": {
         "version": 1,
-        "fetched_at": "2026-04-18T04:12:26Z",
+        "fetched_at": "2026-04-18T06:18:22Z",
         "max_depth": 63,
-        "posts": [],
-        "terminal_error": {
-          "id": "1952740337367011638",
-          "message": "Wayback fallback did not find archived JSON for tweet id 1952740337367011638."
-        }
+        "posts": [
+          {
+            "id": "1952740337367011638",
+            "source": "x_api_oauth1",
+            "payload": {
+              "data": {
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2025-08-05T15:35:51.000Z"
+                },
+                "reply_settings": "everyone",
+                "in_reply_to_user_id": "1222546987108581376",
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 384
+                },
+                "lang": "qme",
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "1952727340137497077"
+                  }
+                ],
+                "created_at": "2025-08-05T14:35:51.000Z",
+                "text": "@sky_string 🤓",
+                "edit_history_tweet_ids": [
+                  "1952740337367011638"
+                ],
+                "conversation_id": "1952640795049075193",
+                "possibly_sensitive": false,
+                "author_id": "1659962043460354050",
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 0,
+                      "end": 11,
+                      "username": "sky_string",
+                      "id": "1222546987108581376"
+                    }
+                  ]
+                },
+                "id": "1952740337367011638"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "url": "https://t.co/20q0OtAeQd",
+                    "public_metrics": {
+                      "followers_count": 3804,
+                      "following_count": 981,
+                      "tweet_count": 6983,
+                      "listed_count": 8,
+                      "like_count": 22133,
+                      "media_count": 439
+                    },
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/20q0OtAeQd",
+                            "expanded_url": "https://freeodwiki.org",
+                            "display_url": "freeodwiki.org"
+                          }
+                        ]
+                      },
+                      "description": {
+                        "urls": [
+                          {
+                            "start": 92,
+                            "end": 115,
+                            "url": "https://t.co/ki2TerCl7C",
+                            "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                            "display_url": "github.com/SalviaSWC/Free…"
+                          }
+                        ],
+                        "mentions": [
+                          {
+                            "start": 54,
+                            "end": 65,
+                            "username": "DXM8964LXM"
+                          }
+                        ]
+                      }
+                    },
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+                    "protected": false,
+                    "name": "鼠尾草～🌿",
+                    "verified": false,
+                    "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+                    "created_at": "2023-05-20T16:39:35.000Z",
+                    "id": "1659962043460354050",
+                    "username": "SalviaSWC"
+                  },
+                  {
+                    "public_metrics": {
+                      "followers_count": 126,
+                      "following_count": 181,
+                      "tweet_count": 478,
+                      "listed_count": 1,
+                      "like_count": 2644,
+                      "media_count": 43
+                    },
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1984552070662537217/nxerBJg-_normal.jpg",
+                    "protected": false,
+                    "name": "bambi-obey😵‍💫",
+                    "verified": false,
+                    "description": "塑料推友🫶🏻🫰🏻💕 迷幻的bambi | bambi sleep😵‍💫 | good girl🥰",
+                    "created_at": "2020-01-29T15:48:23.000Z",
+                    "id": "1222546987108581376",
+                    "username": "sky_string"
+                  }
+                ],
+                "tweets": [
+                  {
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2025-08-05T14:44:12.000Z"
+                    },
+                    "reply_settings": "everyone",
+                    "in_reply_to_user_id": "1659962043460354050",
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 2,
+                      "like_count": 1,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 382
+                    },
+                    "lang": "ja",
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "1952649769127428297"
+                      }
+                    ],
+                    "created_at": "2025-08-05T13:44:12.000Z",
+                    "text": "@SalviaSWC 是***汀吗？",
+                    "edit_history_tweet_ids": [
+                      "1952727340137497077"
+                    ],
+                    "conversation_id": "1952640795049075193",
+                    "possibly_sensitive": false,
+                    "author_id": "1222546987108581376",
+                    "entities": {
+                      "mentions": [
+                        {
+                          "start": 0,
+                          "end": 10,
+                          "username": "SalviaSWC",
+                          "id": "1659962043460354050"
+                        }
+                      ]
+                    },
+                    "id": "1952727340137497077"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "1952727340137497077",
+            "source": "x_api_oauth1",
+            "payload": {
+              "data": {
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "1952649769127428297"
+                  }
+                ],
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 382
+                },
+                "in_reply_to_user_id": "1659962043460354050",
+                "id": "1952727340137497077",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2025-08-05T14:44:12.000Z"
+                },
+                "text": "@SalviaSWC 是***汀吗？",
+                "author_id": "1222546987108581376",
+                "lang": "ja",
+                "reply_settings": "everyone",
+                "created_at": "2025-08-05T13:44:12.000Z",
+                "conversation_id": "1952640795049075193",
+                "possibly_sensitive": false,
+                "edit_history_tweet_ids": [
+                  "1952727340137497077"
+                ],
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 0,
+                      "end": 10,
+                      "username": "SalviaSWC",
+                      "id": "1659962043460354050"
+                    }
+                  ]
+                }
+              },
+              "includes": {
+                "users": [
+                  {
+                    "username": "sky_string",
+                    "created_at": "2020-01-29T15:48:23.000Z",
+                    "public_metrics": {
+                      "followers_count": 126,
+                      "following_count": 181,
+                      "tweet_count": 478,
+                      "listed_count": 1,
+                      "like_count": 2644,
+                      "media_count": 43
+                    },
+                    "protected": false,
+                    "verified": false,
+                    "id": "1222546987108581376",
+                    "description": "塑料推友🫶🏻🫰🏻💕 迷幻的bambi | bambi sleep😵‍💫 | good girl🥰",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1984552070662537217/nxerBJg-_normal.jpg",
+                    "name": "bambi-obey😵‍💫"
+                  },
+                  {
+                    "username": "SalviaSWC",
+                    "created_at": "2023-05-20T16:39:35.000Z",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/20q0OtAeQd",
+                            "expanded_url": "https://freeodwiki.org",
+                            "display_url": "freeodwiki.org"
+                          }
+                        ]
+                      },
+                      "description": {
+                        "urls": [
+                          {
+                            "start": 92,
+                            "end": 115,
+                            "url": "https://t.co/ki2TerCl7C",
+                            "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                            "display_url": "github.com/SalviaSWC/Free…"
+                          }
+                        ],
+                        "mentions": [
+                          {
+                            "start": 54,
+                            "end": 65,
+                            "username": "DXM8964LXM"
+                          }
+                        ]
+                      }
+                    },
+                    "public_metrics": {
+                      "followers_count": 3804,
+                      "following_count": 981,
+                      "tweet_count": 6983,
+                      "listed_count": 8,
+                      "like_count": 22133,
+                      "media_count": 439
+                    },
+                    "protected": false,
+                    "verified": false,
+                    "url": "https://t.co/20q0OtAeQd",
+                    "id": "1659962043460354050",
+                    "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+                    "name": "鼠尾草～🌿"
+                  }
+                ],
+                "tweets": [
+                  {
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "1952640795049075193"
+                      }
+                    ],
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 4,
+                      "like_count": 27,
+                      "quote_count": 1,
+                      "bookmark_count": 4,
+                      "impression_count": 2669
+                    },
+                    "in_reply_to_user_id": "1659962043460354050",
+                    "id": "1952649769127428297",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2025-08-05T09:35:58.000Z"
+                    },
+                    "text": "我知道有某些可以在中国合法买到的阿片类药物，一旦服用，几乎可以治疗任何人的抑郁症\n但是，阿片类药物的特点就是难以合理使用，容易陷入滥用。再加上我们中大多数人不知道怎么减少因为药物造成的损害，甚至以伤害自己的目的服药，安全使用几乎是不可能的。\n(严禁提这个药物的名字，否则这个圈就废了)",
+                    "author_id": "1659962043460354050",
+                    "lang": "zh",
+                    "reply_settings": "everyone",
+                    "created_at": "2025-08-05T08:35:58.000Z",
+                    "conversation_id": "1952640795049075193",
+                    "possibly_sensitive": false,
+                    "edit_history_tweet_ids": [
+                      "1952649769127428297"
+                    ]
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "1952649769127428297",
+            "source": "x_api_oauth1",
+            "payload": {
+              "data": {
+                "created_at": "2025-08-05T08:35:58.000Z",
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 4,
+                  "like_count": 27,
+                  "quote_count": 1,
+                  "bookmark_count": 4,
+                  "impression_count": 2669
+                },
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "1952640795049075193"
+                  }
+                ],
+                "edit_history_tweet_ids": [
+                  "1952649769127428297"
+                ],
+                "in_reply_to_user_id": "1659962043460354050",
+                "reply_settings": "everyone",
+                "possibly_sensitive": false,
+                "author_id": "1659962043460354050",
+                "text": "我知道有某些可以在中国合法买到的阿片类药物，一旦服用，几乎可以治疗任何人的抑郁症\n但是，阿片类药物的特点就是难以合理使用，容易陷入滥用。再加上我们中大多数人不知道怎么减少因为药物造成的损害，甚至以伤害自己的目的服药，安全使用几乎是不可能的。\n(严禁提这个药物的名字，否则这个圈就废了)",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2025-08-05T09:35:58.000Z"
+                },
+                "lang": "zh",
+                "conversation_id": "1952640795049075193",
+                "id": "1952649769127428297"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "public_metrics": {
+                      "followers_count": 3804,
+                      "following_count": 981,
+                      "tweet_count": 6983,
+                      "listed_count": 8,
+                      "like_count": 22133,
+                      "media_count": 439
+                    },
+                    "protected": false,
+                    "verified": false,
+                    "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+                    "name": "鼠尾草～🌿",
+                    "url": "https://t.co/20q0OtAeQd",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/20q0OtAeQd",
+                            "expanded_url": "https://freeodwiki.org",
+                            "display_url": "freeodwiki.org"
+                          }
+                        ]
+                      },
+                      "description": {
+                        "urls": [
+                          {
+                            "start": 92,
+                            "end": 115,
+                            "url": "https://t.co/ki2TerCl7C",
+                            "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                            "display_url": "github.com/SalviaSWC/Free…"
+                          }
+                        ],
+                        "mentions": [
+                          {
+                            "start": 54,
+                            "end": 65,
+                            "username": "DXM8964LXM"
+                          }
+                        ]
+                      }
+                    },
+                    "created_at": "2023-05-20T16:39:35.000Z",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+                    "username": "SalviaSWC",
+                    "id": "1659962043460354050"
+                  }
+                ],
+                "tweets": [
+                  {
+                    "created_at": "2025-08-05T08:00:18.000Z",
+                    "public_metrics": {
+                      "retweet_count": 7,
+                      "reply_count": 1,
+                      "like_count": 56,
+                      "quote_count": 1,
+                      "bookmark_count": 6,
+                      "impression_count": 6686
+                    },
+                    "context_annotations": [
+                      {
+                        "domain": {
+                          "id": "65",
+                          "name": "Interests and Hobbies Vertical",
+                          "description": "Top level interests and hobbies groupings, like Food or Travel"
+                        },
+                        "entity": {
+                          "id": "903303816698671104",
+                          "name": "Wellness and health",
+                          "description": "Wellness & Health"
+                        }
+                      }
+                    ],
+                    "edit_history_tweet_ids": [
+                      "1952640795049075193"
+                    ],
+                    "reply_settings": "everyone",
+                    "possibly_sensitive": false,
+                    "author_id": "1659962043460354050",
+                    "text": "精神药物在未来只会越来越多。就算是现在，中国也有无数种未被管制且容易合成的合法策划药，包括兴奋剂、抑制剂、阿片类、苯二氮䓬类、血清素致幻剂、解离剂。\n最重要的不是获取这些药物。而是如何健康地使用药物，并减小使用药物造成的危害——改变意识状态的方法很多，但是你只有一个身体、一个大脑。",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2025-08-05T09:00:18.000Z"
+                    },
+                    "lang": "zh",
+                    "conversation_id": "1952640795049075193",
+                    "id": "1952640795049075193"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "1952640795049075193",
+            "source": "x_api_oauth1",
+            "payload": {
+              "data": {
+                "context_annotations": [
+                  {
+                    "domain": {
+                      "id": "65",
+                      "name": "Interests and Hobbies Vertical",
+                      "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                      "id": "903303816698671104",
+                      "name": "Wellness and health",
+                      "description": "Wellness & Health"
+                    }
+                  }
+                ],
+                "created_at": "2025-08-05T08:00:18.000Z",
+                "reply_settings": "everyone",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2025-08-05T09:00:18.000Z"
+                },
+                "conversation_id": "1952640795049075193",
+                "id": "1952640795049075193",
+                "text": "精神药物在未来只会越来越多。就算是现在，中国也有无数种未被管制且容易合成的合法策划药，包括兴奋剂、抑制剂、阿片类、苯二氮䓬类、血清素致幻剂、解离剂。\n最重要的不是获取这些药物。而是如何健康地使用药物，并减小使用药物造成的危害——改变意识状态的方法很多，但是你只有一个身体、一个大脑。",
+                "public_metrics": {
+                  "retweet_count": 7,
+                  "reply_count": 1,
+                  "like_count": 56,
+                  "quote_count": 1,
+                  "bookmark_count": 6,
+                  "impression_count": 6686
+                },
+                "lang": "zh",
+                "edit_history_tweet_ids": [
+                  "1952640795049075193"
+                ],
+                "possibly_sensitive": false,
+                "author_id": "1659962043460354050"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "created_at": "2023-05-20T16:39:35.000Z",
+                    "protected": false,
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/20q0OtAeQd",
+                            "expanded_url": "https://freeodwiki.org",
+                            "display_url": "freeodwiki.org"
+                          }
+                        ]
+                      },
+                      "description": {
+                        "urls": [
+                          {
+                            "start": 92,
+                            "end": 115,
+                            "url": "https://t.co/ki2TerCl7C",
+                            "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                            "display_url": "github.com/SalviaSWC/Free…"
+                          }
+                        ],
+                        "mentions": [
+                          {
+                            "start": 54,
+                            "end": 65,
+                            "username": "DXM8964LXM"
+                          }
+                        ]
+                      }
+                    },
+                    "url": "https://t.co/20q0OtAeQd",
+                    "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+                    "public_metrics": {
+                      "followers_count": 3804,
+                      "following_count": 981,
+                      "tweet_count": 6983,
+                      "listed_count": 8,
+                      "like_count": 22133,
+                      "media_count": 439
+                    },
+                    "username": "SalviaSWC",
+                    "verified": false,
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+                    "id": "1659962043460354050",
+                    "name": "鼠尾草～🌿"
+                  }
+                ]
+              }
+            }
+          }
+        ]
       }
     }
   }

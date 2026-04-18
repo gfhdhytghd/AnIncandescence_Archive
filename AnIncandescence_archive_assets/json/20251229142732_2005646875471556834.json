@@ -229,12 +229,111 @@
     "x_api_reply_chains": {
       "2005646234334499110": {
         "version": 1,
-        "fetched_at": "2026-04-18T04:14:56Z",
+        "fetched_at": "2026-04-18T07:08:46Z",
         "max_depth": 64,
-        "posts": [],
+        "posts": [
+          {
+            "id": "2005646234334499110",
+            "source": "x_api_oauth1:./env.pale-fire",
+            "payload": {
+              "data": {
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 0,
+                      "end": 16,
+                      "username": "AnIncandescence",
+                      "id": "1741993395910811648"
+                    },
+                    {
+                      "start": 17,
+                      "end": 27,
+                      "username": "oct424242",
+                      "id": "1761821960978460672"
+                    }
+                  ]
+                },
+                "lang": "zh",
+                "edit_history_tweet_ids": [
+                  "2005646234334499110"
+                ],
+                "author_id": "1900779126245769216",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2025-12-29T15:25:00.000Z"
+                },
+                "possibly_sensitive": false,
+                "id": "2005646234334499110",
+                "in_reply_to_user_id": "1741993395910811648",
+                "text": "@AnIncandescence @oct424242 共患be like:一个bug是bug，一堆bug能work（（（于是身心顽强work了二十余年",
+                "reply_settings": "everyone",
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "2005645683924341210"
+                  }
+                ],
+                "created_at": "2025-12-29T14:25:00.000Z",
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 3,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 49
+                },
+                "conversation_id": "2005619216175825112"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2006613154210721792/8FPJv03i_normal.jpg",
+                    "protected": true,
+                    "verified": false,
+                    "username": "fawpv25",
+                    "public_metrics": {
+                      "followers_count": 82,
+                      "following_count": 245,
+                      "tweet_count": 4435,
+                      "listed_count": 0,
+                      "like_count": 15738,
+                      "media_count": 105
+                    },
+                    "name": "Anoko",
+                    "id": "1900779126245769216",
+                    "created_at": "2025-03-15T05:20:44.000Z",
+                    "description": "如果你知道怎么变成一只乌鸦，请告诉我/致力于成为你们的互联网好朋鸦/艺术就是生命/我们的诞生不是为了被疼痛感束缚/学习像人类一样地活下去。"
+                  }
+                ]
+              },
+              "errors": [
+                {
+                  "parameter": "in_reply_to_user_id",
+                  "resource_id": "1741993395910811648",
+                  "value": "1741993395910811648",
+                  "detail": "User has been suspended: [1741993395910811648].",
+                  "title": "Forbidden",
+                  "resource_type": "user",
+                  "type": "https://api.twitter.com/2/problems/resource-not-found"
+                },
+                {
+                  "resource_id": "2005645683924341210",
+                  "parameter": "referenced_tweets.id",
+                  "resource_type": "tweet",
+                  "section": "includes",
+                  "title": "Authorization Error",
+                  "value": "2005645683924341210",
+                  "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2005645683924341210].",
+                  "type": "https://api.twitter.com/2/problems/not-authorized-for-resource"
+                }
+              ]
+            }
+          }
+        ],
         "terminal_error": {
-          "id": "2005646234334499110",
-          "message": "Wayback fallback did not find archived JSON for tweet id 2005646234334499110."
+          "id": "2005645683924341210",
+          "message": "./.env: X API OAuth 1.0a returned HTTP 429. ./env.pale-fire: Sorry, you are not authorized to see the Tweet with id: [2005645683924341210]. Wayback fallback: Wayback fallback did not find archived JSON for tweet id 2005645683924341210."
         }
       }
     }

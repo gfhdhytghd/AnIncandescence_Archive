@@ -266,13 +266,102 @@
     "x_api_reply_chains": {
       "1950237219152629930": {
         "version": 1,
-        "fetched_at": "2026-04-18T04:12:32Z",
+        "fetched_at": "2026-04-18T06:18:21Z",
         "max_depth": 63,
-        "posts": [],
-        "terminal_error": {
-          "id": "1950237219152629930",
-          "message": "Wayback fallback did not find archived JSON for tweet id 1950237219152629930."
-        }
+        "posts": [
+          {
+            "id": "1950237219152629930",
+            "source": "x_api_oauth1",
+            "payload": {
+              "data": {
+                "created_at": "2025-07-29T16:49:21.000Z",
+                "reply_settings": "everyone",
+                "attachments": {
+                  "media_keys": [
+                    "3_1950237214878711808"
+                  ]
+                },
+                "text": "第一次开到地达西尼，尝尝 https://t.co/W2unpAS3w5",
+                "lang": "zh",
+                "author_id": "1552238688590958592",
+                "entities": {
+                  "urls": [
+                    {
+                      "start": 13,
+                      "end": 36,
+                      "url": "https://t.co/W2unpAS3w5",
+                      "expanded_url": "https://x.com/Coccus_Swamer/status/1950237219152629930/photo/1",
+                      "display_url": "pic.x.com/W2unpAS3w5",
+                      "media_key": "3_1950237214878711808"
+                    }
+                  ]
+                },
+                "edit_history_tweet_ids": [
+                  "1950237219152629930"
+                ],
+                "id": "1950237219152629930",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": true,
+                  "editable_until": "2025-07-29T17:49:21.000Z"
+                },
+                "possibly_sensitive": false,
+                "conversation_id": "1950237219152629930",
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 7,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 546
+                }
+              },
+              "includes": {
+                "media": [
+                  {
+                    "height": 2048,
+                    "type": "photo",
+                    "media_key": "3_1950237214878711808",
+                    "url": "https://pbs.twimg.com/media/GxCiagSXwAA4_iO.jpg",
+                    "width": 1536
+                  }
+                ],
+                "users": [
+                  {
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+                    "location": "Funabashi-shi, Chiba",
+                    "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+                    "id": "1552238688590958592",
+                    "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/诗歌/日本語-Deutsch-Français-Español/互关慎重/爱人：@Yesmynamehaer1",
+                    "public_metrics": {
+                      "followers_count": 867,
+                      "following_count": 2481,
+                      "tweet_count": 3545,
+                      "listed_count": 0,
+                      "like_count": 9706,
+                      "media_count": 657
+                    },
+                    "created_at": "2022-07-27T10:25:26.000Z",
+                    "username": "Coccus_Swamer",
+                    "entities": {
+                      "description": {
+                        "mentions": [
+                          {
+                            "start": 105,
+                            "end": 120,
+                            "username": "Yesmynamehaer1"
+                          }
+                        ]
+                      }
+                    },
+                    "verified": false,
+                    "protected": false
+                  }
+                ]
+              }
+            }
+          }
+        ]
       }
     }
   }

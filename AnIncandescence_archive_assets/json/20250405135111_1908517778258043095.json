@@ -182,12 +182,105 @@
     "x_api_reply_chains": {
       "1908517042908782601": {
         "version": 1,
-        "fetched_at": "2026-04-18T04:11:23Z",
+        "fetched_at": "2026-04-18T07:07:15Z",
         "max_depth": 64,
-        "posts": [],
+        "posts": [
+          {
+            "id": "1908517042908782601",
+            "source": "x_api_oauth1:./.env",
+            "payload": {
+              "data": {
+                "id": "1908517042908782601",
+                "lang": "zh",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2025-04-05T14:48:16.000Z"
+                },
+                "conversation_id": "1905961447248535811",
+                "reply_settings": "everyone",
+                "author_id": "1714851742301454336",
+                "edit_history_tweet_ids": [
+                  "1908517042908782601"
+                ],
+                "created_at": "2025-04-05T13:48:16.000Z",
+                "text": "@AnIncandescence 挖槽宝宝，最近我咋连中2突然欧气爆棚（🥺才登推谢谢宝宝啊啊啊啊啊祝生意兴隆天天开心！",
+                "in_reply_to_user_id": "1741993395910811648",
+                "possibly_sensitive": false,
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 27
+                },
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 0,
+                      "end": 16,
+                      "username": "AnIncandescence",
+                      "id": "1741993395910811648"
+                    }
+                  ]
+                },
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "1908480724950560971"
+                  }
+                ]
+              },
+              "includes": {
+                "users": [
+                  {
+                    "username": "misaki_takako",
+                    "name": "小兔颈鳏和小熊剝氨",
+                    "description": "🇬🇧学牲｜enby｜od｜自伤｜社恐有时候不知道怎么聊天｜可以叫我Takako卡扣 | lie, deceive, suffer",
+                    "created_at": "2023-10-19T03:52:21.000Z",
+                    "verified": false,
+                    "protected": false,
+                    "id": "1714851742301454336",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1936247593316610049/2dYzji8W_normal.jpg",
+                    "public_metrics": {
+                      "followers_count": 366,
+                      "following_count": 293,
+                      "tweet_count": 1957,
+                      "listed_count": 3,
+                      "like_count": 2374,
+                      "media_count": 167
+                    }
+                  }
+                ]
+              },
+              "errors": [
+                {
+                  "parameter": "in_reply_to_user_id",
+                  "resource_id": "1741993395910811648",
+                  "value": "1741993395910811648",
+                  "detail": "User has been suspended: [1741993395910811648].",
+                  "title": "Forbidden",
+                  "resource_type": "user",
+                  "type": "https://api.twitter.com/2/problems/resource-not-found"
+                },
+                {
+                  "resource_id": "1908480724950560971",
+                  "parameter": "referenced_tweets.id",
+                  "resource_type": "tweet",
+                  "section": "includes",
+                  "title": "Authorization Error",
+                  "value": "1908480724950560971",
+                  "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1908480724950560971].",
+                  "type": "https://api.twitter.com/2/problems/not-authorized-for-resource"
+                }
+              ]
+            }
+          }
+        ],
         "terminal_error": {
-          "id": "1908517042908782601",
-          "message": "Wayback fallback did not find archived JSON for tweet id 1908517042908782601."
+          "id": "1908480724950560971",
+          "message": "./.env: Sorry, you are not authorized to see the Tweet with id: [1908480724950560971]. ./env.pale-fire: Sorry, you are not authorized to see the Tweet with id: [1908480724950560971]. Wayback fallback: Wayback fallback did not find archived JSON for tweet id 1908480724950560971."
         }
       }
     }

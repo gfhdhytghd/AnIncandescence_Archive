@@ -378,12 +378,105 @@
     "x_api_reply_chains": {
       "2004198799963836760": {
         "version": 1,
-        "fetched_at": "2026-04-18T04:14:47Z",
+        "fetched_at": "2026-04-18T07:08:37Z",
         "max_depth": 64,
-        "posts": [],
+        "posts": [
+          {
+            "id": "2004198799963836760",
+            "source": "x_api_oauth1:./env.pale-fire",
+            "payload": {
+              "data": {
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 40
+                },
+                "reply_settings": "everyone",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2025-12-25T15:33:24.000Z"
+                },
+                "id": "2004198799963836760",
+                "in_reply_to_user_id": "1879395690230738944",
+                "lang": "zh",
+                "possibly_sensitive": false,
+                "created_at": "2025-12-25T14:33:24.000Z",
+                "text": "@Psych_Angel_ 这个声音……好安心的声音！",
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "2004183871991304410"
+                  }
+                ],
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 0,
+                      "end": 13,
+                      "username": "Psych_Angel_",
+                      "id": "1879395690230738944"
+                    }
+                  ]
+                },
+                "conversation_id": "2004183871991304410",
+                "edit_history_tweet_ids": [
+                  "2004198799963836760"
+                ],
+                "author_id": "1900779126245769216"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "protected": true,
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2006613154210721792/8FPJv03i_normal.jpg",
+                    "verified": false,
+                    "id": "1900779126245769216",
+                    "public_metrics": {
+                      "followers_count": 82,
+                      "following_count": 245,
+                      "tweet_count": 4435,
+                      "listed_count": 0,
+                      "like_count": 15738,
+                      "media_count": 105
+                    },
+                    "description": "如果你知道怎么变成一只乌鸦，请告诉我/致力于成为你们的互联网好朋鸦/艺术就是生命/我们的诞生不是为了被疼痛感束缚/学习像人类一样地活下去。",
+                    "created_at": "2025-03-15T05:20:44.000Z",
+                    "name": "Anoko",
+                    "username": "fawpv25"
+                  }
+                ]
+              },
+              "errors": [
+                {
+                  "parameter": "in_reply_to_user_id",
+                  "resource_id": "1879395690230738944",
+                  "value": "1879395690230738944",
+                  "detail": "User has been suspended: [1879395690230738944].",
+                  "title": "Forbidden",
+                  "resource_type": "user",
+                  "type": "https://api.twitter.com/2/problems/resource-not-found"
+                },
+                {
+                  "resource_id": "2004183871991304410",
+                  "parameter": "referenced_tweets.id",
+                  "resource_type": "tweet",
+                  "section": "includes",
+                  "title": "Authorization Error",
+                  "value": "2004183871991304410",
+                  "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2004183871991304410].",
+                  "type": "https://api.twitter.com/2/problems/not-authorized-for-resource"
+                }
+              ]
+            }
+          }
+        ],
         "terminal_error": {
-          "id": "2004198799963836760",
-          "message": "Wayback fallback did not find archived JSON for tweet id 2004198799963836760."
+          "id": "2004183871991304410",
+          "message": "./.env: X API OAuth 1.0a returned HTTP 429. ./env.pale-fire: Sorry, you are not authorized to see the Tweet with id: [2004183871991304410]. Wayback fallback: Wayback fallback did not find archived JSON for tweet id 2004183871991304410."
         }
       }
     }

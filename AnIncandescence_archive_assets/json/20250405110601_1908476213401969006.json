@@ -279,7 +279,7 @@
     "x_api_reply_chains": {
       "1908301016438829227": {
         "version": 1,
-        "fetched_at": "2026-04-18T00:10:22Z",
+        "fetched_at": "2026-04-18T07:07:01Z",
         "max_depth": 63,
         "posts": [
           {
@@ -528,19 +528,23 @@
                 "x_api_reply_chains": {
                   "1908298541594009679": {
                     "version": 1,
-                    "fetched_at": "2026-04-17T23:18:55Z",
-                    "max_depth": 7,
+                    "fetched_at": "2026-04-18T06:54:43Z",
+                    "max_depth": 63,
                     "posts": [],
                     "terminal_error": {
                       "id": "1908298541594009679",
-                      "message": "X API returned HTTP 429."
+                      "message": "Sorry, you are not authorized to see the Tweet with id: [1908298541594009679]. Wayback fallback: Wayback fallback did not find archived JSON for tweet id 1908298541594009679."
                     }
                   }
                 }
               }
             }
           }
-        ]
+        ],
+        "terminal_error": {
+          "id": "1908298541594009679",
+          "message": "./.env: Sorry, you are not authorized to see the Tweet with id: [1908298541594009679]. ./env.pale-fire: Sorry, you are not authorized to see the Tweet with id: [1908298541594009679]. Wayback fallback: Wayback fallback did not find archived JSON for tweet id 1908298541594009679."
+        }
       }
     }
   }

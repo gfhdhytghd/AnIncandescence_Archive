@@ -219,7 +219,7 @@
     "x_api_reply_chains": {
       "1899320275097010473": {
         "version": 1,
-        "fetched_at": "2026-04-18T00:05:29Z",
+        "fetched_at": "2026-04-18T07:07:05Z",
         "max_depth": 63,
         "posts": [
           {
@@ -446,12 +446,12 @@
                 "x_api_reply_chains": {
                   "1899150828432449769": {
                     "version": 1,
-                    "fetched_at": "2026-04-17T23:17:54Z",
-                    "max_depth": 7,
+                    "fetched_at": "2026-04-18T06:54:43Z",
+                    "max_depth": 63,
                     "posts": [],
                     "terminal_error": {
                       "id": "1899150828432449769",
-                      "message": "X API returned HTTP 429."
+                      "message": "Sorry, you are not authorized to see the Tweet with id: [1899150828432449769]. Wayback fallback: Wayback fallback did not find archived JSON for tweet id 1899150828432449769."
                     }
                   }
                 }
@@ -682,19 +682,23 @@
                 "x_api_reply_chains": {
                   "1899150828432449769": {
                     "version": 1,
-                    "fetched_at": "2026-04-17T23:17:54Z",
-                    "max_depth": 7,
+                    "fetched_at": "2026-04-18T06:54:43Z",
+                    "max_depth": 63,
                     "posts": [],
                     "terminal_error": {
                       "id": "1899150828432449769",
-                      "message": "X API returned HTTP 429."
+                      "message": "Sorry, you are not authorized to see the Tweet with id: [1899150828432449769]. Wayback fallback: Wayback fallback did not find archived JSON for tweet id 1899150828432449769."
                     }
                   }
                 }
               }
             }
           }
-        ]
+        ],
+        "terminal_error": {
+          "id": "1899150828432449769",
+          "message": "./.env: Sorry, you are not authorized to see the Tweet with id: [1899150828432449769]. ./env.pale-fire: Sorry, you are not authorized to see the Tweet with id: [1899150828432449769]. Wayback fallback: Wayback fallback did not find archived JSON for tweet id 1899150828432449769."
+        }
       }
     }
   }

@@ -210,13 +210,65 @@
     "x_api_reply_chains": {
       "1991021230829216004": {
         "version": 1,
-        "fetched_at": "2026-04-18T02:23:57Z",
+        "fetched_at": "2026-04-18T07:07:11Z",
         "max_depth": 63,
-        "posts": [],
-        "terminal_error": {
-          "id": "1991021230829216004",
-          "message": "Sorry, you are not authorized to see the Tweet with id: [1991021230829216004]. Wayback fallback: Wayback fallback did not find archived JSON for tweet id 1991021230829216004."
-        }
+        "posts": [
+          {
+            "id": "1991021230829216004",
+            "source": "x_api_oauth1:./env.pale-fire",
+            "payload": {
+              "data": {
+                "edit_history_tweet_ids": [
+                  "1991021230829216004"
+                ],
+                "lang": "zh",
+                "possibly_sensitive": false,
+                "conversation_id": "1991021230829216004",
+                "created_at": "2025-11-19T05:50:27.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": true,
+                  "editable_until": "2025-11-19T06:50:27.000Z"
+                },
+                "reply_settings": "everyone",
+                "id": "1991021230829216004",
+                "author_id": "1808933044545630208",
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 3,
+                  "like_count": 7,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 560
+                },
+                "text": "我吃药经常掰出来后叼着胶囊或者药片去到处找水x"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "name": "Pale Fire",
+                    "verified": false,
+                    "public_metrics": {
+                      "followers_count": 133,
+                      "following_count": 67,
+                      "tweet_count": 578,
+                      "listed_count": 1,
+                      "like_count": 702,
+                      "media_count": 148
+                    },
+                    "username": "TauCeti_10700",
+                    "protected": true,
+                    "description": "穿越语言的壳，任思维溢出容器——请听，离群者无法永恒的悲歌。炽在水洼中的倒影，因为星光获得了生命 /Per aspera ad astra.",
+                    "location": "0°00′N 260°00′E Mars",
+                    "created_at": "2024-07-04T18:37:10.000Z",
+                    "id": "1808933044545630208",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1853163363142115328/S5o_Yawf_normal.jpg"
+                  }
+                ]
+              }
+            }
+          }
+        ]
       }
     }
   }

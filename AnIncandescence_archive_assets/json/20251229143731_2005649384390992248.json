@@ -260,12 +260,12 @@
     "x_api_reply_chains": {
       "2005645704438714406": {
         "version": 1,
-        "fetched_at": "2026-04-18T02:32:19Z",
+        "fetched_at": "2026-04-18T07:08:31Z",
         "max_depth": 63,
         "posts": [],
         "terminal_error": {
           "id": "2005645704438714406",
-          "message": "Could not find tweet with id: [2005645704438714406]. Wayback fallback: Wayback fallback did not find archived JSON for tweet id 2005645704438714406."
+          "message": "./.env: X API OAuth 1.0a returned HTTP 429. ./env.pale-fire: Could not find tweet with id: [2005645704438714406]. Wayback fallback: Wayback fallback did not find archived JSON for tweet id 2005645704438714406."
         }
       }
     }

@@ -241,12 +241,117 @@
     "x_api_reply_chains": {
       "1822811888562147811": {
         "version": 1,
-        "fetched_at": "2026-04-18T04:11:37Z",
+        "fetched_at": "2026-04-18T07:05:49Z",
         "max_depth": 63,
-        "posts": [],
+        "posts": [
+          {
+            "id": "1822811888562147811",
+            "source": "x_api_oauth1:./.env",
+            "payload": {
+              "data": {
+                "in_reply_to_user_id": "1737736976307195905",
+                "created_at": "2024-08-12T01:46:35.000Z",
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "1822808037691998695"
+                  }
+                ],
+                "id": "1822811888562147811",
+                "conversation_id": "1822808037691998695",
+                "reply_settings": "everyone",
+                "possibly_sensitive": false,
+                "author_id": "1805577098234675202",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2024-08-12T02:46:35.000Z"
+                },
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 0,
+                      "end": 12,
+                      "username": "harugakira1",
+                      "id": "1737736976307195905"
+                    }
+                  ]
+                },
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 25
+                },
+                "edit_history_tweet_ids": [
+                  "1822811888562147811"
+                ],
+                "lang": "zh",
+                "text": "@harugakira1 笑晕了…扫地机器人升职记，叮叮当——新形态"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "location": "夢",
+                    "created_at": "2024-06-25T12:21:56.000Z",
+                    "username": "yCxYP599",
+                    "name": "一次性",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+                    "entities": {
+                      "description": {
+                        "mentions": [
+                          {
+                            "start": 20,
+                            "end": 32,
+                            "username": "jellyfishci"
+                          }
+                        ]
+                      }
+                    },
+                    "description": "你好，我是小次，很高兴遇见你 ｜ 涂鸦册@jellyfishci  ｜ 这里是湿哒哒的日记本，一直更新至终末的连载遗书 ｜ 请在一次性的旅途中，再尽兴一点吧",
+                    "verified": false,
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 1352,
+                      "following_count": 96,
+                      "tweet_count": 1863,
+                      "listed_count": 5,
+                      "like_count": 12556,
+                      "media_count": 122
+                    },
+                    "id": "1805577098234675202"
+                  }
+                ]
+              },
+              "errors": [
+                {
+                  "parameter": "in_reply_to_user_id",
+                  "resource_id": "1737736976307195905",
+                  "value": "1737736976307195905",
+                  "detail": "User has been suspended: [1737736976307195905].",
+                  "title": "Forbidden",
+                  "resource_type": "user",
+                  "type": "https://api.twitter.com/2/problems/resource-not-found"
+                },
+                {
+                  "resource_id": "1822808037691998695",
+                  "parameter": "referenced_tweets.id",
+                  "resource_type": "tweet",
+                  "section": "includes",
+                  "title": "Authorization Error",
+                  "value": "1822808037691998695",
+                  "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1822808037691998695].",
+                  "type": "https://api.twitter.com/2/problems/not-authorized-for-resource"
+                }
+              ]
+            }
+          }
+        ],
         "terminal_error": {
-          "id": "1822811888562147811",
-          "message": "Wayback fallback did not find archived JSON for tweet id 1822811888562147811."
+          "id": "1822808037691998695",
+          "message": "./.env: Sorry, you are not authorized to see the Tweet with id: [1822808037691998695]. ./env.pale-fire: Sorry, you are not authorized to see the Tweet with id: [1822808037691998695]. Wayback fallback: Wayback fallback did not find archived JSON for tweet id 1822808037691998695."
         }
       }
     }

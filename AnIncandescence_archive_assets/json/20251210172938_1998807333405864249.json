@@ -232,7 +232,7 @@
     "x_api_reply_chains": {
       "1998806819217846749": {
         "version": 1,
-        "fetched_at": "2026-04-18T01:13:25Z",
+        "fetched_at": "2026-04-18T07:08:33Z",
         "max_depth": 63,
         "posts": [
           {
@@ -504,12 +504,125 @@
                 "x_api_reply_chains": {
                   "1998805035933933587": {
                     "version": 1,
-                    "fetched_at": "2026-04-17T23:21:55Z",
-                    "max_depth": 7,
-                    "posts": [],
+                    "fetched_at": "2026-04-18T06:56:08Z",
+                    "max_depth": 63,
+                    "posts": [
+                      {
+                        "id": "1998805035933933587",
+                        "source": "x_api_oauth1:./.env",
+                        "payload": {
+                          "data": {
+                            "text": "@AnIncandescence @57crz3oA 仿制药效果跟手搓差不多 因为仿制药的缓释技术比较一般 类似于国内普通安非他酮缓释片的释放速度，比不上II型缓释，不过代谢可以弥补一下，这个也不需要长时间缓释",
+                            "entities": {
+                              "mentions": [
+                                {
+                                  "start": 0,
+                                  "end": 16,
+                                  "username": "AnIncandescence",
+                                  "id": "1741993395910811648"
+                                },
+                                {
+                                  "start": 17,
+                                  "end": 26,
+                                  "username": "57crz3oA",
+                                  "id": "1494669485214633984"
+                                }
+                              ]
+                            },
+                            "author_id": "1597257668313260033",
+                            "conversation_id": "1997548475903607175",
+                            "in_reply_to_user_id": "1741993395910811648",
+                            "public_metrics": {
+                              "retweet_count": 0,
+                              "reply_count": 0,
+                              "like_count": 0,
+                              "quote_count": 0,
+                              "bookmark_count": 1,
+                              "impression_count": 154
+                            },
+                            "lang": "zh",
+                            "id": "1998805035933933587",
+                            "possibly_sensitive": false,
+                            "edit_history_tweet_ids": [
+                              "1998805035933933587"
+                            ],
+                            "reply_settings": "everyone",
+                            "edit_controls": {
+                              "edits_remaining": 5,
+                              "is_edit_eligible": false,
+                              "editable_until": "2025-12-10T18:20:31.000Z"
+                            },
+                            "created_at": "2025-12-10T17:20:31.000Z",
+                            "referenced_tweets": [
+                              {
+                                "type": "replied_to",
+                                "id": "1997552655883976899"
+                              }
+                            ]
+                          },
+                          "includes": {
+                            "users": [
+                              {
+                                "location": "Tokyo",
+                                "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+                                "name": "Minokakay",
+                                "description": "发着光的半平米，胡乱哼唱的旋律，但是还想拯救你，同时拯救我自己。 \n成都大阪随机刷新✝️🍬找choseki见https://t.co/hStQSlMtBp",
+                                "protected": false,
+                                "id": "1597257668313260033",
+                                "created_at": "2022-11-28T15:54:46.000Z",
+                                "public_metrics": {
+                                  "followers_count": 14162,
+                                  "following_count": 1051,
+                                  "tweet_count": 25893,
+                                  "listed_count": 53,
+                                  "like_count": 44029,
+                                  "media_count": 1790
+                                },
+                                "verified": false,
+                                "username": "Minokakay",
+                                "entities": {
+                                  "description": {
+                                    "urls": [
+                                      {
+                                        "start": 54,
+                                        "end": 77,
+                                        "url": "https://t.co/hStQSlMtBp",
+                                        "expanded_url": "http://linktr.ee/choseki111",
+                                        "display_url": "linktr.ee/choseki111"
+                                      }
+                                    ]
+                                  }
+                                }
+                              }
+                            ]
+                          },
+                          "errors": [
+                            {
+                              "parameter": "in_reply_to_user_id",
+                              "resource_id": "1741993395910811648",
+                              "value": "1741993395910811648",
+                              "detail": "User has been suspended: [1741993395910811648].",
+                              "title": "Forbidden",
+                              "resource_type": "user",
+                              "type": "https://api.twitter.com/2/problems/resource-not-found"
+                            },
+                            {
+                              "resource_id": "1997552655883976899",
+                              "parameter": "referenced_tweets.id",
+                              "resource_type": "tweet",
+                              "section": "includes",
+                              "title": "Authorization Error",
+                              "value": "1997552655883976899",
+                              "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1997552655883976899].",
+                              "type": "https://api.twitter.com/2/problems/not-authorized-for-resource"
+                            }
+                          ]
+                        }
+                      }
+                    ],
                     "terminal_error": {
-                      "id": "1998805035933933587",
-                      "message": "X API returned HTTP 429."
+                      "id": "1997552655883976899",
+                      "message": "Sorry, you are not authorized to see the Tweet with id: [1997552655883976899]. Wayback fallback: Wayback fallback did not find archived JSON for tweet id 1997552655883976899."
                     }
                   }
                 }
@@ -785,19 +898,248 @@
                 "x_api_reply_chains": {
                   "1998805035933933587": {
                     "version": 1,
-                    "fetched_at": "2026-04-17T23:21:55Z",
-                    "max_depth": 7,
-                    "posts": [],
+                    "fetched_at": "2026-04-18T06:56:08Z",
+                    "max_depth": 63,
+                    "posts": [
+                      {
+                        "id": "1998805035933933587",
+                        "source": "x_api_oauth1:./.env",
+                        "payload": {
+                          "data": {
+                            "text": "@AnIncandescence @57crz3oA 仿制药效果跟手搓差不多 因为仿制药的缓释技术比较一般 类似于国内普通安非他酮缓释片的释放速度，比不上II型缓释，不过代谢可以弥补一下，这个也不需要长时间缓释",
+                            "entities": {
+                              "mentions": [
+                                {
+                                  "start": 0,
+                                  "end": 16,
+                                  "username": "AnIncandescence",
+                                  "id": "1741993395910811648"
+                                },
+                                {
+                                  "start": 17,
+                                  "end": 26,
+                                  "username": "57crz3oA",
+                                  "id": "1494669485214633984"
+                                }
+                              ]
+                            },
+                            "author_id": "1597257668313260033",
+                            "conversation_id": "1997548475903607175",
+                            "in_reply_to_user_id": "1741993395910811648",
+                            "public_metrics": {
+                              "retweet_count": 0,
+                              "reply_count": 0,
+                              "like_count": 0,
+                              "quote_count": 0,
+                              "bookmark_count": 1,
+                              "impression_count": 154
+                            },
+                            "lang": "zh",
+                            "id": "1998805035933933587",
+                            "possibly_sensitive": false,
+                            "edit_history_tweet_ids": [
+                              "1998805035933933587"
+                            ],
+                            "reply_settings": "everyone",
+                            "edit_controls": {
+                              "edits_remaining": 5,
+                              "is_edit_eligible": false,
+                              "editable_until": "2025-12-10T18:20:31.000Z"
+                            },
+                            "created_at": "2025-12-10T17:20:31.000Z",
+                            "referenced_tweets": [
+                              {
+                                "type": "replied_to",
+                                "id": "1997552655883976899"
+                              }
+                            ]
+                          },
+                          "includes": {
+                            "users": [
+                              {
+                                "location": "Tokyo",
+                                "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+                                "name": "Minokakay",
+                                "description": "发着光的半平米，胡乱哼唱的旋律，但是还想拯救你，同时拯救我自己。 \n成都大阪随机刷新✝️🍬找choseki见https://t.co/hStQSlMtBp",
+                                "protected": false,
+                                "id": "1597257668313260033",
+                                "created_at": "2022-11-28T15:54:46.000Z",
+                                "public_metrics": {
+                                  "followers_count": 14162,
+                                  "following_count": 1051,
+                                  "tweet_count": 25893,
+                                  "listed_count": 53,
+                                  "like_count": 44029,
+                                  "media_count": 1790
+                                },
+                                "verified": false,
+                                "username": "Minokakay",
+                                "entities": {
+                                  "description": {
+                                    "urls": [
+                                      {
+                                        "start": 54,
+                                        "end": 77,
+                                        "url": "https://t.co/hStQSlMtBp",
+                                        "expanded_url": "http://linktr.ee/choseki111",
+                                        "display_url": "linktr.ee/choseki111"
+                                      }
+                                    ]
+                                  }
+                                }
+                              }
+                            ]
+                          },
+                          "errors": [
+                            {
+                              "parameter": "in_reply_to_user_id",
+                              "resource_id": "1741993395910811648",
+                              "value": "1741993395910811648",
+                              "detail": "User has been suspended: [1741993395910811648].",
+                              "title": "Forbidden",
+                              "resource_type": "user",
+                              "type": "https://api.twitter.com/2/problems/resource-not-found"
+                            },
+                            {
+                              "resource_id": "1997552655883976899",
+                              "parameter": "referenced_tweets.id",
+                              "resource_type": "tweet",
+                              "section": "includes",
+                              "title": "Authorization Error",
+                              "value": "1997552655883976899",
+                              "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1997552655883976899].",
+                              "type": "https://api.twitter.com/2/problems/not-authorized-for-resource"
+                            }
+                          ]
+                        }
+                      }
+                    ],
                     "terminal_error": {
-                      "id": "1998805035933933587",
-                      "message": "X API returned HTTP 429."
+                      "id": "1997552655883976899",
+                      "message": "Sorry, you are not authorized to see the Tweet with id: [1997552655883976899]. Wayback fallback: Wayback fallback did not find archived JSON for tweet id 1997552655883976899."
                     }
                   }
                 }
               }
             }
+          },
+          {
+            "id": "1998805035933933587",
+            "source": "x_api_oauth1:./env.pale-fire",
+            "payload": {
+              "data": {
+                "created_at": "2025-12-10T17:20:31.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2025-12-10T18:20:31.000Z"
+                },
+                "in_reply_to_user_id": "1741993395910811648",
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "1997552655883976899"
+                  }
+                ],
+                "conversation_id": "1997548475903607175",
+                "reply_settings": "everyone",
+                "edit_history_tweet_ids": [
+                  "1998805035933933587"
+                ],
+                "id": "1998805035933933587",
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 0,
+                      "end": 16,
+                      "username": "AnIncandescence",
+                      "id": "1741993395910811648"
+                    },
+                    {
+                      "start": 17,
+                      "end": 26,
+                      "username": "57crz3oA",
+                      "id": "1494669485214633984"
+                    }
+                  ]
+                },
+                "author_id": "1597257668313260033",
+                "text": "@AnIncandescence @57crz3oA 仿制药效果跟手搓差不多 因为仿制药的缓释技术比较一般 类似于国内普通安非他酮缓释片的释放速度，比不上II型缓释，不过代谢可以弥补一下，这个也不需要长时间缓释",
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 1,
+                  "impression_count": 154
+                },
+                "lang": "zh",
+                "possibly_sensitive": false
+              },
+              "includes": {
+                "users": [
+                  {
+                    "verified": false,
+                    "id": "1597257668313260033",
+                    "created_at": "2022-11-28T15:54:46.000Z",
+                    "protected": false,
+                    "username": "Minokakay",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+                    "public_metrics": {
+                      "followers_count": 14163,
+                      "following_count": 1051,
+                      "tweet_count": 25893,
+                      "listed_count": 53,
+                      "like_count": 44029,
+                      "media_count": 1790
+                    },
+                    "entities": {
+                      "description": {
+                        "urls": [
+                          {
+                            "start": 54,
+                            "end": 77,
+                            "url": "https://t.co/hStQSlMtBp",
+                            "expanded_url": "http://linktr.ee/choseki111",
+                            "display_url": "linktr.ee/choseki111"
+                          }
+                        ]
+                      }
+                    },
+                    "location": "Tokyo",
+                    "description": "发着光的半平米，胡乱哼唱的旋律，但是还想拯救你，同时拯救我自己。 \n成都大阪随机刷新✝️🍬找choseki见https://t.co/hStQSlMtBp",
+                    "name": "Minokakay"
+                  }
+                ]
+              },
+              "errors": [
+                {
+                  "parameter": "in_reply_to_user_id",
+                  "resource_id": "1741993395910811648",
+                  "value": "1741993395910811648",
+                  "detail": "User has been suspended: [1741993395910811648].",
+                  "title": "Forbidden",
+                  "resource_type": "user",
+                  "type": "https://api.twitter.com/2/problems/resource-not-found"
+                },
+                {
+                  "resource_id": "1997552655883976899",
+                  "parameter": "referenced_tweets.id",
+                  "resource_type": "tweet",
+                  "section": "includes",
+                  "title": "Authorization Error",
+                  "value": "1997552655883976899",
+                  "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1997552655883976899].",
+                  "type": "https://api.twitter.com/2/problems/not-authorized-for-resource"
+                }
+              ]
+            }
           }
-        ]
+        ],
+        "terminal_error": {
+          "id": "1997552655883976899",
+          "message": "./.env: X API OAuth 1.0a returned HTTP 429. ./env.pale-fire: Sorry, you are not authorized to see the Tweet with id: [1997552655883976899]. Wayback fallback: Wayback fallback did not find archived JSON for tweet id 1997552655883976899."
+        }
       }
     }
   }

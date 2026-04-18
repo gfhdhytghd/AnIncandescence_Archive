@@ -262,12 +262,111 @@
     "x_api_reply_chains": {
       "1821580825613541381": {
         "version": 1,
-        "fetched_at": "2026-04-18T04:11:23Z",
+        "fetched_at": "2026-04-18T07:05:45Z",
         "max_depth": 63,
-        "posts": [],
+        "posts": [
+          {
+            "id": "1821580825613541381",
+            "source": "x_api_oauth1:./.env",
+            "payload": {
+              "data": {
+                "text": "@misakiyugan @AnIncandescence 啥？不早说！昨天磨完一粒吸的我快吐了直接冲马桶",
+                "in_reply_to_user_id": "1557253790088466432",
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 0,
+                      "end": 12,
+                      "username": "misakiyugan",
+                      "id": "1557253790088466432"
+                    },
+                    {
+                      "start": 13,
+                      "end": 29,
+                      "username": "AnIncandescence",
+                      "id": "1741993395910811648"
+                    }
+                  ]
+                },
+                "reply_settings": "everyone",
+                "author_id": "1492729295445237765",
+                "lang": "zh",
+                "edit_history_tweet_ids": [
+                  "1821580825613541381"
+                ],
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 87
+                },
+                "possibly_sensitive": false,
+                "conversation_id": "1821271561162072178",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2024-08-08T17:14:46.000Z"
+                },
+                "created_at": "2024-08-08T16:14:46.000Z",
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "1821303209950113988"
+                  }
+                ],
+                "id": "1821580825613541381"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "protected": false,
+                    "description": "啊呜",
+                    "username": "qiandaojiang201",
+                    "id": "1492729295445237765",
+                    "name": "逃离互联网深水区中",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2009237530089017344/eiqsMS3z_normal.jpg",
+                    "public_metrics": {
+                      "followers_count": 90,
+                      "following_count": 119,
+                      "tweet_count": 2458,
+                      "listed_count": 1,
+                      "like_count": 68,
+                      "media_count": 33
+                    },
+                    "verified": false,
+                    "created_at": "2022-02-13T05:16:28.000Z"
+                  }
+                ]
+              },
+              "errors": [
+                {
+                  "parameter": "in_reply_to_user_id",
+                  "resource_id": "1557253790088466432",
+                  "value": "1557253790088466432",
+                  "detail": "User has been suspended: [1557253790088466432].",
+                  "title": "Forbidden",
+                  "resource_type": "user",
+                  "type": "https://api.twitter.com/2/problems/resource-not-found"
+                },
+                {
+                  "resource_id": "1821303209950113988",
+                  "parameter": "referenced_tweets.id",
+                  "resource_type": "tweet",
+                  "section": "includes",
+                  "title": "Authorization Error",
+                  "value": "1821303209950113988",
+                  "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1821303209950113988].",
+                  "type": "https://api.twitter.com/2/problems/not-authorized-for-resource"
+                }
+              ]
+            }
+          }
+        ],
         "terminal_error": {
-          "id": "1821580825613541381",
-          "message": "Wayback fallback did not find archived JSON for tweet id 1821580825613541381."
+          "id": "1821303209950113988",
+          "message": "./.env: Sorry, you are not authorized to see the Tweet with id: [1821303209950113988]. ./env.pale-fire: Sorry, you are not authorized to see the Tweet with id: [1821303209950113988]. Wayback fallback: Wayback fallback did not find archived JSON for tweet id 1821303209950113988."
         }
       }
     }

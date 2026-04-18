@@ -670,6 +670,16 @@
             }
           }
         ]
+      },
+      "1812760986937704946": {
+        "version": 1,
+        "fetched_at": "2026-04-18T07:06:09Z",
+        "max_depth": 1,
+        "posts": [],
+        "terminal_error": {
+          "id": "1812760986937704946",
+          "message": "./.env: Sorry, you are not authorized to see the Tweet with id: [1812760986937704946]. ./env.pale-fire: Sorry, you are not authorized to see the Tweet with id: [1812760986937704946]. Wayback fallback: Wayback fallback did not find archived JSON for tweet id 1812760986937704946."
+        }
       }
     }
   }

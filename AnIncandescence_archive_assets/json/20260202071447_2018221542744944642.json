@@ -232,13 +232,91 @@
     "x_api_reply_chains": {
       "2018078592601878804": {
         "version": 1,
-        "fetched_at": "2026-04-18T02:38:33Z",
+        "fetched_at": "2026-04-18T07:07:24Z",
         "max_depth": 63,
-        "posts": [],
-        "terminal_error": {
-          "id": "2018078592601878804",
-          "message": "Sorry, you are not authorized to see the Tweet with id: [2018078592601878804]. Wayback fallback: Wayback fallback did not find archived JSON for tweet id 2018078592601878804."
-        }
+        "posts": [
+          {
+            "id": "2018078592601878804",
+            "source": "x_api_oauth1:./env.pale-fire",
+            "payload": {
+              "data": {
+                "edit_history_tweet_ids": [
+                  "2018078592601878804"
+                ],
+                "attachments": {
+                  "media_keys": [
+                    "3_2018078577120759808"
+                  ]
+                },
+                "text": "这里晚上的天空是黑不下来的，云层弥漫着城市的灯光 https://t.co/hoKjNfvlyl",
+                "lang": "zh",
+                "id": "2018078592601878804",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": true,
+                  "editable_until": "2026-02-01T22:46:45.000Z"
+                },
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 8,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 178
+                },
+                "entities": {
+                  "urls": [
+                    {
+                      "start": 25,
+                      "end": 48,
+                      "url": "https://t.co/hoKjNfvlyl",
+                      "expanded_url": "https://x.com/TauCeti_10700/status/2018078592601878804/photo/1",
+                      "display_url": "pic.x.com/hoKjNfvlyl",
+                      "media_key": "3_2018078577120759808"
+                    }
+                  ]
+                },
+                "possibly_sensitive": false,
+                "created_at": "2026-02-01T21:46:45.000Z",
+                "author_id": "1808933044545630208",
+                "reply_settings": "everyone",
+                "conversation_id": "2018078592601878804"
+              },
+              "includes": {
+                "media": [
+                  {
+                    "width": 3024,
+                    "height": 4032,
+                    "url": "https://pbs.twimg.com/media/HAGnxg4b0AA4G75.jpg",
+                    "type": "photo",
+                    "media_key": "3_2018078577120759808"
+                  }
+                ],
+                "users": [
+                  {
+                    "protected": true,
+                    "public_metrics": {
+                      "followers_count": 133,
+                      "following_count": 67,
+                      "tweet_count": 578,
+                      "listed_count": 1,
+                      "like_count": 702,
+                      "media_count": 148
+                    },
+                    "verified": false,
+                    "id": "1808933044545630208",
+                    "location": "0°00′N 260°00′E Mars",
+                    "created_at": "2024-07-04T18:37:10.000Z",
+                    "username": "TauCeti_10700",
+                    "name": "Pale Fire",
+                    "description": "穿越语言的壳，任思维溢出容器——请听，离群者无法永恒的悲歌。炽在水洼中的倒影，因为星光获得了生命 /Per aspera ad astra.",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1853163363142115328/S5o_Yawf_normal.jpg"
+                  }
+                ]
+              }
+            }
+          }
+        ]
       }
     }
   }

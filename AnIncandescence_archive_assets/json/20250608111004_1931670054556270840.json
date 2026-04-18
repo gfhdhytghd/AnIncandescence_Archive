@@ -276,13 +276,65 @@
     "x_api_reply_chains": {
       "1931651041038045335": {
         "version": 1,
-        "fetched_at": "2026-04-18T02:04:03Z",
+        "fetched_at": "2026-04-18T07:05:49Z",
         "max_depth": 63,
-        "posts": [],
-        "terminal_error": {
-          "id": "1931651041038045335",
-          "message": "Sorry, you are not authorized to see the Tweet with id: [1931651041038045335]. Wayback fallback: Wayback fallback did not find archived JSON for tweet id 1931651041038045335."
-        }
+        "posts": [
+          {
+            "id": "1931651041038045335",
+            "source": "x_api_oauth1:./env.pale-fire",
+            "payload": {
+              "data": {
+                "created_at": "2025-06-08T09:54:31.000Z",
+                "possibly_sensitive": false,
+                "id": "1931651041038045335",
+                "conversation_id": "1931651041038045335",
+                "edit_history_tweet_ids": [
+                  "1931651041038045335"
+                ],
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": true,
+                  "editable_until": "2025-06-08T10:54:31.000Z"
+                },
+                "reply_settings": "everyone",
+                "lang": "zh",
+                "text": "不喜欢这种阴天...时间像是凝固了，天空什么颜色都没有，街上也很安静\n和乌鸦的叫声倒是很配，有种回到冬天日落前的感觉",
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 5,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 183
+                },
+                "author_id": "1808933044545630208"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "protected": true,
+                    "verified": false,
+                    "location": "0°00′N 260°00′E Mars",
+                    "name": "Pale Fire",
+                    "created_at": "2024-07-04T18:37:10.000Z",
+                    "public_metrics": {
+                      "followers_count": 133,
+                      "following_count": 67,
+                      "tweet_count": 578,
+                      "listed_count": 1,
+                      "like_count": 702,
+                      "media_count": 148
+                    },
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1853163363142115328/S5o_Yawf_normal.jpg",
+                    "id": "1808933044545630208",
+                    "description": "穿越语言的壳，任思维溢出容器——请听，离群者无法永恒的悲歌。炽在水洼中的倒影，因为星光获得了生命 /Per aspera ad astra.",
+                    "username": "TauCeti_10700"
+                  }
+                ]
+              }
+            }
+          }
+        ]
       }
     }
   }
