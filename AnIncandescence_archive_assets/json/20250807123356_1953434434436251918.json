@@ -233,7 +233,7 @@
     "x_api_reply_chains": {
       "1953298442236699028": {
         "version": 1,
-        "fetched_at": "2026-04-18T00:51:21Z",
+        "fetched_at": "2026-04-18T04:11:55Z",
         "max_depth": 63,
         "posts": [
           {
@@ -242,17 +242,21 @@
             "payload": {
               "data": {
                 "article": {},
-                "attachments": {},
+                "attachments": {
+                  "media_keys": [
+                    "3_1953434041354747904"
+                  ]
+                },
                 "author_id": "1741993395910811648",
                 "conversation_id": "1953298442236699028",
-                "created_at": "2025-08-07T12:33:56.000Z",
+                "created_at": "2025-08-07T12:32:25.000Z",
                 "edit_controls": {
                   "edits_remaining": 5,
                   "is_edit_eligible": false,
-                  "editable_until": "2025-08-07T13:33:56.000Z"
+                  "editable_until": "2025-08-07T13:32:25.000Z"
                 },
                 "edit_history_tweet_ids": [
-                  "1953434434436251918"
+                  "1953434052255764794"
                 ],
                 "entities": {
                   "mentions": [
@@ -262,11 +266,21 @@
                       "username": "1n_fhtagn",
                       "id": "1832834649493762048"
                     }
+                  ],
+                  "urls": [
+                    {
+                      "start": 44,
+                      "end": 67,
+                      "url": "https://t.co/AZFxQ4FHxx",
+                      "expanded_url": "https://x.com/AnIncandescence/status/1953434052255764794/photo/1",
+                      "display_url": "pic.x.com/AZFxQ4FHxx",
+                      "media_key": "3_1953434041354747904"
+                    }
                   ]
                 },
                 "geo": {},
-                "id": "1953434434436251918",
-                "in_reply_to_user_id": "1741993395910811648",
+                "id": "1953434052255764794",
+                "in_reply_to_user_id": "1832834649493762048",
                 "lang": "zh",
                 "note_tweet": {
                   "entities": {}
@@ -283,11 +297,11 @@
                 "referenced_tweets": [
                   {
                     "type": "replied_to",
-                    "id": "1953434052255764794"
+                    "id": "1953298442236699028"
                   }
                 ],
                 "reply_settings": "everyone",
-                "text": "@1n_fhtagn 等一下，这个人影怎么这么高😰"
+                "text": "@1n_fhtagn 长长的通道没什么人，有种自己在玩恐怖游戏的感觉，但是又不怎么害怕 https://t.co/AZFxQ4FHxx"
               },
               "includes": {
                 "media": [
@@ -298,6 +312,14 @@
                     "type": "photo",
                     "url": "https://pbs.twimg.com/media/Gxv96S8bAAAg8ve.jpg",
                     "width": 3072
+                  },
+                  {
+                    "height": 2048,
+                    "media_key": "3_1953298364705234944",
+                    "public_metrics": {},
+                    "type": "photo",
+                    "url": "https://pbs.twimg.com/media/GxuCg4CbYAA7gmr.jpg",
+                    "width": 1536
                   }
                 ],
                 "users": [
@@ -326,9 +348,9 @@
                     "public_metrics": {
                       "followers_count": 1103,
                       "following_count": 195,
-                      "tweet_count": 3558,
+                      "tweet_count": 3557,
                       "listed_count": 1,
-                      "like_count": 9832,
+                      "like_count": 9831,
                       "media_count": 715
                     },
                     "url": "https://t.co/MuEKSg4tIS",
@@ -356,55 +378,6 @@
                   }
                 ],
                 "tweets": [
-                  {
-                    "article": {},
-                    "attachments": {},
-                    "author_id": "1741993395910811648",
-                    "conversation_id": "1953298442236699028",
-                    "created_at": "2025-08-07T12:33:56.000Z",
-                    "edit_controls": {
-                      "edits_remaining": 5,
-                      "is_edit_eligible": false,
-                      "editable_until": "2025-08-07T13:33:56.000Z"
-                    },
-                    "edit_history_tweet_ids": [
-                      "1953434434436251918"
-                    ],
-                    "entities": {
-                      "mentions": [
-                        {
-                          "start": 0,
-                          "end": 10,
-                          "username": "1n_fhtagn",
-                          "id": "1832834649493762048"
-                        }
-                      ]
-                    },
-                    "geo": {},
-                    "id": "1953434434436251918",
-                    "in_reply_to_user_id": "1741993395910811648",
-                    "lang": "zh",
-                    "note_tweet": {
-                      "entities": {}
-                    },
-                    "possibly_sensitive": false,
-                    "public_metrics": {
-                      "retweet_count": 0,
-                      "reply_count": 0,
-                      "like_count": 0,
-                      "quote_count": 0,
-                      "bookmark_count": 0,
-                      "impression_count": 0
-                    },
-                    "referenced_tweets": [
-                      {
-                        "type": "replied_to",
-                        "id": "1953434052255764794"
-                      }
-                    ],
-                    "reply_settings": "everyone",
-                    "text": "@1n_fhtagn 等一下，这个人影怎么这么高😰"
-                  },
                   {
                     "article": {},
                     "attachments": {
@@ -453,11 +426,11 @@
                     "possibly_sensitive": false,
                     "public_metrics": {
                       "retweet_count": 0,
-                      "reply_count": 1,
+                      "reply_count": 0,
                       "like_count": 0,
                       "quote_count": 0,
                       "bookmark_count": 0,
-                      "impression_count": 2
+                      "impression_count": 0
                     },
                     "referenced_tweets": [
                       {
@@ -467,98 +440,56 @@
                     ],
                     "reply_settings": "everyone",
                     "text": "@1n_fhtagn 长长的通道没什么人，有种自己在玩恐怖游戏的感觉，但是又不怎么害怕 https://t.co/AZFxQ4FHxx"
+                  },
+                  {
+                    "article": {},
+                    "attachments": {
+                      "media_keys": [
+                        "3_1953298364705234944"
+                      ]
+                    },
+                    "author_id": "1832834649493762048",
+                    "conversation_id": "1953298442236699028",
+                    "created_at": "2025-08-07T03:33:33.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": true,
+                      "editable_until": "2025-08-07T04:33:33.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "1953298442236699028"
+                    ],
+                    "entities": {
+                      "urls": [
+                        {
+                          "start": 11,
+                          "end": 34,
+                          "url": "https://t.co/QgRilhGpRA",
+                          "expanded_url": "https://x.com/1n_fhtagn/status/1953298442236699028/photo/1",
+                          "display_url": "pic.x.com/QgRilhGpRA",
+                          "media_key": "3_1953298364705234944"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "1953298442236699028",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 2,
+                      "like_count": 13,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 276
+                    },
+                    "reply_settings": "everyone",
+                    "text": "怎么这里还是一个样啊 https://t.co/QgRilhGpRA"
                   }
                 ]
-              },
-              "_pale_fire": {
-                "x_api_reply_chains": {
-                  "1953298442236699028": {
-                    "version": 1,
-                    "fetched_at": "2026-04-17T23:21:01Z",
-                    "max_depth": 7,
-                    "posts": [
-                      {
-                        "id": "1953298442236699028",
-                        "payload": {
-                          "data": {
-                            "created_at": "2025-08-07T03:33:33.000Z",
-                            "entities": {
-                              "urls": [
-                                {
-                                  "start": 11,
-                                  "end": 34,
-                                  "url": "https://t.co/QgRilhGpRA",
-                                  "expanded_url": "https://x.com/1n_fhtagn/status/1953298442236699028/photo/1",
-                                  "display_url": "pic.x.com/QgRilhGpRA",
-                                  "media_key": "3_1953298364705234944"
-                                }
-                              ]
-                            },
-                            "edit_history_tweet_ids": [
-                              "1953298442236699028"
-                            ],
-                            "attachments": {
-                              "media_keys": [
-                                "3_1953298364705234944"
-                              ]
-                            },
-                            "edit_controls": {
-                              "edits_remaining": 5,
-                              "is_edit_eligible": true,
-                              "editable_until": "2025-08-07T04:33:33.000Z"
-                            },
-                            "reply_settings": "everyone",
-                            "author_id": "1832834649493762048",
-                            "id": "1953298442236699028",
-                            "public_metrics": {
-                              "retweet_count": 0,
-                              "reply_count": 3,
-                              "like_count": 18,
-                              "quote_count": 0,
-                              "bookmark_count": 1,
-                              "impression_count": 945
-                            },
-                            "text": "怎么这里还是一个样啊 https://t.co/QgRilhGpRA",
-                            "conversation_id": "1953298442236699028",
-                            "lang": "zh",
-                            "possibly_sensitive": false
-                          },
-                          "includes": {
-                            "media": [
-                              {
-                                "type": "photo",
-                                "media_key": "3_1953298364705234944",
-                                "url": "https://pbs.twimg.com/media/GxuCg4CbYAA7gmr.jpg",
-                                "width": 1536,
-                                "height": 2048
-                              }
-                            ],
-                            "users": [
-                              {
-                                "username": "1n_fhtagn",
-                                "id": "1832834649493762048",
-                                "description": "",
-                                "created_at": "2024-09-08T17:34:06.000Z",
-                                "profile_image_url": "https://pbs.twimg.com/profile_images/2043230735642013696/yF-skjSU_normal.jpg",
-                                "name": "雪山葵",
-                                "protected": false,
-                                "verified": false,
-                                "public_metrics": {
-                                  "followers_count": 3827,
-                                  "following_count": 1267,
-                                  "tweet_count": 18238,
-                                  "listed_count": 9,
-                                  "like_count": 30106,
-                                  "media_count": 4171
-                                }
-                              }
-                            ]
-                          }
-                        }
-                      }
-                    ]
-                  }
-                }
               }
             }
           }

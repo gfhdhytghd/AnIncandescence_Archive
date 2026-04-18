@@ -201,7 +201,7 @@
     "x_api_reply_chains": {
       "1953434024363364805": {
         "version": 1,
-        "fetched_at": "2026-04-18T00:51:21Z",
+        "fetched_at": "2026-04-18T04:11:58Z",
         "max_depth": 63,
         "posts": [
           {
@@ -213,14 +213,14 @@
                 "attachments": {},
                 "author_id": "1741993395910811648",
                 "conversation_id": "1953434024363364805",
-                "created_at": "2025-08-07T12:46:17.000Z",
+                "created_at": "2025-08-07T12:44:58.000Z",
                 "edit_controls": {
                   "edits_remaining": 5,
                   "is_edit_eligible": false,
-                  "editable_until": "2025-08-07T13:46:17.000Z"
+                  "editable_until": "2025-08-07T13:44:58.000Z"
                 },
                 "edit_history_tweet_ids": [
-                  "1953437542734352800"
+                  "1953437210667282863"
                 ],
                 "entities": {
                   "mentions": [
@@ -233,9 +233,9 @@
                   ]
                 },
                 "geo": {},
-                "id": "1953437542734352800",
+                "id": "1953437210667282863",
                 "in_reply_to_user_id": "1437034228768595977",
-                "lang": "ja",
+                "lang": "zh",
                 "note_tweet": {
                   "entities": {}
                 },
@@ -251,11 +251,11 @@
                 "referenced_tweets": [
                   {
                     "type": "replied_to",
-                    "id": "1953435626482856376"
+                    "id": "1953434024363364805"
                   }
                 ],
                 "reply_settings": "everyone",
-                "text": "@Kumamushi2021 🫂...我看到了🥺"
+                "text": "@Kumamushi2021 惊恐发作还是用bzd好一点，唑吡坦选择性有点高了"
               },
               "includes": {
                 "users": [
@@ -284,9 +284,9 @@
                     "public_metrics": {
                       "followers_count": 1103,
                       "following_count": 195,
-                      "tweet_count": 3561,
+                      "tweet_count": 3560,
                       "listed_count": 1,
-                      "like_count": 9840,
+                      "like_count": 9839,
                       "media_count": 715
                     },
                     "url": "https://t.co/MuEKSg4tIS",
@@ -320,14 +320,14 @@
                     "attachments": {},
                     "author_id": "1741993395910811648",
                     "conversation_id": "1953434024363364805",
-                    "created_at": "2025-08-07T12:46:17.000Z",
+                    "created_at": "2025-08-07T12:44:58.000Z",
                     "edit_controls": {
                       "edits_remaining": 5,
                       "is_edit_eligible": false,
-                      "editable_until": "2025-08-07T13:46:17.000Z"
+                      "editable_until": "2025-08-07T13:44:58.000Z"
                     },
                     "edit_history_tweet_ids": [
-                      "1953437542734352800"
+                      "1953437210667282863"
                     ],
                     "entities": {
                       "mentions": [
@@ -340,9 +340,9 @@
                       ]
                     },
                     "geo": {},
-                    "id": "1953437542734352800",
+                    "id": "1953437210667282863",
                     "in_reply_to_user_id": "1437034228768595977",
-                    "lang": "ja",
+                    "lang": "zh",
                     "note_tweet": {
                       "entities": {}
                     },
@@ -358,30 +358,29 @@
                     "referenced_tweets": [
                       {
                         "type": "replied_to",
-                        "id": "1953435626482856376"
+                        "id": "1953434024363364805"
                       }
                     ],
                     "reply_settings": "everyone",
-                    "text": "@Kumamushi2021 🫂...我看到了🥺"
+                    "text": "@Kumamushi2021 惊恐发作还是用bzd好一点，唑吡坦选择性有点高了"
                   },
                   {
                     "article": {},
                     "attachments": {},
                     "author_id": "1437034228768595977",
                     "conversation_id": "1953434024363364805",
-                    "created_at": "2025-08-07T12:38:41.000Z",
+                    "created_at": "2025-08-07T12:32:19.000Z",
                     "edit_controls": {
                       "edits_remaining": 5,
                       "is_edit_eligible": false,
-                      "editable_until": "2025-08-07T13:38:41.000Z"
+                      "editable_until": "2025-08-07T13:32:19.000Z"
                     },
                     "edit_history_tweet_ids": [
-                      "1953435626482856376"
+                      "1953434024363364805"
                     ],
                     "entities": {},
                     "geo": {},
-                    "id": "1953435626482856376",
-                    "in_reply_to_user_id": "1437034228768595977",
+                    "id": "1953434024363364805",
                     "lang": "zh",
                     "note_tweet": {
                       "entities": {}
@@ -389,87 +388,16 @@
                     "possibly_sensitive": false,
                     "public_metrics": {
                       "retweet_count": 0,
-                      "reply_count": 1,
+                      "reply_count": 4,
                       "like_count": 1,
                       "quote_count": 0,
                       "bookmark_count": 0,
-                      "impression_count": 11
+                      "impression_count": 9
                     },
-                    "referenced_tweets": [
-                      {
-                        "type": "replied_to",
-                        "id": "1953434024363364805"
-                      }
-                    ],
                     "reply_settings": "everyone",
-                    "text": "无人在意但是真的感觉要死掉了"
+                    "text": "唑吡坦可以缓解惊恐发作吗"
                   }
                 ]
-              },
-              "_pale_fire": {
-                "x_api_reply_chains": {
-                  "1953434024363364805": {
-                    "version": 1,
-                    "fetched_at": "2026-04-17T23:21:01Z",
-                    "max_depth": 7,
-                    "posts": [
-                      {
-                        "id": "1953434024363364805",
-                        "payload": {
-                          "data": {
-                            "reply_settings": "everyone",
-                            "lang": "zh",
-                            "created_at": "2025-08-07T12:32:19.000Z",
-                            "id": "1953434024363364805",
-                            "text": "唑吡坦可以缓解惊恐发作吗",
-                            "conversation_id": "1953434024363364805",
-                            "edit_controls": {
-                              "edits_remaining": 5,
-                              "is_edit_eligible": false,
-                              "editable_until": "2025-08-07T13:32:19.000Z"
-                            },
-                            "public_metrics": {
-                              "retweet_count": 0,
-                              "reply_count": 3,
-                              "like_count": 1,
-                              "quote_count": 0,
-                              "bookmark_count": 0,
-                              "impression_count": 198
-                            },
-                            "edit_history_tweet_ids": [
-                              "1953434024363364805"
-                            ],
-                            "possibly_sensitive": false,
-                            "author_id": "1437034228768595977"
-                          },
-                          "includes": {
-                            "users": [
-                              {
-                                "profile_image_url": "https://pbs.twimg.com/profile_images/2008872173084229632/7RVhFGtF_normal.jpg",
-                                "public_metrics": {
-                                  "followers_count": 200,
-                                  "following_count": 104,
-                                  "tweet_count": 2051,
-                                  "listed_count": 4,
-                                  "like_count": 3885,
-                                  "media_count": 207
-                                },
-                                "id": "1437034228768595977",
-                                "created_at": "2021-09-12T12:43:59.000Z",
-                                "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/患有双相注意避雷/废话很多",
-                                "name": "🥛💤",
-                                "verified": false,
-                                "username": "Kumamushi2021",
-                                "location": "你的身旁",
-                                "protected": false
-                              }
-                            ]
-                          }
-                        }
-                      }
-                    ]
-                  }
-                }
               }
             }
           }

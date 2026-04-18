@@ -222,7 +222,7 @@
     "x_api_reply_chains": {
       "2010038061590295031": {
         "version": 1,
-        "fetched_at": "2026-04-18T02:35:06Z",
+        "fetched_at": "2026-04-18T04:15:29Z",
         "max_depth": 63,
         "posts": [
           {
@@ -234,28 +234,34 @@
                 "attachments": {},
                 "author_id": "1741993395910811648",
                 "conversation_id": "2009952980557279526",
-                "created_at": "2026-01-12T14:33:26.000Z",
+                "created_at": "2026-01-10T17:16:33.000Z",
                 "edit_controls": {
                   "edits_remaining": 5,
                   "is_edit_eligible": false,
-                  "editable_until": "2026-01-12T15:33:26.000Z"
+                  "editable_until": "2026-01-10T18:16:33.000Z"
                 },
                 "edit_history_tweet_ids": [
-                  "2010721787445915703"
+                  "2010038061590295031"
                 ],
                 "entities": {
                   "mentions": [
                     {
                       "start": 0,
-                      "end": 9,
-                      "username": "Tan64287",
-                      "id": "1891533792537669632"
+                      "end": 13,
+                      "username": "Psych_Angel_",
+                      "id": "1879395690230738944"
+                    },
+                    {
+                      "start": 14,
+                      "end": 29,
+                      "username": "Albert_C_Anker",
+                      "id": "1992300667395092480"
                     }
                   ]
                 },
                 "geo": {},
-                "id": "2010721787445915703",
-                "in_reply_to_user_id": "1891533792537669632",
+                "id": "2010038061590295031",
+                "in_reply_to_user_id": "1879395690230738944",
                 "lang": "zh",
                 "note_tweet": {
                   "entities": {}
@@ -272,11 +278,11 @@
                 "referenced_tweets": [
                   {
                     "type": "replied_to",
-                    "id": "2010721422495330522"
+                    "id": "2010026448946700776"
                   }
                 ],
                 "reply_settings": "everyone",
-                "text": "@Tan64287 看你在什么地区，可以在网上查一下，或者周围精神科/大医院的快速抗抑郁or麻醉睡眠科门诊"
+                "text": "@Psych_Angel_ @Albert_C_Anker 我去过的几个地方都不用住院，几个小时就好了"
               },
               "includes": {
                 "users": [
@@ -299,39 +305,132 @@
                     "id": "1741993395910811648",
                     "location": "天鹅座X-1",
                     "name": "炽烈已极",
-                    "pinned_tweet_id": "2010452086539145687",
+                    "pinned_tweet_id": "2009922698609414310",
                     "profile_image_url": "https://pbs.twimg.com/profile_images/2006317223414255617/jGT_GZyG_normal.jpg",
                     "protected": false,
                     "public_metrics": {
-                      "followers_count": 1508,
-                      "following_count": 226,
-                      "tweet_count": 5146,
+                      "followers_count": 1500,
+                      "following_count": 225,
+                      "tweet_count": 5102,
                       "listed_count": 5,
-                      "like_count": 12716,
-                      "media_count": 977
+                      "like_count": 12621,
+                      "media_count": 971
                     },
                     "url": "https://t.co/iO6MRJNm9j",
                     "username": "AnIncandescence",
                     "verified": true
                   },
                   {
-                    "created_at": "2025-02-17T17:03:37.000Z",
-                    "description": "未知數據記錄研究中心",
-                    "id": "1891533792537669632",
-                    "location": "赤湾号-总研究中心",
-                    "name": "檀",
-                    "pinned_tweet_id": "1904502482358919459",
-                    "profile_image_url": "https://pbs.twimg.com/profile_images/1891538448798056450/BxQ-hY56_normal.jpg",
+                    "created_at": "2025-01-15T05:10:34.000Z",
+                    "description": "Scientist | Philosopher | Lab Rat｜💊#Drugtwt｜BD/DPDR｜BestLove🫶Rinko:@Rinko_zero8964｜Soulmate:@BelovedUren8964｜🍜:@shungleemain｜👩:@DXM8964LXM｜🍊:@citrus_amara",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/OpK0ArxHft",
+                            "expanded_url": "https://ngl.link/cutekitteno3o",
+                            "display_url": "ngl.link/cutekitteno3o"
+                          }
+                        ]
+                      },
+                      "description": {
+                        "hashtags": [
+                          {
+                            "start": 35,
+                            "end": 43,
+                            "tag": "Drugtwt"
+                          }
+                        ],
+                        "mentions": [
+                          {
+                            "start": 67,
+                            "end": 82,
+                            "username": "Rinko_zero8964"
+                          },
+                          {
+                            "start": 92,
+                            "end": 108,
+                            "username": "BelovedUren8964"
+                          },
+                          {
+                            "start": 111,
+                            "end": 124,
+                            "username": "shungleemain"
+                          },
+                          {
+                            "start": 127,
+                            "end": 138,
+                            "username": "DXM8964LXM"
+                          },
+                          {
+                            "start": 141,
+                            "end": 154,
+                            "username": "citrus_amara"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1879395690230738944",
+                    "location": "Ask me any u want→",
+                    "name": "Mercy",
+                    "pinned_tweet_id": "2005036045461811517",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1984317319691243521/rbczbPan_normal.jpg",
+                    "protected": true,
+                    "public_metrics": {
+                      "followers_count": 689,
+                      "following_count": 743,
+                      "tweet_count": 12612,
+                      "listed_count": 1,
+                      "like_count": 27724,
+                      "media_count": 820
+                    },
+                    "url": "https://t.co/OpK0ArxHft",
+                    "username": "Psych_Angel_",
+                    "verified": false
+                  },
+                  {
+                    "created_at": "2025-11-22T18:34:34.000Z",
+                    "description": "怪话制造机|伪人日记本|情绪稳定的死人|默认友好基本无雷|INFJ sp/so5w6|分裂情感障碍&阿斯伯格人士|社交电量低|看我不爽建议去死|第二人格@theLostCypress",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/xiOAWgwQyL",
+                            "expanded_url": "https://b23.tv/BV1z4411Y7tX",
+                            "display_url": "b23.tv/BV1z4411Y7tX"
+                          }
+                        ]
+                      },
+                      "description": {
+                        "mentions": [
+                          {
+                            "start": 76,
+                            "end": 91,
+                            "username": "theLostCypress"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1992300667395092480",
+                    "location": "Tromsø, Norway",
+                    "name": "死人微活之阿尔伯特",
+                    "pinned_tweet_id": "2008818911119311014",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2008776473121787904/mYr6Flus_normal.jpg",
                     "protected": false,
                     "public_metrics": {
-                      "followers_count": 5,
-                      "following_count": 24,
-                      "tweet_count": 528,
+                      "followers_count": 56,
+                      "following_count": 89,
+                      "tweet_count": 100,
                       "listed_count": 0,
-                      "like_count": 22,
-                      "media_count": 2
+                      "like_count": 317,
+                      "media_count": 22
                     },
-                    "username": "Tan64287",
+                    "url": "https://t.co/xiOAWgwQyL",
+                    "username": "Albert_C_Anker",
                     "verified": false
                   }
                 ],
@@ -341,28 +440,34 @@
                     "attachments": {},
                     "author_id": "1741993395910811648",
                     "conversation_id": "2009952980557279526",
-                    "created_at": "2026-01-12T14:33:26.000Z",
+                    "created_at": "2026-01-10T17:16:33.000Z",
                     "edit_controls": {
                       "edits_remaining": 5,
                       "is_edit_eligible": false,
-                      "editable_until": "2026-01-12T15:33:26.000Z"
+                      "editable_until": "2026-01-10T18:16:33.000Z"
                     },
                     "edit_history_tweet_ids": [
-                      "2010721787445915703"
+                      "2010038061590295031"
                     ],
                     "entities": {
                       "mentions": [
                         {
                           "start": 0,
-                          "end": 9,
-                          "username": "Tan64287",
-                          "id": "1891533792537669632"
+                          "end": 13,
+                          "username": "Psych_Angel_",
+                          "id": "1879395690230738944"
+                        },
+                        {
+                          "start": 14,
+                          "end": 29,
+                          "username": "Albert_C_Anker",
+                          "id": "1992300667395092480"
                         }
                       ]
                     },
                     "geo": {},
-                    "id": "2010721787445915703",
-                    "in_reply_to_user_id": "1891533792537669632",
+                    "id": "2010038061590295031",
+                    "in_reply_to_user_id": "1879395690230738944",
                     "lang": "zh",
                     "note_tweet": {
                       "entities": {}
@@ -379,378 +484,33 @@
                     "referenced_tweets": [
                       {
                         "type": "replied_to",
-                        "id": "2010721422495330522"
+                        "id": "2010026448946700776"
                       }
                     ],
                     "reply_settings": "everyone",
-                    "text": "@Tan64287 看你在什么地区，可以在网上查一下，或者周围精神科/大医院的快速抗抑郁or麻醉睡眠科门诊"
-                  },
-                  {
-                    "article": {},
-                    "attachments": {},
-                    "author_id": "1891533792537669632",
-                    "conversation_id": "2009952980557279526",
-                    "created_at": "2026-01-12T14:31:59.000Z",
-                    "edit_controls": {
-                      "edits_remaining": 5,
-                      "is_edit_eligible": false,
-                      "editable_until": "2026-01-12T15:31:59.000Z"
-                    },
-                    "edit_history_tweet_ids": [
-                      "2010721422495330522"
-                    ],
-                    "entities": {
-                      "mentions": [
-                        {
-                          "start": 0,
-                          "end": 16,
-                          "username": "AnIncandescence",
-                          "id": "1741993395910811648"
-                        },
-                        {
-                          "start": 17,
-                          "end": 30,
-                          "username": "Psych_Angel_",
-                          "id": "1879395690230738944"
-                        },
-                        {
-                          "start": 31,
-                          "end": 46,
-                          "username": "Albert_C_Anker",
-                          "id": "1992300667395092480"
-                        }
-                      ]
-                    },
-                    "geo": {},
-                    "id": "2010721422495330522",
-                    "in_reply_to_user_id": "1741993395910811648",
-                    "lang": "zh",
-                    "note_tweet": {
-                      "entities": {}
-                    },
-                    "possibly_sensitive": false,
-                    "public_metrics": {
-                      "retweet_count": 0,
-                      "reply_count": 1,
-                      "like_count": 0,
-                      "quote_count": 0,
-                      "bookmark_count": 0,
-                      "impression_count": 3
-                    },
-                    "referenced_tweets": [
-                      {
-                        "type": "replied_to",
-                        "id": "2010038061590295031"
-                      }
-                    ],
-                    "reply_settings": "everyone",
-                    "text": "@AnIncandescence @Psych_Angel_ @Albert_C_Anker 蹲个地方"
+                    "text": "@Psych_Angel_ @Albert_C_Anker 我去过的几个地方都不用住院，几个小时就好了"
                   }
                 ]
               },
+              "errors": [
+                {
+                  "resource_id": "2010026448946700776",
+                  "parameter": "referenced_tweets.id",
+                  "resource_type": "tweet",
+                  "section": "includes",
+                  "title": "Authorization Error",
+                  "value": "2010026448946700776",
+                  "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2010026448946700776].",
+                  "type": "https://api.twitter.com/2/problems/not-authorized-for-resource"
+                }
+              ],
               "_pale_fire": {
                 "x_api_reply_chains": {
-                  "2010038061590295031": {
+                  "2010026448946700776": {
                     "version": 1,
-                    "fetched_at": "2026-04-18T01:25:51Z",
-                    "max_depth": 63,
-                    "posts": [
-                      {
-                        "id": "2010038061590295031",
-                        "source": "local_json",
-                        "payload": {
-                          "data": {
-                            "article": {},
-                            "attachments": {},
-                            "author_id": "1741993395910811648",
-                            "conversation_id": "2009952980557279526",
-                            "created_at": "2026-01-10T17:16:33.000Z",
-                            "edit_controls": {
-                              "edits_remaining": 5,
-                              "is_edit_eligible": false,
-                              "editable_until": "2026-01-10T18:16:33.000Z"
-                            },
-                            "edit_history_tweet_ids": [
-                              "2010038061590295031"
-                            ],
-                            "entities": {
-                              "mentions": [
-                                {
-                                  "start": 0,
-                                  "end": 13,
-                                  "username": "Psych_Angel_",
-                                  "id": "1879395690230738944"
-                                },
-                                {
-                                  "start": 14,
-                                  "end": 29,
-                                  "username": "Albert_C_Anker",
-                                  "id": "1992300667395092480"
-                                }
-                              ]
-                            },
-                            "geo": {},
-                            "id": "2010038061590295031",
-                            "in_reply_to_user_id": "1879395690230738944",
-                            "lang": "zh",
-                            "note_tweet": {
-                              "entities": {}
-                            },
-                            "possibly_sensitive": false,
-                            "public_metrics": {
-                              "retweet_count": 0,
-                              "reply_count": 0,
-                              "like_count": 0,
-                              "quote_count": 0,
-                              "bookmark_count": 0,
-                              "impression_count": 0
-                            },
-                            "referenced_tweets": [
-                              {
-                                "type": "replied_to",
-                                "id": "2010026448946700776"
-                              }
-                            ],
-                            "reply_settings": "everyone",
-                            "text": "@Psych_Angel_ @Albert_C_Anker 我去过的几个地方都不用住院，几个小时就好了"
-                          },
-                          "includes": {
-                            "users": [
-                              {
-                                "created_at": "2024-01-02T01:22:57.000Z",
-                                "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
-                                "entities": {
-                                  "url": {
-                                    "urls": [
-                                      {
-                                        "start": 0,
-                                        "end": 23,
-                                        "url": "https://t.co/iO6MRJNm9j",
-                                        "expanded_url": "https://ngl.link/anincandescence1",
-                                        "display_url": "ngl.link/anincandescenc…"
-                                      }
-                                    ]
-                                  }
-                                },
-                                "id": "1741993395910811648",
-                                "location": "天鹅座X-1",
-                                "name": "炽烈已极",
-                                "pinned_tweet_id": "2009922698609414310",
-                                "profile_image_url": "https://pbs.twimg.com/profile_images/2006317223414255617/jGT_GZyG_normal.jpg",
-                                "protected": false,
-                                "public_metrics": {
-                                  "followers_count": 1500,
-                                  "following_count": 225,
-                                  "tweet_count": 5102,
-                                  "listed_count": 5,
-                                  "like_count": 12621,
-                                  "media_count": 971
-                                },
-                                "url": "https://t.co/iO6MRJNm9j",
-                                "username": "AnIncandescence",
-                                "verified": true
-                              },
-                              {
-                                "created_at": "2025-01-15T05:10:34.000Z",
-                                "description": "Scientist | Philosopher | Lab Rat｜💊#Drugtwt｜BD/DPDR｜BestLove🫶Rinko:@Rinko_zero8964｜Soulmate:@BelovedUren8964｜🍜:@shungleemain｜👩:@DXM8964LXM｜🍊:@citrus_amara",
-                                "entities": {
-                                  "url": {
-                                    "urls": [
-                                      {
-                                        "start": 0,
-                                        "end": 23,
-                                        "url": "https://t.co/OpK0ArxHft",
-                                        "expanded_url": "https://ngl.link/cutekitteno3o",
-                                        "display_url": "ngl.link/cutekitteno3o"
-                                      }
-                                    ]
-                                  },
-                                  "description": {
-                                    "hashtags": [
-                                      {
-                                        "start": 35,
-                                        "end": 43,
-                                        "tag": "Drugtwt"
-                                      }
-                                    ],
-                                    "mentions": [
-                                      {
-                                        "start": 67,
-                                        "end": 82,
-                                        "username": "Rinko_zero8964"
-                                      },
-                                      {
-                                        "start": 92,
-                                        "end": 108,
-                                        "username": "BelovedUren8964"
-                                      },
-                                      {
-                                        "start": 111,
-                                        "end": 124,
-                                        "username": "shungleemain"
-                                      },
-                                      {
-                                        "start": 127,
-                                        "end": 138,
-                                        "username": "DXM8964LXM"
-                                      },
-                                      {
-                                        "start": 141,
-                                        "end": 154,
-                                        "username": "citrus_amara"
-                                      }
-                                    ]
-                                  }
-                                },
-                                "id": "1879395690230738944",
-                                "location": "Ask me any u want→",
-                                "name": "Mercy",
-                                "pinned_tweet_id": "2005036045461811517",
-                                "profile_image_url": "https://pbs.twimg.com/profile_images/1984317319691243521/rbczbPan_normal.jpg",
-                                "protected": true,
-                                "public_metrics": {
-                                  "followers_count": 689,
-                                  "following_count": 743,
-                                  "tweet_count": 12612,
-                                  "listed_count": 1,
-                                  "like_count": 27724,
-                                  "media_count": 820
-                                },
-                                "url": "https://t.co/OpK0ArxHft",
-                                "username": "Psych_Angel_",
-                                "verified": false
-                              },
-                              {
-                                "created_at": "2025-11-22T18:34:34.000Z",
-                                "description": "怪话制造机|伪人日记本|情绪稳定的死人|默认友好基本无雷|INFJ sp/so5w6|分裂情感障碍&阿斯伯格人士|社交电量低|看我不爽建议去死|第二人格@theLostCypress",
-                                "entities": {
-                                  "url": {
-                                    "urls": [
-                                      {
-                                        "start": 0,
-                                        "end": 23,
-                                        "url": "https://t.co/xiOAWgwQyL",
-                                        "expanded_url": "https://b23.tv/BV1z4411Y7tX",
-                                        "display_url": "b23.tv/BV1z4411Y7tX"
-                                      }
-                                    ]
-                                  },
-                                  "description": {
-                                    "mentions": [
-                                      {
-                                        "start": 76,
-                                        "end": 91,
-                                        "username": "theLostCypress"
-                                      }
-                                    ]
-                                  }
-                                },
-                                "id": "1992300667395092480",
-                                "location": "Tromsø, Norway",
-                                "name": "死人微活之阿尔伯特",
-                                "pinned_tweet_id": "2008818911119311014",
-                                "profile_image_url": "https://pbs.twimg.com/profile_images/2008776473121787904/mYr6Flus_normal.jpg",
-                                "protected": false,
-                                "public_metrics": {
-                                  "followers_count": 56,
-                                  "following_count": 89,
-                                  "tweet_count": 100,
-                                  "listed_count": 0,
-                                  "like_count": 317,
-                                  "media_count": 22
-                                },
-                                "url": "https://t.co/xiOAWgwQyL",
-                                "username": "Albert_C_Anker",
-                                "verified": false
-                              }
-                            ],
-                            "tweets": [
-                              {
-                                "article": {},
-                                "attachments": {},
-                                "author_id": "1741993395910811648",
-                                "conversation_id": "2009952980557279526",
-                                "created_at": "2026-01-10T17:16:33.000Z",
-                                "edit_controls": {
-                                  "edits_remaining": 5,
-                                  "is_edit_eligible": false,
-                                  "editable_until": "2026-01-10T18:16:33.000Z"
-                                },
-                                "edit_history_tweet_ids": [
-                                  "2010038061590295031"
-                                ],
-                                "entities": {
-                                  "mentions": [
-                                    {
-                                      "start": 0,
-                                      "end": 13,
-                                      "username": "Psych_Angel_",
-                                      "id": "1879395690230738944"
-                                    },
-                                    {
-                                      "start": 14,
-                                      "end": 29,
-                                      "username": "Albert_C_Anker",
-                                      "id": "1992300667395092480"
-                                    }
-                                  ]
-                                },
-                                "geo": {},
-                                "id": "2010038061590295031",
-                                "in_reply_to_user_id": "1879395690230738944",
-                                "lang": "zh",
-                                "note_tweet": {
-                                  "entities": {}
-                                },
-                                "possibly_sensitive": false,
-                                "public_metrics": {
-                                  "retweet_count": 0,
-                                  "reply_count": 0,
-                                  "like_count": 0,
-                                  "quote_count": 0,
-                                  "bookmark_count": 0,
-                                  "impression_count": 0
-                                },
-                                "referenced_tweets": [
-                                  {
-                                    "type": "replied_to",
-                                    "id": "2010026448946700776"
-                                  }
-                                ],
-                                "reply_settings": "everyone",
-                                "text": "@Psych_Angel_ @Albert_C_Anker 我去过的几个地方都不用住院，几个小时就好了"
-                              }
-                            ]
-                          },
-                          "errors": [
-                            {
-                              "resource_id": "2010026448946700776",
-                              "parameter": "referenced_tweets.id",
-                              "resource_type": "tweet",
-                              "section": "includes",
-                              "title": "Authorization Error",
-                              "value": "2010026448946700776",
-                              "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2010026448946700776].",
-                              "type": "https://api.twitter.com/2/problems/not-authorized-for-resource"
-                            }
-                          ],
-                          "_pale_fire": {
-                            "x_api_reply_chains": {
-                              "2010026448946700776": {
-                                "version": 1,
-                                "fetched_at": "2026-04-17T23:23:03Z",
-                                "max_depth": 8,
-                                "posts": [],
-                                "terminal_error": {
-                                  "id": "2010026448946700776",
-                                  "message": "X API returned HTTP 429."
-                                }
-                              }
-                            }
-                          }
-                        }
-                      }
-                    ],
+                    "fetched_at": "2026-04-18T02:36:52Z",
+                    "max_depth": 64,
+                    "posts": [],
                     "terminal_error": {
                       "id": "2010026448946700776",
                       "message": "Sorry, you are not authorized to see the Tweet with id: [2010026448946700776]. Wayback fallback: Wayback fallback did not find archived JSON for tweet id 2010026448946700776."
@@ -760,7 +520,11 @@
               }
             }
           }
-        ]
+        ],
+        "terminal_error": {
+          "id": "2010026448946700776",
+          "message": "Wayback fallback did not find archived JSON for tweet id 2010026448946700776."
+        }
       }
     }
   }

@@ -193,6 +193,10 @@
       "status": "404",
       "reason": "hard-missing"
     },
+    "https://pbs.twimg.com/ext_tw_video_thumb/1955346118352703488/pu/img/z4omlmThfDJD3Cxz.jpg": {
+      "status": "403",
+      "reason": "forbidden"
+    },
     "https://pbs.twimg.com/ext_tw_video_thumb/1971821260394188800/pu/img/9gyHsRPcsfnQaPGj.jpg": {
       "status": "404",
       "reason": "hard-missing"
@@ -331,6 +335,10 @@
     },
     "https://pbs.twimg.com/media/G0HvnSIbUAY0M9-.jpg": {
       "status": "403",
+      "reason": "hard-missing"
+    },
+    "https://pbs.twimg.com/media/G0N-P11bUAAe4RS.jpg": {
+      "status": "404",
       "reason": "hard-missing"
     },
     "https://pbs.twimg.com/media/G0lGGlMagAEG3Kb.jpg": {
@@ -1529,6 +1537,10 @@
       "status": "403",
       "reason": "forbidden"
     },
+    "https://pbs.twimg.com/media/Gv7xBLQWYAE6w27.jpg": {
+      "status": "403",
+      "reason": "forbidden"
+    },
     "https://pbs.twimg.com/media/GvBkSJqaEAA998Q.jpg": {
       "status": "403",
       "reason": "forbidden"
@@ -1645,6 +1657,10 @@
       "status": "404",
       "reason": "hard-missing"
     },
+    "https://pbs.twimg.com/media/GvqVXyHbsAIoYVK.jpg": {
+      "status": "403",
+      "reason": "forbidden"
+    },
     "https://pbs.twimg.com/media/GvqzyXfbsAIhPzd.jpg": {
       "status": "403",
       "reason": "forbidden"
@@ -1653,7 +1669,15 @@
       "status": "403",
       "reason": "forbidden"
     },
+    "https://pbs.twimg.com/media/Gvvhw2pa0AAkEV9.jpg": {
+      "status": "403",
+      "reason": "forbidden"
+    },
     "https://pbs.twimg.com/media/GvvmWkMXkAA6ZeN.jpg": {
+      "status": "403",
+      "reason": "forbidden"
+    },
+    "https://pbs.twimg.com/media/GvvrdcYbQAAKmS3.jpg": {
       "status": "403",
       "reason": "forbidden"
     },
@@ -1674,6 +1698,10 @@
       "reason": "forbidden"
     },
     "https://pbs.twimg.com/media/GvzglimXAAA3bvb.jpg": {
+      "status": "403",
+      "reason": "forbidden"
+    },
+    "https://pbs.twimg.com/media/Gw32HmSbgAAPjVx.jpg": {
       "status": "403",
       "reason": "forbidden"
     },
@@ -1701,6 +1729,10 @@
       "status": "404",
       "reason": "hard-missing"
     },
+    "https://pbs.twimg.com/media/GwSsxJ7XoAA1lw4.jpg": {
+      "status": "403",
+      "reason": "forbidden"
+    },
     "https://pbs.twimg.com/media/GwUVdSuXUAQ2OgE.jpg": {
       "status": "404",
       "reason": "hard-missing"
@@ -1708,6 +1740,14 @@
     "https://pbs.twimg.com/media/GwUZzVtXkAA-uoo.jpg": {
       "status": "403",
       "reason": "hard-missing"
+    },
+    "https://pbs.twimg.com/media/GwX0OGKbQAAP4AF.jpg": {
+      "status": "403",
+      "reason": "forbidden"
+    },
+    "https://pbs.twimg.com/media/GwXGDuRaUAAqz1C.jpg": {
+      "status": "403",
+      "reason": "forbidden"
     },
     "https://pbs.twimg.com/media/GwXkB85WEAEHciy.jpg": {
       "status": "403",
@@ -1725,6 +1765,14 @@
       "status": "403",
       "reason": "hard-missing"
     },
+    "https://pbs.twimg.com/media/GwdVWWuaAAAJNZc.jpg": {
+      "status": "403",
+      "reason": "forbidden"
+    },
+    "https://pbs.twimg.com/media/GwhEPrLaIAAjOS6.jpg": {
+      "status": "403",
+      "reason": "forbidden"
+    },
     "https://pbs.twimg.com/media/GwiMkslboAA9bX3.jpg": {
       "status": "404",
       "reason": "hard-missing"
@@ -1741,7 +1789,19 @@
       "status": "403",
       "reason": "forbidden"
     },
+    "https://pbs.twimg.com/media/GwrG-lwaoAA7UFW.jpg": {
+      "status": "403",
+      "reason": "forbidden"
+    },
     "https://pbs.twimg.com/media/GwsIdbXbgAIEhzl.jpg": {
+      "status": "403",
+      "reason": "forbidden"
+    },
+    "https://pbs.twimg.com/media/GwsIq0hbgAQLQkw.jpg": {
+      "status": "403",
+      "reason": "forbidden"
+    },
+    "https://pbs.twimg.com/media/GwsOfnIbgAQsoL5.jpg": {
       "status": "403",
       "reason": "forbidden"
     },
@@ -1757,21 +1817,125 @@
       "status": "404",
       "reason": "hard-missing"
     },
+    "https://pbs.twimg.com/media/GwtCZWKbcAAQTxV.jpg": {
+      "status": "403",
+      "reason": "forbidden"
+    },
+    "https://pbs.twimg.com/media/GwugWWraUAAvDo2.jpg": {
+      "status": "403",
+      "reason": "forbidden"
+    },
+    "https://pbs.twimg.com/media/GwwkfXZbgAU-oPW.jpg": {
+      "status": "403",
+      "reason": "forbidden"
+    },
+    "https://pbs.twimg.com/media/GxT92ctaIAMA7wm.jpg": {
+      "status": "404",
+      "reason": "hard-missing"
+    },
+    "https://pbs.twimg.com/media/GxXC0u1bcAA-4E0.jpg": {
+      "status": "403",
+      "reason": "forbidden"
+    },
+    "https://pbs.twimg.com/media/GxktDY-aMAASC9U.jpg": {
+      "status": "403",
+      "reason": "forbidden"
+    },
+    "https://pbs.twimg.com/media/GxmcCxxa0AAUFVa.jpg": {
+      "status": "403",
+      "reason": "forbidden"
+    },
+    "https://pbs.twimg.com/media/GxpRRBHawAAcKin.jpg": {
+      "status": "403",
+      "reason": "forbidden"
+    },
+    "https://pbs.twimg.com/media/GxsEg42a8AAeeip.jpg": {
+      "status": "403",
+      "reason": "forbidden"
+    },
+    "https://pbs.twimg.com/media/GxwDDTTa0AEUie6.jpg": {
+      "status": "403",
+      "reason": "forbidden"
+    },
+    "https://pbs.twimg.com/media/GxyyY33bkAAnZow.jpg": {
+      "status": "403",
+      "reason": "forbidden"
+    },
+    "https://pbs.twimg.com/media/Gy2DB24bMAAI5H1.jpg": {
+      "status": "403",
+      "reason": "forbidden"
+    },
+    "https://pbs.twimg.com/media/Gy92DcPaYAAbkYy.jpg": {
+      "status": "403",
+      "reason": "forbidden"
+    },
+    "https://pbs.twimg.com/media/Gy9nZlXboAEtQiD.jpg": {
+      "status": "404",
+      "reason": "hard-missing"
+    },
     "https://pbs.twimg.com/media/GyEXjJ_aIAA9pIj.jpg": {
       "status": "403",
+      "reason": "hard-missing"
+    },
+    "https://pbs.twimg.com/media/GyOVRqcacAA66YB.jpg": {
+      "status": "403",
+      "reason": "forbidden"
+    },
+    "https://pbs.twimg.com/media/GyQA0yTaYAAQe9Q.jpg": {
+      "status": "403",
+      "reason": "forbidden"
+    },
+    "https://pbs.twimg.com/media/GyQJWOsa4AIMaQZ.jpg": {
+      "status": "403",
+      "reason": "forbidden"
+    },
+    "https://pbs.twimg.com/media/GyaUS4-a8AAkEFa.jpg": {
+      "status": "404",
       "reason": "hard-missing"
     },
     "https://pbs.twimg.com/media/GytNmauacAAi4DW.jpg": {
       "status": "403",
       "reason": "hard-missing"
     },
+    "https://pbs.twimg.com/media/GyuwaJZacAA86_K.jpg": {
+      "status": "403",
+      "reason": "forbidden"
+    },
     "https://pbs.twimg.com/media/Gz2p_7Ob0AEjIgV.jpg": {
       "status": "403",
       "reason": "hard-missing"
     },
+    "https://pbs.twimg.com/media/Gz5CPzObUAADuSv.jpg": {
+      "status": "403",
+      "reason": "forbidden"
+    },
+    "https://pbs.twimg.com/media/Gz6NcqeaYAAl1O2.jpg": {
+      "status": "403",
+      "reason": "forbidden"
+    },
     "https://pbs.twimg.com/media/GzR6-yCa4AAIpyl.jpg": {
       "status": "404",
       "reason": "hard-missing"
+    },
+    "https://pbs.twimg.com/media/GzSOlqObAAAPpjH.jpg": {
+      "status": "404",
+      "reason": "hard-missing"
+    },
+    "https://pbs.twimg.com/media/GzblrDOboAAaBe4.jpg": {
+      "status": "403",
+      "reason": "forbidden"
+    },
+    "https://pbs.twimg.com/media/GzblrDRbYAAzt44.jpg": {
+      "status": "403",
+      "reason": "forbidden"
+    },
+    "https://pbs.twimg.com/media/Gzv0Zjja4AAhT7B.jpg": {
+      "status": "403",
+      "reason": "forbidden"
+    },
+    "https://pbs.twimg.com/media/GzvQKfbaQAAtKjV.jpg": {
+      "status": "403",
+      "reason": "forbidden"
     },
     "https://pbs.twimg.com/media/HA-0POObsAExBHV.jpg": {
       "status": "404",
@@ -2245,9 +2409,21 @@
       "status": "403",
       "reason": "forbidden"
     },
+    "https://video.twimg.com/amplify_video/1950456961759399937/vid/avc1/590x1280/PtZrzS_72MV0tBfW.mp4": {
+      "status": "403",
+      "reason": "forbidden"
+    },
+    "https://video.twimg.com/amplify_video/1953342924726648835/vid/avc1/720x1280/nMYF5WG9Ry39iTs-.mp4": {
+      "status": "403",
+      "reason": "forbidden"
+    },
     "https://video.twimg.com/amplify_video/1961693225099689984/vid/avc1/1280x720/-bx-Cn8TlmfwLNd7.mp4": {
       "status": "404",
       "reason": "hard-missing"
+    },
+    "https://video.twimg.com/amplify_video/1961698299104432130/vid/avc1/720x720/cPWj1dLsUMNaGkTn.mp4": {
+      "status": "403",
+      "reason": "forbidden"
     },
     "https://video.twimg.com/amplify_video/1974473417739907072/vid/avc1/720x720/LzsUNws5HmFl7D7G.mp4": {
       "status": "404",

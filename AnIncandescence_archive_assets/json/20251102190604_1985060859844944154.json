@@ -224,7 +224,7 @@
     "x_api_reply_chains": {
       "1984937465673871417": {
         "version": 1,
-        "fetched_at": "2026-04-18T01:09:10Z",
+        "fetched_at": "2026-04-18T04:14:12Z",
         "max_depth": 63,
         "posts": [
           {
@@ -236,14 +236,14 @@
                 "attachments": {},
                 "author_id": "1741993395910811648",
                 "conversation_id": "1984925108729708849",
-                "created_at": "2025-11-02T19:06:04.000Z",
+                "created_at": "2025-11-02T11:03:34.000Z",
                 "edit_controls": {
                   "edits_remaining": 5,
                   "is_edit_eligible": false,
-                  "editable_until": "2025-11-02T20:06:04.000Z"
+                  "editable_until": "2025-11-02T12:03:34.000Z"
                 },
                 "edit_history_tweet_ids": [
-                  "1985060859844944154"
+                  "1984939433838170466"
                 ],
                 "entities": {
                   "mentions": [
@@ -256,9 +256,9 @@
                   ]
                 },
                 "geo": {},
-                "id": "1985060859844944154",
-                "in_reply_to_user_id": "1741993395910811648",
-                "lang": "ja",
+                "id": "1984939433838170466",
+                "in_reply_to_user_id": "1437034228768595977",
+                "lang": "zh",
                 "note_tweet": {
                   "entities": {}
                 },
@@ -274,11 +274,11 @@
                 "referenced_tweets": [
                   {
                     "type": "replied_to",
-                    "id": "1984939433838170466"
+                    "id": "1984937465673871417"
                   }
                 ],
                 "reply_settings": "everyone",
-                "text": "@Kumamushi2021 水熊酱也要好好的"
+                "text": "@Kumamushi2021 谢谢..."
               },
               "includes": {
                 "users": [
@@ -307,9 +307,9 @@
                     "public_metrics": {
                       "followers_count": 1256,
                       "following_count": 213,
-                      "tweet_count": 4238,
+                      "tweet_count": 4231,
                       "listed_count": 4,
-                      "like_count": 11064,
+                      "like_count": 11048,
                       "media_count": 832
                     },
                     "url": "https://t.co/iO6MRJNm9j",
@@ -341,9 +341,9 @@
                     "public_metrics": {
                       "followers_count": 52,
                       "following_count": 71,
-                      "tweet_count": 1245,
+                      "tweet_count": 1240,
                       "listed_count": 1,
-                      "like_count": 2395,
+                      "like_count": 2389,
                       "media_count": 103
                     },
                     "url": "https://t.co/TcLkEw5Ceo",
@@ -352,55 +352,6 @@
                   }
                 ],
                 "tweets": [
-                  {
-                    "article": {},
-                    "attachments": {},
-                    "author_id": "1741993395910811648",
-                    "conversation_id": "1984925108729708849",
-                    "created_at": "2025-11-02T19:06:04.000Z",
-                    "edit_controls": {
-                      "edits_remaining": 5,
-                      "is_edit_eligible": false,
-                      "editable_until": "2025-11-02T20:06:04.000Z"
-                    },
-                    "edit_history_tweet_ids": [
-                      "1985060859844944154"
-                    ],
-                    "entities": {
-                      "mentions": [
-                        {
-                          "start": 0,
-                          "end": 14,
-                          "username": "Kumamushi2021",
-                          "id": "1437034228768595977"
-                        }
-                      ]
-                    },
-                    "geo": {},
-                    "id": "1985060859844944154",
-                    "in_reply_to_user_id": "1741993395910811648",
-                    "lang": "ja",
-                    "note_tweet": {
-                      "entities": {}
-                    },
-                    "possibly_sensitive": false,
-                    "public_metrics": {
-                      "retweet_count": 0,
-                      "reply_count": 0,
-                      "like_count": 0,
-                      "quote_count": 0,
-                      "bookmark_count": 0,
-                      "impression_count": 0
-                    },
-                    "referenced_tweets": [
-                      {
-                        "type": "replied_to",
-                        "id": "1984939433838170466"
-                      }
-                    ],
-                    "reply_settings": "everyone",
-                    "text": "@Kumamushi2021 水熊酱也要好好的"
-                  },
                   {
                     "article": {},
                     "attachments": {},
@@ -435,11 +386,11 @@
                     "possibly_sensitive": false,
                     "public_metrics": {
                       "retweet_count": 0,
-                      "reply_count": 1,
+                      "reply_count": 0,
                       "like_count": 0,
                       "quote_count": 0,
                       "bookmark_count": 0,
-                      "impression_count": 49
+                      "impression_count": 0
                     },
                     "referenced_tweets": [
                       {
@@ -449,115 +400,470 @@
                     ],
                     "reply_settings": "everyone",
                     "text": "@Kumamushi2021 谢谢..."
+                  },
+                  {
+                    "article": {},
+                    "attachments": {},
+                    "author_id": "1437034228768595977",
+                    "conversation_id": "1984925108729708849",
+                    "created_at": "2025-11-02T10:55:44.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2025-11-02T11:55:44.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "1984937465673871417"
+                    ],
+                    "entities": {
+                      "mentions": [
+                        {
+                          "start": 0,
+                          "end": 16,
+                          "username": "AnIncandescence",
+                          "id": "1741993395910811648"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "1984937465673871417",
+                    "in_reply_to_user_id": "1741993395910811648",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 1,
+                      "like_count": 1,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 15
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "1984925108729708849"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "@AnIncandescence 能坚持到现在的炽老师已经很了不起了，哭也好od也好割手也好都只是因为你很痛苦，这不是你的错，你没有错🫂把别人丢到你所处的环境里，或许别人会比你过得更糟糕，你已经很努力了，现在这么糟糕的心态不是你本来的原因，而是环境造成的。炽老师所处的环境就是很累呀…所以多多安慰自己吧，活着就好"
                   }
                 ]
               },
               "_pale_fire": {
                 "x_api_reply_chains": {
-                  "1984937465673871417": {
+                  "1984925108729708849": {
                     "version": 1,
-                    "fetched_at": "2026-04-17T23:21:05Z",
-                    "max_depth": 7,
+                    "fetched_at": "2026-04-18T01:08:49Z",
+                    "max_depth": 63,
                     "posts": [
                       {
-                        "id": "1984937465673871417",
+                        "id": "1984925108729708849",
+                        "source": "local_json",
                         "payload": {
                           "data": {
-                            "entities": {
-                              "mentions": [
-                                {
-                                  "start": 0,
-                                  "end": 16,
-                                  "username": "AnIncandescence",
-                                  "id": "1741993395910811648"
-                                }
-                              ]
-                            },
-                            "id": "1984937465673871417",
-                            "reply_settings": "everyone",
-                            "lang": "zh",
+                            "article": {},
+                            "attachments": {},
+                            "author_id": "1741993395910811648",
                             "conversation_id": "1984925108729708849",
-                            "text": "@AnIncandescence 能坚持到现在的炽老师已经很了不起了，哭也好od也好割手也好都只是因为你很痛苦，这不是你的错，你没有错🫂把别人丢到你所处的环境里，或许别人会比你过得更糟糕，你已经很努力了，现在这么糟糕的心态不是你本来的原因，而是环境造成的。炽老师所处的环境就是很累呀…所以多多安慰自己吧，活着就好",
-                            "public_metrics": {
-                              "retweet_count": 0,
-                              "reply_count": 1,
-                              "like_count": 0,
-                              "quote_count": 0,
-                              "bookmark_count": 0,
-                              "impression_count": 133
-                            },
-                            "created_at": "2025-11-02T10:55:44.000Z",
-                            "author_id": "1437034228768595977",
+                            "created_at": "2025-11-02T11:47:46.000Z",
                             "edit_controls": {
                               "edits_remaining": 5,
                               "is_edit_eligible": false,
-                              "editable_until": "2025-11-02T11:55:44.000Z"
+                              "editable_until": "2025-11-02T12:47:46.000Z"
                             },
                             "edit_history_tweet_ids": [
-                              "1984937465673871417"
+                              "1984950559648911644"
                             ],
-                            "possibly_sensitive": false,
+                            "entities": {},
+                            "geo": {},
+                            "id": "1984950559648911644",
                             "in_reply_to_user_id": "1741993395910811648",
+                            "lang": "zh",
+                            "note_tweet": {
+                              "entities": {}
+                            },
+                            "possibly_sensitive": false,
+                            "public_metrics": {
+                              "retweet_count": 0,
+                              "reply_count": 0,
+                              "like_count": 0,
+                              "quote_count": 0,
+                              "bookmark_count": 0,
+                              "impression_count": 0
+                            },
                             "referenced_tweets": [
                               {
                                 "type": "replied_to",
                                 "id": "1984925108729708849"
                               }
-                            ]
+                            ],
+                            "reply_settings": "everyone",
+                            "text": "我眼泪吧嗒吧嗒的掉，哭得什么都看不清"
                           },
                           "includes": {
+                            "media": [
+                              {
+                                "height": 4096,
+                                "media_key": "3_1984925101289050112",
+                                "public_metrics": {},
+                                "type": "photo",
+                                "url": "https://pbs.twimg.com/media/G4ve3PAXEAA5ZHN.jpg",
+                                "width": 404
+                              },
+                              {
+                                "height": 4032,
+                                "media_key": "3_1984925101326745600",
+                                "public_metrics": {},
+                                "type": "photo",
+                                "url": "https://pbs.twimg.com/media/G4ve3PJWQAAPobo.jpg",
+                                "width": 3024
+                              }
+                            ],
                             "users": [
                               {
-                                "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/患有双相注意避雷/废话很多",
-                                "location": "你的身旁",
-                                "verified": false,
-                                "profile_image_url": "https://pbs.twimg.com/profile_images/2008872173084229632/7RVhFGtF_normal.jpg",
-                                "public_metrics": {
-                                  "followers_count": 200,
-                                  "following_count": 104,
-                                  "tweet_count": 2051,
-                                  "listed_count": 4,
-                                  "like_count": 3885,
-                                  "media_count": 207
+                                "created_at": "2024-01-02T01:22:57.000Z",
+                                "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+                                "entities": {
+                                  "url": {
+                                    "urls": [
+                                      {
+                                        "start": 0,
+                                        "end": 23,
+                                        "url": "https://t.co/iO6MRJNm9j",
+                                        "expanded_url": "https://ngl.link/anincandescence1",
+                                        "display_url": "ngl.link/anincandescenc…"
+                                      }
+                                    ]
+                                  }
                                 },
-                                "created_at": "2021-09-12T12:43:59.000Z",
-                                "id": "1437034228768595977",
-                                "username": "Kumamushi2021",
+                                "id": "1741993395910811648",
+                                "location": "天鹅座X-1",
+                                "name": "炽烈已极",
+                                "pinned_tweet_id": "1976277813784457417",
+                                "profile_image_url": "https://pbs.twimg.com/profile_images/1967287311504465922/Z7d-hW5p_normal.jpg",
                                 "protected": false,
-                                "name": "🥛💤"
+                                "public_metrics": {
+                                  "followers_count": 1256,
+                                  "following_count": 213,
+                                  "tweet_count": 4232,
+                                  "listed_count": 4,
+                                  "like_count": 11049,
+                                  "media_count": 832
+                                },
+                                "url": "https://t.co/iO6MRJNm9j",
+                                "username": "AnIncandescence",
+                                "verified": false
+                              }
+                            ],
+                            "tweets": [
+                              {
+                                "article": {},
+                                "attachments": {},
+                                "author_id": "1741993395910811648",
+                                "conversation_id": "1984925108729708849",
+                                "created_at": "2025-11-02T11:47:46.000Z",
+                                "edit_controls": {
+                                  "edits_remaining": 5,
+                                  "is_edit_eligible": false,
+                                  "editable_until": "2025-11-02T12:47:46.000Z"
+                                },
+                                "edit_history_tweet_ids": [
+                                  "1984950559648911644"
+                                ],
+                                "entities": {},
+                                "geo": {},
+                                "id": "1984950559648911644",
+                                "in_reply_to_user_id": "1741993395910811648",
+                                "lang": "zh",
+                                "note_tweet": {
+                                  "entities": {}
+                                },
+                                "possibly_sensitive": false,
+                                "public_metrics": {
+                                  "retweet_count": 0,
+                                  "reply_count": 0,
+                                  "like_count": 0,
+                                  "quote_count": 0,
+                                  "bookmark_count": 0,
+                                  "impression_count": 0
+                                },
+                                "referenced_tweets": [
+                                  {
+                                    "type": "replied_to",
+                                    "id": "1984925108729708849"
+                                  }
+                                ],
+                                "reply_settings": "everyone",
+                                "text": "我眼泪吧嗒吧嗒的掉，哭得什么都看不清"
+                              },
+                              {
+                                "article": {},
+                                "attachments": {
+                                  "media_keys": [
+                                    "3_1984925101289050112",
+                                    "3_1984925101326745600"
+                                  ]
+                                },
+                                "author_id": "1741993395910811648",
+                                "conversation_id": "1984925108729708849",
+                                "created_at": "2025-11-02T10:06:38.000Z",
+                                "edit_controls": {
+                                  "edits_remaining": 5,
+                                  "is_edit_eligible": false,
+                                  "editable_until": "2025-11-02T11:06:38.000Z"
+                                },
+                                "edit_history_tweet_ids": [
+                                  "1984925108729708849"
+                                ],
+                                "entities": {
+                                  "urls": [
+                                    {
+                                      "start": 0,
+                                      "end": 23,
+                                      "url": "https://t.co/1xpqfX1aT8",
+                                      "expanded_url": "https://x.com/AnIncandescence/status/1984925108729708849/photo/1",
+                                      "display_url": "pic.x.com/1xpqfX1aT8",
+                                      "media_key": "3_1984925101289050112"
+                                    },
+                                    {
+                                      "start": 0,
+                                      "end": 23,
+                                      "url": "https://t.co/1xpqfX1aT8",
+                                      "expanded_url": "https://x.com/AnIncandescence/status/1984925108729708849/photo/1",
+                                      "display_url": "pic.x.com/1xpqfX1aT8",
+                                      "media_key": "3_1984925101326745600"
+                                    }
+                                  ]
+                                },
+                                "geo": {},
+                                "id": "1984925108729708849",
+                                "lang": "zxx",
+                                "note_tweet": {
+                                  "entities": {}
+                                },
+                                "possibly_sensitive": false,
+                                "public_metrics": {
+                                  "retweet_count": 0,
+                                  "reply_count": 9,
+                                  "like_count": 12,
+                                  "quote_count": 0,
+                                  "bookmark_count": 0,
+                                  "impression_count": 191
+                                },
+                                "reply_settings": "everyone",
+                                "text": "https://t.co/1xpqfX1aT8"
                               }
                             ]
-                          },
-                          "errors": [
-                            {
-                              "parameter": "in_reply_to_user_id",
-                              "resource_id": "1741993395910811648",
-                              "value": "1741993395910811648",
-                              "detail": "User has been suspended: [1741993395910811648].",
-                              "title": "Forbidden",
-                              "resource_type": "user",
-                              "type": "https://api.twitter.com/2/problems/resource-not-found"
-                            },
-                            {
-                              "resource_id": "1984925108729708849",
-                              "parameter": "referenced_tweets.id",
-                              "resource_type": "tweet",
-                              "section": "includes",
-                              "title": "Authorization Error",
-                              "value": "1984925108729708849",
-                              "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1984925108729708849].",
-                              "type": "https://api.twitter.com/2/problems/not-authorized-for-resource"
-                            }
-                          ]
+                          }
                         }
                       }
-                    ],
-                    "terminal_error": {
-                      "id": "1984925108729708849",
-                      "message": "Sorry, you are not authorized to see the Tweet with id: [1984925108729708849]."
-                    }
+                    ]
                   }
                 }
+              }
+            }
+          },
+          {
+            "id": "1984925108729708849",
+            "source": "local_json",
+            "payload": {
+              "data": {
+                "article": {},
+                "attachments": {},
+                "author_id": "1741993395910811648",
+                "conversation_id": "1984925108729708849",
+                "created_at": "2025-11-02T13:18:08.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2025-11-02T14:18:08.000Z"
+                },
+                "edit_history_tweet_ids": [
+                  "1984973301941457311"
+                ],
+                "entities": {},
+                "geo": {},
+                "id": "1984973301941457311",
+                "in_reply_to_user_id": "1741993395910811648",
+                "lang": "zh",
+                "note_tweet": {
+                  "entities": {}
+                },
+                "possibly_sensitive": false,
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 0
+                },
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "1984925108729708849"
+                  }
+                ],
+                "reply_settings": "everyone",
+                "text": "大家发了大段大段的文字来安慰我，感觉好温柔，我竟然值得被这样对待..被在意着。谢谢🥹"
+              },
+              "includes": {
+                "media": [
+                  {
+                    "height": 4096,
+                    "media_key": "3_1984925101289050112",
+                    "public_metrics": {},
+                    "type": "photo",
+                    "url": "https://pbs.twimg.com/media/G4ve3PAXEAA5ZHN.jpg",
+                    "width": 404
+                  },
+                  {
+                    "height": 4032,
+                    "media_key": "3_1984925101326745600",
+                    "public_metrics": {},
+                    "type": "photo",
+                    "url": "https://pbs.twimg.com/media/G4ve3PJWQAAPobo.jpg",
+                    "width": 3024
+                  }
+                ],
+                "users": [
+                  {
+                    "created_at": "2024-01-02T01:22:57.000Z",
+                    "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/iO6MRJNm9j",
+                            "expanded_url": "https://ngl.link/anincandescence1",
+                            "display_url": "ngl.link/anincandescenc…"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1741993395910811648",
+                    "location": "天鹅座X-1",
+                    "name": "炽烈已极",
+                    "pinned_tweet_id": "1976277813784457417",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1967287311504465922/Z7d-hW5p_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 1255,
+                      "following_count": 213,
+                      "tweet_count": 4234,
+                      "listed_count": 4,
+                      "like_count": 11058,
+                      "media_count": 832
+                    },
+                    "url": "https://t.co/iO6MRJNm9j",
+                    "username": "AnIncandescence",
+                    "verified": false
+                  }
+                ],
+                "tweets": [
+                  {
+                    "article": {},
+                    "attachments": {},
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "1984925108729708849",
+                    "created_at": "2025-11-02T13:18:08.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2025-11-02T14:18:08.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "1984973301941457311"
+                    ],
+                    "entities": {},
+                    "geo": {},
+                    "id": "1984973301941457311",
+                    "in_reply_to_user_id": "1741993395910811648",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 0,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 0
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "1984925108729708849"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "大家发了大段大段的文字来安慰我，感觉好温柔，我竟然值得被这样对待..被在意着。谢谢🥹"
+                  },
+                  {
+                    "article": {},
+                    "attachments": {
+                      "media_keys": [
+                        "3_1984925101289050112",
+                        "3_1984925101326745600"
+                      ]
+                    },
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "1984925108729708849",
+                    "created_at": "2025-11-02T10:06:38.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2025-11-02T11:06:38.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "1984925108729708849"
+                    ],
+                    "entities": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/1xpqfX1aT8",
+                          "expanded_url": "https://x.com/AnIncandescence/status/1984925108729708849/photo/1",
+                          "display_url": "pic.x.com/1xpqfX1aT8",
+                          "media_key": "3_1984925101289050112"
+                        },
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/1xpqfX1aT8",
+                          "expanded_url": "https://x.com/AnIncandescence/status/1984925108729708849/photo/1",
+                          "display_url": "pic.x.com/1xpqfX1aT8",
+                          "media_key": "3_1984925101326745600"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "1984925108729708849",
+                    "lang": "zxx",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 12,
+                      "like_count": 13,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 285
+                    },
+                    "reply_settings": "everyone",
+                    "text": "https://t.co/1xpqfX1aT8"
+                  }
+                ]
               }
             }
           }
