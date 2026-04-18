@@ -1,3 +1,17 @@
 # 炽烈已极（@AnIncandescence）的主账号存档
-## 信息来自Web_Archive
-## 网页 https://gfhdhytghd.github.io/AnIncandescence_Archive/
+
+炽烈已极（2004-08-05-2026-04-11）
+<br>猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。
+<br>“我们彻夜飞旋，直至没入火焰。”
+<br>穿越语言的壳，任思维溢出容器——请听，离群者无法永恒的悲歌。炽在水洼中的倒影，因为星光获得了生命
+
+星际候鸟，忒修斯之船，灯塔
+<br>塔尔西斯高原，天鹅座X-1
+
+「从未冰冷，从未死寂，从未黯然失色的海 // 而你那些声嘶力竭的沉默，排列成文字的蔚蓝色哀恸，一定会被听到」
+
+水洼中望见了星空的倒影，让它变得无限深吧，跳下去便能拥抱星辰
+
+信息来自Web_Archive
+<br>网页 https://gfhdhytghd.github.io/AnIncandescence_Archive/
+<br>炽烈已极的最后一个账号：https://x.com/ASplendour15
