@@ -65,7 +65,8 @@ body.lightbox-open{overflow:hidden}
 .archive-toggle-input:checked+.archive-toggle-switch::after{transform:translateX(16px)}
 .archive-toggle-label{font-size:14px;font-weight:500;color:var(--ink)}
 .archive-toggle-meta{color:var(--muted);font-size:13px}
-@media (max-width:600px){.archive-controls{gap:6px}.archive-toggle{width:100%;justify-content:space-between;padding:8px 12px}}
+@media (max-width:600px){.archive-controls{gap:6px}.archive-toggle{width:100%;justify-content:space-between;padding:8px 12px}.archive-sticky-bar{position:static;background:none;backdrop-filter:none}.archive-tabs{position:sticky;top:0;z-index:10;background:rgba(255,255,255,.85);backdrop-filter:blur(12px)}}
+@media (max-width:600px) and (prefers-color-scheme:dark){.archive-tabs{background:rgba(0,0,0,.85)}}
 .archive-tabs{display:flex;border-bottom:1px solid var(--line)}
 .archive-tab{flex:1;padding:14px 0;border:none;background:none;font-size:15px;font-weight:600;color:var(--muted);cursor:pointer;text-align:center;position:relative;transition:color .15s,background .15s}
 .archive-tab:hover{background:var(--hover)}

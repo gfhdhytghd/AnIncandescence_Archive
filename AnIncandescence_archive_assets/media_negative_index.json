@@ -1961,6 +1961,10 @@
       "status": "403",
       "reason": "forbidden"
     },
+    "https://pbs.twimg.com/media/GtAdP9qXoAAT8SB.jpg": {
+      "status": "404",
+      "reason": "hard-missing"
+    },
     "https://pbs.twimg.com/media/GtAoTeUb0AAiAwN.jpg": {
       "status": "403",
       "reason": "forbidden"
@@ -2109,6 +2113,10 @@
       "status": "404",
       "reason": "hard-missing"
     },
+    "https://pbs.twimg.com/media/GvMoa9yXwAASoYc.jpg": {
+      "status": "404",
+      "reason": "hard-missing"
+    },
     "https://pbs.twimg.com/media/GvNzgu1aAAAiMxB.jpg": {
       "status": "403",
       "reason": "forbidden"
@@ -2157,7 +2165,15 @@
       "status": "403",
       "reason": "forbidden"
     },
+    "https://pbs.twimg.com/media/GvWCqsLW0AA7aSZ.jpg": {
+      "status": "404",
+      "reason": "hard-missing"
+    },
     "https://pbs.twimg.com/media/GvWCqsPXQAA3aI4.jpg": {
+      "status": "404",
+      "reason": "hard-missing"
+    },
+    "https://pbs.twimg.com/media/GvWLmfxWUAADD8q.jpg": {
       "status": "404",
       "reason": "hard-missing"
     },
@@ -2205,6 +2221,10 @@
       "status": "403",
       "reason": "forbidden"
     },
+    "https://pbs.twimg.com/media/GvvGJnHWUAA87I_.jpg": {
+      "status": "404",
+      "reason": "hard-missing"
+    },
     "https://pbs.twimg.com/media/Gvvhw2pa0AAkEV9.jpg": {
       "status": "403",
       "reason": "forbidden"
@@ -2226,6 +2246,10 @@
       "reason": "hard-missing"
     },
     "https://pbs.twimg.com/media/GvwyxylXQAAK8Dh.jpg": {
+      "status": "404",
+      "reason": "hard-missing"
+    },
+    "https://pbs.twimg.com/media/GvwyxymW4AAGypE.jpg": {
       "status": "404",
       "reason": "hard-missing"
     },
@@ -2373,7 +2397,19 @@
       "status": "403",
       "reason": "forbidden"
     },
+    "https://pbs.twimg.com/media/GwwwpBxbgAAl2x8.jpg": {
+      "status": "404",
+      "reason": "hard-missing"
+    },
     "https://pbs.twimg.com/media/Gx1JM0rbsAMzbjw.jpg": {
+      "status": "404",
+      "reason": "hard-missing"
+    },
+    "https://pbs.twimg.com/media/GxE6a7tbUAU-grI.jpg": {
+      "status": "404",
+      "reason": "hard-missing"
+    },
+    "https://pbs.twimg.com/media/GxKkmQyagAAzOpV.jpg": {
       "status": "404",
       "reason": "hard-missing"
     },

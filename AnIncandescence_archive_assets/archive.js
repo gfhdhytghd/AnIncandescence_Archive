@@ -40,6 +40,20 @@
     }
   }
 
+  /* On mobile, move tabs out of stickyBar so they can be independently sticky */
+  const mq = window.matchMedia("(max-width:600px)");
+  function reflow() {
+    const tabs = stickyBar.parentNode && stickyBar.querySelector(".archive-tabs");
+    if (!tabs) return;
+    if (mq.matches) {
+      stickyBar.parentNode.insertBefore(tabs, stickyBar);
+    } else {
+      stickyBar.insertBefore(tabs, stickyBar.firstChild);
+    }
+  }
+  reflow();
+  mq.addEventListener("change", reflow);
+
   setupDetailPanel();
 
   function setupArchiveTabs(tweets, container) {
