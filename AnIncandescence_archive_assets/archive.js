@@ -414,9 +414,6 @@
 
 
 (() => {
-  const images = Array.from(document.querySelectorAll(".tweet-media-item img"));
-  if (!images.length) return;
-
   const lightbox = document.createElement("div");
   lightbox.className = "lightbox";
   lightbox.setAttribute("aria-hidden", "true");
@@ -441,25 +438,54 @@
     document.body.classList.add("lightbox-open");
   }
 
-  lightbox.addEventListener("click", closeLightbox);
-
-  document.addEventListener("keydown", (event) => {
-    if (event.key === "Escape" && lightbox.classList.contains("is-open")) {
-      closeLightbox();
-    }
-  });
-
-  images.forEach((image) => {
+  function prepareImage(image) {
     image.loading = "lazy";
     image.decoding = "async";
     image.tabIndex = 0;
     image.setAttribute("role", "button");
-    image.addEventListener("click", () => openLightbox(image));
-    image.addEventListener("keydown", (event) => {
-      if (event.key === "Enter" || event.key === " ") {
-        event.preventDefault();
-        openLightbox(image);
-      }
+  }
+
+  function prepareImages(root) {
+    root.querySelectorAll(".tweet-media-item img").forEach(prepareImage);
+  }
+
+  lightbox.addEventListener("click", closeLightbox);
+
+  document.addEventListener("click", (event) => {
+    const image = event.target.closest(".tweet-media-item img");
+    if (!image) return;
+    event.preventDefault();
+    event.stopPropagation();
+    openLightbox(image);
+  }, true);
+
+  document.addEventListener("keydown", (event) => {
+    if (event.key === "Escape" && lightbox.classList.contains("is-open")) {
+      closeLightbox();
+      return;
+    }
+    if (event.key !== "Enter" && event.key !== " ") {
+      return;
+    }
+    const image = event.target.closest(".tweet-media-item img");
+    if (!image) {
+      return;
+    }
+    event.preventDefault();
+    event.stopPropagation();
+    openLightbox(image);
+  }, true);
+
+  prepareImages(document);
+
+  const observer = new MutationObserver((mutations) => {
+    mutations.forEach((mutation) => {
+      mutation.addedNodes.forEach((node) => {
+        if (!(node instanceof Element)) return;
+        if (node.matches(".tweet-media-item img")) prepareImage(node);
+        prepareImages(node);
+      });
     });
   });
+  observer.observe(document.body, { childList: true, subtree: true });
 })();

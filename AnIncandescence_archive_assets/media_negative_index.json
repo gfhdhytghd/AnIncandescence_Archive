@@ -2401,6 +2401,10 @@
       "status": "404",
       "reason": "hard-missing"
     },
+    "https://pbs.twimg.com/media/Gx0Ye3tbsAYXo-a.jpg": {
+      "status": "403",
+      "reason": "forbidden"
+    },
     "https://pbs.twimg.com/media/Gx1JM0rbsAMzbjw.jpg": {
       "status": "404",
       "reason": "hard-missing"
@@ -2755,6 +2759,10 @@
     },
     "https://pbs.twimg.com/media/HBiTD8wbUAQyy54.jpg": {
       "status": "403",
+      "reason": "hard-missing"
+    },
+    "https://pbs.twimg.com/media/HBjeRiobUAEyWGr.jpg": {
+      "status": "404",
       "reason": "hard-missing"
     },
     "https://pbs.twimg.com/media/HBr8A7vbgAMEucQ.jpg": {
