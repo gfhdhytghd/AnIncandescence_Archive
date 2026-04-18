@@ -123,19 +123,9 @@
         const aVisible = tabAllowsTweet(a, "replies") ? 1 : 0;
         const bVisible = tabAllowsTweet(b, "replies") ? 1 : 0;
         if (aVisible !== bVisible) return bVisible - aVisible;
-        const timeDelta = getReplyViewSortTime(b) - getReplyViewSortTime(a);
-        if (timeDelta) return timeDelta;
         return originalOrder.get(a) - originalOrder.get(b);
       });
       ordered.forEach((tweet) => shell.appendChild(tweet));
-    }
-
-    function getReplyViewSortTime(tweet) {
-      const comments = tweet.querySelector(".tweet-comments");
-      const latestComment = comments ? Number(comments.dataset.commentLatestTs || 0) : 0;
-      const ownTimeText = (tweet.querySelector("h3")?.textContent || "").replace(" UTC", "Z").replace(" ", "T");
-      const ownTime = Date.parse(ownTimeText);
-      return Math.max(latestComment, Number.isFinite(ownTime) ? Math.floor(ownTime / 1000) : 0);
     }
 
     function readTabState(key) {
