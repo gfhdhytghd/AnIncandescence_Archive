@@ -1,1 +1,346 @@
-{"data":{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"2036317679250973057","created_at":"2026-03-24T11:12:44.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2026-03-24T12:12:44.000Z"},"edit_history_tweet_ids":["2036400820283937007"],"entities":{"mentions":[{"start":0,"end":8,"username":"fawpv25","id":"1900779126245769216"}]},"geo":{},"id":"2036400820283937007","in_reply_to_user_id":"1900779126245769216","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"2036318467125813439"}],"reply_settings":"everyone","text":"@fawpv25 哎就这样……适当发飙有助于和这类医生沟通（）就算没成功交流至少也没憋屈，而且不好好看病的医生等着吃投诉去吧"},"includes":{"users":[{"created_at":"2024-01-02T01:22:57.000Z","description":"猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 倒影@TauCeti_10700 计划这个号机的浓度更高一些 | 🚪88/158","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/iO6MRJNTYR","expanded_url":"https://ngl.link/anincandescence1","display_url":"ngl.link/anincandescenc…"}]},"description":{"mentions":[{"start":62,"end":76,"username":"TauCeti_10700"}]}},"id":"1741993395910811648","location":"天鹅座X-1 //⬇️ 匿名提问箱","name":"炽烈已极","pinned_tweet_id":"2024076888923365667","profile_image_url":"https://pbs.twimg.com/profile_images/2034869645342076928/m2LinKe5_normal.jpg","protected":false,"public_metrics":{"followers_count":1850,"following_count":249,"tweet_count":6603,"listed_count":5,"like_count":15581,"media_count":1177},"url":"https://t.co/iO6MRJNTYR","username":"AnIncandescence","verified":false},{"created_at":"2025-03-15T05:20:44.000Z","description":"如果你知道怎么变成一只乌鸦，请告诉我/匿名提问箱：https://t.co/k5wuyYhVxZ致力于成为你们的互联网好朋鸦/艺术就是生命/我们的诞生不是为了被疼痛感束缚/学习像人类一样地活下去。","entities":{"description":{"urls":[{"start":25,"end":48,"url":"https://t.co/k5wuyYhVxZ","expanded_url":"https://ngl.link/jiyujin1/","display_url":"ngl.link/jiyujin1/"}]}},"id":"1900779126245769216","name":"Anoko","profile_image_url":"https://pbs.twimg.com/profile_images/2006613154210721792/8FPJv03i_normal.jpg","protected":true,"public_metrics":{"followers_count":75,"following_count":221,"tweet_count":4003,"listed_count":0,"like_count":14536,"media_count":96},"username":"fawpv25","verified":false}],"tweets":[{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"2036317679250973057","created_at":"2026-03-24T11:12:44.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2026-03-24T12:12:44.000Z"},"edit_history_tweet_ids":["2036400820283937007"],"entities":{"mentions":[{"start":0,"end":8,"username":"fawpv25","id":"1900779126245769216"}]},"geo":{},"id":"2036400820283937007","in_reply_to_user_id":"1900779126245769216","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"2036318467125813439"}],"reply_settings":"everyone","text":"@fawpv25 哎就这样……适当发飙有助于和这类医生沟通（）就算没成功交流至少也没憋屈，而且不好好看病的医生等着吃投诉去吧"}]},"errors":[{"resource_id":"2036318467125813439","parameter":"referenced_tweets.id","resource_type":"tweet","section":"includes","title":"Authorization Error","value":"2036318467125813439","detail":"Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2036318467125813439].","type":"https://api.twitter.com/2/problems/not-authorized-for-resource"}]}
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741993395910811648",
+    "conversation_id": "2036317679250973057",
+    "created_at": "2026-03-24T11:12:44.000Z",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2026-03-24T12:12:44.000Z"
+    },
+    "edit_history_tweet_ids": [
+      "2036400820283937007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 8,
+          "username": "fawpv25",
+          "id": "1900779126245769216"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036400820283937007",
+    "in_reply_to_user_id": "1900779126245769216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "2036318467125813439"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fawpv25 哎就这样……适当发飙有助于和这类医生沟通（）就算没成功交流至少也没憋屈，而且不好好看病的医生等着吃投诉去吧"
+  },
+  "includes": {
+    "users": [
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 倒影@TauCeti_10700 计划这个号机的浓度更高一些 | 🚪88/158",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/iO6MRJNTYR",
+                "expanded_url": "https://ngl.link/anincandescence1",
+                "display_url": "ngl.link/anincandescenc…"
+              }
+            ]
+          },
+          "description": {
+            "mentions": [
+              {
+                "start": 62,
+                "end": 76,
+                "username": "TauCeti_10700"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "天鹅座X-1 //⬇️ 匿名提问箱",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "2024076888923365667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034869645342076928/m2LinKe5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1850,
+          "following_count": 249,
+          "tweet_count": 6603,
+          "listed_count": 5,
+          "like_count": 15581,
+          "media_count": 1177
+        },
+        "url": "https://t.co/iO6MRJNTYR",
+        "username": "AnIncandescence",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-15T05:20:44.000Z",
+        "description": "如果你知道怎么变成一只乌鸦，请告诉我/匿名提问箱：https://t.co/k5wuyYhVxZ致力于成为你们的互联网好朋鸦/艺术就是生命/我们的诞生不是为了被疼痛感束缚/学习像人类一样地活下去。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "start": 25,
+                "end": 48,
+                "url": "https://t.co/k5wuyYhVxZ",
+                "expanded_url": "https://ngl.link/jiyujin1/",
+                "display_url": "ngl.link/jiyujin1/"
+              }
+            ]
+          }
+        },
+        "id": "1900779126245769216",
+        "name": "Anoko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006613154210721792/8FPJv03i_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 221,
+          "tweet_count": 4003,
+          "listed_count": 0,
+          "like_count": 14536,
+          "media_count": 96
+        },
+        "username": "fawpv25",
+        "verified": false
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741993395910811648",
+        "conversation_id": "2036317679250973057",
+        "created_at": "2026-03-24T11:12:44.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2026-03-24T12:12:44.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "2036400820283937007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 8,
+              "username": "fawpv25",
+              "id": "1900779126245769216"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036400820283937007",
+        "in_reply_to_user_id": "1900779126245769216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "2036318467125813439"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fawpv25 哎就这样……适当发飙有助于和这类医生沟通（）就算没成功交流至少也没憋屈，而且不好好看病的医生等着吃投诉去吧"
+      }
+    ]
+  },
+  "errors": [
+    {
+      "resource_id": "2036318467125813439",
+      "parameter": "referenced_tweets.id",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "value": "2036318467125813439",
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2036318467125813439].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource"
+    }
+  ],
+  "_pale_fire": {
+    "x_api_reply_chains": {
+      "2036318467125813439": {
+        "version": 1,
+        "fetched_at": "2026-04-18T01:35:32Z",
+        "max_depth": 64,
+        "posts": [
+          {
+            "id": "2036318467125813439",
+            "source": "x_api_oauth1",
+            "payload": {
+              "data": {
+                "conversation_id": "2036317679250973057",
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "2036317679250973057"
+                  }
+                ],
+                "created_at": "2026-03-24T05:45:30.000Z",
+                "author_id": "1900779126245769216",
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 35
+                },
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2026-03-24T06:45:30.000Z"
+                },
+                "reply_settings": "everyone",
+                "possibly_sensitive": false,
+                "edit_history_tweet_ids": [
+                  "2036318467125813439"
+                ],
+                "id": "2036318467125813439",
+                "in_reply_to_user_id": "1900779126245769216",
+                "lang": "zh",
+                "text": "下午继续神内科，但是怕又遇到被医生说“你不能老依赖药物，自己忍忍吧”之类的话把我轰走………………"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "public_metrics": {
+                      "followers_count": 81,
+                      "following_count": 245,
+                      "tweet_count": 4429,
+                      "listed_count": 0,
+                      "like_count": 15724,
+                      "media_count": 105
+                    },
+                    "protected": true,
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2006613154210721792/8FPJv03i_normal.jpg",
+                    "name": "Anoko",
+                    "created_at": "2025-03-15T05:20:44.000Z",
+                    "username": "fawpv25",
+                    "verified": false,
+                    "description": "如果你知道怎么变成一只乌鸦，请告诉我/致力于成为你们的互联网好朋鸦/艺术就是生命/我们的诞生不是为了被疼痛感束缚/学习像人类一样地活下去。",
+                    "id": "1900779126245769216"
+                  }
+                ],
+                "tweets": [
+                  {
+                    "conversation_id": "2036317679250973057",
+                    "created_at": "2026-03-24T05:42:22.000Z",
+                    "author_id": "1900779126245769216",
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 2,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 48
+                    },
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2026-03-24T06:42:22.000Z"
+                    },
+                    "reply_settings": "everyone",
+                    "possibly_sensitive": false,
+                    "edit_history_tweet_ids": [
+                      "2036317679250973057"
+                    ],
+                    "id": "2036317679250973057",
+                    "lang": "zh",
+                    "text": "我不太喜欢学校这边的医院，有一个原因就是，这边的人登味比浙江那边中。很多医生都特别喜欢对年轻患者进行说教，然后说痛医生也不搭理。\n（头痛我在学校这边看过几次了，我说要查心脏也是零个医生鸟我，说“你那么年轻有啥问题”，去了几次都检查都不开就整点中成药或者维生素把我打发走了…………）"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "2036317679250973057",
+            "source": "x_api_oauth1",
+            "payload": {
+              "data": {
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2026-03-24T06:42:22.000Z"
+                },
+                "text": "我不太喜欢学校这边的医院，有一个原因就是，这边的人登味比浙江那边中。很多医生都特别喜欢对年轻患者进行说教，然后说痛医生也不搭理。\n（头痛我在学校这边看过几次了，我说要查心脏也是零个医生鸟我，说“你那么年轻有啥问题”，去了几次都检查都不开就整点中成药或者维生素把我打发走了…………）",
+                "conversation_id": "2036317679250973057",
+                "reply_settings": "everyone",
+                "possibly_sensitive": false,
+                "id": "2036317679250973057",
+                "created_at": "2026-03-24T05:42:22.000Z",
+                "author_id": "1900779126245769216",
+                "lang": "zh",
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 48
+                },
+                "edit_history_tweet_ids": [
+                  "2036317679250973057"
+                ]
+              },
+              "includes": {
+                "users": [
+                  {
+                    "verified": false,
+                    "username": "fawpv25",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2006613154210721792/8FPJv03i_normal.jpg",
+                    "description": "如果你知道怎么变成一只乌鸦，请告诉我/致力于成为你们的互联网好朋鸦/艺术就是生命/我们的诞生不是为了被疼痛感束缚/学习像人类一样地活下去。",
+                    "id": "1900779126245769216",
+                    "protected": true,
+                    "public_metrics": {
+                      "followers_count": 81,
+                      "following_count": 245,
+                      "tweet_count": 4429,
+                      "listed_count": 0,
+                      "like_count": 15724,
+                      "media_count": 105
+                    },
+                    "name": "Anoko",
+                    "created_at": "2025-03-15T05:20:44.000Z"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,1 +1,475 @@
-{"data":{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1956240619543912955","created_at":"2025-08-15T07:33:47.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-08-15T08:33:47.000Z"},"edit_history_tweet_ids":["1956258001742127308"],"entities":{"mentions":[{"start":0,"end":15,"username":"suk1202xwast3d","id":"1909859675530797056"}]},"geo":{},"id":"1956258001742127308","in_reply_to_user_id":"1909859675530797056","lang":"ja","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1956240619543912955"}],"reply_settings":"everyone","text":"@suk1202xwast3d 好苦的"},"includes":{"users":[{"created_at":"2024-01-02T01:22:57.000Z","description":"猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/MuEKSg4tIS","expanded_url":"https://ngl.link/anincandescence","display_url":"ngl.link/anincandescence"}]}},"id":"1741993395910811648","location":"天鹅座X-1","name":"炽烈已极","pinned_tweet_id":"1944465960406245490","profile_image_url":"https://pbs.twimg.com/profile_images/1947176726292725760/VAZ0WSeY_normal.jpg","protected":false,"public_metrics":{"followers_count":1126,"following_count":201,"tweet_count":3638,"listed_count":2,"like_count":9956,"media_count":729},"url":"https://t.co/MuEKSg4tIS","username":"AnIncandescence","verified":false},{"created_at":"2025-04-09T06:43:41.000Z","description":"","id":"1909859675530797056","name":".","profile_image_url":"https://pbs.twimg.com/profile_images/1945843375824883712/T2PFrMVv_normal.jpg","protected":true,"public_metrics":{"followers_count":579,"following_count":344,"tweet_count":1078,"listed_count":1,"like_count":4740,"media_count":54},"username":"suk1202xwast3d","verified":false}],"tweets":[{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1956240619543912955","created_at":"2025-08-15T07:33:47.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-08-15T08:33:47.000Z"},"edit_history_tweet_ids":["1956258001742127308"],"entities":{"mentions":[{"start":0,"end":15,"username":"suk1202xwast3d","id":"1909859675530797056"}]},"geo":{},"id":"1956258001742127308","in_reply_to_user_id":"1909859675530797056","lang":"ja","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1956240619543912955"}],"reply_settings":"everyone","text":"@suk1202xwast3d 好苦的"}]},"errors":[{"resource_id":"1956240619543912955","parameter":"referenced_tweets.id","resource_type":"tweet","section":"includes","title":"Authorization Error","value":"1956240619543912955","detail":"Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1956240619543912955].","type":"https://api.twitter.com/2/problems/not-authorized-for-resource"}]}
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741993395910811648",
+    "conversation_id": "1956240619543912955",
+    "created_at": "2025-08-15T07:33:47.000Z",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2025-08-15T08:33:47.000Z"
+    },
+    "edit_history_tweet_ids": [
+      "1956258001742127308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 15,
+          "username": "suk1202xwast3d",
+          "id": "1909859675530797056"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956258001742127308",
+    "in_reply_to_user_id": "1909859675530797056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1956240619543912955"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suk1202xwast3d 好苦的"
+  },
+  "includes": {
+    "users": [
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/MuEKSg4tIS",
+                "expanded_url": "https://ngl.link/anincandescence",
+                "display_url": "ngl.link/anincandescence"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "天鹅座X-1",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "1944465960406245490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947176726292725760/VAZ0WSeY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1126,
+          "following_count": 201,
+          "tweet_count": 3638,
+          "listed_count": 2,
+          "like_count": 9956,
+          "media_count": 729
+        },
+        "url": "https://t.co/MuEKSg4tIS",
+        "username": "AnIncandescence",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-09T06:43:41.000Z",
+        "description": "",
+        "id": "1909859675530797056",
+        "name": ".",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945843375824883712/T2PFrMVv_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 579,
+          "following_count": 344,
+          "tweet_count": 1078,
+          "listed_count": 1,
+          "like_count": 4740,
+          "media_count": 54
+        },
+        "username": "suk1202xwast3d",
+        "verified": false
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741993395910811648",
+        "conversation_id": "1956240619543912955",
+        "created_at": "2025-08-15T07:33:47.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2025-08-15T08:33:47.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1956258001742127308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 15,
+              "username": "suk1202xwast3d",
+              "id": "1909859675530797056"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956258001742127308",
+        "in_reply_to_user_id": "1909859675530797056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1956240619543912955"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suk1202xwast3d 好苦的"
+      }
+    ]
+  },
+  "errors": [
+    {
+      "resource_id": "1956240619543912955",
+      "parameter": "referenced_tweets.id",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "value": "1956240619543912955",
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1956240619543912955].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource"
+    }
+  ],
+  "_pale_fire": {
+    "x_api_reply_chains": {
+      "1956240619543912955": {
+        "version": 1,
+        "fetched_at": "2026-04-18T00:54:34Z",
+        "max_depth": 64,
+        "posts": [
+          {
+            "id": "1956240619543912955",
+            "source": "local_json",
+            "payload": {
+              "data": {
+                "article": {},
+                "attachments": {},
+                "author_id": "1741993395910811648",
+                "conversation_id": "1956240619543912955",
+                "created_at": "2025-08-15T07:33:47.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2025-08-15T08:33:47.000Z"
+                },
+                "edit_history_tweet_ids": [
+                  "1956258001742127308"
+                ],
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 0,
+                      "end": 15,
+                      "username": "suk1202xwast3d",
+                      "id": "1909859675530797056"
+                    }
+                  ]
+                },
+                "geo": {},
+                "id": "1956258001742127308",
+                "in_reply_to_user_id": "1909859675530797056",
+                "lang": "ja",
+                "note_tweet": {
+                  "entities": {}
+                },
+                "possibly_sensitive": false,
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 0
+                },
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "1956240619543912955"
+                  }
+                ],
+                "reply_settings": "everyone",
+                "text": "@suk1202xwast3d 好苦的"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "created_at": "2024-01-02T01:22:57.000Z",
+                    "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/MuEKSg4tIS",
+                            "expanded_url": "https://ngl.link/anincandescence",
+                            "display_url": "ngl.link/anincandescence"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1741993395910811648",
+                    "location": "天鹅座X-1",
+                    "name": "炽烈已极",
+                    "pinned_tweet_id": "1944465960406245490",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1947176726292725760/VAZ0WSeY_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 1126,
+                      "following_count": 201,
+                      "tweet_count": 3638,
+                      "listed_count": 2,
+                      "like_count": 9956,
+                      "media_count": 729
+                    },
+                    "url": "https://t.co/MuEKSg4tIS",
+                    "username": "AnIncandescence",
+                    "verified": false
+                  },
+                  {
+                    "created_at": "2025-04-09T06:43:41.000Z",
+                    "description": "",
+                    "id": "1909859675530797056",
+                    "name": ".",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1945843375824883712/T2PFrMVv_normal.jpg",
+                    "protected": true,
+                    "public_metrics": {
+                      "followers_count": 579,
+                      "following_count": 344,
+                      "tweet_count": 1078,
+                      "listed_count": 1,
+                      "like_count": 4740,
+                      "media_count": 54
+                    },
+                    "username": "suk1202xwast3d",
+                    "verified": false
+                  }
+                ],
+                "tweets": [
+                  {
+                    "article": {},
+                    "attachments": {},
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "1956240619543912955",
+                    "created_at": "2025-08-15T07:33:47.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2025-08-15T08:33:47.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "1956258001742127308"
+                    ],
+                    "entities": {
+                      "mentions": [
+                        {
+                          "start": 0,
+                          "end": 15,
+                          "username": "suk1202xwast3d",
+                          "id": "1909859675530797056"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "1956258001742127308",
+                    "in_reply_to_user_id": "1909859675530797056",
+                    "lang": "ja",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 0,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 0
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "1956240619543912955"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "@suk1202xwast3d 好苦的"
+                  }
+                ]
+              },
+              "errors": [
+                {
+                  "resource_id": "1956240619543912955",
+                  "parameter": "referenced_tweets.id",
+                  "resource_type": "tweet",
+                  "section": "includes",
+                  "title": "Authorization Error",
+                  "value": "1956240619543912955",
+                  "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1956240619543912955].",
+                  "type": "https://api.twitter.com/2/problems/not-authorized-for-resource"
+                }
+              ],
+              "_pale_fire": {
+                "x_api_reply_chains": {
+                  "1956240619543912955": {
+                    "version": 1,
+                    "fetched_at": "2026-04-17T23:21:02Z",
+                    "max_depth": 8,
+                    "posts": [
+                      {
+                        "id": "1956240619543912955",
+                        "payload": {
+                          "data": {
+                            "conversation_id": "1956240619543912955",
+                            "lang": "ja",
+                            "reply_settings": "everyone",
+                            "context_annotations": [
+                              {
+                                "domain": {
+                                  "id": "46",
+                                  "name": "Business Taxonomy",
+                                  "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                                },
+                                "entity": {
+                                  "id": "1557696888568045569",
+                                  "name": "Food & Beverage Business",
+                                  "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers."
+                                }
+                              }
+                            ],
+                            "attachments": {
+                              "media_keys": [
+                                "3_1956240607921451008",
+                                "3_1956240607929884672"
+                              ]
+                            },
+                            "possibly_sensitive": false,
+                            "public_metrics": {
+                              "retweet_count": 0,
+                              "reply_count": 6,
+                              "like_count": 6,
+                              "quote_count": 0,
+                              "bookmark_count": 1,
+                              "impression_count": 1388
+                            },
+                            "entities": {
+                              "urls": [
+                                {
+                                  "start": 5,
+                                  "end": 28,
+                                  "url": "https://t.co/10Xw3jmigt",
+                                  "expanded_url": "https://x.com/suk1202xwast3d/status/1956240619543912955/photo/1",
+                                  "display_url": "pic.x.com/10Xw3jmigt",
+                                  "media_key": "3_1956240607921451008"
+                                },
+                                {
+                                  "start": 5,
+                                  "end": 28,
+                                  "url": "https://t.co/10Xw3jmigt",
+                                  "expanded_url": "https://x.com/suk1202xwast3d/status/1956240619543912955/photo/1",
+                                  "display_url": "pic.x.com/10Xw3jmigt",
+                                  "media_key": "3_1956240607929884672"
+                                }
+                              ]
+                            },
+                            "edit_history_tweet_ids": [
+                              "1956240619543912955"
+                            ],
+                            "text": "不好玩🤡 https://t.co/10Xw3jmigt",
+                            "created_at": "2025-08-15T06:24:43.000Z",
+                            "id": "1956240619543912955",
+                            "author_id": "1909859675530797056",
+                            "edit_controls": {
+                              "edits_remaining": 5,
+                              "is_edit_eligible": true,
+                              "editable_until": "2025-08-15T07:24:43.000Z"
+                            }
+                          },
+                          "includes": {
+                            "media": [
+                              {
+                                "width": 1080,
+                                "type": "photo",
+                                "media_key": "3_1956240607921451008",
+                                "height": 1920,
+                                "url": "https://pbs.twimg.com/media/GyX2d-JaMAAu3od.jpg"
+                              },
+                              {
+                                "width": 3024,
+                                "type": "photo",
+                                "media_key": "3_1956240607929884672",
+                                "height": 4032,
+                                "url": "https://pbs.twimg.com/media/GyX2d-La4AAQF0x.jpg"
+                              }
+                            ],
+                            "users": [
+                              {
+                                "profile_image_url": "https://pbs.twimg.com/profile_images/1945843375824883712/T2PFrMVv_normal.jpg",
+                                "id": "1909859675530797056",
+                                "username": "suk1202xwast3d",
+                                "name": ".",
+                                "public_metrics": {
+                                  "followers_count": 573,
+                                  "following_count": 310,
+                                  "tweet_count": 1214,
+                                  "listed_count": 2,
+                                  "like_count": 4654,
+                                  "media_count": 64
+                                },
+                                "protected": false,
+                                "description": "",
+                                "created_at": "2025-04-09T06:43:41.000Z",
+                                "verified": false
+                              }
+                            ]
+                          }
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

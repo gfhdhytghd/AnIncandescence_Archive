@@ -1,1 +1,361 @@
-{"data":{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"2035009112233451989","created_at":"2026-03-21T02:11:35.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2026-03-21T03:11:35.000Z"},"edit_history_tweet_ids":["2035177470572601701"],"entities":{"mentions":[{"start":0,"end":13,"username":"miaomeow_cat","id":"2025193723693596676"}]},"geo":{},"id":"2035177470572601701","in_reply_to_user_id":"2025193723693596676","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"2035009728875835575"}],"reply_settings":"everyone","text":"@miaomeow_cat 😿是这样的…我也经常听到。但事实是我甚至无法确保自己能活下来。沉没成本哇…"},"includes":{"users":[{"created_at":"2024-01-02T01:22:57.000Z","description":"猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 倒影@TauCeti_10700 计划这个号机的浓度更高一些 | 🚪88/158","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/iO6MRJNTYR","expanded_url":"https://ngl.link/anincandescence1","display_url":"ngl.link/anincandescenc…"}]},"description":{"mentions":[{"start":62,"end":76,"username":"TauCeti_10700"}]}},"id":"1741993395910811648","location":"天鹅座X-1 //⬇️ 匿名提问箱","name":"炽烈已极","pinned_tweet_id":"2024076888923365667","profile_image_url":"https://pbs.twimg.com/profile_images/2034869645342076928/m2LinKe5_normal.jpg","protected":false,"public_metrics":{"followers_count":1831,"following_count":244,"tweet_count":6479,"listed_count":6,"like_count":15369,"media_count":1158},"url":"https://t.co/iO6MRJNTYR","username":"AnIncandescence","verified":false},{"created_at":"2026-02-21T13:00:03.000Z","description":"没有锚点的存在该如何生存","id":"2025193723693596676","name":"碎夏","profile_image_url":"https://pbs.twimg.com/profile_images/2025194468119642116/D1KCuBeU_normal.jpg","protected":false,"public_metrics":{"followers_count":4,"following_count":6,"tweet_count":53,"listed_count":0,"like_count":41,"media_count":0},"username":"miaomeow_cat","verified":false}],"tweets":[{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"2035009112233451989","created_at":"2026-03-21T02:11:35.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2026-03-21T03:11:35.000Z"},"edit_history_tweet_ids":["2035177470572601701"],"entities":{"mentions":[{"start":0,"end":13,"username":"miaomeow_cat","id":"2025193723693596676"}]},"geo":{},"id":"2035177470572601701","in_reply_to_user_id":"2025193723693596676","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"2035009728875835575"}],"reply_settings":"everyone","text":"@miaomeow_cat 😿是这样的…我也经常听到。但事实是我甚至无法确保自己能活下来。沉没成本哇…"},{"article":{},"attachments":{},"author_id":"2025193723693596676","conversation_id":"2035009112233451989","created_at":"2026-03-20T15:05:02.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2026-03-20T16:05:02.000Z"},"edit_history_tweet_ids":["2035009728875835575"],"entities":{},"geo":{},"id":"2035009728875835575","in_reply_to_user_id":"2025193723693596676","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":2,"like_count":1,"quote_count":0,"bookmark_count":0,"impression_count":10},"referenced_tweets":[{"type":"replied_to","id":"2035009436482515390"}],"reply_settings":"everyone","text":"啊，无论是哪个曾经的朋友都会讲我的脑子很好，去做些什么肯定会有成果，但我从吞过药后就开始变得不太灵光，没有任何积极性也不想做任何事。"}]}}
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741993395910811648",
+    "conversation_id": "2035009112233451989",
+    "created_at": "2026-03-21T02:11:35.000Z",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2026-03-21T03:11:35.000Z"
+    },
+    "edit_history_tweet_ids": [
+      "2035177470572601701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 13,
+          "username": "miaomeow_cat",
+          "id": "2025193723693596676"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035177470572601701",
+    "in_reply_to_user_id": "2025193723693596676",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "2035009728875835575"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miaomeow_cat 😿是这样的…我也经常听到。但事实是我甚至无法确保自己能活下来。沉没成本哇…"
+  },
+  "includes": {
+    "users": [
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 倒影@TauCeti_10700 计划这个号机的浓度更高一些 | 🚪88/158",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/iO6MRJNTYR",
+                "expanded_url": "https://ngl.link/anincandescence1",
+                "display_url": "ngl.link/anincandescenc…"
+              }
+            ]
+          },
+          "description": {
+            "mentions": [
+              {
+                "start": 62,
+                "end": 76,
+                "username": "TauCeti_10700"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "天鹅座X-1 //⬇️ 匿名提问箱",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "2024076888923365667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034869645342076928/m2LinKe5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1831,
+          "following_count": 244,
+          "tweet_count": 6479,
+          "listed_count": 6,
+          "like_count": 15369,
+          "media_count": 1158
+        },
+        "url": "https://t.co/iO6MRJNTYR",
+        "username": "AnIncandescence",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-21T13:00:03.000Z",
+        "description": "没有锚点的存在该如何生存",
+        "id": "2025193723693596676",
+        "name": "碎夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025194468119642116/D1KCuBeU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 6,
+          "tweet_count": 53,
+          "listed_count": 0,
+          "like_count": 41,
+          "media_count": 0
+        },
+        "username": "miaomeow_cat",
+        "verified": false
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741993395910811648",
+        "conversation_id": "2035009112233451989",
+        "created_at": "2026-03-21T02:11:35.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2026-03-21T03:11:35.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "2035177470572601701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 13,
+              "username": "miaomeow_cat",
+              "id": "2025193723693596676"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035177470572601701",
+        "in_reply_to_user_id": "2025193723693596676",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "2035009728875835575"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miaomeow_cat 😿是这样的…我也经常听到。但事实是我甚至无法确保自己能活下来。沉没成本哇…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025193723693596676",
+        "conversation_id": "2035009112233451989",
+        "created_at": "2026-03-20T15:05:02.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2026-03-20T16:05:02.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "2035009728875835575"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035009728875835575",
+        "in_reply_to_user_id": "2025193723693596676",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "2035009436482515390"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啊，无论是哪个曾经的朋友都会讲我的脑子很好，去做些什么肯定会有成果，但我从吞过药后就开始变得不太灵光，没有任何积极性也不想做任何事。"
+      }
+    ]
+  },
+  "_pale_fire": {
+    "x_api_reply_chains": {
+      "2035009436482515390": {
+        "version": 1,
+        "fetched_at": "2026-04-18T01:34:43Z",
+        "max_depth": 63,
+        "posts": [
+          {
+            "id": "2035009436482515390",
+            "source": "x_api_oauth1",
+            "payload": {
+              "data": {
+                "reply_settings": "everyone",
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "2035009112233451989"
+                  }
+                ],
+                "in_reply_to_user_id": "2025193723693596676",
+                "edit_history_tweet_ids": [
+                  "2035009436482515390"
+                ],
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2026-03-20T16:03:52.000Z"
+                },
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 16
+                },
+                "lang": "zh",
+                "conversation_id": "2035009112233451989",
+                "id": "2035009436482515390",
+                "author_id": "2025193723693596676",
+                "created_at": "2026-03-20T15:03:52.000Z",
+                "possibly_sensitive": false,
+                "text": "情绪不是突然爆发，积累了16年的各种在课堂上爆发出来，被老师污蔑点燃了我的情绪，而后无可救药般的逃避学校"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "name": "碎夏",
+                    "created_at": "2026-02-21T13:00:03.000Z",
+                    "protected": false,
+                    "description": "没有锚点的存在该如何生存",
+                    "id": "2025193723693596676",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2025194468119642116/D1KCuBeU_normal.jpg",
+                    "username": "miaomeow_cat",
+                    "verified": false,
+                    "public_metrics": {
+                      "followers_count": 15,
+                      "following_count": 18,
+                      "tweet_count": 219,
+                      "listed_count": 0,
+                      "like_count": 334,
+                      "media_count": 8
+                    }
+                  }
+                ],
+                "tweets": [
+                  {
+                    "reply_settings": "everyone",
+                    "edit_history_tweet_ids": [
+                      "2035009112233451989"
+                    ],
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2026-03-20T16:02:35.000Z"
+                    },
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 1,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 48
+                    },
+                    "lang": "zh",
+                    "conversation_id": "2035009112233451989",
+                    "id": "2035009112233451989",
+                    "author_id": "2025193723693596676",
+                    "created_at": "2026-03-20T15:02:35.000Z",
+                    "possibly_sensitive": false,
+                    "text": "在很长一段时间里我都幻想自己如果没有休学会是什么结果，现在想来以高中那种精神状态大概率是到了大学再休学然后依旧念不下去吧。"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "2035009112233451989",
+            "source": "x_api_oauth1",
+            "payload": {
+              "data": {
+                "text": "在很长一段时间里我都幻想自己如果没有休学会是什么结果，现在想来以高中那种精神状态大概率是到了大学再休学然后依旧念不下去吧。",
+                "lang": "zh",
+                "reply_settings": "everyone",
+                "id": "2035009112233451989",
+                "author_id": "2025193723693596676",
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 48
+                },
+                "edit_history_tweet_ids": [
+                  "2035009112233451989"
+                ],
+                "possibly_sensitive": false,
+                "conversation_id": "2035009112233451989",
+                "created_at": "2026-03-20T15:02:35.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2026-03-20T16:02:35.000Z"
+                }
+              },
+              "includes": {
+                "users": [
+                  {
+                    "id": "2025193723693596676",
+                    "name": "碎夏",
+                    "verified": false,
+                    "description": "没有锚点的存在该如何生存",
+                    "username": "miaomeow_cat",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2025194468119642116/D1KCuBeU_normal.jpg",
+                    "public_metrics": {
+                      "followers_count": 15,
+                      "following_count": 18,
+                      "tweet_count": 219,
+                      "listed_count": 0,
+                      "like_count": 334,
+                      "media_count": 8
+                    },
+                    "created_at": "2026-02-21T13:00:03.000Z",
+                    "protected": false
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,1 +1,1258 @@
-{"data":{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"2029197556102906130","created_at":"2026-03-05T12:56:42.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2026-03-05T13:56:42.000Z"},"edit_history_tweet_ids":["2029541614159630618"],"entities":{"mentions":[{"start":0,"end":8,"username":"fawpv25","id":"1900779126245769216"},{"start":9,"end":25,"username":"lijunyi87429205","id":"1498354035854053377"}]},"geo":{},"id":"2029541614159630618","in_reply_to_user_id":"1900779126245769216","lang":"ja","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"2029539183782752326"}],"reply_settings":"everyone","text":"@fawpv25 @lijunyi87429205 TT我想去没有痛苦的地方…"},"includes":{"users":[{"created_at":"2024-01-02T01:22:57.000Z","description":"猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 倒影@TauCeti_10700 计划这个号机的浓度更高一些 | 🚪88/158","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/iO6MRJNTYR","expanded_url":"https://ngl.link/anincandescence1","display_url":"ngl.link/anincandescenc…"}]},"description":{"mentions":[{"start":62,"end":76,"username":"TauCeti_10700"}]}},"id":"1741993395910811648","location":"天鹅座X-1 //⬇️ 匿名提问箱","name":"炽烈已极","pinned_tweet_id":"2024076888923365667","profile_image_url":"https://pbs.twimg.com/profile_images/2027047460930023425/YHzQxhYF_normal.jpg","protected":false,"public_metrics":{"followers_count":1756,"following_count":237,"tweet_count":6233,"listed_count":5,"like_count":14927,"media_count":1113},"url":"https://t.co/iO6MRJNTYR","username":"AnIncandescence","verified":false},{"created_at":"2025-03-15T05:20:44.000Z","description":"如果你知道怎么变成一只乌鸦，请告诉我/匿名提问箱：https://t.co/k5wuyYhVxZ致力于成为你们的互联网好朋鸦/艺术就是生命/我们的诞生不是为了被疼痛感束缚/学习像人类一样地活下去。","entities":{"description":{"urls":[{"start":25,"end":48,"url":"https://t.co/k5wuyYhVxZ","expanded_url":"https://ngl.link/jiyujin1/","display_url":"ngl.link/jiyujin1/"}]}},"id":"1900779126245769216","name":"Anoko","profile_image_url":"https://pbs.twimg.com/profile_images/2006613154210721792/8FPJv03i_normal.jpg","protected":true,"public_metrics":{"followers_count":77,"following_count":221,"tweet_count":3792,"listed_count":0,"like_count":13918,"media_count":96},"username":"fawpv25","verified":false},{"created_at":"2022-02-28T17:47:35.000Z","description":"生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意洵”这个名字吧/","id":"1498354035854053377","location":"Elysium","name":"意之意","profile_image_url":"https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg","protected":false,"public_metrics":{"followers_count":106,"following_count":374,"tweet_count":1150,"listed_count":8,"like_count":54828,"media_count":28},"username":"lijunyi87429205","verified":false}],"tweets":[{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"2029197556102906130","created_at":"2026-03-05T12:56:42.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2026-03-05T13:56:42.000Z"},"edit_history_tweet_ids":["2029541614159630618"],"entities":{"mentions":[{"start":0,"end":8,"username":"fawpv25","id":"1900779126245769216"},{"start":9,"end":25,"username":"lijunyi87429205","id":"1498354035854053377"}]},"geo":{},"id":"2029541614159630618","in_reply_to_user_id":"1900779126245769216","lang":"ja","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"2029539183782752326"}],"reply_settings":"everyone","text":"@fawpv25 @lijunyi87429205 TT我想去没有痛苦的地方…"}]},"errors":[{"resource_id":"2029539183782752326","parameter":"referenced_tweets.id","resource_type":"tweet","section":"includes","title":"Authorization Error","value":"2029539183782752326","detail":"Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2029539183782752326].","type":"https://api.twitter.com/2/problems/not-authorized-for-resource"}]}
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741993395910811648",
+    "conversation_id": "2029197556102906130",
+    "created_at": "2026-03-05T12:56:42.000Z",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2026-03-05T13:56:42.000Z"
+    },
+    "edit_history_tweet_ids": [
+      "2029541614159630618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 8,
+          "username": "fawpv25",
+          "id": "1900779126245769216"
+        },
+        {
+          "start": 9,
+          "end": 25,
+          "username": "lijunyi87429205",
+          "id": "1498354035854053377"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029541614159630618",
+    "in_reply_to_user_id": "1900779126245769216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "2029539183782752326"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fawpv25 @lijunyi87429205 TT我想去没有痛苦的地方…"
+  },
+  "includes": {
+    "users": [
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 倒影@TauCeti_10700 计划这个号机的浓度更高一些 | 🚪88/158",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/iO6MRJNTYR",
+                "expanded_url": "https://ngl.link/anincandescence1",
+                "display_url": "ngl.link/anincandescenc…"
+              }
+            ]
+          },
+          "description": {
+            "mentions": [
+              {
+                "start": 62,
+                "end": 76,
+                "username": "TauCeti_10700"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "天鹅座X-1 //⬇️ 匿名提问箱",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "2024076888923365667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027047460930023425/YHzQxhYF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1756,
+          "following_count": 237,
+          "tweet_count": 6233,
+          "listed_count": 5,
+          "like_count": 14927,
+          "media_count": 1113
+        },
+        "url": "https://t.co/iO6MRJNTYR",
+        "username": "AnIncandescence",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-15T05:20:44.000Z",
+        "description": "如果你知道怎么变成一只乌鸦，请告诉我/匿名提问箱：https://t.co/k5wuyYhVxZ致力于成为你们的互联网好朋鸦/艺术就是生命/我们的诞生不是为了被疼痛感束缚/学习像人类一样地活下去。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "start": 25,
+                "end": 48,
+                "url": "https://t.co/k5wuyYhVxZ",
+                "expanded_url": "https://ngl.link/jiyujin1/",
+                "display_url": "ngl.link/jiyujin1/"
+              }
+            ]
+          }
+        },
+        "id": "1900779126245769216",
+        "name": "Anoko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006613154210721792/8FPJv03i_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 221,
+          "tweet_count": 3792,
+          "listed_count": 0,
+          "like_count": 13918,
+          "media_count": 96
+        },
+        "username": "fawpv25",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意洵”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 374,
+          "tweet_count": 1150,
+          "listed_count": 8,
+          "like_count": 54828,
+          "media_count": 28
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741993395910811648",
+        "conversation_id": "2029197556102906130",
+        "created_at": "2026-03-05T12:56:42.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2026-03-05T13:56:42.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "2029541614159630618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 8,
+              "username": "fawpv25",
+              "id": "1900779126245769216"
+            },
+            {
+              "start": 9,
+              "end": 25,
+              "username": "lijunyi87429205",
+              "id": "1498354035854053377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029541614159630618",
+        "in_reply_to_user_id": "1900779126245769216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "2029539183782752326"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fawpv25 @lijunyi87429205 TT我想去没有痛苦的地方…"
+      }
+    ]
+  },
+  "errors": [
+    {
+      "resource_id": "2029539183782752326",
+      "parameter": "referenced_tweets.id",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "value": "2029539183782752326",
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2029539183782752326].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource"
+    }
+  ],
+  "_pale_fire": {
+    "x_api_reply_chains": {
+      "2029539183782752326": {
+        "version": 1,
+        "fetched_at": "2026-04-18T01:33:22Z",
+        "max_depth": 64,
+        "posts": [
+          {
+            "id": "2029539183782752326",
+            "source": "x_api_oauth1",
+            "payload": {
+              "data": {
+                "edit_history_tweet_ids": [
+                  "2029539183782752326"
+                ],
+                "lang": "zh",
+                "conversation_id": "2029197556102906130",
+                "possibly_sensitive": false,
+                "id": "2029539183782752326",
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "2029240955879211187"
+                  }
+                ],
+                "created_at": "2026-03-05T12:47:03.000Z",
+                "in_reply_to_user_id": "1741993395910811648",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2026-03-05T13:47:03.000Z"
+                },
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 0,
+                      "end": 16,
+                      "username": "AnIncandescence",
+                      "id": "1741993395910811648"
+                    },
+                    {
+                      "start": 17,
+                      "end": 33,
+                      "username": "lijunyi87429205",
+                      "id": "1498354035854053377"
+                    }
+                  ]
+                },
+                "reply_settings": "everyone",
+                "text": "@AnIncandescence @lijunyi87429205 并非残次品，因为小炽是精美的上帝造物所以才无法适应人类社会\n就像越是精密的仪器越需要悉心的保护和合适的环境一样",
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 35
+                },
+                "author_id": "1900779126245769216"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "verified": false,
+                    "protected": true,
+                    "name": "Anoko",
+                    "public_metrics": {
+                      "followers_count": 81,
+                      "following_count": 245,
+                      "tweet_count": 4429,
+                      "listed_count": 0,
+                      "like_count": 15724,
+                      "media_count": 105
+                    },
+                    "username": "fawpv25",
+                    "description": "如果你知道怎么变成一只乌鸦，请告诉我/致力于成为你们的互联网好朋鸦/艺术就是生命/我们的诞生不是为了被疼痛感束缚/学习像人类一样地活下去。",
+                    "created_at": "2025-03-15T05:20:44.000Z",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2006613154210721792/8FPJv03i_normal.jpg",
+                    "id": "1900779126245769216"
+                  }
+                ]
+              },
+              "errors": [
+                {
+                  "parameter": "in_reply_to_user_id",
+                  "resource_id": "1741993395910811648",
+                  "value": "1741993395910811648",
+                  "detail": "User has been suspended: [1741993395910811648].",
+                  "title": "Forbidden",
+                  "resource_type": "user",
+                  "type": "https://api.twitter.com/2/problems/resource-not-found"
+                },
+                {
+                  "resource_id": "2029240955879211187",
+                  "parameter": "referenced_tweets.id",
+                  "resource_type": "tweet",
+                  "section": "includes",
+                  "title": "Authorization Error",
+                  "value": "2029240955879211187",
+                  "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2029240955879211187].",
+                  "type": "https://api.twitter.com/2/problems/not-authorized-for-resource"
+                }
+              ]
+            }
+          },
+          {
+            "id": "2029240955879211187",
+            "source": "local_json",
+            "payload": {
+              "data": {
+                "article": {},
+                "attachments": {},
+                "author_id": "1741993395910811648",
+                "conversation_id": "2029197556102906130",
+                "created_at": "2026-03-04T17:02:00.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2026-03-04T18:02:00.000Z"
+                },
+                "edit_history_tweet_ids": [
+                  "2029240955879211187"
+                ],
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 0,
+                      "end": 16,
+                      "username": "lijunyi87429205",
+                      "id": "1498354035854053377"
+                    }
+                  ]
+                },
+                "geo": {},
+                "id": "2029240955879211187",
+                "in_reply_to_user_id": "1498354035854053377",
+                "lang": "zh",
+                "note_tweet": {
+                  "entities": {}
+                },
+                "possibly_sensitive": false,
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 0
+                },
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "2029238456665424118"
+                  }
+                ],
+                "reply_settings": "everyone",
+                "text": "@lijunyi87429205 不适应社会的人，无法融入人类的人，被认为需要治疗，治疗失败了，程序一直在报错，难道不是残次品吗。\n我没有迎难而上的勇气"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "created_at": "2024-01-02T01:22:57.000Z",
+                    "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 倒影@TauCeti_10700 计划这个号机的浓度更高一些 | 🚪88/158",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/iO6MRJNTYR",
+                            "expanded_url": "https://ngl.link/anincandescence1",
+                            "display_url": "ngl.link/anincandescenc…"
+                          }
+                        ]
+                      },
+                      "description": {
+                        "mentions": [
+                          {
+                            "start": 62,
+                            "end": 76,
+                            "username": "TauCeti_10700"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1741993395910811648",
+                    "location": "天鹅座X-1 //⬇️ 匿名提问箱",
+                    "name": "炽烈已极",
+                    "pinned_tweet_id": "2024076888923365667",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2027047460930023425/YHzQxhYF_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 1754,
+                      "following_count": 236,
+                      "tweet_count": 6213,
+                      "listed_count": 5,
+                      "like_count": 14894,
+                      "media_count": 1109
+                    },
+                    "url": "https://t.co/iO6MRJNTYR",
+                    "username": "AnIncandescence",
+                    "verified": false
+                  },
+                  {
+                    "created_at": "2022-02-28T17:47:35.000Z",
+                    "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意洵”这个名字吧/",
+                    "id": "1498354035854053377",
+                    "location": "Elysium",
+                    "name": "意之意",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 105,
+                      "following_count": 372,
+                      "tweet_count": 1146,
+                      "listed_count": 8,
+                      "like_count": 54761,
+                      "media_count": 28
+                    },
+                    "username": "lijunyi87429205",
+                    "verified": false
+                  }
+                ],
+                "tweets": [
+                  {
+                    "article": {},
+                    "attachments": {},
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "2029197556102906130",
+                    "created_at": "2026-03-04T17:02:00.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2026-03-04T18:02:00.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "2029240955879211187"
+                    ],
+                    "entities": {
+                      "mentions": [
+                        {
+                          "start": 0,
+                          "end": 16,
+                          "username": "lijunyi87429205",
+                          "id": "1498354035854053377"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "2029240955879211187",
+                    "in_reply_to_user_id": "1498354035854053377",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 0,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 0
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "2029238456665424118"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "@lijunyi87429205 不适应社会的人，无法融入人类的人，被认为需要治疗，治疗失败了，程序一直在报错，难道不是残次品吗。\n我没有迎难而上的勇气"
+                  },
+                  {
+                    "article": {},
+                    "attachments": {},
+                    "author_id": "1498354035854053377",
+                    "conversation_id": "2029197556102906130",
+                    "created_at": "2026-03-04T16:52:04.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2026-03-04T17:52:04.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "2029238456665424118"
+                    ],
+                    "entities": {
+                      "mentions": [
+                        {
+                          "start": 0,
+                          "end": 16,
+                          "username": "AnIncandescence",
+                          "id": "1741993395910811648"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "2029238456665424118",
+                    "in_reply_to_user_id": "1741993395910811648",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 1,
+                      "like_count": 1,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 5
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "2029197556102906130"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "@AnIncandescence 再好的系统也会被病毒和不兼容的环境毁掉吧，不是残次品"
+                  }
+                ]
+              },
+              "_pale_fire": {
+                "x_api_reply_chains": {
+                  "2029197556102906130": {
+                    "version": 1,
+                    "fetched_at": "2026-04-18T01:33:19Z",
+                    "max_depth": 63,
+                    "posts": [
+                      {
+                        "id": "2029197556102906130",
+                        "source": "local_json",
+                        "payload": {
+                          "data": {
+                            "article": {},
+                            "attachments": {
+                              "media_keys": [
+                                "3_2029241717283762176"
+                              ]
+                            },
+                            "author_id": "1741993395910811648",
+                            "conversation_id": "2029197556102906130",
+                            "created_at": "2026-03-04T17:05:05.000Z",
+                            "edit_controls": {
+                              "edits_remaining": 5,
+                              "is_edit_eligible": false,
+                              "editable_until": "2026-03-04T18:05:05.000Z"
+                            },
+                            "edit_history_tweet_ids": [
+                              "2029241735839351207"
+                            ],
+                            "entities": {
+                              "urls": [
+                                {
+                                  "start": 38,
+                                  "end": 61,
+                                  "url": "https://t.co/eTNaKa9pr6",
+                                  "expanded_url": "https://x.com/AnIncandescence/status/2029241735839351207/photo/1",
+                                  "display_url": "pic.x.com/eTNaKa9pr6",
+                                  "media_key": "3_2029241717283762176"
+                                }
+                              ]
+                            },
+                            "geo": {},
+                            "id": "2029241735839351207",
+                            "in_reply_to_user_id": "1741993395910811648",
+                            "lang": "zh",
+                            "note_tweet": {
+                              "entities": {}
+                            },
+                            "possibly_sensitive": false,
+                            "public_metrics": {
+                              "retweet_count": 0,
+                              "reply_count": 0,
+                              "like_count": 0,
+                              "quote_count": 0,
+                              "bookmark_count": 0,
+                              "impression_count": 0
+                            },
+                            "referenced_tweets": [
+                              {
+                                "type": "replied_to",
+                                "id": "2029197556102906130"
+                              }
+                            ],
+                            "reply_settings": "everyone",
+                            "text": "（一点安慰）\n对了…其实可以给我推荐一点可爱的创口贴…（）说不定能开心一点 https://t.co/eTNaKa9pr6"
+                          },
+                          "includes": {
+                            "media": [
+                              {
+                                "height": 2559,
+                                "media_key": "3_2029241717283762176",
+                                "public_metrics": {},
+                                "type": "photo",
+                                "url": "https://pbs.twimg.com/media/HClQlyoaMAAAQ0W.jpg",
+                                "width": 2559
+                              },
+                              {
+                                "height": 3024,
+                                "media_key": "3_2029197540269408259",
+                                "public_metrics": {},
+                                "type": "photo",
+                                "url": "https://pbs.twimg.com/media/HCkoaWbawAMeyH1.jpg",
+                                "width": 4032
+                              }
+                            ],
+                            "users": [
+                              {
+                                "created_at": "2024-01-02T01:22:57.000Z",
+                                "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 倒影@TauCeti_10700 计划这个号机的浓度更高一些 | 🚪88/158",
+                                "entities": {
+                                  "url": {
+                                    "urls": [
+                                      {
+                                        "start": 0,
+                                        "end": 23,
+                                        "url": "https://t.co/iO6MRJNTYR",
+                                        "expanded_url": "https://ngl.link/anincandescence1",
+                                        "display_url": "ngl.link/anincandescenc…"
+                                      }
+                                    ]
+                                  },
+                                  "description": {
+                                    "mentions": [
+                                      {
+                                        "start": 62,
+                                        "end": 76,
+                                        "username": "TauCeti_10700"
+                                      }
+                                    ]
+                                  }
+                                },
+                                "id": "1741993395910811648",
+                                "location": "天鹅座X-1 //⬇️ 匿名提问箱",
+                                "name": "炽烈已极",
+                                "pinned_tweet_id": "2024076888923365667",
+                                "profile_image_url": "https://pbs.twimg.com/profile_images/2027047460930023425/YHzQxhYF_normal.jpg",
+                                "protected": false,
+                                "public_metrics": {
+                                  "followers_count": 1754,
+                                  "following_count": 236,
+                                  "tweet_count": 6214,
+                                  "listed_count": 5,
+                                  "like_count": 14894,
+                                  "media_count": 1110
+                                },
+                                "url": "https://t.co/iO6MRJNTYR",
+                                "username": "AnIncandescence",
+                                "verified": false
+                              }
+                            ],
+                            "tweets": [
+                              {
+                                "article": {},
+                                "attachments": {
+                                  "media_keys": [
+                                    "3_2029241717283762176"
+                                  ]
+                                },
+                                "author_id": "1741993395910811648",
+                                "conversation_id": "2029197556102906130",
+                                "created_at": "2026-03-04T17:05:05.000Z",
+                                "edit_controls": {
+                                  "edits_remaining": 5,
+                                  "is_edit_eligible": false,
+                                  "editable_until": "2026-03-04T18:05:05.000Z"
+                                },
+                                "edit_history_tweet_ids": [
+                                  "2029241735839351207"
+                                ],
+                                "entities": {
+                                  "urls": [
+                                    {
+                                      "start": 38,
+                                      "end": 61,
+                                      "url": "https://t.co/eTNaKa9pr6",
+                                      "expanded_url": "https://x.com/AnIncandescence/status/2029241735839351207/photo/1",
+                                      "display_url": "pic.x.com/eTNaKa9pr6",
+                                      "media_key": "3_2029241717283762176"
+                                    }
+                                  ]
+                                },
+                                "geo": {},
+                                "id": "2029241735839351207",
+                                "in_reply_to_user_id": "1741993395910811648",
+                                "lang": "zh",
+                                "note_tweet": {
+                                  "entities": {}
+                                },
+                                "possibly_sensitive": false,
+                                "public_metrics": {
+                                  "retweet_count": 0,
+                                  "reply_count": 0,
+                                  "like_count": 0,
+                                  "quote_count": 0,
+                                  "bookmark_count": 0,
+                                  "impression_count": 0
+                                },
+                                "referenced_tweets": [
+                                  {
+                                    "type": "replied_to",
+                                    "id": "2029197556102906130"
+                                  }
+                                ],
+                                "reply_settings": "everyone",
+                                "text": "（一点安慰）\n对了…其实可以给我推荐一点可爱的创口贴…（）说不定能开心一点 https://t.co/eTNaKa9pr6"
+                              },
+                              {
+                                "article": {},
+                                "attachments": {
+                                  "media_keys": [
+                                    "3_2029197540269408259"
+                                  ]
+                                },
+                                "author_id": "1741993395910811648",
+                                "conversation_id": "2029197556102906130",
+                                "created_at": "2026-03-04T14:09:32.000Z",
+                                "edit_controls": {
+                                  "edits_remaining": 5,
+                                  "is_edit_eligible": false,
+                                  "editable_until": "2026-03-04T15:09:32.000Z"
+                                },
+                                "edit_history_tweet_ids": [
+                                  "2029197556102906130"
+                                ],
+                                "entities": {
+                                  "urls": [
+                                    {
+                                      "start": 30,
+                                      "end": 53,
+                                      "url": "https://t.co/RfwD1u9WRB",
+                                      "expanded_url": "https://x.com/AnIncandescence/status/2029197556102906130/photo/1",
+                                      "display_url": "pic.x.com/RfwD1u9WRB",
+                                      "media_key": "3_2029197540269408259"
+                                    }
+                                  ]
+                                },
+                                "geo": {},
+                                "id": "2029197556102906130",
+                                "lang": "zh",
+                                "note_tweet": {
+                                  "entities": {}
+                                },
+                                "possibly_sensitive": false,
+                                "public_metrics": {
+                                  "retweet_count": 0,
+                                  "reply_count": 2,
+                                  "like_count": 18,
+                                  "quote_count": 0,
+                                  "bookmark_count": 0,
+                                  "impression_count": 239
+                                },
+                                "reply_settings": "everyone",
+                                "text": "残次品。\n\n「检测到程序频繁崩溃，点击下方向我们提交问题」 https://t.co/RfwD1u9WRB"
+                              }
+                            ]
+                          }
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          },
+          {
+            "id": "2029238456665424118",
+            "source": "local_json",
+            "payload": {
+              "data": {
+                "article": {},
+                "attachments": {},
+                "author_id": "1741993395910811648",
+                "conversation_id": "2029197556102906130",
+                "created_at": "2026-03-04T17:02:00.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2026-03-04T18:02:00.000Z"
+                },
+                "edit_history_tweet_ids": [
+                  "2029240955879211187"
+                ],
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 0,
+                      "end": 16,
+                      "username": "lijunyi87429205",
+                      "id": "1498354035854053377"
+                    }
+                  ]
+                },
+                "geo": {},
+                "id": "2029240955879211187",
+                "in_reply_to_user_id": "1498354035854053377",
+                "lang": "zh",
+                "note_tweet": {
+                  "entities": {}
+                },
+                "possibly_sensitive": false,
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 0
+                },
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "2029238456665424118"
+                  }
+                ],
+                "reply_settings": "everyone",
+                "text": "@lijunyi87429205 不适应社会的人，无法融入人类的人，被认为需要治疗，治疗失败了，程序一直在报错，难道不是残次品吗。\n我没有迎难而上的勇气"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "created_at": "2024-01-02T01:22:57.000Z",
+                    "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 倒影@TauCeti_10700 计划这个号机的浓度更高一些 | 🚪88/158",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/iO6MRJNTYR",
+                            "expanded_url": "https://ngl.link/anincandescence1",
+                            "display_url": "ngl.link/anincandescenc…"
+                          }
+                        ]
+                      },
+                      "description": {
+                        "mentions": [
+                          {
+                            "start": 62,
+                            "end": 76,
+                            "username": "TauCeti_10700"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1741993395910811648",
+                    "location": "天鹅座X-1 //⬇️ 匿名提问箱",
+                    "name": "炽烈已极",
+                    "pinned_tweet_id": "2024076888923365667",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2027047460930023425/YHzQxhYF_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 1754,
+                      "following_count": 236,
+                      "tweet_count": 6213,
+                      "listed_count": 5,
+                      "like_count": 14894,
+                      "media_count": 1109
+                    },
+                    "url": "https://t.co/iO6MRJNTYR",
+                    "username": "AnIncandescence",
+                    "verified": false
+                  },
+                  {
+                    "created_at": "2022-02-28T17:47:35.000Z",
+                    "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意洵”这个名字吧/",
+                    "id": "1498354035854053377",
+                    "location": "Elysium",
+                    "name": "意之意",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 105,
+                      "following_count": 372,
+                      "tweet_count": 1146,
+                      "listed_count": 8,
+                      "like_count": 54761,
+                      "media_count": 28
+                    },
+                    "username": "lijunyi87429205",
+                    "verified": false
+                  }
+                ],
+                "tweets": [
+                  {
+                    "article": {},
+                    "attachments": {},
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "2029197556102906130",
+                    "created_at": "2026-03-04T17:02:00.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2026-03-04T18:02:00.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "2029240955879211187"
+                    ],
+                    "entities": {
+                      "mentions": [
+                        {
+                          "start": 0,
+                          "end": 16,
+                          "username": "lijunyi87429205",
+                          "id": "1498354035854053377"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "2029240955879211187",
+                    "in_reply_to_user_id": "1498354035854053377",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 0,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 0
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "2029238456665424118"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "@lijunyi87429205 不适应社会的人，无法融入人类的人，被认为需要治疗，治疗失败了，程序一直在报错，难道不是残次品吗。\n我没有迎难而上的勇气"
+                  },
+                  {
+                    "article": {},
+                    "attachments": {},
+                    "author_id": "1498354035854053377",
+                    "conversation_id": "2029197556102906130",
+                    "created_at": "2026-03-04T16:52:04.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2026-03-04T17:52:04.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "2029238456665424118"
+                    ],
+                    "entities": {
+                      "mentions": [
+                        {
+                          "start": 0,
+                          "end": 16,
+                          "username": "AnIncandescence",
+                          "id": "1741993395910811648"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "2029238456665424118",
+                    "in_reply_to_user_id": "1741993395910811648",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 1,
+                      "like_count": 1,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 5
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "2029197556102906130"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "@AnIncandescence 再好的系统也会被病毒和不兼容的环境毁掉吧，不是残次品"
+                  }
+                ]
+              },
+              "_pale_fire": {
+                "x_api_reply_chains": {
+                  "2029197556102906130": {
+                    "version": 1,
+                    "fetched_at": "2026-04-18T01:33:19Z",
+                    "max_depth": 63,
+                    "posts": [
+                      {
+                        "id": "2029197556102906130",
+                        "source": "local_json",
+                        "payload": {
+                          "data": {
+                            "article": {},
+                            "attachments": {
+                              "media_keys": [
+                                "3_2029241717283762176"
+                              ]
+                            },
+                            "author_id": "1741993395910811648",
+                            "conversation_id": "2029197556102906130",
+                            "created_at": "2026-03-04T17:05:05.000Z",
+                            "edit_controls": {
+                              "edits_remaining": 5,
+                              "is_edit_eligible": false,
+                              "editable_until": "2026-03-04T18:05:05.000Z"
+                            },
+                            "edit_history_tweet_ids": [
+                              "2029241735839351207"
+                            ],
+                            "entities": {
+                              "urls": [
+                                {
+                                  "start": 38,
+                                  "end": 61,
+                                  "url": "https://t.co/eTNaKa9pr6",
+                                  "expanded_url": "https://x.com/AnIncandescence/status/2029241735839351207/photo/1",
+                                  "display_url": "pic.x.com/eTNaKa9pr6",
+                                  "media_key": "3_2029241717283762176"
+                                }
+                              ]
+                            },
+                            "geo": {},
+                            "id": "2029241735839351207",
+                            "in_reply_to_user_id": "1741993395910811648",
+                            "lang": "zh",
+                            "note_tweet": {
+                              "entities": {}
+                            },
+                            "possibly_sensitive": false,
+                            "public_metrics": {
+                              "retweet_count": 0,
+                              "reply_count": 0,
+                              "like_count": 0,
+                              "quote_count": 0,
+                              "bookmark_count": 0,
+                              "impression_count": 0
+                            },
+                            "referenced_tweets": [
+                              {
+                                "type": "replied_to",
+                                "id": "2029197556102906130"
+                              }
+                            ],
+                            "reply_settings": "everyone",
+                            "text": "（一点安慰）\n对了…其实可以给我推荐一点可爱的创口贴…（）说不定能开心一点 https://t.co/eTNaKa9pr6"
+                          },
+                          "includes": {
+                            "media": [
+                              {
+                                "height": 2559,
+                                "media_key": "3_2029241717283762176",
+                                "public_metrics": {},
+                                "type": "photo",
+                                "url": "https://pbs.twimg.com/media/HClQlyoaMAAAQ0W.jpg",
+                                "width": 2559
+                              },
+                              {
+                                "height": 3024,
+                                "media_key": "3_2029197540269408259",
+                                "public_metrics": {},
+                                "type": "photo",
+                                "url": "https://pbs.twimg.com/media/HCkoaWbawAMeyH1.jpg",
+                                "width": 4032
+                              }
+                            ],
+                            "users": [
+                              {
+                                "created_at": "2024-01-02T01:22:57.000Z",
+                                "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 倒影@TauCeti_10700 计划这个号机的浓度更高一些 | 🚪88/158",
+                                "entities": {
+                                  "url": {
+                                    "urls": [
+                                      {
+                                        "start": 0,
+                                        "end": 23,
+                                        "url": "https://t.co/iO6MRJNTYR",
+                                        "expanded_url": "https://ngl.link/anincandescence1",
+                                        "display_url": "ngl.link/anincandescenc…"
+                                      }
+                                    ]
+                                  },
+                                  "description": {
+                                    "mentions": [
+                                      {
+                                        "start": 62,
+                                        "end": 76,
+                                        "username": "TauCeti_10700"
+                                      }
+                                    ]
+                                  }
+                                },
+                                "id": "1741993395910811648",
+                                "location": "天鹅座X-1 //⬇️ 匿名提问箱",
+                                "name": "炽烈已极",
+                                "pinned_tweet_id": "2024076888923365667",
+                                "profile_image_url": "https://pbs.twimg.com/profile_images/2027047460930023425/YHzQxhYF_normal.jpg",
+                                "protected": false,
+                                "public_metrics": {
+                                  "followers_count": 1754,
+                                  "following_count": 236,
+                                  "tweet_count": 6214,
+                                  "listed_count": 5,
+                                  "like_count": 14894,
+                                  "media_count": 1110
+                                },
+                                "url": "https://t.co/iO6MRJNTYR",
+                                "username": "AnIncandescence",
+                                "verified": false
+                              }
+                            ],
+                            "tweets": [
+                              {
+                                "article": {},
+                                "attachments": {
+                                  "media_keys": [
+                                    "3_2029241717283762176"
+                                  ]
+                                },
+                                "author_id": "1741993395910811648",
+                                "conversation_id": "2029197556102906130",
+                                "created_at": "2026-03-04T17:05:05.000Z",
+                                "edit_controls": {
+                                  "edits_remaining": 5,
+                                  "is_edit_eligible": false,
+                                  "editable_until": "2026-03-04T18:05:05.000Z"
+                                },
+                                "edit_history_tweet_ids": [
+                                  "2029241735839351207"
+                                ],
+                                "entities": {
+                                  "urls": [
+                                    {
+                                      "start": 38,
+                                      "end": 61,
+                                      "url": "https://t.co/eTNaKa9pr6",
+                                      "expanded_url": "https://x.com/AnIncandescence/status/2029241735839351207/photo/1",
+                                      "display_url": "pic.x.com/eTNaKa9pr6",
+                                      "media_key": "3_2029241717283762176"
+                                    }
+                                  ]
+                                },
+                                "geo": {},
+                                "id": "2029241735839351207",
+                                "in_reply_to_user_id": "1741993395910811648",
+                                "lang": "zh",
+                                "note_tweet": {
+                                  "entities": {}
+                                },
+                                "possibly_sensitive": false,
+                                "public_metrics": {
+                                  "retweet_count": 0,
+                                  "reply_count": 0,
+                                  "like_count": 0,
+                                  "quote_count": 0,
+                                  "bookmark_count": 0,
+                                  "impression_count": 0
+                                },
+                                "referenced_tweets": [
+                                  {
+                                    "type": "replied_to",
+                                    "id": "2029197556102906130"
+                                  }
+                                ],
+                                "reply_settings": "everyone",
+                                "text": "（一点安慰）\n对了…其实可以给我推荐一点可爱的创口贴…（）说不定能开心一点 https://t.co/eTNaKa9pr6"
+                              },
+                              {
+                                "article": {},
+                                "attachments": {
+                                  "media_keys": [
+                                    "3_2029197540269408259"
+                                  ]
+                                },
+                                "author_id": "1741993395910811648",
+                                "conversation_id": "2029197556102906130",
+                                "created_at": "2026-03-04T14:09:32.000Z",
+                                "edit_controls": {
+                                  "edits_remaining": 5,
+                                  "is_edit_eligible": false,
+                                  "editable_until": "2026-03-04T15:09:32.000Z"
+                                },
+                                "edit_history_tweet_ids": [
+                                  "2029197556102906130"
+                                ],
+                                "entities": {
+                                  "urls": [
+                                    {
+                                      "start": 30,
+                                      "end": 53,
+                                      "url": "https://t.co/RfwD1u9WRB",
+                                      "expanded_url": "https://x.com/AnIncandescence/status/2029197556102906130/photo/1",
+                                      "display_url": "pic.x.com/RfwD1u9WRB",
+                                      "media_key": "3_2029197540269408259"
+                                    }
+                                  ]
+                                },
+                                "geo": {},
+                                "id": "2029197556102906130",
+                                "lang": "zh",
+                                "note_tweet": {
+                                  "entities": {}
+                                },
+                                "possibly_sensitive": false,
+                                "public_metrics": {
+                                  "retweet_count": 0,
+                                  "reply_count": 2,
+                                  "like_count": 18,
+                                  "quote_count": 0,
+                                  "bookmark_count": 0,
+                                  "impression_count": 239
+                                },
+                                "reply_settings": "everyone",
+                                "text": "残次品。\n\n「检测到程序频繁崩溃，点击下方向我们提交问题」 https://t.co/RfwD1u9WRB"
+                              }
+                            ]
+                          }
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

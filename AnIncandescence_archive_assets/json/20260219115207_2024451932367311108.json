@@ -1,1 +1,329 @@
-{"data":{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"2024393471512150472","created_at":"2026-02-19T11:52:07.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2026-02-19T12:52:07.000Z"},"edit_history_tweet_ids":["2024451932367311108"],"entities":{"mentions":[{"start":0,"end":14,"username":"paipaipaitang","id":"69280655"}]},"geo":{},"id":"2024451932367311108","in_reply_to_user_id":"69280655","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"2024451232249893073"}],"reply_settings":"everyone","text":"@paipaipaitang 认不得，图中的人是谁"},"includes":{"users":[{"created_at":"2024-01-02T01:22:57.000Z","description":"猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 倒影@TauCeti_10700 计划这个号机的浓度更高一些 | 🚪88/158","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/iO6MRJNTYR","expanded_url":"https://ngl.link/anincandescence1","display_url":"ngl.link/anincandescenc…"}]},"description":{"mentions":[{"start":62,"end":76,"username":"TauCeti_10700"}]}},"id":"1741993395910811648","location":"天鹅座X-1 //⬇️ 匿名提问箱","name":"炽烈已极","pinned_tweet_id":"2024076888923365667","profile_image_url":"https://pbs.twimg.com/profile_images/2006317223414255617/jGT_GZyG_normal.jpg","protected":false,"public_metrics":{"followers_count":1721,"following_count":233,"tweet_count":5809,"listed_count":5,"like_count":14061,"media_count":1055},"url":"https://t.co/iO6MRJNTYR","username":"AnIncandescence","verified":false},{"created_at":"2009-08-27T12:47:46.000Z","description":"tg：paitangcuzhi3","id":"69280655","name":"☯️🧬ATLAS 無極","pinned_tweet_id":"2020235179483340839","profile_image_url":"https://pbs.twimg.com/profile_images/2016934483623395328/-DAVEPMX_normal.jpg","protected":false,"public_metrics":{"followers_count":904,"following_count":63,"tweet_count":347,"listed_count":0,"like_count":322,"media_count":29},"username":"paipaipaitang","verified":true}],"tweets":[{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"2024393471512150472","created_at":"2026-02-19T11:52:07.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2026-02-19T12:52:07.000Z"},"edit_history_tweet_ids":["2024451932367311108"],"entities":{"mentions":[{"start":0,"end":14,"username":"paipaipaitang","id":"69280655"}]},"geo":{},"id":"2024451932367311108","in_reply_to_user_id":"69280655","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"2024451232249893073"}],"reply_settings":"everyone","text":"@paipaipaitang 认不得，图中的人是谁"},{"article":{},"attachments":{},"author_id":"69280655","conversation_id":"2024393471512150472","created_at":"2026-02-19T11:49:20.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2026-02-19T12:49:20.000Z"},"edit_history_tweet_ids":["2024451232249893073"],"entities":{"mentions":[{"start":0,"end":9,"username":"MaxForAI","id":"1699797396589588480"},{"start":10,"end":26,"username":"AnIncandescence","id":"1741993395910811648"}]},"geo":{},"id":"2024451232249893073","in_reply_to_user_id":"1699797396589588480","lang":"qme","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":1,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":2},"referenced_tweets":[{"type":"replied_to","id":"2024393471512150472"}],"reply_settings":"everyone","text":"@MaxForAI @AnIncandescence 🤣🤣👍"}]}}
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741993395910811648",
+    "conversation_id": "2024393471512150472",
+    "created_at": "2026-02-19T11:52:07.000Z",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2026-02-19T12:52:07.000Z"
+    },
+    "edit_history_tweet_ids": [
+      "2024451932367311108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "paipaipaitang",
+          "id": "69280655"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024451932367311108",
+    "in_reply_to_user_id": "69280655",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "2024451232249893073"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@paipaipaitang 认不得，图中的人是谁"
+  },
+  "includes": {
+    "users": [
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 倒影@TauCeti_10700 计划这个号机的浓度更高一些 | 🚪88/158",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/iO6MRJNTYR",
+                "expanded_url": "https://ngl.link/anincandescence1",
+                "display_url": "ngl.link/anincandescenc…"
+              }
+            ]
+          },
+          "description": {
+            "mentions": [
+              {
+                "start": 62,
+                "end": 76,
+                "username": "TauCeti_10700"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "天鹅座X-1 //⬇️ 匿名提问箱",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "2024076888923365667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006317223414255617/jGT_GZyG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1721,
+          "following_count": 233,
+          "tweet_count": 5809,
+          "listed_count": 5,
+          "like_count": 14061,
+          "media_count": 1055
+        },
+        "url": "https://t.co/iO6MRJNTYR",
+        "username": "AnIncandescence",
+        "verified": false
+      },
+      {
+        "created_at": "2009-08-27T12:47:46.000Z",
+        "description": "tg：paitangcuzhi3",
+        "id": "69280655",
+        "name": "☯️🧬ATLAS 無極",
+        "pinned_tweet_id": "2020235179483340839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016934483623395328/-DAVEPMX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 904,
+          "following_count": 63,
+          "tweet_count": 347,
+          "listed_count": 0,
+          "like_count": 322,
+          "media_count": 29
+        },
+        "username": "paipaipaitang",
+        "verified": true
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741993395910811648",
+        "conversation_id": "2024393471512150472",
+        "created_at": "2026-02-19T11:52:07.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2026-02-19T12:52:07.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "2024451932367311108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 14,
+              "username": "paipaipaitang",
+              "id": "69280655"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024451932367311108",
+        "in_reply_to_user_id": "69280655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "2024451232249893073"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@paipaipaitang 认不得，图中的人是谁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "69280655",
+        "conversation_id": "2024393471512150472",
+        "created_at": "2026-02-19T11:49:20.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2026-02-19T12:49:20.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "2024451232249893073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 9,
+              "username": "MaxForAI",
+              "id": "1699797396589588480"
+            },
+            {
+              "start": 10,
+              "end": 26,
+              "username": "AnIncandescence",
+              "id": "1741993395910811648"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024451232249893073",
+        "in_reply_to_user_id": "1699797396589588480",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "2024393471512150472"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MaxForAI @AnIncandescence 🤣🤣👍"
+      }
+    ]
+  },
+  "_pale_fire": {
+    "x_api_reply_chains": {
+      "2024393471512150472": {
+        "version": 1,
+        "fetched_at": "2026-04-18T01:29:17Z",
+        "max_depth": 63,
+        "posts": [
+          {
+            "id": "2024393471512150472",
+            "source": "x_api_oauth1",
+            "payload": {
+              "data": {
+                "lang": "zh",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": true,
+                  "editable_until": "2026-02-19T08:59:49.000Z"
+                },
+                "reply_settings": "everyone",
+                "created_at": "2026-02-19T07:59:49.000Z",
+                "text": "我宣布，这是26年AI圈最拉风的情头\n找个人跟我用！ https://t.co/XjvRSrPfLx",
+                "possibly_sensitive": false,
+                "author_id": "1699797396589588480",
+                "entities": {
+                  "urls": [
+                    {
+                      "start": 27,
+                      "end": 50,
+                      "url": "https://t.co/XjvRSrPfLx",
+                      "expanded_url": "https://x.com/MaxForAI/status/2024393471512150472/photo/1",
+                      "display_url": "pic.x.com/XjvRSrPfLx",
+                      "media_key": "3_2024393464314830848"
+                    }
+                  ]
+                },
+                "edit_history_tweet_ids": [
+                  "2024393471512150472"
+                ],
+                "conversation_id": "2024393471512150472",
+                "public_metrics": {
+                  "retweet_count": 6,
+                  "reply_count": 15,
+                  "like_count": 200,
+                  "quote_count": 1,
+                  "bookmark_count": 20,
+                  "impression_count": 29531
+                },
+                "attachments": {
+                  "media_keys": [
+                    "3_2024393464314830848"
+                  ]
+                },
+                "id": "2024393471512150472"
+              },
+              "includes": {
+                "media": [
+                  {
+                    "media_key": "3_2024393464314830848",
+                    "type": "photo",
+                    "height": 362,
+                    "url": "https://pbs.twimg.com/media/HBgXIU4boAAHFdn.jpg",
+                    "width": 422
+                  }
+                ],
+                "users": [
+                  {
+                    "public_metrics": {
+                      "followers_count": 7482,
+                      "following_count": 1218,
+                      "tweet_count": 2312,
+                      "listed_count": 72,
+                      "like_count": 5178,
+                      "media_count": 346
+                    },
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/Sl0Wv6feey",
+                            "expanded_url": "http://maxforai.com",
+                            "display_url": "maxforai.com"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1699797396589588480",
+                    "verified": false,
+                    "created_at": "2023-09-07T14:51:17.000Z",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1885611457376903171/zWWnahYp_normal.jpg",
+                    "url": "https://t.co/Sl0Wv6feey",
+                    "protected": false,
+                    "username": "MaxForAI",
+                    "location": "Singapore",
+                    "name": "Max For AI",
+                    "description": "没啥好看的，也就发点AI相关的内容    Prev双币基金行研、大模型团队、AI媒体"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

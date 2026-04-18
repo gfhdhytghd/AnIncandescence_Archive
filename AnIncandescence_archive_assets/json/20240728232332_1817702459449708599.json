@@ -1,1 +1,381 @@
-{"data":{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1817503286318002674","created_at":"2024-07-28T23:23:32.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2024-07-29T00:23:32.000Z"},"edit_history_tweet_ids":["1817702459449708599"],"entities":{"mentions":[{"start":0,"end":10,"username":"oct424242","id":"1761821960978460672"}]},"geo":{},"id":"1817702459449708599","in_reply_to_user_id":"1761821960978460672","lang":"zh","possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1817698135302459857"}],"reply_settings":"everyone","text":"@oct424242 卑微👉👈老师我没那个水平"},"includes":{"users":[{"created_at":"2024-01-02T01:22:57.000Z","description":"互fo欢迎！ 猫，诗歌，精神动力学。艺术，C#，波粒二象性。回归曲线上的量子生物，无攻击性。提问箱👇","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/MuEKSg3VTk","expanded_url":"https://ngl.link/anincandescence","display_url":"ngl.link/anincandescence"}]}},"id":"1741993395910811648","location":"0°00′N 260°00′E Mars","name":"炽烈已极","pinned_tweet_id":"1817246358148989434","profile_image_url":"https://pbs.twimg.com/profile_images/1789433740277567488/d3KhwUX1_normal.jpg","protected":false,"public_metrics":{"followers_count":149,"following_count":125,"tweet_count":848,"listed_count":0,"like_count":2646},"url":"https://t.co/MuEKSg3VTk","username":"AnIncandescence","verified":false},{"created_at":"2024-02-25T18:34:37.000Z","description":"they/them🏳️‍🌈绝赞恋爱中/asd/adhd/物理/中文/eng 互fo欢迎","id":"1761821960978460672","name":"陸生章魚","pinned_tweet_id":"1817696716381938013","profile_image_url":"https://pbs.twimg.com/profile_images/1761954883018866688/gMrltbK8_normal.jpg","protected":false,"public_metrics":{"followers_count":33,"following_count":56,"tweet_count":158,"listed_count":0,"like_count":134},"username":"oct424242","verified":false}],"tweets":[{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1817503286318002674","created_at":"2024-07-28T23:23:32.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2024-07-29T00:23:32.000Z"},"edit_history_tweet_ids":["1817702459449708599"],"entities":{"mentions":[{"start":0,"end":10,"username":"oct424242","id":"1761821960978460672"}]},"geo":{},"id":"1817702459449708599","in_reply_to_user_id":"1761821960978460672","lang":"zh","possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1817698135302459857"}],"reply_settings":"everyone","text":"@oct424242 卑微👉👈老师我没那个水平"},{"article":{},"attachments":{},"author_id":"1761821960978460672","conversation_id":"1817503286318002674","created_at":"2024-07-28T23:06:21.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2024-07-29T00:06:21.000Z"},"edit_history_tweet_ids":["1817698135302459857"],"entities":{"mentions":[{"start":0,"end":16,"username":"AnIncandescence","id":"1741993395910811648"}]},"geo":{},"id":"1817698135302459857","in_reply_to_user_id":"1741993395910811648","lang":"zh","possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":1,"like_count":1,"quote_count":0,"bookmark_count":0,"impression_count":7},"referenced_tweets":[{"type":"replied_to","id":"1817503286318002674"}],"reply_settings":"everyone","text":"@AnIncandescence 天哪我要約你稿（"}]}}
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741993395910811648",
+    "conversation_id": "1817503286318002674",
+    "created_at": "2024-07-28T23:23:32.000Z",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-07-29T00:23:32.000Z"
+    },
+    "edit_history_tweet_ids": [
+      "1817702459449708599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 10,
+          "username": "oct424242",
+          "id": "1761821960978460672"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1817702459449708599",
+    "in_reply_to_user_id": "1761821960978460672",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1817698135302459857"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oct424242 卑微👉👈老师我没那个水平"
+  },
+  "includes": {
+    "users": [
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "互fo欢迎！ 猫，诗歌，精神动力学。艺术，C#，波粒二象性。回归曲线上的量子生物，无攻击性。提问箱👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/MuEKSg3VTk",
+                "expanded_url": "https://ngl.link/anincandescence",
+                "display_url": "ngl.link/anincandescence"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "0°00′N 260°00′E Mars",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "1817246358148989434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789433740277567488/d3KhwUX1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 125,
+          "tweet_count": 848,
+          "listed_count": 0,
+          "like_count": 2646
+        },
+        "url": "https://t.co/MuEKSg3VTk",
+        "username": "AnIncandescence",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-25T18:34:37.000Z",
+        "description": "they/them🏳️‍🌈绝赞恋爱中/asd/adhd/物理/中文/eng 互fo欢迎",
+        "id": "1761821960978460672",
+        "name": "陸生章魚",
+        "pinned_tweet_id": "1817696716381938013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761954883018866688/gMrltbK8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 56,
+          "tweet_count": 158,
+          "listed_count": 0,
+          "like_count": 134
+        },
+        "username": "oct424242",
+        "verified": false
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741993395910811648",
+        "conversation_id": "1817503286318002674",
+        "created_at": "2024-07-28T23:23:32.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2024-07-29T00:23:32.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1817702459449708599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 10,
+              "username": "oct424242",
+              "id": "1761821960978460672"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817702459449708599",
+        "in_reply_to_user_id": "1761821960978460672",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1817698135302459857"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oct424242 卑微👉👈老师我没那个水平"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761821960978460672",
+        "conversation_id": "1817503286318002674",
+        "created_at": "2024-07-28T23:06:21.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2024-07-29T00:06:21.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1817698135302459857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 16,
+              "username": "AnIncandescence",
+              "id": "1741993395910811648"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817698135302459857",
+        "in_reply_to_user_id": "1741993395910811648",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1817503286318002674"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnIncandescence 天哪我要約你稿（"
+      }
+    ]
+  },
+  "_pale_fire": {
+    "x_api_reply_chains": {
+      "1817503286318002674": {
+        "version": 1,
+        "fetched_at": "2026-04-17T23:58:56Z",
+        "max_depth": 63,
+        "posts": [
+          {
+            "id": "1817503286318002674",
+            "source": "local_json",
+            "payload": {
+              "data": {
+                "article": {},
+                "attachments": {},
+                "author_id": "1741993395910811648",
+                "conversation_id": "1817503286318002674",
+                "created_at": "2024-07-28T12:00:34.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2024-07-28T13:00:34.000Z"
+                },
+                "edit_history_tweet_ids": [
+                  "1817530588011655311"
+                ],
+                "entities": {},
+                "geo": {},
+                "id": "1817530588011655311",
+                "in_reply_to_user_id": "1741993395910811648",
+                "lang": "zh",
+                "possibly_sensitive": false,
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 0
+                },
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "1817503286318002674"
+                  }
+                ],
+                "reply_settings": "everyone",
+                "text": "谁来教我到底怎么画白毛😫"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "created_at": "2024-01-02T01:22:57.000Z",
+                    "description": "互fo欢迎！ 猫，诗歌，精神动力学。艺术，C#，波粒二象性。回归曲线上的量子生物，无攻击性。提问箱👇",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/MuEKSg3VTk",
+                            "expanded_url": "https://ngl.link/anincandescence",
+                            "display_url": "ngl.link/anincandescence"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1741993395910811648",
+                    "location": "0°00′N 260°00′E Mars",
+                    "name": "炽烈已极",
+                    "pinned_tweet_id": "1809171399677820951",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1789433740277567488/d3KhwUX1_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 143,
+                      "following_count": 118,
+                      "tweet_count": 835,
+                      "listed_count": 0,
+                      "like_count": 2580
+                    },
+                    "url": "https://t.co/MuEKSg3VTk",
+                    "username": "AnIncandescence",
+                    "verified": false
+                  }
+                ],
+                "tweets": [
+                  {
+                    "article": {},
+                    "attachments": {},
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "1817503286318002674",
+                    "created_at": "2024-07-28T12:00:34.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2024-07-28T13:00:34.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "1817530588011655311"
+                    ],
+                    "entities": {},
+                    "geo": {},
+                    "id": "1817530588011655311",
+                    "in_reply_to_user_id": "1741993395910811648",
+                    "lang": "zh",
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 0,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 0
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "1817503286318002674"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "谁来教我到底怎么画白毛😫"
+                  },
+                  {
+                    "article": {},
+                    "attachments": {
+                      "media_keys": [
+                        "3_1817503282228559872",
+                        "3_1817503282224345088"
+                      ]
+                    },
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "1817503286318002674",
+                    "created_at": "2024-07-28T10:12:05.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2024-07-28T11:12:05.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "1817503286318002674"
+                    ],
+                    "entities": {
+                      "urls": [
+                        {
+                          "start": 15,
+                          "end": 38,
+                          "url": "https://t.co/w59tnHBuFv",
+                          "expanded_url": "https://twitter.com/AnIncandescence/status/1817503286318002674/photo/1",
+                          "display_url": "pic.twitter.com/w59tnHBuFv",
+                          "media_key": "3_1817503282228559872"
+                        },
+                        {
+                          "start": 15,
+                          "end": 38,
+                          "url": "https://t.co/w59tnHBuFv",
+                          "expanded_url": "https://twitter.com/AnIncandescence/status/1817503286318002674/photo/1",
+                          "display_url": "pic.twitter.com/w59tnHBuFv",
+                          "media_key": "3_1817503282224345088"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "1817503286318002674",
+                    "lang": "zh",
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 2,
+                      "like_count": 5,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 52
+                    },
+                    "reply_settings": "everyone",
+                    "text": "另一个崽崽，等我试着细化一下 https://t.co/w59tnHBuFv"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

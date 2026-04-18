@@ -1,1 +1,348 @@
-{"data":{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1909786426964902096","created_at":"2025-04-09T03:46:32.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-04-09T04:46:32.000Z"},"edit_history_tweet_ids":["1909815166088495561"],"entities":{"mentions":[{"start":0,"end":10,"username":"SalviaSWC","id":"1659962043460354050"}]},"geo":{},"id":"1909815166088495561","in_reply_to_user_id":"1659962043460354050","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1909815045078344120"}],"reply_settings":"everyone","text":"@SalviaSWC 买不起，买不起🥲"},"includes":{"users":[{"created_at":"2024-01-02T01:22:57.000Z","description":"猫，诗歌，精神动力学。艺术，C#，波粒二象性。回归曲线上的量子生物，无攻击性。 | “我们彻夜飞旋，直至没入火焰。” | 小小炽 @TauCeti_10700 | 匿名提问箱👇 | 🚪88/158","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/MuEKSg4tIS","expanded_url":"https://ngl.link/anincandescence","display_url":"ngl.link/anincandescence"}]},"description":{"mentions":[{"start":65,"end":79,"username":"TauCeti_10700"}]}},"id":"1741993395910811648","location":"0°00′N 260°00′E Mars","name":"炽烈已极","pinned_tweet_id":"1905895186867400960","profile_image_url":"https://pbs.twimg.com/profile_images/1789433740277567488/d3KhwUX1_normal.jpg","protected":false,"public_metrics":{"followers_count":643,"following_count":193,"tweet_count":2245,"listed_count":1,"like_count":6147,"media_count":487},"url":"https://t.co/MuEKSg4tIS","username":"AnIncandescence","verified":false},{"created_at":"2023-05-20T16:39:35.000Z","description":"07丨上海丨退役OIer丨虚无主义者丨\n会发各种东西 欢迎任何人🌈 互fo🉑","id":"1659962043460354050","name":"鼠尾草～🌿","profile_image_url":"https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg","protected":false,"public_metrics":{"followers_count":41,"following_count":49,"tweet_count":277,"listed_count":0,"like_count":369,"media_count":12},"username":"SalviaSWC","verified":false}],"tweets":[{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1909786426964902096","created_at":"2025-04-09T03:46:32.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-04-09T04:46:32.000Z"},"edit_history_tweet_ids":["1909815166088495561"],"entities":{"mentions":[{"start":0,"end":10,"username":"SalviaSWC","id":"1659962043460354050"}]},"geo":{},"id":"1909815166088495561","in_reply_to_user_id":"1659962043460354050","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1909815045078344120"}],"reply_settings":"everyone","text":"@SalviaSWC 买不起，买不起🥲"},{"article":{},"attachments":{},"author_id":"1659962043460354050","conversation_id":"1909786426964902096","created_at":"2025-04-09T03:46:04.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-04-09T04:46:04.000Z"},"edit_history_tweet_ids":["1909815045078344120"],"entities":{"mentions":[{"start":0,"end":16,"username":"AnIncandescence","id":"1741993395910811648"}]},"geo":{},"id":"1909815045078344120","in_reply_to_user_id":"1741993395910811648","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":1,"like_count":1,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1909786426964902096"}],"reply_settings":"everyone","text":"@AnIncandescence 我也想()\n但是淘宝上卖的都千多块钱，买不起😭"}]}}
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741993395910811648",
+    "conversation_id": "1909786426964902096",
+    "created_at": "2025-04-09T03:46:32.000Z",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2025-04-09T04:46:32.000Z"
+    },
+    "edit_history_tweet_ids": [
+      "1909815166088495561"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 10,
+          "username": "SalviaSWC",
+          "id": "1659962043460354050"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909815166088495561",
+    "in_reply_to_user_id": "1659962043460354050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1909815045078344120"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SalviaSWC 买不起，买不起🥲"
+  },
+  "includes": {
+    "users": [
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，C#，波粒二象性。回归曲线上的量子生物，无攻击性。 | “我们彻夜飞旋，直至没入火焰。” | 小小炽 @TauCeti_10700 | 匿名提问箱👇 | 🚪88/158",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/MuEKSg4tIS",
+                "expanded_url": "https://ngl.link/anincandescence",
+                "display_url": "ngl.link/anincandescence"
+              }
+            ]
+          },
+          "description": {
+            "mentions": [
+              {
+                "start": 65,
+                "end": 79,
+                "username": "TauCeti_10700"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "0°00′N 260°00′E Mars",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "1905895186867400960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789433740277567488/d3KhwUX1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 643,
+          "following_count": 193,
+          "tweet_count": 2245,
+          "listed_count": 1,
+          "like_count": 6147,
+          "media_count": 487
+        },
+        "url": "https://t.co/MuEKSg4tIS",
+        "username": "AnIncandescence",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n会发各种东西 欢迎任何人🌈 互fo🉑",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 49,
+          "tweet_count": 277,
+          "listed_count": 0,
+          "like_count": 369,
+          "media_count": 12
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741993395910811648",
+        "conversation_id": "1909786426964902096",
+        "created_at": "2025-04-09T03:46:32.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2025-04-09T04:46:32.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1909815166088495561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 10,
+              "username": "SalviaSWC",
+              "id": "1659962043460354050"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909815166088495561",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1909815045078344120"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 买不起，买不起🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1909786426964902096",
+        "created_at": "2025-04-09T03:46:04.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2025-04-09T04:46:04.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1909815045078344120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 16,
+              "username": "AnIncandescence",
+              "id": "1741993395910811648"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909815045078344120",
+        "in_reply_to_user_id": "1741993395910811648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1909786426964902096"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnIncandescence 我也想()\n但是淘宝上卖的都千多块钱，买不起😭"
+      }
+    ]
+  },
+  "_pale_fire": {
+    "x_api_reply_chains": {
+      "1909786426964902096": {
+        "version": 1,
+        "fetched_at": "2026-04-18T00:11:21Z",
+        "max_depth": 63,
+        "posts": [
+          {
+            "id": "1909786426964902096",
+            "source": "local_json",
+            "payload": {
+              "data": {
+                "article": {},
+                "attachments": {},
+                "author_id": "1741993395910811648",
+                "conversation_id": "1909786426964902096",
+                "created_at": "2025-04-09T01:52:20.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": true,
+                  "editable_until": "2025-04-09T02:52:20.000Z"
+                },
+                "edit_history_tweet_ids": [
+                  "1909786426964902096"
+                ],
+                "entities": {},
+                "geo": {},
+                "id": "1909786426964902096",
+                "lang": "zh",
+                "note_tweet": {
+                  "entities": {}
+                },
+                "possibly_sensitive": false,
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 0
+                },
+                "reply_settings": "everyone",
+                "text": "哎，好想要实验室分析天平\n哎，可望不可及的万分之一精度"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "created_at": "2024-01-02T01:22:57.000Z",
+                    "description": "猫，诗歌，精神动力学。艺术，C#，波粒二象性。回归曲线上的量子生物，无攻击性。 | “我们彻夜飞旋，直至没入火焰。” | 小小炽 @TauCeti_10700 | 匿名提问箱👇 | 🚪88/158",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/MuEKSg4tIS",
+                            "expanded_url": "https://ngl.link/anincandescence",
+                            "display_url": "ngl.link/anincandescence"
+                          }
+                        ]
+                      },
+                      "description": {
+                        "mentions": [
+                          {
+                            "start": 65,
+                            "end": 79,
+                            "username": "TauCeti_10700"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1741993395910811648",
+                    "location": "0°00′N 260°00′E Mars",
+                    "name": "炽烈已极",
+                    "pinned_tweet_id": "1905895186867400960",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1789433740277567488/d3KhwUX1_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 643,
+                      "following_count": 193,
+                      "tweet_count": 2236,
+                      "listed_count": 1,
+                      "like_count": 6135,
+                      "media_count": 485
+                    },
+                    "url": "https://t.co/MuEKSg4tIS",
+                    "username": "AnIncandescence",
+                    "verified": false
+                  }
+                ],
+                "tweets": [
+                  {
+                    "article": {},
+                    "attachments": {},
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "1909786426964902096",
+                    "created_at": "2025-04-09T01:52:20.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": true,
+                      "editable_until": "2025-04-09T02:52:20.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "1909786426964902096"
+                    ],
+                    "entities": {},
+                    "geo": {},
+                    "id": "1909786426964902096",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 0,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 0
+                    },
+                    "reply_settings": "everyone",
+                    "text": "哎，好想要实验室分析天平\n哎，可望不可及的万分之一精度"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

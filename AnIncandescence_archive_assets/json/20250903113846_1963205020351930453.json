@@ -1,1 +1,251 @@
-{"data":{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1963196952872411410","created_at":"2025-09-03T11:38:46.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-09-03T12:38:46.000Z"},"edit_history_tweet_ids":["1963205020351930453"],"entities":{"mentions":[{"start":0,"end":16,"username":"PaitangOfficial","id":"1272405078683430913"}]},"geo":{},"id":"1963205020351930453","in_reply_to_user_id":"1272405078683430913","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1963197665132388699"}],"reply_settings":"everyone","text":"@PaitangOfficial &amp;昂丹司琼要用就提前2h，过程中感到不适再用的话可能来不及\n盐酸格拉司琼有口腔崩解片救急的话可能还好一点，但价格比较高就是"},"includes":{"users":[{"created_at":"2024-01-02T01:22:57.000Z","description":"猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/MuEKSg4tIS","expanded_url":"https://ngl.link/anincandescence","display_url":"ngl.link/anincandescence"}]}},"id":"1741993395910811648","location":"天鹅座X-1","name":"炽烈已极","pinned_tweet_id":"1944465960406245490","profile_image_url":"https://pbs.twimg.com/profile_images/1947176726292725760/VAZ0WSeY_normal.jpg","protected":false,"public_metrics":{"followers_count":1160,"following_count":203,"tweet_count":3804,"listed_count":3,"like_count":10333,"media_count":760},"url":"https://t.co/MuEKSg4tIS","username":"AnIncandescence","verified":false},{"created_at":"2020-06-15T05:46:41.000Z","description":"Biohacker/认知提升剂 （nootropics）X/ADHD 专注商品/推特第二大促智商 “本研究化合物仅供实验室研究使用，严禁用于人体和动物” \n\n客服 @paipaipaitang ⚠️TG客服已死 不要联系⚠️","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/r6ojtqNEYk","expanded_url":"https://t.me/paitangcuzhi","display_url":"t.me/paitangcuzhi"}]},"description":{"mentions":[{"start":82,"end":96,"username":"paipaipaitang"}]}},"id":"1272405078683430913","location":"下ネタ〇 |病み垢|不登校|","name":"☯️🧬無極 利他林和专注达","pinned_tweet_id":"1962519388361486363","profile_image_url":"https://pbs.twimg.com/profile_images/1955346918139432960/NdXnRHYi_normal.jpg","protected":false,"public_metrics":{"followers_count":9482,"following_count":518,"tweet_count":13199,"listed_count":27,"like_count":7635,"media_count":1589},"url":"https://t.co/r6ojtqNEYk","username":"PaitangOfficial","verified":true}],"tweets":[{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1963196952872411410","created_at":"2025-09-03T11:38:46.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-09-03T12:38:46.000Z"},"edit_history_tweet_ids":["1963205020351930453"],"entities":{"mentions":[{"start":0,"end":16,"username":"PaitangOfficial","id":"1272405078683430913"}]},"geo":{},"id":"1963205020351930453","in_reply_to_user_id":"1272405078683430913","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1963197665132388699"}],"reply_settings":"everyone","text":"@PaitangOfficial &amp;昂丹司琼要用就提前2h，过程中感到不适再用的话可能来不及\n盐酸格拉司琼有口腔崩解片救急的话可能还好一点，但价格比较高就是"},{"article":{},"attachments":{},"author_id":"1272405078683430913","conversation_id":"1963196952872411410","created_at":"2025-09-03T11:09:32.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-09-03T12:09:32.000Z"},"edit_history_tweet_ids":["1963197665132388699"],"entities":{"urls":[{"start":0,"end":23,"url":"https://t.co/rKGJc1FldJ","expanded_url":"https://x.com/anincandescence/status/1962577549579665413?s=46","display_url":"x.com/anincandescenc…"}]},"geo":{},"id":"1963197665132388699","in_reply_to_user_id":"1272405078683430913","lang":"zxx","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":2,"like_count":3,"quote_count":0,"bookmark_count":0,"impression_count":128},"referenced_tweets":[{"type":"quoted","id":"1962577549579665413"},{"type":"replied_to","id":"1963196952872411410"}],"reply_settings":"everyone","text":"https://t.co/rKGJc1FldJ"}]}}
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741993395910811648",
+    "conversation_id": "1963196952872411410",
+    "created_at": "2025-09-03T11:38:46.000Z",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2025-09-03T12:38:46.000Z"
+    },
+    "edit_history_tweet_ids": [
+      "1963205020351930453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 16,
+          "username": "PaitangOfficial",
+          "id": "1272405078683430913"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963205020351930453",
+    "in_reply_to_user_id": "1272405078683430913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1963197665132388699"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PaitangOfficial &amp;昂丹司琼要用就提前2h，过程中感到不适再用的话可能来不及\n盐酸格拉司琼有口腔崩解片救急的话可能还好一点，但价格比较高就是"
+  },
+  "includes": {
+    "users": [
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/MuEKSg4tIS",
+                "expanded_url": "https://ngl.link/anincandescence",
+                "display_url": "ngl.link/anincandescence"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "天鹅座X-1",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "1944465960406245490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947176726292725760/VAZ0WSeY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1160,
+          "following_count": 203,
+          "tweet_count": 3804,
+          "listed_count": 3,
+          "like_count": 10333,
+          "media_count": 760
+        },
+        "url": "https://t.co/MuEKSg4tIS",
+        "username": "AnIncandescence",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-15T05:46:41.000Z",
+        "description": "Biohacker/认知提升剂 （nootropics）X/ADHD 专注商品/推特第二大促智商 “本研究化合物仅供实验室研究使用，严禁用于人体和动物” \n\n客服 @paipaipaitang ⚠️TG客服已死 不要联系⚠️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/r6ojtqNEYk",
+                "expanded_url": "https://t.me/paitangcuzhi",
+                "display_url": "t.me/paitangcuzhi"
+              }
+            ]
+          },
+          "description": {
+            "mentions": [
+              {
+                "start": 82,
+                "end": 96,
+                "username": "paipaipaitang"
+              }
+            ]
+          }
+        },
+        "id": "1272405078683430913",
+        "location": "下ネタ〇 |病み垢|不登校|",
+        "name": "☯️🧬無極 利他林和专注达",
+        "pinned_tweet_id": "1962519388361486363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955346918139432960/NdXnRHYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9482,
+          "following_count": 518,
+          "tweet_count": 13199,
+          "listed_count": 27,
+          "like_count": 7635,
+          "media_count": 1589
+        },
+        "url": "https://t.co/r6ojtqNEYk",
+        "username": "PaitangOfficial",
+        "verified": true
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741993395910811648",
+        "conversation_id": "1963196952872411410",
+        "created_at": "2025-09-03T11:38:46.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2025-09-03T12:38:46.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1963205020351930453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 16,
+              "username": "PaitangOfficial",
+              "id": "1272405078683430913"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963205020351930453",
+        "in_reply_to_user_id": "1272405078683430913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1963197665132388699"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PaitangOfficial &amp;昂丹司琼要用就提前2h，过程中感到不适再用的话可能来不及\n盐酸格拉司琼有口腔崩解片救急的话可能还好一点，但价格比较高就是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1272405078683430913",
+        "conversation_id": "1963196952872411410",
+        "created_at": "2025-09-03T11:09:32.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2025-09-03T12:09:32.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1963197665132388699"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "start": 0,
+              "end": 23,
+              "url": "https://t.co/rKGJc1FldJ",
+              "expanded_url": "https://x.com/anincandescence/status/1962577549579665413?s=46",
+              "display_url": "x.com/anincandescenc…"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963197665132388699",
+        "in_reply_to_user_id": "1272405078683430913",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 2,
+          "like_count": 3,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 128
+        },
+        "referenced_tweets": [
+          {
+            "type": "quoted",
+            "id": "1962577549579665413"
+          },
+          {
+            "type": "replied_to",
+            "id": "1963196952872411410"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/rKGJc1FldJ"
+      }
+    ]
+  },
+  "_pale_fire": {
+    "x_api_reply_chains": {
+      "1963196952872411410": {
+        "version": 1,
+        "fetched_at": "2026-04-18T02:16:03Z",
+        "max_depth": 63,
+        "posts": [],
+        "terminal_error": {
+          "id": "1963196952872411410",
+          "message": "Sorry, you are not authorized to see the Tweet with id: [1963196952872411410]. Wayback fallback: Wayback fallback did not find archived JSON for tweet id 1963196952872411410."
+        }
+      }
+    }
+  }
+}

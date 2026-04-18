@@ -1,1 +1,372 @@
-{"data":{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1999858611015860440","created_at":"2025-12-13T15:17:32.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-12-13T16:17:32.000Z"},"edit_history_tweet_ids":["1999861250034155983"],"entities":{"mentions":[{"start":0,"end":9,"username":"57crz3oA","id":"1494669485214633984"}]},"geo":{},"id":"1999861250034155983","in_reply_to_user_id":"1494669485214633984","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1999860903932756356"}],"reply_settings":"everyone","text":"@57crz3oA pr 突然看到说需要上传处方了感觉不妙"},"includes":{"users":[{"created_at":"2024-01-02T01:22:57.000Z","description":"猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/iO6MRJNm9j","expanded_url":"https://ngl.link/anincandescence1","display_url":"ngl.link/anincandescenc…"}]}},"id":"1741993395910811648","location":"天鹅座X-1","name":"炽烈已极","pinned_tweet_id":"1991299586002935866","profile_image_url":"https://pbs.twimg.com/profile_images/1999154150693797888/7aGBwxD0_normal.jpg","protected":false,"public_metrics":{"followers_count":1330,"following_count":220,"tweet_count":4696,"listed_count":4,"like_count":11724,"media_count":899},"url":"https://t.co/iO6MRJNm9j","username":"AnIncandescence","verified":false},{"created_at":"2022-02-18T13:45:58.000Z","description":"ad astra per aspera","id":"1494669485214633984","location":"距你14.9km","name":"s2R2304","pinned_tweet_id":"1931931078182547903","profile_image_url":"https://pbs.twimg.com/profile_images/1997726001468690433/TMiBRj75_normal.jpg","protected":false,"public_metrics":{"followers_count":386,"following_count":1213,"tweet_count":2946,"listed_count":3,"like_count":56885,"media_count":273},"username":"57crz3oA","verified":false}],"tweets":[{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1999858611015860440","created_at":"2025-12-13T15:17:32.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-12-13T16:17:32.000Z"},"edit_history_tweet_ids":["1999861250034155983"],"entities":{"mentions":[{"start":0,"end":9,"username":"57crz3oA","id":"1494669485214633984"}]},"geo":{},"id":"1999861250034155983","in_reply_to_user_id":"1494669485214633984","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1999860903932756356"}],"reply_settings":"everyone","text":"@57crz3oA pr 突然看到说需要上传处方了感觉不妙"},{"article":{},"attachments":{},"author_id":"1494669485214633984","conversation_id":"1999858611015860440","created_at":"2025-12-13T15:16:09.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-12-13T16:16:09.000Z"},"edit_history_tweet_ids":["1999860903932756356"],"entities":{"mentions":[{"start":0,"end":16,"username":"AnIncandescence","id":"1741993395910811648"}]},"geo":{},"id":"1999860903932756356","in_reply_to_user_id":"1741993395910811648","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":1,"like_count":1,"quote_count":0,"bookmark_count":0,"impression_count":7},"referenced_tweets":[{"type":"replied_to","id":"1999858611015860440"}],"reply_settings":"everyone","text":"@AnIncandescence 什么药"}]}}
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741993395910811648",
+    "conversation_id": "1999858611015860440",
+    "created_at": "2025-12-13T15:17:32.000Z",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2025-12-13T16:17:32.000Z"
+    },
+    "edit_history_tweet_ids": [
+      "1999861250034155983"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 9,
+          "username": "57crz3oA",
+          "id": "1494669485214633984"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999861250034155983",
+    "in_reply_to_user_id": "1494669485214633984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1999860903932756356"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@57crz3oA pr 突然看到说需要上传处方了感觉不妙"
+  },
+  "includes": {
+    "users": [
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/iO6MRJNm9j",
+                "expanded_url": "https://ngl.link/anincandescence1",
+                "display_url": "ngl.link/anincandescenc…"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "天鹅座X-1",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "1991299586002935866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999154150693797888/7aGBwxD0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1330,
+          "following_count": 220,
+          "tweet_count": 4696,
+          "listed_count": 4,
+          "like_count": 11724,
+          "media_count": 899
+        },
+        "url": "https://t.co/iO6MRJNm9j",
+        "username": "AnIncandescence",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "ad astra per aspera",
+        "id": "1494669485214633984",
+        "location": "距你14.9km",
+        "name": "s2R2304",
+        "pinned_tweet_id": "1931931078182547903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997726001468690433/TMiBRj75_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 1213,
+          "tweet_count": 2946,
+          "listed_count": 3,
+          "like_count": 56885,
+          "media_count": 273
+        },
+        "username": "57crz3oA",
+        "verified": false
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741993395910811648",
+        "conversation_id": "1999858611015860440",
+        "created_at": "2025-12-13T15:17:32.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2025-12-13T16:17:32.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1999861250034155983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 9,
+              "username": "57crz3oA",
+              "id": "1494669485214633984"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999861250034155983",
+        "in_reply_to_user_id": "1494669485214633984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1999860903932756356"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@57crz3oA pr 突然看到说需要上传处方了感觉不妙"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494669485214633984",
+        "conversation_id": "1999858611015860440",
+        "created_at": "2025-12-13T15:16:09.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2025-12-13T16:16:09.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1999860903932756356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 16,
+              "username": "AnIncandescence",
+              "id": "1741993395910811648"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999860903932756356",
+        "in_reply_to_user_id": "1741993395910811648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1999858611015860440"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnIncandescence 什么药"
+      }
+    ]
+  },
+  "_pale_fire": {
+    "x_api_reply_chains": {
+      "1999858611015860440": {
+        "version": 1,
+        "fetched_at": "2026-04-18T01:14:52Z",
+        "max_depth": 63,
+        "posts": [
+          {
+            "id": "1999858611015860440",
+            "source": "local_json",
+            "payload": {
+              "data": {
+                "article": {},
+                "attachments": {
+                  "media_keys": [
+                    "3_1999858606091698176"
+                  ]
+                },
+                "author_id": "1741993395910811648",
+                "conversation_id": "1999858611015860440",
+                "created_at": "2025-12-13T15:07:03.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": true,
+                  "editable_until": "2025-12-13T16:07:03.000Z"
+                },
+                "edit_history_tweet_ids": [
+                  "1999858611015860440"
+                ],
+                "entities": {
+                  "urls": [
+                    {
+                      "start": 22,
+                      "end": 45,
+                      "url": "https://t.co/l3Tu1l9hPJ",
+                      "expanded_url": "https://x.com/AnIncandescence/status/1999858611015860440/photo/1",
+                      "display_url": "pic.x.com/l3Tu1l9hPJ",
+                      "media_key": "3_1999858606091698176"
+                    }
+                  ]
+                },
+                "geo": {},
+                "id": "1999858611015860440",
+                "lang": "zh",
+                "note_tweet": {
+                  "entities": {}
+                },
+                "possibly_sensitive": false,
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 0
+                },
+                "reply_settings": "everyone",
+                "text": "草😾上传了处方单也不给我开，突然的怎么回事 https://t.co/l3Tu1l9hPJ"
+              },
+              "includes": {
+                "media": [
+                  {
+                    "height": 2464,
+                    "media_key": "3_1999858606091698176",
+                    "public_metrics": {},
+                    "type": "photo",
+                    "url": "https://pbs.twimg.com/media/G8DsznkagAAhnqW.jpg",
+                    "width": 1058
+                  }
+                ],
+                "users": [
+                  {
+                    "created_at": "2024-01-02T01:22:57.000Z",
+                    "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/iO6MRJNm9j",
+                            "expanded_url": "https://ngl.link/anincandescence1",
+                            "display_url": "ngl.link/anincandescenc…"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1741993395910811648",
+                    "location": "天鹅座X-1",
+                    "name": "炽烈已极",
+                    "pinned_tweet_id": "1991299586002935866",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1999154150693797888/7aGBwxD0_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 1330,
+                      "following_count": 220,
+                      "tweet_count": 4695,
+                      "listed_count": 4,
+                      "like_count": 11721,
+                      "media_count": 899
+                    },
+                    "url": "https://t.co/iO6MRJNm9j",
+                    "username": "AnIncandescence",
+                    "verified": false
+                  }
+                ],
+                "tweets": [
+                  {
+                    "article": {},
+                    "attachments": {
+                      "media_keys": [
+                        "3_1999858606091698176"
+                      ]
+                    },
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "1999858611015860440",
+                    "created_at": "2025-12-13T15:07:03.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": true,
+                      "editable_until": "2025-12-13T16:07:03.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "1999858611015860440"
+                    ],
+                    "entities": {
+                      "urls": [
+                        {
+                          "start": 22,
+                          "end": 45,
+                          "url": "https://t.co/l3Tu1l9hPJ",
+                          "expanded_url": "https://x.com/AnIncandescence/status/1999858611015860440/photo/1",
+                          "display_url": "pic.x.com/l3Tu1l9hPJ",
+                          "media_key": "3_1999858606091698176"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "1999858611015860440",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 0,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 0
+                    },
+                    "reply_settings": "everyone",
+                    "text": "草😾上传了处方单也不给我开，突然的怎么回事 https://t.co/l3Tu1l9hPJ"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

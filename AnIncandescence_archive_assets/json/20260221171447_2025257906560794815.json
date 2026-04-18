@@ -1,1 +1,459 @@
-{"data":{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"2025253187956211999","created_at":"2026-02-21T17:14:47.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2026-02-21T18:14:47.000Z"},"edit_history_tweet_ids":["2025257906560794815"],"entities":{"mentions":[{"start":0,"end":11,"username":"3He2_Ka1R0","id":"1892114014563598339"}]},"geo":{},"id":"2025257906560794815","in_reply_to_user_id":"1892114014563598339","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"2025255404100522308"}],"reply_settings":"everyone","text":"@3He2_Ka1R0 11.三个词性格——嗯，炽烈，浪漫，不稳定/二象性？炽烈已极一开始起名并没有考虑太多，这两年里它也塑造着我…\n15.想要的超能力w我很贪心，我想要祈愿能被世界回应的超能力\n22.尴尬的事…那有很多了，随便说一个，脸盲认不出人被搭话不知所措（）"},"includes":{"users":[{"created_at":"2024-01-02T01:22:57.000Z","description":"猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 倒影@TauCeti_10700 计划这个号机的浓度更高一些 | 🚪88/158","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/iO6MRJNTYR","expanded_url":"https://ngl.link/anincandescence1","display_url":"ngl.link/anincandescenc…"}]},"description":{"mentions":[{"start":62,"end":76,"username":"TauCeti_10700"}]}},"id":"1741993395910811648","location":"天鹅座X-1 //⬇️ 匿名提问箱","name":"炽烈已极","pinned_tweet_id":"2024076888923365667","profile_image_url":"https://pbs.twimg.com/profile_images/2006317223414255617/jGT_GZyG_normal.jpg","protected":false,"public_metrics":{"followers_count":1723,"following_count":234,"tweet_count":5856,"listed_count":5,"like_count":14183,"media_count":1061},"url":"https://t.co/iO6MRJNTYR","username":"AnIncandescence","verified":false},{"created_at":"2025-02-19T07:28:41.000Z","description":"‣  巴普洛夫的狗😺/叫我 𝗞𝗮𝗶𝗿𝗼 ￴￴￴￴     ɪɴᴛᴘ⁃ᴍ𝔱𝖝⁃ᴏᴠᴇʀᴅᴏsᴇ﹠ᴅʀᴜɢ⁃Ⓐ☜","id":"1892114014563598339","name":"伊万","pinned_tweet_id":"2016884561297494289","profile_image_url":"https://pbs.twimg.com/profile_images/2001711038719496192/qTlefE2a_normal.jpg","protected":false,"public_metrics":{"followers_count":333,"following_count":419,"tweet_count":3665,"listed_count":1,"like_count":84063,"media_count":297},"username":"3He2_Ka1R0","verified":false}],"tweets":[{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"2025253187956211999","created_at":"2026-02-21T17:14:47.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2026-02-21T18:14:47.000Z"},"edit_history_tweet_ids":["2025257906560794815"],"entities":{"mentions":[{"start":0,"end":11,"username":"3He2_Ka1R0","id":"1892114014563598339"}]},"geo":{},"id":"2025257906560794815","in_reply_to_user_id":"1892114014563598339","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"2025255404100522308"}],"reply_settings":"everyone","text":"@3He2_Ka1R0 11.三个词性格——嗯，炽烈，浪漫，不稳定/二象性？炽烈已极一开始起名并没有考虑太多，这两年里它也塑造着我…\n15.想要的超能力w我很贪心，我想要祈愿能被世界回应的超能力\n22.尴尬的事…那有很多了，随便说一个，脸盲认不出人被搭话不知所措（）"},{"article":{},"attachments":{},"author_id":"1892114014563598339","conversation_id":"2025253187956211999","created_at":"2026-02-21T17:04:50.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2026-02-21T18:04:50.000Z"},"edit_history_tweet_ids":["2025255404100522308"],"entities":{"mentions":[{"start":0,"end":16,"username":"AnIncandescence","id":"1741993395910811648"}]},"geo":{},"id":"2025255404100522308","in_reply_to_user_id":"1741993395910811648","lang":"und","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":1,"like_count":2,"quote_count":0,"bookmark_count":0,"impression_count":10},"referenced_tweets":[{"type":"replied_to","id":"2025253187956211999"}],"reply_settings":"everyone","text":"@AnIncandescence 11，15，22🥺"}]}}
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741993395910811648",
+    "conversation_id": "2025253187956211999",
+    "created_at": "2026-02-21T17:14:47.000Z",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2026-02-21T18:14:47.000Z"
+    },
+    "edit_history_tweet_ids": [
+      "2025257906560794815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 11,
+          "username": "3He2_Ka1R0",
+          "id": "1892114014563598339"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025257906560794815",
+    "in_reply_to_user_id": "1892114014563598339",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "2025255404100522308"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3He2_Ka1R0 11.三个词性格——嗯，炽烈，浪漫，不稳定/二象性？炽烈已极一开始起名并没有考虑太多，这两年里它也塑造着我…\n15.想要的超能力w我很贪心，我想要祈愿能被世界回应的超能力\n22.尴尬的事…那有很多了，随便说一个，脸盲认不出人被搭话不知所措（）"
+  },
+  "includes": {
+    "users": [
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 倒影@TauCeti_10700 计划这个号机的浓度更高一些 | 🚪88/158",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/iO6MRJNTYR",
+                "expanded_url": "https://ngl.link/anincandescence1",
+                "display_url": "ngl.link/anincandescenc…"
+              }
+            ]
+          },
+          "description": {
+            "mentions": [
+              {
+                "start": 62,
+                "end": 76,
+                "username": "TauCeti_10700"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "天鹅座X-1 //⬇️ 匿名提问箱",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "2024076888923365667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006317223414255617/jGT_GZyG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1723,
+          "following_count": 234,
+          "tweet_count": 5856,
+          "listed_count": 5,
+          "like_count": 14183,
+          "media_count": 1061
+        },
+        "url": "https://t.co/iO6MRJNTYR",
+        "username": "AnIncandescence",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-19T07:28:41.000Z",
+        "description": "‣  巴普洛夫的狗😺/叫我 𝗞𝗮𝗶𝗿𝗼 ￴￴￴￴     ɪɴᴛᴘ⁃ᴍ𝔱𝖝⁃ᴏᴠᴇʀᴅᴏsᴇ﹠ᴅʀᴜɢ⁃Ⓐ☜",
+        "id": "1892114014563598339",
+        "name": "伊万",
+        "pinned_tweet_id": "2016884561297494289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001711038719496192/qTlefE2a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 419,
+          "tweet_count": 3665,
+          "listed_count": 1,
+          "like_count": 84063,
+          "media_count": 297
+        },
+        "username": "3He2_Ka1R0",
+        "verified": false
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741993395910811648",
+        "conversation_id": "2025253187956211999",
+        "created_at": "2026-02-21T17:14:47.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2026-02-21T18:14:47.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "2025257906560794815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 11,
+              "username": "3He2_Ka1R0",
+              "id": "1892114014563598339"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025257906560794815",
+        "in_reply_to_user_id": "1892114014563598339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "2025255404100522308"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3He2_Ka1R0 11.三个词性格——嗯，炽烈，浪漫，不稳定/二象性？炽烈已极一开始起名并没有考虑太多，这两年里它也塑造着我…\n15.想要的超能力w我很贪心，我想要祈愿能被世界回应的超能力\n22.尴尬的事…那有很多了，随便说一个，脸盲认不出人被搭话不知所措（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892114014563598339",
+        "conversation_id": "2025253187956211999",
+        "created_at": "2026-02-21T17:04:50.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2026-02-21T18:04:50.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "2025255404100522308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 16,
+              "username": "AnIncandescence",
+              "id": "1741993395910811648"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025255404100522308",
+        "in_reply_to_user_id": "1741993395910811648",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 2,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "2025253187956211999"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnIncandescence 11，15，22🥺"
+      }
+    ]
+  },
+  "_pale_fire": {
+    "x_api_reply_chains": {
+      "2025253187956211999": {
+        "version": 1,
+        "fetched_at": "2026-04-18T01:29:53Z",
+        "max_depth": 63,
+        "posts": [
+          {
+            "id": "2025253187956211999",
+            "source": "local_json",
+            "payload": {
+              "data": {
+                "article": {},
+                "attachments": {
+                  "media_keys": [
+                    "3_2025255604856717312"
+                  ]
+                },
+                "author_id": "1741993395910811648",
+                "conversation_id": "2025253187956211999",
+                "created_at": "2026-02-21T17:05:40.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2026-02-21T18:05:40.000Z"
+                },
+                "edit_history_tweet_ids": [
+                  "2025255615673897249"
+                ],
+                "entities": {
+                  "urls": [
+                    {
+                      "start": 16,
+                      "end": 39,
+                      "url": "https://t.co/Z5qjdo47xD",
+                      "expanded_url": "https://x.com/AnIncandescence/status/2025255615673897249/photo/1",
+                      "display_url": "pic.x.com/Z5qjdo47xD",
+                      "media_key": "3_2025255604856717312"
+                    }
+                  ]
+                },
+                "geo": {},
+                "id": "2025255615673897249",
+                "in_reply_to_user_id": "1741993395910811648",
+                "lang": "zh",
+                "note_tweet": {
+                  "entities": {}
+                },
+                "possibly_sensitive": false,
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 0
+                },
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "2025253187956211999"
+                  }
+                ],
+                "reply_settings": "everyone",
+                "text": "原出处！可能有点糊凑合看看（） https://t.co/Z5qjdo47xD"
+              },
+              "includes": {
+                "media": [
+                  {
+                    "height": 1159,
+                    "media_key": "3_2025255604856717312",
+                    "public_metrics": {},
+                    "type": "photo",
+                    "url": "https://pbs.twimg.com/media/HBsnPgragAAKpxL.jpg",
+                    "width": 1260
+                  },
+                  {
+                    "height": 2092,
+                    "media_key": "3_2025253177357205511",
+                    "public_metrics": {},
+                    "type": "photo",
+                    "url": "https://pbs.twimg.com/media/HBslCNibgAcnibp.jpg",
+                    "width": 293
+                  }
+                ],
+                "users": [
+                  {
+                    "created_at": "2024-01-02T01:22:57.000Z",
+                    "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 倒影@TauCeti_10700 计划这个号机的浓度更高一些 | 🚪88/158",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/iO6MRJNTYR",
+                            "expanded_url": "https://ngl.link/anincandescence1",
+                            "display_url": "ngl.link/anincandescenc…"
+                          }
+                        ]
+                      },
+                      "description": {
+                        "mentions": [
+                          {
+                            "start": 62,
+                            "end": 76,
+                            "username": "TauCeti_10700"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1741993395910811648",
+                    "location": "天鹅座X-1 //⬇️ 匿名提问箱",
+                    "name": "炽烈已极",
+                    "pinned_tweet_id": "2024076888923365667",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2006317223414255617/jGT_GZyG_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 1723,
+                      "following_count": 234,
+                      "tweet_count": 5855,
+                      "listed_count": 5,
+                      "like_count": 14183,
+                      "media_count": 1061
+                    },
+                    "url": "https://t.co/iO6MRJNTYR",
+                    "username": "AnIncandescence",
+                    "verified": false
+                  }
+                ],
+                "tweets": [
+                  {
+                    "article": {},
+                    "attachments": {
+                      "media_keys": [
+                        "3_2025255604856717312"
+                      ]
+                    },
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "2025253187956211999",
+                    "created_at": "2026-02-21T17:05:40.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2026-02-21T18:05:40.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "2025255615673897249"
+                    ],
+                    "entities": {
+                      "urls": [
+                        {
+                          "start": 16,
+                          "end": 39,
+                          "url": "https://t.co/Z5qjdo47xD",
+                          "expanded_url": "https://x.com/AnIncandescence/status/2025255615673897249/photo/1",
+                          "display_url": "pic.x.com/Z5qjdo47xD",
+                          "media_key": "3_2025255604856717312"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "2025255615673897249",
+                    "in_reply_to_user_id": "1741993395910811648",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 0,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 0
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "2025253187956211999"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "原出处！可能有点糊凑合看看（） https://t.co/Z5qjdo47xD"
+                  },
+                  {
+                    "article": {},
+                    "attachments": {
+                      "media_keys": [
+                        "3_2025253177357205511"
+                      ]
+                    },
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "2025253187956211999",
+                    "created_at": "2026-02-21T16:56:02.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2026-02-21T17:56:02.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "2025253187956211999"
+                    ],
+                    "entities": {
+                      "urls": [
+                        {
+                          "start": 8,
+                          "end": 31,
+                          "url": "https://t.co/mxAR64DVri",
+                          "expanded_url": "https://x.com/AnIncandescence/status/2025253187956211999/photo/1",
+                          "display_url": "pic.x.com/mxAR64DVri",
+                          "media_key": "3_2025253177357205511"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "2025253187956211999",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 3,
+                      "like_count": 2,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 32
+                    },
+                    "reply_settings": "everyone",
+                    "text": "我也来！请问🤲 https://t.co/mxAR64DVri"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

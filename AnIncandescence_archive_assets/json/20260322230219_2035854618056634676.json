@@ -1,1 +1,346 @@
-{"data":{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"2035712560998363420","created_at":"2026-03-22T23:02:19.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2026-03-23T00:02:19.000Z"},"edit_history_tweet_ids":["2035854618056634676"],"entities":{"mentions":[{"start":0,"end":8,"username":"fawpv25","id":"1900779126245769216"}]},"geo":{},"id":"2035854618056634676","in_reply_to_user_id":"1900779126245769216","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"2035713181260390742"}],"reply_settings":"everyone","text":"@fawpv25 我也高度怀疑中枢敏化……和我内异深部浸润有关，感觉这个好难搞啊啊啊"},"includes":{"users":[{"created_at":"2024-01-02T01:22:57.000Z","description":"猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 倒影@TauCeti_10700 计划这个号机的浓度更高一些 | 🚪88/158","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/iO6MRJNTYR","expanded_url":"https://ngl.link/anincandescence1","display_url":"ngl.link/anincandescenc…"}]},"description":{"mentions":[{"start":62,"end":76,"username":"TauCeti_10700"}]}},"id":"1741993395910811648","location":"天鹅座X-1 //⬇️ 匿名提问箱","name":"炽烈已极","pinned_tweet_id":"2024076888923365667","profile_image_url":"https://pbs.twimg.com/profile_images/2034869645342076928/m2LinKe5_normal.jpg","protected":false,"public_metrics":{"followers_count":1842,"following_count":248,"tweet_count":6565,"listed_count":6,"like_count":15512,"media_count":1168},"url":"https://t.co/iO6MRJNTYR","username":"AnIncandescence","verified":false},{"created_at":"2025-03-15T05:20:44.000Z","description":"如果你知道怎么变成一只乌鸦，请告诉我/匿名提问箱：https://t.co/k5wuyYhVxZ致力于成为你们的互联网好朋鸦/艺术就是生命/我们的诞生不是为了被疼痛感束缚/学习像人类一样地活下去。","entities":{"description":{"urls":[{"start":25,"end":48,"url":"https://t.co/k5wuyYhVxZ","expanded_url":"https://ngl.link/jiyujin1/","display_url":"ngl.link/jiyujin1/"}]}},"id":"1900779126245769216","name":"Anoko","profile_image_url":"https://pbs.twimg.com/profile_images/2006613154210721792/8FPJv03i_normal.jpg","protected":true,"public_metrics":{"followers_count":74,"following_count":221,"tweet_count":3964,"listed_count":0,"like_count":14468,"media_count":96},"username":"fawpv25","verified":false}],"tweets":[{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"2035712560998363420","created_at":"2026-03-22T23:02:19.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2026-03-23T00:02:19.000Z"},"edit_history_tweet_ids":["2035854618056634676"],"entities":{"mentions":[{"start":0,"end":8,"username":"fawpv25","id":"1900779126245769216"}]},"geo":{},"id":"2035854618056634676","in_reply_to_user_id":"1900779126245769216","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"2035713181260390742"}],"reply_settings":"everyone","text":"@fawpv25 我也高度怀疑中枢敏化……和我内异深部浸润有关，感觉这个好难搞啊啊啊"}]},"errors":[{"resource_id":"2035713181260390742","parameter":"referenced_tweets.id","resource_type":"tweet","section":"includes","title":"Authorization Error","value":"2035713181260390742","detail":"Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2035713181260390742].","type":"https://api.twitter.com/2/problems/not-authorized-for-resource"}]}
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741993395910811648",
+    "conversation_id": "2035712560998363420",
+    "created_at": "2026-03-22T23:02:19.000Z",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2026-03-23T00:02:19.000Z"
+    },
+    "edit_history_tweet_ids": [
+      "2035854618056634676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 8,
+          "username": "fawpv25",
+          "id": "1900779126245769216"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035854618056634676",
+    "in_reply_to_user_id": "1900779126245769216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "2035713181260390742"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fawpv25 我也高度怀疑中枢敏化……和我内异深部浸润有关，感觉这个好难搞啊啊啊"
+  },
+  "includes": {
+    "users": [
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 倒影@TauCeti_10700 计划这个号机的浓度更高一些 | 🚪88/158",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/iO6MRJNTYR",
+                "expanded_url": "https://ngl.link/anincandescence1",
+                "display_url": "ngl.link/anincandescenc…"
+              }
+            ]
+          },
+          "description": {
+            "mentions": [
+              {
+                "start": 62,
+                "end": 76,
+                "username": "TauCeti_10700"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "天鹅座X-1 //⬇️ 匿名提问箱",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "2024076888923365667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034869645342076928/m2LinKe5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1842,
+          "following_count": 248,
+          "tweet_count": 6565,
+          "listed_count": 6,
+          "like_count": 15512,
+          "media_count": 1168
+        },
+        "url": "https://t.co/iO6MRJNTYR",
+        "username": "AnIncandescence",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-15T05:20:44.000Z",
+        "description": "如果你知道怎么变成一只乌鸦，请告诉我/匿名提问箱：https://t.co/k5wuyYhVxZ致力于成为你们的互联网好朋鸦/艺术就是生命/我们的诞生不是为了被疼痛感束缚/学习像人类一样地活下去。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "start": 25,
+                "end": 48,
+                "url": "https://t.co/k5wuyYhVxZ",
+                "expanded_url": "https://ngl.link/jiyujin1/",
+                "display_url": "ngl.link/jiyujin1/"
+              }
+            ]
+          }
+        },
+        "id": "1900779126245769216",
+        "name": "Anoko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006613154210721792/8FPJv03i_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 221,
+          "tweet_count": 3964,
+          "listed_count": 0,
+          "like_count": 14468,
+          "media_count": 96
+        },
+        "username": "fawpv25",
+        "verified": false
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741993395910811648",
+        "conversation_id": "2035712560998363420",
+        "created_at": "2026-03-22T23:02:19.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2026-03-23T00:02:19.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "2035854618056634676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 8,
+              "username": "fawpv25",
+              "id": "1900779126245769216"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035854618056634676",
+        "in_reply_to_user_id": "1900779126245769216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "2035713181260390742"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fawpv25 我也高度怀疑中枢敏化……和我内异深部浸润有关，感觉这个好难搞啊啊啊"
+      }
+    ]
+  },
+  "errors": [
+    {
+      "resource_id": "2035713181260390742",
+      "parameter": "referenced_tweets.id",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "value": "2035713181260390742",
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2035713181260390742].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource"
+    }
+  ],
+  "_pale_fire": {
+    "x_api_reply_chains": {
+      "2035713181260390742": {
+        "version": 1,
+        "fetched_at": "2026-04-18T01:35:30Z",
+        "max_depth": 64,
+        "posts": [
+          {
+            "id": "2035713181260390742",
+            "source": "x_api_oauth1",
+            "payload": {
+              "data": {
+                "text": "其实如果只说头疼的话也许是血管过度扩张的疼痛，因为抽烟和喝咖啡都会缓解这种疼痛。但是我血管状况不佳所以不能使用血管收缩药……（仰天）\n\n其他的疼痛状况我真的怀疑是中枢敏化……怎么感觉到处都在痛了，赶紧搞点美味药药止痛（（",
+                "id": "2035713181260390742",
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 38
+                },
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2026-03-22T14:40:18.000Z"
+                },
+                "author_id": "1900779126245769216",
+                "reply_settings": "everyone",
+                "in_reply_to_user_id": "1900779126245769216",
+                "edit_history_tweet_ids": [
+                  "2035713181260390742"
+                ],
+                "created_at": "2026-03-22T13:40:18.000Z",
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "2035712560998363420"
+                  }
+                ],
+                "lang": "zh",
+                "possibly_sensitive": false,
+                "conversation_id": "2035712560998363420"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "verified": false,
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2006613154210721792/8FPJv03i_normal.jpg",
+                    "id": "1900779126245769216",
+                    "created_at": "2025-03-15T05:20:44.000Z",
+                    "description": "如果你知道怎么变成一只乌鸦，请告诉我/致力于成为你们的互联网好朋鸦/艺术就是生命/我们的诞生不是为了被疼痛感束缚/学习像人类一样地活下去。",
+                    "public_metrics": {
+                      "followers_count": 81,
+                      "following_count": 245,
+                      "tweet_count": 4429,
+                      "listed_count": 0,
+                      "like_count": 15724,
+                      "media_count": 105
+                    },
+                    "protected": true,
+                    "name": "Anoko",
+                    "username": "fawpv25"
+                  }
+                ],
+                "tweets": [
+                  {
+                    "text": "俺打算去神内科问医生能不能吃普瑞巴林了，或者，如果医生有觉得更好的药也行。虽然对普瑞撤药反应很厉害，但是生病了不得不每天吃药，那不就没有撤药反应了（？\n\n明天先去心内科咨询一下，如果还有时间而且神内科还有号我再去一下（（",
+                    "id": "2035712560998363420",
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 1,
+                      "like_count": 1,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 55
+                    },
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2026-03-22T14:37:50.000Z"
+                    },
+                    "author_id": "1900779126245769216",
+                    "reply_settings": "everyone",
+                    "edit_history_tweet_ids": [
+                      "2035712560998363420"
+                    ],
+                    "created_at": "2026-03-22T13:37:50.000Z",
+                    "lang": "zh",
+                    "possibly_sensitive": false,
+                    "conversation_id": "2035712560998363420"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "2035712560998363420",
+            "source": "x_api_oauth1",
+            "payload": {
+              "data": {
+                "possibly_sensitive": false,
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2026-03-22T14:37:50.000Z"
+                },
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 55
+                },
+                "created_at": "2026-03-22T13:37:50.000Z",
+                "conversation_id": "2035712560998363420",
+                "edit_history_tweet_ids": [
+                  "2035712560998363420"
+                ],
+                "id": "2035712560998363420",
+                "reply_settings": "everyone",
+                "text": "俺打算去神内科问医生能不能吃普瑞巴林了，或者，如果医生有觉得更好的药也行。虽然对普瑞撤药反应很厉害，但是生病了不得不每天吃药，那不就没有撤药反应了（？\n\n明天先去心内科咨询一下，如果还有时间而且神内科还有号我再去一下（（",
+                "lang": "zh",
+                "author_id": "1900779126245769216"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "username": "fawpv25",
+                    "description": "如果你知道怎么变成一只乌鸦，请告诉我/致力于成为你们的互联网好朋鸦/艺术就是生命/我们的诞生不是为了被疼痛感束缚/学习像人类一样地活下去。",
+                    "verified": false,
+                    "protected": true,
+                    "public_metrics": {
+                      "followers_count": 81,
+                      "following_count": 245,
+                      "tweet_count": 4429,
+                      "listed_count": 0,
+                      "like_count": 15724,
+                      "media_count": 105
+                    },
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2006613154210721792/8FPJv03i_normal.jpg",
+                    "id": "1900779126245769216",
+                    "name": "Anoko",
+                    "created_at": "2025-03-15T05:20:44.000Z"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

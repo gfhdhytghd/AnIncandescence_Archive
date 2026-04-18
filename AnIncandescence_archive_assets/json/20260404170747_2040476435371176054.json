@@ -1,1 +1,499 @@
-{"data":{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"2040451789385093344","created_at":"2026-04-04T17:07:47.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2026-04-04T18:07:47.000Z"},"edit_history_tweet_ids":["2040476435371176054"],"entities":{"mentions":[{"start":0,"end":8,"username":"fawpv25","id":"1900779126245769216"}]},"geo":{},"id":"2040476435371176054","in_reply_to_user_id":"1900779126245769216","lang":"ja","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"2040469521853718596"}],"reply_settings":"everyone","text":"@fawpv25 哭…哭了一晚上"},"includes":{"users":[{"created_at":"2024-01-02T01:22:57.000Z","description":"猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 倒影@TauCeti_10700 计划这个号机的浓度更高一些 | 🚪88/158","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/iO6MRJNTYR","expanded_url":"https://ngl.link/anincandescence1","display_url":"ngl.link/anincandescenc…"}]},"description":{"mentions":[{"start":62,"end":76,"username":"TauCeti_10700"}]}},"id":"1741993395910811648","location":"天鹅座X-1 //⬇️ 匿名提问箱","name":"炽烈已极","pinned_tweet_id":"2024076888923365667","profile_image_url":"https://pbs.twimg.com/profile_images/2034869645342076928/m2LinKe5_normal.jpg","protected":false,"public_metrics":{"followers_count":2020,"following_count":248,"tweet_count":6860,"listed_count":5,"like_count":16123,"media_count":1219},"url":"https://t.co/iO6MRJNTYR","username":"AnIncandescence","verified":false},{"created_at":"2025-03-15T05:20:44.000Z","description":"如果你知道怎么变成一只乌鸦，请告诉我/致力于成为你们的互联网好朋鸦/艺术就是生命/我们的诞生不是为了被疼痛感束缚/学习像人类一样地活下去。","id":"1900779126245769216","name":"Anoko","profile_image_url":"https://pbs.twimg.com/profile_images/2006613154210721792/8FPJv03i_normal.jpg","protected":true,"public_metrics":{"followers_count":79,"following_count":230,"tweet_count":4166,"listed_count":0,"like_count":15069,"media_count":98},"username":"fawpv25","verified":false}],"tweets":[{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"2040451789385093344","created_at":"2026-04-04T17:07:47.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2026-04-04T18:07:47.000Z"},"edit_history_tweet_ids":["2040476435371176054"],"entities":{"mentions":[{"start":0,"end":8,"username":"fawpv25","id":"1900779126245769216"}]},"geo":{},"id":"2040476435371176054","in_reply_to_user_id":"1900779126245769216","lang":"ja","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"2040469521853718596"}],"reply_settings":"everyone","text":"@fawpv25 哭…哭了一晚上"}]},"errors":[{"resource_id":"2040469521853718596","parameter":"referenced_tweets.id","resource_type":"tweet","section":"includes","title":"Authorization Error","value":"2040469521853718596","detail":"Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2040469521853718596].","type":"https://api.twitter.com/2/problems/not-authorized-for-resource"}]}
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741993395910811648",
+    "conversation_id": "2040451789385093344",
+    "created_at": "2026-04-04T17:07:47.000Z",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2026-04-04T18:07:47.000Z"
+    },
+    "edit_history_tweet_ids": [
+      "2040476435371176054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 8,
+          "username": "fawpv25",
+          "id": "1900779126245769216"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040476435371176054",
+    "in_reply_to_user_id": "1900779126245769216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "2040469521853718596"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fawpv25 哭…哭了一晚上"
+  },
+  "includes": {
+    "users": [
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 倒影@TauCeti_10700 计划这个号机的浓度更高一些 | 🚪88/158",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/iO6MRJNTYR",
+                "expanded_url": "https://ngl.link/anincandescence1",
+                "display_url": "ngl.link/anincandescenc…"
+              }
+            ]
+          },
+          "description": {
+            "mentions": [
+              {
+                "start": 62,
+                "end": 76,
+                "username": "TauCeti_10700"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "天鹅座X-1 //⬇️ 匿名提问箱",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "2024076888923365667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034869645342076928/m2LinKe5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2020,
+          "following_count": 248,
+          "tweet_count": 6860,
+          "listed_count": 5,
+          "like_count": 16123,
+          "media_count": 1219
+        },
+        "url": "https://t.co/iO6MRJNTYR",
+        "username": "AnIncandescence",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-15T05:20:44.000Z",
+        "description": "如果你知道怎么变成一只乌鸦，请告诉我/致力于成为你们的互联网好朋鸦/艺术就是生命/我们的诞生不是为了被疼痛感束缚/学习像人类一样地活下去。",
+        "id": "1900779126245769216",
+        "name": "Anoko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006613154210721792/8FPJv03i_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 230,
+          "tweet_count": 4166,
+          "listed_count": 0,
+          "like_count": 15069,
+          "media_count": 98
+        },
+        "username": "fawpv25",
+        "verified": false
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741993395910811648",
+        "conversation_id": "2040451789385093344",
+        "created_at": "2026-04-04T17:07:47.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2026-04-04T18:07:47.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "2040476435371176054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 8,
+              "username": "fawpv25",
+              "id": "1900779126245769216"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040476435371176054",
+        "in_reply_to_user_id": "1900779126245769216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "2040469521853718596"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fawpv25 哭…哭了一晚上"
+      }
+    ]
+  },
+  "errors": [
+    {
+      "resource_id": "2040469521853718596",
+      "parameter": "referenced_tweets.id",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "value": "2040469521853718596",
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2040469521853718596].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource"
+    }
+  ],
+  "_pale_fire": {
+    "x_api_reply_chains": {
+      "2040469521853718596": {
+        "version": 1,
+        "fetched_at": "2026-04-18T01:36:37Z",
+        "max_depth": 64,
+        "posts": [
+          {
+            "id": "2040469521853718596",
+            "source": "x_api_oauth1",
+            "payload": {
+              "data": {
+                "conversation_id": "2040451789385093344",
+                "reply_settings": "everyone",
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "2040451789385093344"
+                  }
+                ],
+                "created_at": "2026-04-04T16:40:18.000Z",
+                "id": "2040469521853718596",
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 0,
+                      "end": 16,
+                      "username": "AnIncandescence",
+                      "id": "1741993395910811648"
+                    }
+                  ]
+                },
+                "author_id": "1900779126245769216",
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 28
+                },
+                "edit_history_tweet_ids": [
+                  "2040469521853718596"
+                ],
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2026-04-04T17:40:18.000Z"
+                },
+                "possibly_sensitive": false,
+                "in_reply_to_user_id": "1741993395910811648",
+                "lang": "zh",
+                "text": "@AnIncandescence 光是听到都觉得好窒息好窒息……这是炽的家人吧，为什么，家人能说出这么恶毒的话？卧槽这男的才是没救了……\n给炽一个赛博拥抱……！"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "username": "fawpv25",
+                    "protected": true,
+                    "public_metrics": {
+                      "followers_count": 81,
+                      "following_count": 245,
+                      "tweet_count": 4429,
+                      "listed_count": 0,
+                      "like_count": 15724,
+                      "media_count": 105
+                    },
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2006613154210721792/8FPJv03i_normal.jpg",
+                    "verified": false,
+                    "created_at": "2025-03-15T05:20:44.000Z",
+                    "id": "1900779126245769216",
+                    "name": "Anoko",
+                    "description": "如果你知道怎么变成一只乌鸦，请告诉我/致力于成为你们的互联网好朋鸦/艺术就是生命/我们的诞生不是为了被疼痛感束缚/学习像人类一样地活下去。"
+                  }
+                ]
+              },
+              "errors": [
+                {
+                  "parameter": "in_reply_to_user_id",
+                  "resource_id": "1741993395910811648",
+                  "value": "1741993395910811648",
+                  "detail": "User has been suspended: [1741993395910811648].",
+                  "title": "Forbidden",
+                  "resource_type": "user",
+                  "type": "https://api.twitter.com/2/problems/resource-not-found"
+                },
+                {
+                  "resource_id": "2040451789385093344",
+                  "parameter": "referenced_tweets.id",
+                  "resource_type": "tweet",
+                  "section": "includes",
+                  "title": "Authorization Error",
+                  "value": "2040451789385093344",
+                  "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2040451789385093344].",
+                  "type": "https://api.twitter.com/2/problems/not-authorized-for-resource"
+                }
+              ]
+            }
+          },
+          {
+            "id": "2040451789385093344",
+            "source": "local_json",
+            "payload": {
+              "data": {
+                "article": {},
+                "attachments": {},
+                "author_id": "1741993395910811648",
+                "conversation_id": "2040451789385093344",
+                "created_at": "2026-04-04T16:28:26.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2026-04-04T17:28:26.000Z"
+                },
+                "edit_history_tweet_ids": [
+                  "2040466534284587266"
+                ],
+                "entities": {},
+                "geo": {},
+                "id": "2040466534284587266",
+                "in_reply_to_user_id": "1741993395910811648",
+                "lang": "zh",
+                "note_tweet": {
+                  "entities": {}
+                },
+                "possibly_sensitive": false,
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 0
+                },
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "2040451789385093344"
+                  }
+                ],
+                "reply_settings": "everyone",
+                "text": "我一定会帮你杀死她的……\n生日愿望是骗人的，但我来帮你实现"
+              },
+              "includes": {
+                "media": [
+                  {
+                    "duration_ms": 93356,
+                    "height": 1280,
+                    "media_key": "13_2040451596056981504",
+                    "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2040451596056981504/img/DB-PjdbHs0p__xiM.jpg",
+                    "public_metrics": {
+                      "view_count": 54
+                    },
+                    "type": "video",
+                    "variants": [
+                      {
+                        "bit_rate": 632000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/2040451596056981504/vid/avc1/320x568/gAIt_uwF6CdsqM_p.mp4"
+                      },
+                      {
+                        "bit_rate": 950000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/2040451596056981504/vid/avc1/480x852/B8Kln7py_FK--Eu8.mp4"
+                      },
+                      {
+                        "bit_rate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/2040451596056981504/vid/avc1/720x1280/WHbbKcsQAARINo7Q.mp4"
+                      },
+                      {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/2040451596056981504/pl/2peSP0lBkcv_dYj6.m3u8"
+                      }
+                    ],
+                    "width": 720
+                  }
+                ],
+                "users": [
+                  {
+                    "created_at": "2024-01-02T01:22:57.000Z",
+                    "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 倒影@TauCeti_10700 计划这个号机的浓度更高一些 | 🚪88/158",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/iO6MRJNTYR",
+                            "expanded_url": "https://ngl.link/anincandescence1",
+                            "display_url": "ngl.link/anincandescenc…"
+                          }
+                        ]
+                      },
+                      "description": {
+                        "mentions": [
+                          {
+                            "start": 62,
+                            "end": 76,
+                            "username": "TauCeti_10700"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1741993395910811648",
+                    "location": "天鹅座X-1 //⬇️ 匿名提问箱",
+                    "name": "炽烈已极",
+                    "pinned_tweet_id": "2024076888923365667",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2034869645342076928/m2LinKe5_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 2020,
+                      "following_count": 248,
+                      "tweet_count": 6859,
+                      "listed_count": 5,
+                      "like_count": 16122,
+                      "media_count": 1219
+                    },
+                    "url": "https://t.co/iO6MRJNTYR",
+                    "username": "AnIncandescence",
+                    "verified": false
+                  }
+                ],
+                "tweets": [
+                  {
+                    "article": {},
+                    "attachments": {},
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "2040451789385093344",
+                    "created_at": "2026-04-04T16:28:26.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2026-04-04T17:28:26.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "2040466534284587266"
+                    ],
+                    "entities": {},
+                    "geo": {},
+                    "id": "2040466534284587266",
+                    "in_reply_to_user_id": "1741993395910811648",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 0,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 0
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "2040451789385093344"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "我一定会帮你杀死她的……\n生日愿望是骗人的，但我来帮你实现"
+                  },
+                  {
+                    "article": {},
+                    "attachments": {
+                      "media_keys": [
+                        "13_2040451596056981504"
+                      ]
+                    },
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "2040451789385093344",
+                    "created_at": "2026-04-04T15:29:51.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2026-04-04T16:29:51.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "2040451789385093344"
+                    ],
+                    "entities": {
+                      "urls": [
+                        {
+                          "start": 13,
+                          "end": 36,
+                          "url": "https://t.co/b9McxUkRAc",
+                          "expanded_url": "https://x.com/AnIncandescence/status/2040451789385093344/video/1",
+                          "display_url": "pic.x.com/b9McxUkRAc",
+                          "media_key": "13_2040451596056981504"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "2040451789385093344",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 3,
+                      "like_count": 6,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 149
+                    },
+                    "reply_settings": "everyone",
+                    "text": "你不觉得她现在性格很怪吗 https://t.co/b9McxUkRAc"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

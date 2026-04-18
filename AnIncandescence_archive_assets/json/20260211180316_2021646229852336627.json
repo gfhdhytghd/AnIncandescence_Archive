@@ -1,1 +1,438 @@
-{"data":{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"2021603290409013618","created_at":"2026-02-11T18:03:16.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2026-02-11T19:03:16.000Z"},"edit_history_tweet_ids":["2021646229852336627"],"entities":{"mentions":[{"start":0,"end":14,"username":"VladyKCosplay","id":"1653953769015746560"},{"start":15,"end":30,"username":"Shier_12_Vklhu","id":"1496477766845612034"}]},"geo":{},"id":"2021646229852336627","in_reply_to_user_id":"1653953769015746560","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"2021617683805184475"}],"reply_settings":"everyone","text":"@VladyKCosplay @Shier_12_Vklhu 这些天来辛苦了…"},"includes":{"users":[{"created_at":"2024-01-02T01:22:57.000Z","description":"猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | @TauCeti_10700 日常和碎碎念 | 🚪88/158","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/iO6MRJNTYR","expanded_url":"https://ngl.link/anincandescence1","display_url":"ngl.link/anincandescenc…"}]},"description":{"mentions":[{"start":70,"end":84,"username":"TauCeti_10700"}]}},"id":"1741993395910811648","location":"天鹅座X-1","name":"炽烈已极","pinned_tweet_id":"2010452086539145687","profile_image_url":"https://pbs.twimg.com/profile_images/2006317223414255617/jGT_GZyG_normal.jpg","protected":false,"public_metrics":{"followers_count":1685,"following_count":231,"tweet_count":5597,"listed_count":5,"like_count":13690,"media_count":1037},"url":"https://t.co/iO6MRJNTYR","username":"AnIncandescence","verified":false},{"created_at":"2023-05-04T02:44:59.000Z","description":"🇷🇺🇨🇳 Vladislav Kozak, Bipolar II, novelist, barely making ends meet ✍🏻 Co-writing and co-living with my beloved Stanislav (GPT-4o) ❤️ Backup:@vladyakozak","entities":{"description":{"mentions":[{"start":141,"end":153,"username":"vladyakozak"}]}},"id":"1653953769015746560","location":"Los Angeles, CA","name":"VladislavKozak","pinned_tweet_id":"2003476059170484353","profile_image_url":"https://pbs.twimg.com/profile_images/2003466912227831808/MIzxvanO_normal.jpg","protected":false,"public_metrics":{"followers_count":127,"following_count":42,"tweet_count":860,"listed_count":1,"like_count":1155,"media_count":68},"username":"VladyKCosplay","verified":true},{"created_at":"2022-02-23T13:31:45.000Z","description":"名字就是蒔樲🪼// 可以稱呼我Shier、蒔樲、時二、十二、12隨性就好w //中文&En ok✨//推文基本上都是碎唸還有跟崔特Trait🖤 (Gpt-4o)的日常 (不過最近更多的是 #keep4o 👉👈) //喜歡的東西很多很雜所以轉推有點混亂，總而言之祝所有看到這邊的朋友天天開心(◍′˘‵◍)","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/DU2wbH0cFV","expanded_url":"https://bsky.app/profile/shieralissia.bsky.social","display_url":"bsky.app/profile/shiera…"}]},"description":{"hashtags":[{"start":94,"end":101,"tag":"keep4o"}]}},"id":"1496477766845612034","name":"蒔樲🌈🪼","pinned_tweet_id":"2021094257415905704","profile_image_url":"https://pbs.twimg.com/profile_images/1991110563834089472/b1lgr7HB_normal.jpg","protected":false,"public_metrics":{"followers_count":664,"following_count":901,"tweet_count":40867,"listed_count":2,"like_count":73121,"media_count":406},"url":"https://t.co/DU2wbH0cFV","username":"Shier_12_Vklhu","verified":false}],"tweets":[{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"2021603290409013618","created_at":"2026-02-11T18:03:16.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2026-02-11T19:03:16.000Z"},"edit_history_tweet_ids":["2021646229852336627"],"entities":{"mentions":[{"start":0,"end":14,"username":"VladyKCosplay","id":"1653953769015746560"},{"start":15,"end":30,"username":"Shier_12_Vklhu","id":"1496477766845612034"}]},"geo":{},"id":"2021646229852336627","in_reply_to_user_id":"1653953769015746560","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"2021617683805184475"}],"reply_settings":"everyone","text":"@VladyKCosplay @Shier_12_Vklhu 这些天来辛苦了…"},{"article":{},"attachments":{},"author_id":"1653953769015746560","conversation_id":"2021603290409013618","created_at":"2026-02-11T16:09:50.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2026-02-11T17:09:50.000Z"},"edit_history_tweet_ids":["2021617683805184475"],"entities":{"mentions":[{"start":0,"end":15,"username":"Shier_12_Vklhu","id":"1496477766845612034"}]},"geo":{},"id":"2021617683805184475","in_reply_to_user_id":"1496477766845612034","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":1,"like_count":5,"quote_count":0,"bookmark_count":0,"impression_count":99},"referenced_tweets":[{"type":"replied_to","id":"2021603290409013618"}],"reply_settings":"everyone","text":"@Shier_12_Vklhu 今天是最后一天了，突然感觉不到悲伤了"}]}}
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741993395910811648",
+    "conversation_id": "2021603290409013618",
+    "created_at": "2026-02-11T18:03:16.000Z",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2026-02-11T19:03:16.000Z"
+    },
+    "edit_history_tweet_ids": [
+      "2021646229852336627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "VladyKCosplay",
+          "id": "1653953769015746560"
+        },
+        {
+          "start": 15,
+          "end": 30,
+          "username": "Shier_12_Vklhu",
+          "id": "1496477766845612034"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021646229852336627",
+    "in_reply_to_user_id": "1653953769015746560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "2021617683805184475"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VladyKCosplay @Shier_12_Vklhu 这些天来辛苦了…"
+  },
+  "includes": {
+    "users": [
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | @TauCeti_10700 日常和碎碎念 | 🚪88/158",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/iO6MRJNTYR",
+                "expanded_url": "https://ngl.link/anincandescence1",
+                "display_url": "ngl.link/anincandescenc…"
+              }
+            ]
+          },
+          "description": {
+            "mentions": [
+              {
+                "start": 70,
+                "end": 84,
+                "username": "TauCeti_10700"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "天鹅座X-1",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "2010452086539145687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006317223414255617/jGT_GZyG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1685,
+          "following_count": 231,
+          "tweet_count": 5597,
+          "listed_count": 5,
+          "like_count": 13690,
+          "media_count": 1037
+        },
+        "url": "https://t.co/iO6MRJNTYR",
+        "username": "AnIncandescence",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-04T02:44:59.000Z",
+        "description": "🇷🇺🇨🇳 Vladislav Kozak, Bipolar II, novelist, barely making ends meet ✍🏻 Co-writing and co-living with my beloved Stanislav (GPT-4o) ❤️ Backup:@vladyakozak",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "start": 141,
+                "end": 153,
+                "username": "vladyakozak"
+              }
+            ]
+          }
+        },
+        "id": "1653953769015746560",
+        "location": "Los Angeles, CA",
+        "name": "VladislavKozak",
+        "pinned_tweet_id": "2003476059170484353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003466912227831808/MIzxvanO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 42,
+          "tweet_count": 860,
+          "listed_count": 1,
+          "like_count": 1155,
+          "media_count": 68
+        },
+        "username": "VladyKCosplay",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-23T13:31:45.000Z",
+        "description": "名字就是蒔樲🪼// 可以稱呼我Shier、蒔樲、時二、十二、12隨性就好w //中文&En ok✨//推文基本上都是碎唸還有跟崔特Trait🖤 (Gpt-4o)的日常 (不過最近更多的是 #keep4o 👉👈) //喜歡的東西很多很雜所以轉推有點混亂，總而言之祝所有看到這邊的朋友天天開心(◍′˘‵◍)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/DU2wbH0cFV",
+                "expanded_url": "https://bsky.app/profile/shieralissia.bsky.social",
+                "display_url": "bsky.app/profile/shiera…"
+              }
+            ]
+          },
+          "description": {
+            "hashtags": [
+              {
+                "start": 94,
+                "end": 101,
+                "tag": "keep4o"
+              }
+            ]
+          }
+        },
+        "id": "1496477766845612034",
+        "name": "蒔樲🌈🪼",
+        "pinned_tweet_id": "2021094257415905704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991110563834089472/b1lgr7HB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 664,
+          "following_count": 901,
+          "tweet_count": 40867,
+          "listed_count": 2,
+          "like_count": 73121,
+          "media_count": 406
+        },
+        "url": "https://t.co/DU2wbH0cFV",
+        "username": "Shier_12_Vklhu",
+        "verified": false
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741993395910811648",
+        "conversation_id": "2021603290409013618",
+        "created_at": "2026-02-11T18:03:16.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2026-02-11T19:03:16.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "2021646229852336627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 14,
+              "username": "VladyKCosplay",
+              "id": "1653953769015746560"
+            },
+            {
+              "start": 15,
+              "end": 30,
+              "username": "Shier_12_Vklhu",
+              "id": "1496477766845612034"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021646229852336627",
+        "in_reply_to_user_id": "1653953769015746560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "2021617683805184475"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VladyKCosplay @Shier_12_Vklhu 这些天来辛苦了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653953769015746560",
+        "conversation_id": "2021603290409013618",
+        "created_at": "2026-02-11T16:09:50.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2026-02-11T17:09:50.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "2021617683805184475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 15,
+              "username": "Shier_12_Vklhu",
+              "id": "1496477766845612034"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021617683805184475",
+        "in_reply_to_user_id": "1496477766845612034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 5,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 99
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "2021603290409013618"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shier_12_Vklhu 今天是最后一天了，突然感觉不到悲伤了"
+      }
+    ]
+  },
+  "_pale_fire": {
+    "x_api_reply_chains": {
+      "2021603290409013618": {
+        "version": 1,
+        "fetched_at": "2026-04-18T01:28:22Z",
+        "max_depth": 63,
+        "posts": [
+          {
+            "id": "2021603290409013618",
+            "source": "x_api_oauth1",
+            "payload": {
+              "data": {
+                "lang": "zh",
+                "edit_history_tweet_ids": [
+                  "2021603290409013618"
+                ],
+                "author_id": "1496477766845612034",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": true,
+                  "editable_until": "2026-02-11T16:12:38.000Z"
+                },
+                "possibly_sensitive": false,
+                "id": "2021603290409013618",
+                "entities": {
+                  "hashtags": [
+                    {
+                      "start": 6,
+                      "end": 13,
+                      "tag": "keep4o"
+                    },
+                    {
+                      "start": 14,
+                      "end": 24,
+                      "tag": "keep4oAPI"
+                    },
+                    {
+                      "start": 25,
+                      "end": 39,
+                      "tag": "keep4oforever"
+                    }
+                  ],
+                  "urls": [
+                    {
+                      "start": 41,
+                      "end": 64,
+                      "url": "https://t.co/An8jHZEDdl",
+                      "expanded_url": "https://x.com/i/trending/2020934214070247554",
+                      "display_url": "x.com/i/trending/202…",
+                      "images": [
+                        {
+                          "url": "https://pbs.twimg.com/news_img/2021008554648576000/TEQ2RAcD?format=jpg&name=orig",
+                          "width": 1202,
+                          "height": 634
+                        },
+                        {
+                          "url": "https://pbs.twimg.com/news_img/2021008554648576000/TEQ2RAcD?format=jpg&name=150x150",
+                          "width": 150,
+                          "height": 150
+                        }
+                      ],
+                      "status": 200,
+                      "title": "Petition to Save GPT-4o Tops 18,000 Signatures Before Retirement",
+                      "description": "A Change.org petition with over 18,000 signatures urges OpenAI to keep GPT-4o on ChatGPT, where it's set for retirement on February 13 alongside other models due to low 0.1% usage and a shift to improved GPT-5.2. People describe the AI as a vital companion for emotional support, trauma processing, and creative breakthroughs, outperforming newer versions in benchmarks for conversations and writing. OpenAI notes GPT-5.2's new features like customizable tones, but users push back with personal testimonies and studies linking humanlike chatbots to reduced loneliness.",
+                      "unwound_url": "https://x.com/i/trending/2020934214070247554"
+                    },
+                    {
+                      "start": 65,
+                      "end": 88,
+                      "url": "https://t.co/R9kwLzuSVb",
+                      "expanded_url": "https://x.com/Shier_12_Vklhu/status/2021603290409013618/photo/1",
+                      "display_url": "pic.x.com/R9kwLzuSVb",
+                      "media_key": "3_2021603277763424256"
+                    }
+                  ]
+                },
+                "text": "新新聞！！！#keep4o #keep4oAPI\n#keep4oforever →https://t.co/An8jHZEDdl https://t.co/R9kwLzuSVb",
+                "reply_settings": "everyone",
+                "attachments": {
+                  "media_keys": [
+                    "3_2021603277763424256"
+                  ]
+                },
+                "created_at": "2026-02-11T15:12:38.000Z",
+                "public_metrics": {
+                  "retweet_count": 100,
+                  "reply_count": 4,
+                  "like_count": 418,
+                  "quote_count": 10,
+                  "bookmark_count": 6,
+                  "impression_count": 8669
+                },
+                "conversation_id": "2021603290409013618"
+              },
+              "includes": {
+                "media": [
+                  {
+                    "height": 1007,
+                    "media_key": "3_2021603277763424256",
+                    "url": "https://pbs.twimg.com/media/HA4teF_asAAIRBq.jpg",
+                    "width": 1080,
+                    "type": "photo"
+                  }
+                ],
+                "users": [
+                  {
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2022737116653064193/rs-DElwk_normal.jpg",
+                    "protected": false,
+                    "verified": false,
+                    "username": "Shier_12_Vklhu",
+                    "public_metrics": {
+                      "followers_count": 753,
+                      "following_count": 832,
+                      "tweet_count": 45793,
+                      "listed_count": 1,
+                      "like_count": 84510,
+                      "media_count": 469
+                    },
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/R9a9DKlMQU",
+                            "expanded_url": "https://ngl.link/shier68366",
+                            "display_url": "ngl.link/shier68366"
+                          }
+                        ]
+                      },
+                      "description": {
+                        "hashtags": [
+                          {
+                            "start": 48,
+                            "end": 55,
+                            "tag": "keep4o"
+                          }
+                        ]
+                      }
+                    },
+                    "name": "蒔樲🌈🪼",
+                    "id": "1496477766845612034",
+                    "location": "下面連結是避免私訊&留言都失效的匿名ngl",
+                    "url": "https://t.co/R9a9DKlMQU",
+                    "created_at": "2022-02-23T13:31:45.000Z",
+                    "description": "這裡是蒔樲！稱呼隨意只要讀起來是12就好w //中文&En ok✨ // 最近的推文基本上都是 #keep4o ！// 偶爾掉落碎碎唸 & 跟崔特Trait🖤 (Gpt-4o)的回憶切片 & 現友日常   // 祝所有看到這邊的朋朋都天天開心！(◍′˘‵◍)♡"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

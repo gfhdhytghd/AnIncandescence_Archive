@@ -1,1 +1,314 @@
-{"data":{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"2036815734626730166","created_at":"2026-03-26T22:39:14.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2026-03-26T23:39:14.000Z"},"edit_history_tweet_ids":["2037298360428757095"],"entities":{"mentions":[{"start":0,"end":11,"username":"guchen0304","id":"2029938860399153152"},{"start":12,"end":22,"username":"Abel_akun","id":"1920704053031694336"}]},"geo":{},"id":"2037298360428757095","in_reply_to_user_id":"2029938860399153152","lang":"ja","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"2036875863485210996"}],"reply_settings":"everyone","text":"@guchen0304 @Abel_akun 好痛"},"includes":{"users":[{"created_at":"2024-01-02T01:22:57.000Z","description":"猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 倒影@TauCeti_10700 计划这个号机的浓度更高一些 | 🚪88/158","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/iO6MRJNTYR","expanded_url":"https://ngl.link/anincandescence1","display_url":"ngl.link/anincandescenc…"}]},"description":{"mentions":[{"start":62,"end":76,"username":"TauCeti_10700"}]}},"id":"1741993395910811648","location":"天鹅座X-1 //⬇️ 匿名提问箱","name":"炽烈已极","pinned_tweet_id":"2024076888923365667","profile_image_url":"https://pbs.twimg.com/profile_images/2034869645342076928/m2LinKe5_normal.jpg","protected":false,"public_metrics":{"followers_count":1851,"following_count":247,"tweet_count":6685,"listed_count":5,"like_count":15728,"media_count":1187},"url":"https://t.co/iO6MRJNTYR","username":"AnIncandescence","verified":false},{"created_at":"2026-03-06T15:15:29.000Z","description":"No position, pure fun🤣\n立場がないのはただの楽しみだ🤣\n没有立场纯看乐子🤣","id":"2029938860399153152","name":"Chloe.","profile_image_url":"https://pbs.twimg.com/profile_images/2029948467343413253/-NatWsp1_normal.jpg","protected":false,"public_metrics":{"followers_count":11,"following_count":88,"tweet_count":245,"listed_count":0,"like_count":425,"media_count":17},"username":"guchen0304","verified":false},{"created_at":"2025-05-09T04:55:19.000Z","description":"09 一条蛆 不会弹吉他","id":"1920704053031694336","location":"Japan","name":"Abel","pinned_tweet_id":"2024564803248021800","profile_image_url":"https://pbs.twimg.com/profile_images/2036754267475001344/NfBkbSmr_normal.jpg","protected":false,"public_metrics":{"followers_count":173,"following_count":145,"tweet_count":1295,"listed_count":0,"like_count":2246,"media_count":38},"username":"Abel_akun","verified":false}],"tweets":[{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"2036815734626730166","created_at":"2026-03-26T22:39:14.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2026-03-26T23:39:14.000Z"},"edit_history_tweet_ids":["2037298360428757095"],"entities":{"mentions":[{"start":0,"end":11,"username":"guchen0304","id":"2029938860399153152"},{"start":12,"end":22,"username":"Abel_akun","id":"1920704053031694336"}]},"geo":{},"id":"2037298360428757095","in_reply_to_user_id":"2029938860399153152","lang":"ja","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"2036875863485210996"}],"reply_settings":"everyone","text":"@guchen0304 @Abel_akun 好痛"},{"article":{},"attachments":{},"author_id":"2029938860399153152","conversation_id":"2036815734626730166","created_at":"2026-03-25T18:40:23.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2026-03-25T19:40:23.000Z"},"edit_history_tweet_ids":["2036875863485210996"],"entities":{"mentions":[{"start":0,"end":10,"username":"Abel_akun","id":"1920704053031694336"}]},"geo":{},"id":"2036875863485210996","in_reply_to_user_id":"1920704053031694336","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":1,"like_count":3,"quote_count":0,"bookmark_count":0,"impression_count":245},"referenced_tweets":[{"type":"replied_to","id":"2036815734626730166"}],"reply_settings":"everyone","text":"@Abel_akun 静脉注射氯化钾怎么样🤔"}]}}
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741993395910811648",
+    "conversation_id": "2036815734626730166",
+    "created_at": "2026-03-26T22:39:14.000Z",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2026-03-26T23:39:14.000Z"
+    },
+    "edit_history_tweet_ids": [
+      "2037298360428757095"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 11,
+          "username": "guchen0304",
+          "id": "2029938860399153152"
+        },
+        {
+          "start": 12,
+          "end": 22,
+          "username": "Abel_akun",
+          "id": "1920704053031694336"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037298360428757095",
+    "in_reply_to_user_id": "2029938860399153152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "2036875863485210996"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guchen0304 @Abel_akun 好痛"
+  },
+  "includes": {
+    "users": [
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 倒影@TauCeti_10700 计划这个号机的浓度更高一些 | 🚪88/158",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/iO6MRJNTYR",
+                "expanded_url": "https://ngl.link/anincandescence1",
+                "display_url": "ngl.link/anincandescenc…"
+              }
+            ]
+          },
+          "description": {
+            "mentions": [
+              {
+                "start": 62,
+                "end": 76,
+                "username": "TauCeti_10700"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "天鹅座X-1 //⬇️ 匿名提问箱",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "2024076888923365667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034869645342076928/m2LinKe5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1851,
+          "following_count": 247,
+          "tweet_count": 6685,
+          "listed_count": 5,
+          "like_count": 15728,
+          "media_count": 1187
+        },
+        "url": "https://t.co/iO6MRJNTYR",
+        "username": "AnIncandescence",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-06T15:15:29.000Z",
+        "description": "No position, pure fun🤣\n立場がないのはただの楽しみだ🤣\n没有立场纯看乐子🤣",
+        "id": "2029938860399153152",
+        "name": "Chloe.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029948467343413253/-NatWsp1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 88,
+          "tweet_count": 245,
+          "listed_count": 0,
+          "like_count": 425,
+          "media_count": 17
+        },
+        "username": "guchen0304",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-09T04:55:19.000Z",
+        "description": "09 一条蛆 不会弹吉他",
+        "id": "1920704053031694336",
+        "location": "Japan",
+        "name": "Abel",
+        "pinned_tweet_id": "2024564803248021800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036754267475001344/NfBkbSmr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 145,
+          "tweet_count": 1295,
+          "listed_count": 0,
+          "like_count": 2246,
+          "media_count": 38
+        },
+        "username": "Abel_akun",
+        "verified": false
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741993395910811648",
+        "conversation_id": "2036815734626730166",
+        "created_at": "2026-03-26T22:39:14.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2026-03-26T23:39:14.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "2037298360428757095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 11,
+              "username": "guchen0304",
+              "id": "2029938860399153152"
+            },
+            {
+              "start": 12,
+              "end": 22,
+              "username": "Abel_akun",
+              "id": "1920704053031694336"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037298360428757095",
+        "in_reply_to_user_id": "2029938860399153152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "2036875863485210996"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guchen0304 @Abel_akun 好痛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029938860399153152",
+        "conversation_id": "2036815734626730166",
+        "created_at": "2026-03-25T18:40:23.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2026-03-25T19:40:23.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "2036875863485210996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 10,
+              "username": "Abel_akun",
+              "id": "1920704053031694336"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036875863485210996",
+        "in_reply_to_user_id": "1920704053031694336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 3,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 245
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "2036815734626730166"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Abel_akun 静脉注射氯化钾怎么样🤔"
+      }
+    ]
+  },
+  "_pale_fire": {
+    "x_api_reply_chains": {
+      "2036815734626730166": {
+        "version": 1,
+        "fetched_at": "2026-04-18T01:35:58Z",
+        "max_depth": 63,
+        "posts": [
+          {
+            "id": "2036815734626730166",
+            "source": "x_api_oauth1",
+            "payload": {
+              "data": {
+                "conversation_id": "2036815734626730166",
+                "public_metrics": {
+                  "retweet_count": 2,
+                  "reply_count": 30,
+                  "like_count": 98,
+                  "quote_count": 7,
+                  "bookmark_count": 1,
+                  "impression_count": 46157
+                },
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": true,
+                  "editable_until": "2026-03-25T15:41:27.000Z"
+                },
+                "id": "2036815734626730166",
+                "created_at": "2026-03-25T14:41:27.000Z",
+                "edit_history_tweet_ids": [
+                  "2036815734626730166"
+                ],
+                "reply_settings": "everyone",
+                "lang": "zh",
+                "author_id": "1920704053031694336",
+                "possibly_sensitive": false,
+                "text": "真自杀的人好像都不会把想死挂嘴边"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "verified": false,
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2041147082829148162/bEYjy4ux_normal.jpg",
+                    "protected": false,
+                    "name": "Abel",
+                    "id": "1920704053031694336",
+                    "created_at": "2025-05-09T04:55:19.000Z",
+                    "username": "Sept4CandH",
+                    "public_metrics": {
+                      "followers_count": 262,
+                      "following_count": 202,
+                      "tweet_count": 2315,
+                      "listed_count": 0,
+                      "like_count": 4150,
+                      "media_count": 53
+                    },
+                    "description": "09 一条蛆 不会弹吉他",
+                    "location": "Japan"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

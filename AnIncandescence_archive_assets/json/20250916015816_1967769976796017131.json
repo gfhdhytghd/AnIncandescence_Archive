@@ -1,1 +1,236 @@
-{"data":{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1967685696040341942","created_at":"2025-09-16T01:58:16.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-09-16T02:58:16.000Z"},"edit_history_tweet_ids":["1967769976796017131"],"entities":{"mentions":[{"start":0,"end":16,"username":"dDguwkiRkZcCSrt","id":"1456231777224347651"}]},"geo":{},"id":"1967769976796017131","in_reply_to_user_id":"1456231777224347651","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1967685696040341942"}],"reply_settings":"everyone","text":"@dDguwkiRkZcCSrt 无名小卒还是名扬天下🥹"},"includes":{"users":[{"created_at":"2024-01-02T01:22:57.000Z","description":"猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/MuEKSg4tIS","expanded_url":"https://ngl.link/anincandescence","display_url":"ngl.link/anincandescence"}]}},"id":"1741993395910811648","location":"天鹅座X-1","name":"炽烈已极","pinned_tweet_id":"1966906570224353588","profile_image_url":"https://pbs.twimg.com/profile_images/1967287311504465922/Z7d-hW5p_normal.jpg","protected":false,"public_metrics":{"followers_count":1180,"following_count":207,"tweet_count":3883,"listed_count":3,"like_count":10506,"media_count":777},"url":"https://t.co/MuEKSg4tIS","username":"AnIncandescence","verified":false},{"created_at":"2021-11-04T12:08:26.000Z","description":"","id":"1456231777224347651","name":"无名","pinned_tweet_id":"1922871209764560922","profile_image_url":"https://pbs.twimg.com/profile_images/1932707072468217856/Yd5nKEM7_normal.jpg","protected":true,"public_metrics":{"followers_count":309,"following_count":64,"tweet_count":8637,"listed_count":0,"like_count":3096,"media_count":607},"username":"dDguwkiRkZcCSrt","verified":false}],"tweets":[{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1967685696040341942","created_at":"2025-09-16T01:58:16.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-09-16T02:58:16.000Z"},"edit_history_tweet_ids":["1967769976796017131"],"entities":{"mentions":[{"start":0,"end":16,"username":"dDguwkiRkZcCSrt","id":"1456231777224347651"}]},"geo":{},"id":"1967769976796017131","in_reply_to_user_id":"1456231777224347651","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1967685696040341942"}],"reply_settings":"everyone","text":"@dDguwkiRkZcCSrt 无名小卒还是名扬天下🥹"}]},"errors":[{"resource_id":"1967685696040341942","parameter":"referenced_tweets.id","resource_type":"tweet","section":"includes","title":"Authorization Error","value":"1967685696040341942","detail":"Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1967685696040341942].","type":"https://api.twitter.com/2/problems/not-authorized-for-resource"}]}
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741993395910811648",
+    "conversation_id": "1967685696040341942",
+    "created_at": "2025-09-16T01:58:16.000Z",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2025-09-16T02:58:16.000Z"
+    },
+    "edit_history_tweet_ids": [
+      "1967769976796017131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 16,
+          "username": "dDguwkiRkZcCSrt",
+          "id": "1456231777224347651"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967769976796017131",
+    "in_reply_to_user_id": "1456231777224347651",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1967685696040341942"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dDguwkiRkZcCSrt 无名小卒还是名扬天下🥹"
+  },
+  "includes": {
+    "users": [
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/MuEKSg4tIS",
+                "expanded_url": "https://ngl.link/anincandescence",
+                "display_url": "ngl.link/anincandescence"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "天鹅座X-1",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "1966906570224353588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967287311504465922/Z7d-hW5p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1180,
+          "following_count": 207,
+          "tweet_count": 3883,
+          "listed_count": 3,
+          "like_count": 10506,
+          "media_count": 777
+        },
+        "url": "https://t.co/MuEKSg4tIS",
+        "username": "AnIncandescence",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-04T12:08:26.000Z",
+        "description": "",
+        "id": "1456231777224347651",
+        "name": "无名",
+        "pinned_tweet_id": "1922871209764560922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932707072468217856/Yd5nKEM7_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 64,
+          "tweet_count": 8637,
+          "listed_count": 0,
+          "like_count": 3096,
+          "media_count": 607
+        },
+        "username": "dDguwkiRkZcCSrt",
+        "verified": false
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741993395910811648",
+        "conversation_id": "1967685696040341942",
+        "created_at": "2025-09-16T01:58:16.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2025-09-16T02:58:16.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1967769976796017131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 16,
+              "username": "dDguwkiRkZcCSrt",
+              "id": "1456231777224347651"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967769976796017131",
+        "in_reply_to_user_id": "1456231777224347651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1967685696040341942"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dDguwkiRkZcCSrt 无名小卒还是名扬天下🥹"
+      }
+    ]
+  },
+  "errors": [
+    {
+      "resource_id": "1967685696040341942",
+      "parameter": "referenced_tweets.id",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "value": "1967685696040341942",
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1967685696040341942].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource"
+    }
+  ],
+  "_pale_fire": {
+    "x_api_reply_chains": {
+      "1967685696040341942": {
+        "version": 1,
+        "fetched_at": "2026-04-18T01:01:57Z",
+        "max_depth": 64,
+        "posts": [
+          {
+            "id": "1967685696040341942",
+            "source": "x_api_oauth1",
+            "payload": {
+              "data": {
+                "created_at": "2025-09-15T20:23:22.000Z",
+                "reply_settings": "everyone",
+                "text": "赛博朋克2077dlc往日之影的一个结局是，v放弃了成为传奇的梦想，接受了一项危险的手术。手术成功了，v脑子里的芯片被移除了，v活下来了。但代价是失去了所有的植入体，变成了一个再也无法战斗的普通人。v沉睡了两年，当醒来后，亲近的朋友离开了，心爱的姑娘不等了，v又成了无名之辈，但好死不如赖活。",
+                "lang": "zh",
+                "author_id": "1456231777224347651",
+                "edit_history_tweet_ids": [
+                  "1967685696040341942"
+                ],
+                "id": "1967685696040341942",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": true,
+                  "editable_until": "2025-09-15T21:23:22.000Z"
+                },
+                "possibly_sensitive": false,
+                "conversation_id": "1967685696040341942",
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 110
+                }
+              },
+              "includes": {
+                "users": [
+                  {
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1932707072468217856/Yd5nKEM7_normal.jpg",
+                    "name": "无名",
+                    "id": "1456231777224347651",
+                    "description": "江湖有缘再见",
+                    "public_metrics": {
+                      "followers_count": 305,
+                      "following_count": 74,
+                      "tweet_count": 10910,
+                      "listed_count": 0,
+                      "like_count": 4072,
+                      "media_count": 778
+                    },
+                    "created_at": "2021-11-04T12:08:26.000Z",
+                    "username": "dDguwkiRkZcCSrt",
+                    "verified": false,
+                    "protected": true
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,1 +1,453 @@
-{"data":{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1962577549579665413","created_at":"2025-09-03T11:20:18.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-09-03T12:20:18.000Z"},"edit_history_tweet_ids":["1963200373143073203"],"entities":{"mentions":[{"start":0,"end":8,"username":"fawpv25","id":"1900779126245769216"}]},"geo":{},"id":"1963200373143073203","in_reply_to_user_id":"1900779126245769216","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1963198949273080018"}],"reply_settings":"everyone","text":"@fawpv25 可能减弱而已，不一定那么夸张\n或者说如果你有一次停抗抑郁药之后就能对比出差别了（）"},"includes":{"users":[{"created_at":"2024-01-02T01:22:57.000Z","description":"猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/MuEKSg4tIS","expanded_url":"https://ngl.link/anincandescence","display_url":"ngl.link/anincandescence"}]}},"id":"1741993395910811648","location":"天鹅座X-1","name":"炽烈已极","pinned_tweet_id":"1944465960406245490","profile_image_url":"https://pbs.twimg.com/profile_images/1947176726292725760/VAZ0WSeY_normal.jpg","protected":false,"public_metrics":{"followers_count":1160,"following_count":203,"tweet_count":3803,"listed_count":3,"like_count":10333,"media_count":760},"url":"https://t.co/MuEKSg4tIS","username":"AnIncandescence","verified":false},{"created_at":"2025-03-15T05:20:44.000Z","description":"如果你知道怎么变成一只乌鸦，请告诉我","id":"1900779126245769216","name":"少女人形手枪","profile_image_url":"https://pbs.twimg.com/profile_images/1957828191445479427/G6DedXhI_normal.jpg","protected":true,"public_metrics":{"followers_count":51,"following_count":139,"tweet_count":444,"listed_count":1,"like_count":2648,"media_count":22},"username":"fawpv25","verified":false}],"tweets":[{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1962577549579665413","created_at":"2025-09-03T11:20:18.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-09-03T12:20:18.000Z"},"edit_history_tweet_ids":["1963200373143073203"],"entities":{"mentions":[{"start":0,"end":8,"username":"fawpv25","id":"1900779126245769216"}]},"geo":{},"id":"1963200373143073203","in_reply_to_user_id":"1900779126245769216","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1963198949273080018"}],"reply_settings":"everyone","text":"@fawpv25 可能减弱而已，不一定那么夸张\n或者说如果你有一次停抗抑郁药之后就能对比出差别了（）"}]},"errors":[{"resource_id":"1963198949273080018","parameter":"referenced_tweets.id","resource_type":"tweet","section":"includes","title":"Authorization Error","value":"1963198949273080018","detail":"Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1963198949273080018].","type":"https://api.twitter.com/2/problems/not-authorized-for-resource"}]}
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741993395910811648",
+    "conversation_id": "1962577549579665413",
+    "created_at": "2025-09-03T11:20:18.000Z",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2025-09-03T12:20:18.000Z"
+    },
+    "edit_history_tweet_ids": [
+      "1963200373143073203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 8,
+          "username": "fawpv25",
+          "id": "1900779126245769216"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963200373143073203",
+    "in_reply_to_user_id": "1900779126245769216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1963198949273080018"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fawpv25 可能减弱而已，不一定那么夸张\n或者说如果你有一次停抗抑郁药之后就能对比出差别了（）"
+  },
+  "includes": {
+    "users": [
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/MuEKSg4tIS",
+                "expanded_url": "https://ngl.link/anincandescence",
+                "display_url": "ngl.link/anincandescence"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "天鹅座X-1",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "1944465960406245490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947176726292725760/VAZ0WSeY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1160,
+          "following_count": 203,
+          "tweet_count": 3803,
+          "listed_count": 3,
+          "like_count": 10333,
+          "media_count": 760
+        },
+        "url": "https://t.co/MuEKSg4tIS",
+        "username": "AnIncandescence",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-15T05:20:44.000Z",
+        "description": "如果你知道怎么变成一只乌鸦，请告诉我",
+        "id": "1900779126245769216",
+        "name": "少女人形手枪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957828191445479427/G6DedXhI_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 139,
+          "tweet_count": 444,
+          "listed_count": 1,
+          "like_count": 2648,
+          "media_count": 22
+        },
+        "username": "fawpv25",
+        "verified": false
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741993395910811648",
+        "conversation_id": "1962577549579665413",
+        "created_at": "2025-09-03T11:20:18.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2025-09-03T12:20:18.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1963200373143073203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 8,
+              "username": "fawpv25",
+              "id": "1900779126245769216"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963200373143073203",
+        "in_reply_to_user_id": "1900779126245769216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1963198949273080018"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fawpv25 可能减弱而已，不一定那么夸张\n或者说如果你有一次停抗抑郁药之后就能对比出差别了（）"
+      }
+    ]
+  },
+  "errors": [
+    {
+      "resource_id": "1963198949273080018",
+      "parameter": "referenced_tweets.id",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "value": "1963198949273080018",
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1963198949273080018].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource"
+    }
+  ],
+  "_pale_fire": {
+    "x_api_reply_chains": {
+      "1963198949273080018": {
+        "version": 1,
+        "fetched_at": "2026-04-18T00:58:29Z",
+        "max_depth": 64,
+        "posts": [
+          {
+            "id": "1963198949273080018",
+            "source": "x_api_oauth1",
+            "payload": {
+              "data": {
+                "id": "1963198949273080018",
+                "edit_history_tweet_ids": [
+                  "1963198949273080018"
+                ],
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 40
+                },
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 0,
+                      "end": 16,
+                      "username": "AnIncandescence",
+                      "id": "1741993395910811648"
+                    }
+                  ]
+                },
+                "author_id": "1900779126245769216",
+                "text": "@AnIncandescence 不知为何的，我没有停抗抑郁药，只是减了一丢丢量，但是使用常规剂量下的致幻剂得到的致幻强度还挺高的🤔🤔🤔",
+                "lang": "zh",
+                "reply_settings": "everyone",
+                "possibly_sensitive": false,
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2025-09-03T12:14:38.000Z"
+                },
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "1962577549579665413"
+                  }
+                ],
+                "in_reply_to_user_id": "1741993395910811648",
+                "created_at": "2025-09-03T11:14:38.000Z",
+                "conversation_id": "1962577549579665413"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2006613154210721792/8FPJv03i_normal.jpg",
+                    "verified": false,
+                    "public_metrics": {
+                      "followers_count": 81,
+                      "following_count": 245,
+                      "tweet_count": 4429,
+                      "listed_count": 0,
+                      "like_count": 15724,
+                      "media_count": 105
+                    },
+                    "id": "1900779126245769216",
+                    "name": "Anoko",
+                    "created_at": "2025-03-15T05:20:44.000Z",
+                    "username": "fawpv25",
+                    "description": "如果你知道怎么变成一只乌鸦，请告诉我/致力于成为你们的互联网好朋鸦/艺术就是生命/我们的诞生不是为了被疼痛感束缚/学习像人类一样地活下去。",
+                    "protected": true
+                  }
+                ]
+              },
+              "errors": [
+                {
+                  "parameter": "in_reply_to_user_id",
+                  "resource_id": "1741993395910811648",
+                  "value": "1741993395910811648",
+                  "detail": "User has been suspended: [1741993395910811648].",
+                  "title": "Forbidden",
+                  "resource_type": "user",
+                  "type": "https://api.twitter.com/2/problems/resource-not-found"
+                },
+                {
+                  "resource_id": "1962577549579665413",
+                  "parameter": "referenced_tweets.id",
+                  "resource_type": "tweet",
+                  "section": "includes",
+                  "title": "Authorization Error",
+                  "value": "1962577549579665413",
+                  "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1962577549579665413].",
+                  "type": "https://api.twitter.com/2/problems/not-authorized-for-resource"
+                }
+              ]
+            }
+          },
+          {
+            "id": "1962577549579665413",
+            "source": "local_json",
+            "payload": {
+              "data": {
+                "article": {},
+                "attachments": {
+                  "media_keys": [
+                    "3_1962577541384019968"
+                  ]
+                },
+                "author_id": "1741993395910811648",
+                "context_annotations": [
+                  {
+                    "domain": {
+                      "id": "46",
+                      "name": "Business Taxonomy",
+                      "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                      "id": "1557696940178935808",
+                      "name": "Gaming Business",
+                      "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers"
+                    }
+                  }
+                ],
+                "conversation_id": "1962577549579665413",
+                "created_at": "2025-09-01T18:05:25.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": true,
+                  "editable_until": "2025-09-01T19:05:25.000Z"
+                },
+                "edit_history_tweet_ids": [
+                  "1962577549579665413"
+                ],
+                "entities": {
+                  "urls": [
+                    {
+                      "start": 37,
+                      "end": 60,
+                      "url": "https://t.co/WF2020JLZA",
+                      "expanded_url": "https://x.com/AnIncandescence/status/1962577549579665413/photo/1",
+                      "display_url": "pic.x.com/WF2020JLZA",
+                      "media_key": "3_1962577541384019968"
+                    }
+                  ]
+                },
+                "geo": {},
+                "id": "1962577549579665413",
+                "lang": "zh",
+                "note_tweet": {
+                  "entities": {}
+                },
+                "possibly_sensitive": false,
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 0
+                },
+                "reply_settings": "everyone",
+                "text": "适用于绝大部分血清素能致幻剂的使用说明\n\n如还有疑问请去咨询你的卖家（） https://t.co/WF2020JLZA"
+              },
+              "includes": {
+                "media": [
+                  {
+                    "height": 3306,
+                    "media_key": "3_1962577541384019968",
+                    "public_metrics": {},
+                    "type": "photo",
+                    "url": "https://pbs.twimg.com/media/Gzx54C5aoAAhyfc.jpg",
+                    "width": 1179
+                  }
+                ],
+                "users": [
+                  {
+                    "created_at": "2024-01-02T01:22:57.000Z",
+                    "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/MuEKSg4tIS",
+                            "expanded_url": "https://ngl.link/anincandescence",
+                            "display_url": "ngl.link/anincandescence"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1741993395910811648",
+                    "location": "天鹅座X-1",
+                    "name": "炽烈已极",
+                    "pinned_tweet_id": "1944465960406245490",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1947176726292725760/VAZ0WSeY_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 1156,
+                      "following_count": 203,
+                      "tweet_count": 3783,
+                      "listed_count": 3,
+                      "like_count": 10284,
+                      "media_count": 755
+                    },
+                    "url": "https://t.co/MuEKSg4tIS",
+                    "username": "AnIncandescence",
+                    "verified": false
+                  }
+                ],
+                "tweets": [
+                  {
+                    "article": {},
+                    "attachments": {
+                      "media_keys": [
+                        "3_1962577541384019968"
+                      ]
+                    },
+                    "author_id": "1741993395910811648",
+                    "context_annotations": [
+                      {
+                        "domain": {
+                          "id": "46",
+                          "name": "Business Taxonomy",
+                          "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                        },
+                        "entity": {
+                          "id": "1557696940178935808",
+                          "name": "Gaming Business",
+                          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers"
+                        }
+                      }
+                    ],
+                    "conversation_id": "1962577549579665413",
+                    "created_at": "2025-09-01T18:05:25.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": true,
+                      "editable_until": "2025-09-01T19:05:25.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "1962577549579665413"
+                    ],
+                    "entities": {
+                      "urls": [
+                        {
+                          "start": 37,
+                          "end": 60,
+                          "url": "https://t.co/WF2020JLZA",
+                          "expanded_url": "https://x.com/AnIncandescence/status/1962577549579665413/photo/1",
+                          "display_url": "pic.x.com/WF2020JLZA",
+                          "media_key": "3_1962577541384019968"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "1962577549579665413",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 0,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 0
+                    },
+                    "reply_settings": "everyone",
+                    "text": "适用于绝大部分血清素能致幻剂的使用说明\n\n如还有疑问请去咨询你的卖家（） https://t.co/WF2020JLZA"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

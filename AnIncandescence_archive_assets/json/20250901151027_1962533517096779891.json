@@ -1,1 +1,371 @@
-{"data":{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1954529992492331331","created_at":"2025-09-01T15:10:27.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-09-01T16:10:27.000Z"},"edit_history_tweet_ids":["1962533517096779891"],"entities":{"mentions":[{"start":0,"end":12,"username":"Vacue138950","id":"1958507577077342208"}]},"geo":{},"id":"1962533517096779891","in_reply_to_user_id":"1958507577077342208","lang":"und","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1962531878331887918"}],"reply_settings":"everyone","text":"@Vacue138950 10mg"},"includes":{"users":[{"created_at":"2024-01-02T01:22:57.000Z","description":"猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/MuEKSg4tIS","expanded_url":"https://ngl.link/anincandescence","display_url":"ngl.link/anincandescence"}]}},"id":"1741993395910811648","location":"天鹅座X-1","name":"炽烈已极","pinned_tweet_id":"1944465960406245490","profile_image_url":"https://pbs.twimg.com/profile_images/1947176726292725760/VAZ0WSeY_normal.jpg","protected":false,"public_metrics":{"followers_count":1153,"following_count":203,"tweet_count":3775,"listed_count":3,"like_count":10275,"media_count":754},"url":"https://t.co/MuEKSg4tIS","username":"AnIncandescence","verified":false},{"created_at":"2025-08-21T12:32:55.000Z","description":"Cheminformatics & Biohacker | AuDHD/DID | enby | Depression & Anxiety disorder | 如临深渊，如履薄冰","id":"1958507577077342208","location":"幻想郷","name":"Vacue","profile_image_url":"https://pbs.twimg.com/profile_images/1958507712863748096/S-wkxVNG_normal.jpg","protected":false,"public_metrics":{"followers_count":2,"following_count":37,"tweet_count":17,"listed_count":0,"like_count":8,"media_count":0},"username":"Vacue138950","verified":false}],"tweets":[{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1954529992492331331","created_at":"2025-09-01T15:10:27.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-09-01T16:10:27.000Z"},"edit_history_tweet_ids":["1962533517096779891"],"entities":{"mentions":[{"start":0,"end":12,"username":"Vacue138950","id":"1958507577077342208"}]},"geo":{},"id":"1962533517096779891","in_reply_to_user_id":"1958507577077342208","lang":"und","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1962531878331887918"}],"reply_settings":"everyone","text":"@Vacue138950 10mg"},{"article":{},"attachments":{},"author_id":"1958507577077342208","conversation_id":"1954529992492331331","created_at":"2025-09-01T15:03:56.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-09-01T16:03:56.000Z"},"edit_history_tweet_ids":["1962531878331887918"],"entities":{"mentions":[{"start":0,"end":16,"username":"AnIncandescence","id":"1741993395910811648"}]},"geo":{},"id":"1962531878331887918","in_reply_to_user_id":"1741993395910811648","lang":"ja","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":1,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":3},"referenced_tweets":[{"type":"replied_to","id":"1954529992492331331"}],"reply_settings":"everyone","text":"@AnIncandescence 吃了多少？"}]}}
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741993395910811648",
+    "conversation_id": "1954529992492331331",
+    "created_at": "2025-09-01T15:10:27.000Z",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2025-09-01T16:10:27.000Z"
+    },
+    "edit_history_tweet_ids": [
+      "1962533517096779891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 12,
+          "username": "Vacue138950",
+          "id": "1958507577077342208"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962533517096779891",
+    "in_reply_to_user_id": "1958507577077342208",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1962531878331887918"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Vacue138950 10mg"
+  },
+  "includes": {
+    "users": [
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/MuEKSg4tIS",
+                "expanded_url": "https://ngl.link/anincandescence",
+                "display_url": "ngl.link/anincandescence"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "天鹅座X-1",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "1944465960406245490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947176726292725760/VAZ0WSeY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1153,
+          "following_count": 203,
+          "tweet_count": 3775,
+          "listed_count": 3,
+          "like_count": 10275,
+          "media_count": 754
+        },
+        "url": "https://t.co/MuEKSg4tIS",
+        "username": "AnIncandescence",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-21T12:32:55.000Z",
+        "description": "Cheminformatics & Biohacker | AuDHD/DID | enby | Depression & Anxiety disorder | 如临深渊，如履薄冰",
+        "id": "1958507577077342208",
+        "location": "幻想郷",
+        "name": "Vacue",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958507712863748096/S-wkxVNG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 37,
+          "tweet_count": 17,
+          "listed_count": 0,
+          "like_count": 8,
+          "media_count": 0
+        },
+        "username": "Vacue138950",
+        "verified": false
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741993395910811648",
+        "conversation_id": "1954529992492331331",
+        "created_at": "2025-09-01T15:10:27.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2025-09-01T16:10:27.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1962533517096779891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 12,
+              "username": "Vacue138950",
+              "id": "1958507577077342208"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962533517096779891",
+        "in_reply_to_user_id": "1958507577077342208",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1962531878331887918"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vacue138950 10mg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1958507577077342208",
+        "conversation_id": "1954529992492331331",
+        "created_at": "2025-09-01T15:03:56.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2025-09-01T16:03:56.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1962531878331887918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 16,
+              "username": "AnIncandescence",
+              "id": "1741993395910811648"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962531878331887918",
+        "in_reply_to_user_id": "1741993395910811648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1954529992492331331"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnIncandescence 吃了多少？"
+      }
+    ]
+  },
+  "_pale_fire": {
+    "x_api_reply_chains": {
+      "1954529992492331331": {
+        "version": 1,
+        "fetched_at": "2026-04-18T00:58:21Z",
+        "max_depth": 63,
+        "posts": [
+          {
+            "id": "1954529992492331331",
+            "source": "local_json",
+            "payload": {
+              "data": {
+                "article": {},
+                "attachments": {
+                  "media_keys": [
+                    "3_1954529983613038592"
+                  ]
+                },
+                "author_id": "1741993395910811648",
+                "conversation_id": "1954529992492331331",
+                "created_at": "2025-08-10T13:07:18.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": true,
+                  "editable_until": "2025-08-10T14:07:18.000Z"
+                },
+                "edit_history_tweet_ids": [
+                  "1954529992492331331"
+                ],
+                "entities": {
+                  "urls": [
+                    {
+                      "start": 134,
+                      "end": 157,
+                      "url": "https://t.co/KxtfAUVSmb",
+                      "expanded_url": "https://x.com/AnIncandescence/status/1954529992492331331/photo/1",
+                      "display_url": "pic.x.com/KxtfAUVSmb",
+                      "media_key": "3_1954529983613038592"
+                    }
+                  ]
+                },
+                "geo": {},
+                "id": "1954529992492331331",
+                "lang": "zh",
+                "note_tweet": {
+                  "entities": {}
+                },
+                "possibly_sensitive": false,
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 0
+                },
+                "reply_settings": "everyone",
+                "text": "吃完唑吡坦会干一些难绷的事情，昨天睡不着疑似气急败坏了抽了0.5ml右美托咪定就是iv，还奇奇怪怪挑了个很痛的头静脉\n后面不记得了，醒了灯开着的还以为是做梦，对着针孔一脸不可置信地整理记忆\n\n你别说还扎得挺好的（）按压时间估计也够，一点淤青也没有，不知道哪来的意志力 https://t.co/KxtfAUVSmb"
+              },
+              "includes": {
+                "media": [
+                  {
+                    "height": 2595,
+                    "media_key": "3_1954529983613038592",
+                    "public_metrics": {},
+                    "type": "photo",
+                    "url": "https://pbs.twimg.com/media/Gx_iqiAa8AA6Ujj.jpg",
+                    "width": 3005
+                  }
+                ],
+                "users": [
+                  {
+                    "created_at": "2024-01-02T01:22:57.000Z",
+                    "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/MuEKSg4tIS",
+                            "expanded_url": "https://ngl.link/anincandescence",
+                            "display_url": "ngl.link/anincandescence"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1741993395910811648",
+                    "location": "天鹅座X-1",
+                    "name": "炽烈已极",
+                    "pinned_tweet_id": "1944465960406245490",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1947176726292725760/VAZ0WSeY_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 1113,
+                      "following_count": 197,
+                      "tweet_count": 3605,
+                      "listed_count": 2,
+                      "like_count": 9871,
+                      "media_count": 724
+                    },
+                    "url": "https://t.co/MuEKSg4tIS",
+                    "username": "AnIncandescence",
+                    "verified": false
+                  }
+                ],
+                "tweets": [
+                  {
+                    "article": {},
+                    "attachments": {
+                      "media_keys": [
+                        "3_1954529983613038592"
+                      ]
+                    },
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "1954529992492331331",
+                    "created_at": "2025-08-10T13:07:18.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": true,
+                      "editable_until": "2025-08-10T14:07:18.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "1954529992492331331"
+                    ],
+                    "entities": {
+                      "urls": [
+                        {
+                          "start": 134,
+                          "end": 157,
+                          "url": "https://t.co/KxtfAUVSmb",
+                          "expanded_url": "https://x.com/AnIncandescence/status/1954529992492331331/photo/1",
+                          "display_url": "pic.x.com/KxtfAUVSmb",
+                          "media_key": "3_1954529983613038592"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "1954529992492331331",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 0,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 0
+                    },
+                    "reply_settings": "everyone",
+                    "text": "吃完唑吡坦会干一些难绷的事情，昨天睡不着疑似气急败坏了抽了0.5ml右美托咪定就是iv，还奇奇怪怪挑了个很痛的头静脉\n后面不记得了，醒了灯开着的还以为是做梦，对着针孔一脸不可置信地整理记忆\n\n你别说还扎得挺好的（）按压时间估计也够，一点淤青也没有，不知道哪来的意志力 https://t.co/KxtfAUVSmb"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

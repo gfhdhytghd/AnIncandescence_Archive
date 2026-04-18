@@ -1,1 +1,667 @@
-{"data":{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"2021819431866024287","created_at":"2026-02-12T14:29:50.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2026-02-12T15:29:50.000Z"},"edit_history_tweet_ids":["2021954904810799480"],"entities":{"mentions":[{"start":0,"end":10,"username":"Evigt_404","id":"1837496275656495107"}]},"geo":{},"id":"2021954904810799480","in_reply_to_user_id":"1837496275656495107","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"2021950082774618468"}],"reply_settings":"everyone","text":"@Evigt_404 风光大葬（不是）"},"includes":{"users":[{"created_at":"2024-01-02T01:22:57.000Z","description":"猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | @TauCeti_10700 日常和碎碎念 | 🚪88/158","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/iO6MRJNTYR","expanded_url":"https://ngl.link/anincandescence1","display_url":"ngl.link/anincandescenc…"}]},"description":{"mentions":[{"start":70,"end":84,"username":"TauCeti_10700"}]}},"id":"1741993395910811648","location":"天鹅座X-1","name":"炽烈已极","pinned_tweet_id":"2010452086539145687","profile_image_url":"https://pbs.twimg.com/profile_images/2006317223414255617/jGT_GZyG_normal.jpg","protected":false,"public_metrics":{"followers_count":1685,"following_count":231,"tweet_count":5599,"listed_count":5,"like_count":13700,"media_count":1037},"url":"https://t.co/iO6MRJNTYR","username":"AnIncandescence","verified":false},{"created_at":"2024-09-21T14:17:17.000Z","description":"....\nArranger | composer | paintlover | prefer to use English&简中 | OSDD&Schizoaffective disorder\nPatreon&Reddit: Evigt666\nBandcamp: Evigt & Sys_Evi","id":"1837496275656495107","name":"Evigt404","profile_image_url":"https://pbs.twimg.com/profile_images/1838802255824207872/uT4oQFMh_normal.jpg","protected":false,"public_metrics":{"followers_count":128,"following_count":153,"tweet_count":1568,"listed_count":1,"like_count":1783,"media_count":147},"username":"Evigt_404","verified":false}],"tweets":[{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"2021819431866024287","created_at":"2026-02-12T14:29:50.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2026-02-12T15:29:50.000Z"},"edit_history_tweet_ids":["2021954904810799480"],"entities":{"mentions":[{"start":0,"end":10,"username":"Evigt_404","id":"1837496275656495107"}]},"geo":{},"id":"2021954904810799480","in_reply_to_user_id":"1837496275656495107","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"2021950082774618468"}],"reply_settings":"everyone","text":"@Evigt_404 风光大葬（不是）"},{"article":{},"attachments":{},"author_id":"1837496275656495107","conversation_id":"2021819431866024287","created_at":"2026-02-12T14:10:40.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2026-02-12T15:10:40.000Z"},"edit_history_tweet_ids":["2021950082774618468"],"entities":{"mentions":[{"start":0,"end":16,"username":"AnIncandescence","id":"1741993395910811648"}]},"geo":{},"id":"2021950082774618468","in_reply_to_user_id":"1741993395910811648","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":1,"like_count":1,"quote_count":0,"bookmark_count":0,"impression_count":3},"referenced_tweets":[{"type":"replied_to","id":"2021948055394902468"}],"reply_settings":"everyone","text":"@AnIncandescence 都学咋办"}]}}
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741993395910811648",
+    "conversation_id": "2021819431866024287",
+    "created_at": "2026-02-12T14:29:50.000Z",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2026-02-12T15:29:50.000Z"
+    },
+    "edit_history_tweet_ids": [
+      "2021954904810799480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 10,
+          "username": "Evigt_404",
+          "id": "1837496275656495107"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021954904810799480",
+    "in_reply_to_user_id": "1837496275656495107",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "2021950082774618468"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Evigt_404 风光大葬（不是）"
+  },
+  "includes": {
+    "users": [
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | @TauCeti_10700 日常和碎碎念 | 🚪88/158",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/iO6MRJNTYR",
+                "expanded_url": "https://ngl.link/anincandescence1",
+                "display_url": "ngl.link/anincandescenc…"
+              }
+            ]
+          },
+          "description": {
+            "mentions": [
+              {
+                "start": 70,
+                "end": 84,
+                "username": "TauCeti_10700"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "天鹅座X-1",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "2010452086539145687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006317223414255617/jGT_GZyG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1685,
+          "following_count": 231,
+          "tweet_count": 5599,
+          "listed_count": 5,
+          "like_count": 13700,
+          "media_count": 1037
+        },
+        "url": "https://t.co/iO6MRJNTYR",
+        "username": "AnIncandescence",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-21T14:17:17.000Z",
+        "description": "....\nArranger | composer | paintlover | prefer to use English&简中 | OSDD&Schizoaffective disorder\nPatreon&Reddit: Evigt666\nBandcamp: Evigt & Sys_Evi",
+        "id": "1837496275656495107",
+        "name": "Evigt404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838802255824207872/uT4oQFMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 153,
+          "tweet_count": 1568,
+          "listed_count": 1,
+          "like_count": 1783,
+          "media_count": 147
+        },
+        "username": "Evigt_404",
+        "verified": false
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741993395910811648",
+        "conversation_id": "2021819431866024287",
+        "created_at": "2026-02-12T14:29:50.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2026-02-12T15:29:50.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "2021954904810799480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 10,
+              "username": "Evigt_404",
+              "id": "1837496275656495107"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021954904810799480",
+        "in_reply_to_user_id": "1837496275656495107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "2021950082774618468"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Evigt_404 风光大葬（不是）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837496275656495107",
+        "conversation_id": "2021819431866024287",
+        "created_at": "2026-02-12T14:10:40.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2026-02-12T15:10:40.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "2021950082774618468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 16,
+              "username": "AnIncandescence",
+              "id": "1741993395910811648"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021950082774618468",
+        "in_reply_to_user_id": "1741993395910811648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "2021948055394902468"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnIncandescence 都学咋办"
+      }
+    ]
+  },
+  "_pale_fire": {
+    "x_api_reply_chains": {
+      "2021948055394902468": {
+        "version": 1,
+        "fetched_at": "2026-04-18T01:28:22Z",
+        "max_depth": 63,
+        "posts": [
+          {
+            "id": "2021948055394902468",
+            "source": "local_json",
+            "payload": {
+              "data": {
+                "article": {},
+                "attachments": {},
+                "author_id": "1741993395910811648",
+                "conversation_id": "2021819431866024287",
+                "created_at": "2026-02-12T14:02:37.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2026-02-12T15:02:37.000Z"
+                },
+                "edit_history_tweet_ids": [
+                  "2021948055394902468"
+                ],
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 0,
+                      "end": 10,
+                      "username": "Evigt_404",
+                      "id": "1837496275656495107"
+                    }
+                  ]
+                },
+                "geo": {},
+                "id": "2021948055394902468",
+                "in_reply_to_user_id": "1837496275656495107",
+                "lang": "zh",
+                "note_tweet": {
+                  "entities": {}
+                },
+                "possibly_sensitive": false,
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 0
+                },
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "2021819431866024287"
+                  }
+                ],
+                "reply_settings": "everyone",
+                "text": "@Evigt_404 骗你的学美术也会（）"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "created_at": "2024-01-02T01:22:57.000Z",
+                    "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | @TauCeti_10700 日常和碎碎念 | 🚪88/158",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/iO6MRJNTYR",
+                            "expanded_url": "https://ngl.link/anincandescence1",
+                            "display_url": "ngl.link/anincandescenc…"
+                          }
+                        ]
+                      },
+                      "description": {
+                        "mentions": [
+                          {
+                            "start": 70,
+                            "end": 84,
+                            "username": "TauCeti_10700"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1741993395910811648",
+                    "location": "天鹅座X-1",
+                    "name": "炽烈已极",
+                    "pinned_tweet_id": "2010452086539145687",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2006317223414255617/jGT_GZyG_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 1685,
+                      "following_count": 231,
+                      "tweet_count": 5598,
+                      "listed_count": 5,
+                      "like_count": 13696,
+                      "media_count": 1037
+                    },
+                    "url": "https://t.co/iO6MRJNTYR",
+                    "username": "AnIncandescence",
+                    "verified": false
+                  },
+                  {
+                    "created_at": "2024-09-21T14:17:17.000Z",
+                    "description": "....\nArranger | composer | paintlover | prefer to use English&简中 | OSDD&Schizoaffective disorder\nPatreon&Reddit: Evigt666\nBandcamp: Evigt & Sys_Evi",
+                    "id": "1837496275656495107",
+                    "name": "Evigt404",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1838802255824207872/uT4oQFMh_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 128,
+                      "following_count": 153,
+                      "tweet_count": 1567,
+                      "listed_count": 1,
+                      "like_count": 1783,
+                      "media_count": 147
+                    },
+                    "username": "Evigt_404",
+                    "verified": false
+                  }
+                ],
+                "tweets": [
+                  {
+                    "article": {},
+                    "attachments": {},
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "2021819431866024287",
+                    "created_at": "2026-02-12T14:02:37.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2026-02-12T15:02:37.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "2021948055394902468"
+                    ],
+                    "entities": {
+                      "mentions": [
+                        {
+                          "start": 0,
+                          "end": 10,
+                          "username": "Evigt_404",
+                          "id": "1837496275656495107"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "2021948055394902468",
+                    "in_reply_to_user_id": "1837496275656495107",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 0,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 0
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "2021819431866024287"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "@Evigt_404 骗你的学美术也会（）"
+                  },
+                  {
+                    "article": {},
+                    "attachments": {},
+                    "author_id": "1837496275656495107",
+                    "conversation_id": "2021819431866024287",
+                    "created_at": "2026-02-12T05:31:30.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": true,
+                      "editable_until": "2026-02-12T06:31:30.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "2021819431866024287"
+                    ],
+                    "entities": {
+                      "urls": [
+                        {
+                          "start": 14,
+                          "end": 37,
+                          "url": "https://t.co/qI1vcvVbad",
+                          "expanded_url": "https://twitter.com/keaiiea/status/2021781976035078194",
+                          "display_url": "x.com/keaiiea/status…"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "2021819431866024287",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 1,
+                      "like_count": 5,
+                      "quote_count": 1,
+                      "bookmark_count": 0,
+                      "impression_count": 199
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "quoted",
+                        "id": "2021781976035078194"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "对的学音乐会残疾不要学音乐 https://t.co/qI1vcvVbad"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "2021819431866024287",
+            "source": "local_json",
+            "payload": {
+              "data": {
+                "article": {},
+                "attachments": {},
+                "author_id": "1741993395910811648",
+                "conversation_id": "2021819431866024287",
+                "created_at": "2026-02-12T14:02:37.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2026-02-12T15:02:37.000Z"
+                },
+                "edit_history_tweet_ids": [
+                  "2021948055394902468"
+                ],
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 0,
+                      "end": 10,
+                      "username": "Evigt_404",
+                      "id": "1837496275656495107"
+                    }
+                  ]
+                },
+                "geo": {},
+                "id": "2021948055394902468",
+                "in_reply_to_user_id": "1837496275656495107",
+                "lang": "zh",
+                "note_tweet": {
+                  "entities": {}
+                },
+                "possibly_sensitive": false,
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 0
+                },
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "2021819431866024287"
+                  }
+                ],
+                "reply_settings": "everyone",
+                "text": "@Evigt_404 骗你的学美术也会（）"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "created_at": "2024-01-02T01:22:57.000Z",
+                    "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | @TauCeti_10700 日常和碎碎念 | 🚪88/158",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/iO6MRJNTYR",
+                            "expanded_url": "https://ngl.link/anincandescence1",
+                            "display_url": "ngl.link/anincandescenc…"
+                          }
+                        ]
+                      },
+                      "description": {
+                        "mentions": [
+                          {
+                            "start": 70,
+                            "end": 84,
+                            "username": "TauCeti_10700"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1741993395910811648",
+                    "location": "天鹅座X-1",
+                    "name": "炽烈已极",
+                    "pinned_tweet_id": "2010452086539145687",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2006317223414255617/jGT_GZyG_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 1685,
+                      "following_count": 231,
+                      "tweet_count": 5598,
+                      "listed_count": 5,
+                      "like_count": 13696,
+                      "media_count": 1037
+                    },
+                    "url": "https://t.co/iO6MRJNTYR",
+                    "username": "AnIncandescence",
+                    "verified": false
+                  },
+                  {
+                    "created_at": "2024-09-21T14:17:17.000Z",
+                    "description": "....\nArranger | composer | paintlover | prefer to use English&简中 | OSDD&Schizoaffective disorder\nPatreon&Reddit: Evigt666\nBandcamp: Evigt & Sys_Evi",
+                    "id": "1837496275656495107",
+                    "name": "Evigt404",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1838802255824207872/uT4oQFMh_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 128,
+                      "following_count": 153,
+                      "tweet_count": 1567,
+                      "listed_count": 1,
+                      "like_count": 1783,
+                      "media_count": 147
+                    },
+                    "username": "Evigt_404",
+                    "verified": false
+                  }
+                ],
+                "tweets": [
+                  {
+                    "article": {},
+                    "attachments": {},
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "2021819431866024287",
+                    "created_at": "2026-02-12T14:02:37.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2026-02-12T15:02:37.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "2021948055394902468"
+                    ],
+                    "entities": {
+                      "mentions": [
+                        {
+                          "start": 0,
+                          "end": 10,
+                          "username": "Evigt_404",
+                          "id": "1837496275656495107"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "2021948055394902468",
+                    "in_reply_to_user_id": "1837496275656495107",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 0,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 0
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "2021819431866024287"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "@Evigt_404 骗你的学美术也会（）"
+                  },
+                  {
+                    "article": {},
+                    "attachments": {},
+                    "author_id": "1837496275656495107",
+                    "conversation_id": "2021819431866024287",
+                    "created_at": "2026-02-12T05:31:30.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": true,
+                      "editable_until": "2026-02-12T06:31:30.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "2021819431866024287"
+                    ],
+                    "entities": {
+                      "urls": [
+                        {
+                          "start": 14,
+                          "end": 37,
+                          "url": "https://t.co/qI1vcvVbad",
+                          "expanded_url": "https://twitter.com/keaiiea/status/2021781976035078194",
+                          "display_url": "x.com/keaiiea/status…"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "2021819431866024287",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 1,
+                      "like_count": 5,
+                      "quote_count": 1,
+                      "bookmark_count": 0,
+                      "impression_count": 199
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "quoted",
+                        "id": "2021781976035078194"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "对的学音乐会残疾不要学音乐 https://t.co/qI1vcvVbad"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

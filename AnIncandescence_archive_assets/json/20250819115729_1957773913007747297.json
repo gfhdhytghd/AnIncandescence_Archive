@@ -1,1 +1,426 @@
-{"data":{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1957743796239888854","created_at":"2025-08-19T11:57:29.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-08-19T12:57:29.000Z"},"edit_history_tweet_ids":["1957773913007747297"],"entities":{"mentions":[{"start":0,"end":16,"username":"dDguwkiRkZcCSrt","id":"1456231777224347651"}]},"geo":{},"id":"1957773913007747297","in_reply_to_user_id":"1456231777224347651","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1957745575774020015"}],"reply_settings":"everyone","text":"@dDguwkiRkZcCSrt 对的对的对的对的（"},"includes":{"users":[{"created_at":"2024-01-02T01:22:57.000Z","description":"猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/MuEKSg4tIS","expanded_url":"https://ngl.link/anincandescence","display_url":"ngl.link/anincandescence"}]}},"id":"1741993395910811648","location":"天鹅座X-1","name":"炽烈已极","pinned_tweet_id":"1944465960406245490","profile_image_url":"https://pbs.twimg.com/profile_images/1947176726292725760/VAZ0WSeY_normal.jpg","protected":false,"public_metrics":{"followers_count":1129,"following_count":201,"tweet_count":3681,"listed_count":2,"like_count":10046,"media_count":735},"url":"https://t.co/MuEKSg4tIS","username":"AnIncandescence","verified":false},{"created_at":"2021-11-04T12:08:26.000Z","description":"","id":"1456231777224347651","name":"无名","pinned_tweet_id":"1922871209764560922","profile_image_url":"https://pbs.twimg.com/profile_images/1932707072468217856/Yd5nKEM7_normal.jpg","protected":true,"public_metrics":{"followers_count":314,"following_count":58,"tweet_count":7966,"listed_count":0,"like_count":2880,"media_count":565},"username":"dDguwkiRkZcCSrt","verified":false}],"tweets":[{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1957743796239888854","created_at":"2025-08-19T11:57:29.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-08-19T12:57:29.000Z"},"edit_history_tweet_ids":["1957773913007747297"],"entities":{"mentions":[{"start":0,"end":16,"username":"dDguwkiRkZcCSrt","id":"1456231777224347651"}]},"geo":{},"id":"1957773913007747297","in_reply_to_user_id":"1456231777224347651","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1957745575774020015"}],"reply_settings":"everyone","text":"@dDguwkiRkZcCSrt 对的对的对的对的（"}]},"errors":[{"resource_id":"1957745575774020015","parameter":"referenced_tweets.id","resource_type":"tweet","section":"includes","title":"Authorization Error","value":"1957745575774020015","detail":"Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1957745575774020015].","type":"https://api.twitter.com/2/problems/not-authorized-for-resource"}]}
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741993395910811648",
+    "conversation_id": "1957743796239888854",
+    "created_at": "2025-08-19T11:57:29.000Z",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2025-08-19T12:57:29.000Z"
+    },
+    "edit_history_tweet_ids": [
+      "1957773913007747297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 16,
+          "username": "dDguwkiRkZcCSrt",
+          "id": "1456231777224347651"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957773913007747297",
+    "in_reply_to_user_id": "1456231777224347651",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1957745575774020015"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dDguwkiRkZcCSrt 对的对的对的对的（"
+  },
+  "includes": {
+    "users": [
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/MuEKSg4tIS",
+                "expanded_url": "https://ngl.link/anincandescence",
+                "display_url": "ngl.link/anincandescence"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "天鹅座X-1",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "1944465960406245490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947176726292725760/VAZ0WSeY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1129,
+          "following_count": 201,
+          "tweet_count": 3681,
+          "listed_count": 2,
+          "like_count": 10046,
+          "media_count": 735
+        },
+        "url": "https://t.co/MuEKSg4tIS",
+        "username": "AnIncandescence",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-04T12:08:26.000Z",
+        "description": "",
+        "id": "1456231777224347651",
+        "name": "无名",
+        "pinned_tweet_id": "1922871209764560922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932707072468217856/Yd5nKEM7_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 58,
+          "tweet_count": 7966,
+          "listed_count": 0,
+          "like_count": 2880,
+          "media_count": 565
+        },
+        "username": "dDguwkiRkZcCSrt",
+        "verified": false
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741993395910811648",
+        "conversation_id": "1957743796239888854",
+        "created_at": "2025-08-19T11:57:29.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2025-08-19T12:57:29.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1957773913007747297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 16,
+              "username": "dDguwkiRkZcCSrt",
+              "id": "1456231777224347651"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957773913007747297",
+        "in_reply_to_user_id": "1456231777224347651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1957745575774020015"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dDguwkiRkZcCSrt 对的对的对的对的（"
+      }
+    ]
+  },
+  "errors": [
+    {
+      "resource_id": "1957745575774020015",
+      "parameter": "referenced_tweets.id",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "value": "1957745575774020015",
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1957745575774020015].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource"
+    }
+  ],
+  "_pale_fire": {
+    "x_api_reply_chains": {
+      "1957745575774020015": {
+        "version": 1,
+        "fetched_at": "2026-04-18T00:56:31Z",
+        "max_depth": 64,
+        "posts": [
+          {
+            "id": "1957745575774020015",
+            "source": "x_api_oauth1",
+            "payload": {
+              "data": {
+                "in_reply_to_user_id": "1741993395910811648",
+                "created_at": "2025-08-19T10:04:53.000Z",
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "1957743796239888854"
+                  }
+                ],
+                "id": "1957745575774020015",
+                "conversation_id": "1957743796239888854",
+                "reply_settings": "everyone",
+                "possibly_sensitive": false,
+                "author_id": "1456231777224347651",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2025-08-19T11:04:53.000Z"
+                },
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 0,
+                      "end": 16,
+                      "username": "AnIncandescence",
+                      "id": "1741993395910811648"
+                    }
+                  ]
+                },
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 140
+                },
+                "edit_history_tweet_ids": [
+                  "1957745575774020015"
+                ],
+                "lang": "zh",
+                "text": "@AnIncandescence 牢叶也要含糖了？"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "created_at": "2021-11-04T12:08:26.000Z",
+                    "username": "dDguwkiRkZcCSrt",
+                    "name": "无名",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1932707072468217856/Yd5nKEM7_normal.jpg",
+                    "description": "江湖有缘再见",
+                    "verified": false,
+                    "protected": true,
+                    "public_metrics": {
+                      "followers_count": 305,
+                      "following_count": 74,
+                      "tweet_count": 10910,
+                      "listed_count": 0,
+                      "like_count": 4072,
+                      "media_count": 778
+                    },
+                    "id": "1456231777224347651"
+                  }
+                ]
+              },
+              "errors": [
+                {
+                  "parameter": "in_reply_to_user_id",
+                  "resource_id": "1741993395910811648",
+                  "value": "1741993395910811648",
+                  "detail": "User has been suspended: [1741993395910811648].",
+                  "title": "Forbidden",
+                  "resource_type": "user",
+                  "type": "https://api.twitter.com/2/problems/resource-not-found"
+                },
+                {
+                  "resource_id": "1957743796239888854",
+                  "parameter": "referenced_tweets.id",
+                  "resource_type": "tweet",
+                  "section": "includes",
+                  "title": "Authorization Error",
+                  "value": "1957743796239888854",
+                  "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1957743796239888854].",
+                  "type": "https://api.twitter.com/2/problems/not-authorized-for-resource"
+                }
+              ]
+            }
+          },
+          {
+            "id": "1957743796239888854",
+            "source": "local_json",
+            "payload": {
+              "data": {
+                "article": {},
+                "attachments": {
+                  "media_keys": [
+                    "3_1957743785426972672"
+                  ]
+                },
+                "author_id": "1741993395910811648",
+                "conversation_id": "1957743796239888854",
+                "created_at": "2025-08-19T09:57:48.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": true,
+                  "editable_until": "2025-08-19T10:57:48.000Z"
+                },
+                "edit_history_tweet_ids": [
+                  "1957743796239888854"
+                ],
+                "entities": {
+                  "urls": [
+                    {
+                      "start": 4,
+                      "end": 27,
+                      "url": "https://t.co/co864225Je",
+                      "expanded_url": "https://x.com/AnIncandescence/status/1957743796239888854/photo/1",
+                      "display_url": "pic.x.com/co864225Je",
+                      "media_key": "3_1957743785426972672"
+                    }
+                  ]
+                },
+                "geo": {},
+                "id": "1957743796239888854",
+                "lang": "zh",
+                "note_tweet": {
+                  "entities": {}
+                },
+                "possibly_sensitive": false,
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 0
+                },
+                "reply_settings": "everyone",
+                "text": "为什么 https://t.co/co864225Je"
+              },
+              "includes": {
+                "media": [
+                  {
+                    "height": 1536,
+                    "media_key": "3_1957743785426972672",
+                    "public_metrics": {},
+                    "type": "photo",
+                    "url": "https://pbs.twimg.com/media/GytNmauacAAi4DW.jpg",
+                    "width": 2048
+                  }
+                ],
+                "users": [
+                  {
+                    "created_at": "2024-01-02T01:22:57.000Z",
+                    "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/MuEKSg4tIS",
+                            "expanded_url": "https://ngl.link/anincandescence",
+                            "display_url": "ngl.link/anincandescence"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1741993395910811648",
+                    "location": "天鹅座X-1",
+                    "name": "炽烈已极",
+                    "pinned_tweet_id": "1944465960406245490",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1947176726292725760/VAZ0WSeY_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 1128,
+                      "following_count": 201,
+                      "tweet_count": 3679,
+                      "listed_count": 2,
+                      "like_count": 10039,
+                      "media_count": 735
+                    },
+                    "url": "https://t.co/MuEKSg4tIS",
+                    "username": "AnIncandescence",
+                    "verified": false
+                  }
+                ],
+                "tweets": [
+                  {
+                    "article": {},
+                    "attachments": {
+                      "media_keys": [
+                        "3_1957743785426972672"
+                      ]
+                    },
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "1957743796239888854",
+                    "created_at": "2025-08-19T09:57:48.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": true,
+                      "editable_until": "2025-08-19T10:57:48.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "1957743796239888854"
+                    ],
+                    "entities": {
+                      "urls": [
+                        {
+                          "start": 4,
+                          "end": 27,
+                          "url": "https://t.co/co864225Je",
+                          "expanded_url": "https://x.com/AnIncandescence/status/1957743796239888854/photo/1",
+                          "display_url": "pic.x.com/co864225Je",
+                          "media_key": "3_1957743785426972672"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "1957743796239888854",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 0,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 0
+                    },
+                    "reply_settings": "everyone",
+                    "text": "为什么 https://t.co/co864225Je"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

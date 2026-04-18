@@ -1,1 +1,306 @@
-{"data":{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1823859634261852324","created_at":"2024-08-15T13:58:52.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2024-08-15T14:58:52.000Z"},"edit_history_tweet_ids":["1824083339902402976"],"entities":{"mentions":[{"start":0,"end":11,"username":"_mucha_000","id":"1617685747116675073"}]},"geo":{},"id":"1824083339902402976","in_reply_to_user_id":"1617685747116675073","lang":"zh","possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1823859634261852324"}],"reply_settings":"everyone","text":"@_mucha_000 后面小猫开车灯了（？）"},"includes":{"users":[{"created_at":"2024-01-02T01:22:57.000Z","description":"互fo欢迎！ 猫，诗歌，精神动力学。艺术，C#，波粒二象性。回归曲线上的量子生物，无攻击性。提问箱👇","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/MuEKSg3VTk","expanded_url":"https://ngl.link/anincandescence","display_url":"ngl.link/anincandescence"}]}},"id":"1741993395910811648","location":"0°00′N 260°00′E Mars","name":"炽烈已极","pinned_tweet_id":"1822993431469150227","profile_image_url":"https://pbs.twimg.com/profile_images/1789433740277567488/d3KhwUX1_normal.jpg","protected":false,"public_metrics":{"followers_count":211,"following_count":141,"tweet_count":1042,"listed_count":0,"like_count":3677},"url":"https://t.co/MuEKSg3VTk","username":"AnIncandescence","verified":false},{"created_at":"2023-01-24T00:49:06.000Z","description":"=牧雨丨\n岸边留下初遇时花朵 是三月盛开的「勿忘我」","id":"1617685747116675073","location":"IP属地：土星","name":"牧雨","pinned_tweet_id":"1816846415689400450","profile_image_url":"https://pbs.twimg.com/profile_images/1806579507039789056/RA79QaUx_normal.jpg","protected":true,"public_metrics":{"followers_count":854,"following_count":462,"tweet_count":3625,"listed_count":1,"like_count":30754},"username":"_mucha_000","verified":false}],"tweets":[{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1823859634261852324","created_at":"2024-08-15T13:58:52.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2024-08-15T14:58:52.000Z"},"edit_history_tweet_ids":["1824083339902402976"],"entities":{"mentions":[{"start":0,"end":11,"username":"_mucha_000","id":"1617685747116675073"}]},"geo":{},"id":"1824083339902402976","in_reply_to_user_id":"1617685747116675073","lang":"zh","possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1823859634261852324"}],"reply_settings":"everyone","text":"@_mucha_000 后面小猫开车灯了（？）"}]},"errors":[{"resource_id":"1823859634261852324","parameter":"referenced_tweets.id","resource_type":"tweet","section":"includes","title":"Authorization Error","value":"1823859634261852324","detail":"Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1823859634261852324].","type":"https://api.twitter.com/2/problems/not-authorized-for-resource"}]}
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741993395910811648",
+    "conversation_id": "1823859634261852324",
+    "created_at": "2024-08-15T13:58:52.000Z",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-08-15T14:58:52.000Z"
+    },
+    "edit_history_tweet_ids": [
+      "1824083339902402976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 11,
+          "username": "_mucha_000",
+          "id": "1617685747116675073"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1824083339902402976",
+    "in_reply_to_user_id": "1617685747116675073",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1823859634261852324"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_mucha_000 后面小猫开车灯了（？）"
+  },
+  "includes": {
+    "users": [
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "互fo欢迎！ 猫，诗歌，精神动力学。艺术，C#，波粒二象性。回归曲线上的量子生物，无攻击性。提问箱👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/MuEKSg3VTk",
+                "expanded_url": "https://ngl.link/anincandescence",
+                "display_url": "ngl.link/anincandescence"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "0°00′N 260°00′E Mars",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "1822993431469150227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789433740277567488/d3KhwUX1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 141,
+          "tweet_count": 1042,
+          "listed_count": 0,
+          "like_count": 3677
+        },
+        "url": "https://t.co/MuEKSg3VTk",
+        "username": "AnIncandescence",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-24T00:49:06.000Z",
+        "description": "=牧雨丨\n岸边留下初遇时花朵 是三月盛开的「勿忘我」",
+        "id": "1617685747116675073",
+        "location": "IP属地：土星",
+        "name": "牧雨",
+        "pinned_tweet_id": "1816846415689400450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806579507039789056/RA79QaUx_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 854,
+          "following_count": 462,
+          "tweet_count": 3625,
+          "listed_count": 1,
+          "like_count": 30754
+        },
+        "username": "_mucha_000",
+        "verified": false
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741993395910811648",
+        "conversation_id": "1823859634261852324",
+        "created_at": "2024-08-15T13:58:52.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2024-08-15T14:58:52.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1824083339902402976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 11,
+              "username": "_mucha_000",
+              "id": "1617685747116675073"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824083339902402976",
+        "in_reply_to_user_id": "1617685747116675073",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1823859634261852324"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_mucha_000 后面小猫开车灯了（？）"
+      }
+    ]
+  },
+  "errors": [
+    {
+      "resource_id": "1823859634261852324",
+      "parameter": "referenced_tweets.id",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "value": "1823859634261852324",
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1823859634261852324].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource"
+    }
+  ],
+  "_pale_fire": {
+    "x_api_reply_chains": {
+      "1823859634261852324": {
+        "version": 1,
+        "fetched_at": "2026-04-18T00:00:23Z",
+        "max_depth": 64,
+        "posts": [
+          {
+            "id": "1823859634261852324",
+            "source": "wayback:20240814230957:https://twitter.com/_mucha_000/status/1823859634261852324",
+            "payload": {
+              "data": {
+                "article": {},
+                "attachments": {
+                  "media_keys": [
+                    "3_1823859629769838592"
+                  ]
+                },
+                "author_id": "1617685747116675073",
+                "conversation_id": "1823859634261852324",
+                "created_at": "2024-08-14T23:09:57.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": true,
+                  "editable_until": "2024-08-15T00:09:57.000Z"
+                },
+                "edit_history_tweet_ids": [
+                  "1823859634261852324"
+                ],
+                "entities": {
+                  "urls": [
+                    {
+                      "start": 7,
+                      "end": 30,
+                      "url": "https://t.co/5moknj8Nll",
+                      "expanded_url": "https://twitter.com/_mucha_000/status/1823859634261852324/photo/1",
+                      "display_url": "pic.x.com/5moknj8nll",
+                      "media_key": "3_1823859629769838592"
+                    }
+                  ]
+                },
+                "geo": {},
+                "id": "1823859634261852324",
+                "lang": "ja",
+                "possibly_sensitive": false,
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 0
+                },
+                "reply_settings": "everyone",
+                "text": "睡醒删（🐱） https://t.co/5moknj8Nll"
+              },
+              "includes": {
+                "media": [
+                  {
+                    "height": 2048,
+                    "media_key": "3_1823859629769838592",
+                    "public_metrics": {},
+                    "type": "photo",
+                    "url": "https://pbs.twimg.com/media/GU-mq4ibUAAv9kK.jpg",
+                    "width": 2048
+                  }
+                ],
+                "users": [
+                  {
+                    "created_at": "2023-01-24T00:49:06.000Z",
+                    "description": "=牧雨丨\n岸边留下初遇时花朵 是三月盛开的「勿忘我」",
+                    "id": "1617685747116675073",
+                    "location": "IP属地：土星",
+                    "name": "牧雨",
+                    "pinned_tweet_id": "1816846415689400450",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1806579507039789056/RA79QaUx_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 855,
+                      "following_count": 462,
+                      "tweet_count": 3616,
+                      "listed_count": 1,
+                      "like_count": 30689
+                    },
+                    "username": "_mucha_000",
+                    "verified": false
+                  }
+                ],
+                "tweets": [
+                  {
+                    "article": {},
+                    "attachments": {
+                      "media_keys": [
+                        "3_1823859629769838592"
+                      ]
+                    },
+                    "author_id": "1617685747116675073",
+                    "conversation_id": "1823859634261852324",
+                    "created_at": "2024-08-14T23:09:57.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": true,
+                      "editable_until": "2024-08-15T00:09:57.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "1823859634261852324"
+                    ],
+                    "entities": {
+                      "urls": [
+                        {
+                          "start": 7,
+                          "end": 30,
+                          "url": "https://t.co/5moknj8Nll",
+                          "expanded_url": "https://twitter.com/_mucha_000/status/1823859634261852324/photo/1",
+                          "display_url": "pic.x.com/5moknj8nll",
+                          "media_key": "3_1823859629769838592"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "1823859634261852324",
+                    "lang": "ja",
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 0,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 0
+                    },
+                    "reply_settings": "everyone",
+                    "text": "睡醒删（🐱） https://t.co/5moknj8Nll"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

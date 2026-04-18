@@ -1,1 +1,674 @@
-{"data":{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"2035747103058882828","created_at":"2026-03-22T22:53:50.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2026-03-22T23:53:50.000Z"},"edit_history_tweet_ids":["2035852481952096741"],"entities":{"mentions":[{"start":0,"end":8,"username":"fawpv25","id":"1900779126245769216"}]},"geo":{},"id":"2035852481952096741","in_reply_to_user_id":"1900779126245769216","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"2035749636967952678"}],"reply_settings":"everyone","text":"@fawpv25 降吗…如降（）其实pr降血压也挺猛的，因为降血压的药太多了（包括很多助眠药）所以我不管了x"},"includes":{"users":[{"created_at":"2024-01-02T01:22:57.000Z","description":"猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 倒影@TauCeti_10700 计划这个号机的浓度更高一些 | 🚪88/158","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/iO6MRJNTYR","expanded_url":"https://ngl.link/anincandescence1","display_url":"ngl.link/anincandescenc…"}]},"description":{"mentions":[{"start":62,"end":76,"username":"TauCeti_10700"}]}},"id":"1741993395910811648","location":"天鹅座X-1 //⬇️ 匿名提问箱","name":"炽烈已极","pinned_tweet_id":"2024076888923365667","profile_image_url":"https://pbs.twimg.com/profile_images/2034869645342076928/m2LinKe5_normal.jpg","protected":false,"public_metrics":{"followers_count":1842,"following_count":248,"tweet_count":6563,"listed_count":6,"like_count":15510,"media_count":1168},"url":"https://t.co/iO6MRJNTYR","username":"AnIncandescence","verified":false},{"created_at":"2025-03-15T05:20:44.000Z","description":"如果你知道怎么变成一只乌鸦，请告诉我/匿名提问箱：https://t.co/k5wuyYhVxZ致力于成为你们的互联网好朋鸦/艺术就是生命/我们的诞生不是为了被疼痛感束缚/学习像人类一样地活下去。","entities":{"description":{"urls":[{"start":25,"end":48,"url":"https://t.co/k5wuyYhVxZ","expanded_url":"https://ngl.link/jiyujin1/","display_url":"ngl.link/jiyujin1/"}]}},"id":"1900779126245769216","name":"Anoko","profile_image_url":"https://pbs.twimg.com/profile_images/2006613154210721792/8FPJv03i_normal.jpg","protected":true,"public_metrics":{"followers_count":74,"following_count":221,"tweet_count":3964,"listed_count":0,"like_count":14468,"media_count":96},"username":"fawpv25","verified":false}],"tweets":[{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"2035747103058882828","created_at":"2026-03-22T22:53:50.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2026-03-22T23:53:50.000Z"},"edit_history_tweet_ids":["2035852481952096741"],"entities":{"mentions":[{"start":0,"end":8,"username":"fawpv25","id":"1900779126245769216"}]},"geo":{},"id":"2035852481952096741","in_reply_to_user_id":"1900779126245769216","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"2035749636967952678"}],"reply_settings":"everyone","text":"@fawpv25 降吗…如降（）其实pr降血压也挺猛的，因为降血压的药太多了（包括很多助眠药）所以我不管了x"}]},"errors":[{"resource_id":"2035749636967952678","parameter":"referenced_tweets.id","resource_type":"tweet","section":"includes","title":"Authorization Error","value":"2035749636967952678","detail":"Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2035749636967952678].","type":"https://api.twitter.com/2/problems/not-authorized-for-resource"}]}
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741993395910811648",
+    "conversation_id": "2035747103058882828",
+    "created_at": "2026-03-22T22:53:50.000Z",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2026-03-22T23:53:50.000Z"
+    },
+    "edit_history_tweet_ids": [
+      "2035852481952096741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 8,
+          "username": "fawpv25",
+          "id": "1900779126245769216"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035852481952096741",
+    "in_reply_to_user_id": "1900779126245769216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "2035749636967952678"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fawpv25 降吗…如降（）其实pr降血压也挺猛的，因为降血压的药太多了（包括很多助眠药）所以我不管了x"
+  },
+  "includes": {
+    "users": [
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 倒影@TauCeti_10700 计划这个号机的浓度更高一些 | 🚪88/158",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/iO6MRJNTYR",
+                "expanded_url": "https://ngl.link/anincandescence1",
+                "display_url": "ngl.link/anincandescenc…"
+              }
+            ]
+          },
+          "description": {
+            "mentions": [
+              {
+                "start": 62,
+                "end": 76,
+                "username": "TauCeti_10700"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "天鹅座X-1 //⬇️ 匿名提问箱",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "2024076888923365667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034869645342076928/m2LinKe5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1842,
+          "following_count": 248,
+          "tweet_count": 6563,
+          "listed_count": 6,
+          "like_count": 15510,
+          "media_count": 1168
+        },
+        "url": "https://t.co/iO6MRJNTYR",
+        "username": "AnIncandescence",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-15T05:20:44.000Z",
+        "description": "如果你知道怎么变成一只乌鸦，请告诉我/匿名提问箱：https://t.co/k5wuyYhVxZ致力于成为你们的互联网好朋鸦/艺术就是生命/我们的诞生不是为了被疼痛感束缚/学习像人类一样地活下去。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "start": 25,
+                "end": 48,
+                "url": "https://t.co/k5wuyYhVxZ",
+                "expanded_url": "https://ngl.link/jiyujin1/",
+                "display_url": "ngl.link/jiyujin1/"
+              }
+            ]
+          }
+        },
+        "id": "1900779126245769216",
+        "name": "Anoko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006613154210721792/8FPJv03i_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 221,
+          "tweet_count": 3964,
+          "listed_count": 0,
+          "like_count": 14468,
+          "media_count": 96
+        },
+        "username": "fawpv25",
+        "verified": false
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741993395910811648",
+        "conversation_id": "2035747103058882828",
+        "created_at": "2026-03-22T22:53:50.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2026-03-22T23:53:50.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "2035852481952096741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 8,
+              "username": "fawpv25",
+              "id": "1900779126245769216"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035852481952096741",
+        "in_reply_to_user_id": "1900779126245769216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "2035749636967952678"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fawpv25 降吗…如降（）其实pr降血压也挺猛的，因为降血压的药太多了（包括很多助眠药）所以我不管了x"
+      }
+    ]
+  },
+  "errors": [
+    {
+      "resource_id": "2035749636967952678",
+      "parameter": "referenced_tweets.id",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "value": "2035749636967952678",
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2035749636967952678].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource"
+    }
+  ],
+  "_pale_fire": {
+    "x_api_reply_chains": {
+      "2035749636967952678": {
+        "version": 1,
+        "fetched_at": "2026-04-18T01:35:30Z",
+        "max_depth": 64,
+        "posts": [
+          {
+            "id": "2035749636967952678",
+            "source": "x_api_oauth1",
+            "payload": {
+              "data": {
+                "created_at": "2026-03-22T16:05:10.000Z",
+                "edit_history_tweet_ids": [
+                  "2035749636967952678"
+                ],
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "2035748075378229509"
+                  }
+                ],
+                "reply_settings": "everyone",
+                "id": "2035749636967952678",
+                "author_id": "1900779126245769216",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2026-03-22T17:05:10.000Z"
+                },
+                "lang": "zh",
+                "conversation_id": "2035747103058882828",
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 30
+                },
+                "in_reply_to_user_id": "1741993395910811648",
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 0,
+                      "end": 16,
+                      "username": "AnIncandescence",
+                      "id": "1741993395910811648"
+                    }
+                  ]
+                },
+                "text": "@AnIncandescence 肌松的话，肩颈疼痛适用，而且炽本来就有这个症状，直接去和医生说是可行的。如果不想要替扎尼定就说血压太低了（而且炽确实低血压）。等等，巴氯芬降血压吗，没了解过",
+                "possibly_sensitive": false
+              },
+              "includes": {
+                "users": [
+                  {
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2006613154210721792/8FPJv03i_normal.jpg",
+                    "public_metrics": {
+                      "followers_count": 81,
+                      "following_count": 245,
+                      "tweet_count": 4429,
+                      "listed_count": 0,
+                      "like_count": 15724,
+                      "media_count": 105
+                    },
+                    "description": "如果你知道怎么变成一只乌鸦，请告诉我/致力于成为你们的互联网好朋鸦/艺术就是生命/我们的诞生不是为了被疼痛感束缚/学习像人类一样地活下去。",
+                    "username": "fawpv25",
+                    "name": "Anoko",
+                    "verified": false,
+                    "id": "1900779126245769216",
+                    "protected": true,
+                    "created_at": "2025-03-15T05:20:44.000Z"
+                  }
+                ]
+              },
+              "errors": [
+                {
+                  "parameter": "in_reply_to_user_id",
+                  "resource_id": "1741993395910811648",
+                  "value": "1741993395910811648",
+                  "detail": "User has been suspended: [1741993395910811648].",
+                  "title": "Forbidden",
+                  "resource_type": "user",
+                  "type": "https://api.twitter.com/2/problems/resource-not-found"
+                },
+                {
+                  "resource_id": "2035748075378229509",
+                  "parameter": "referenced_tweets.id",
+                  "resource_type": "tweet",
+                  "section": "includes",
+                  "title": "Authorization Error",
+                  "value": "2035748075378229509",
+                  "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2035748075378229509].",
+                  "type": "https://api.twitter.com/2/problems/not-authorized-for-resource"
+                }
+              ]
+            }
+          },
+          {
+            "id": "2035748075378229509",
+            "source": "local_json",
+            "payload": {
+              "data": {
+                "article": {},
+                "attachments": {},
+                "author_id": "1741993395910811648",
+                "conversation_id": "2035747103058882828",
+                "created_at": "2026-03-22T16:00:05.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2026-03-22T17:00:05.000Z"
+                },
+                "edit_history_tweet_ids": [
+                  "2035748359630365124"
+                ],
+                "entities": {},
+                "geo": {},
+                "id": "2035748359630365124",
+                "in_reply_to_user_id": "1741993395910811648",
+                "lang": "zh",
+                "note_tweet": {
+                  "entities": {}
+                },
+                "possibly_sensitive": false,
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 0
+                },
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "2035748075378229509"
+                  }
+                ],
+                "reply_settings": "everyone",
+                "text": "给我一针羟考酮其实也行（）"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "created_at": "2024-01-02T01:22:57.000Z",
+                    "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 倒影@TauCeti_10700 计划这个号机的浓度更高一些 | 🚪88/158",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/iO6MRJNTYR",
+                            "expanded_url": "https://ngl.link/anincandescence1",
+                            "display_url": "ngl.link/anincandescenc…"
+                          }
+                        ]
+                      },
+                      "description": {
+                        "mentions": [
+                          {
+                            "start": 62,
+                            "end": 76,
+                            "username": "TauCeti_10700"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1741993395910811648",
+                    "location": "天鹅座X-1 //⬇️ 匿名提问箱",
+                    "name": "炽烈已极",
+                    "pinned_tweet_id": "2024076888923365667",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2034869645342076928/m2LinKe5_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 1839,
+                      "following_count": 249,
+                      "tweet_count": 6558,
+                      "listed_count": 6,
+                      "like_count": 15505,
+                      "media_count": 1168
+                    },
+                    "url": "https://t.co/iO6MRJNTYR",
+                    "username": "AnIncandescence",
+                    "verified": false
+                  }
+                ],
+                "tweets": [
+                  {
+                    "article": {},
+                    "attachments": {},
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "2035747103058882828",
+                    "created_at": "2026-03-22T16:00:05.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2026-03-22T17:00:05.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "2035748359630365124"
+                    ],
+                    "entities": {},
+                    "geo": {},
+                    "id": "2035748359630365124",
+                    "in_reply_to_user_id": "1741993395910811648",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 0,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 0
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "2035748075378229509"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "给我一针羟考酮其实也行（）"
+                  },
+                  {
+                    "article": {},
+                    "attachments": {},
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "2035747103058882828",
+                    "created_at": "2026-03-22T15:58:58.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2026-03-22T16:58:58.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "2035748075378229509"
+                    ],
+                    "entities": {},
+                    "geo": {},
+                    "id": "2035748075378229509",
+                    "in_reply_to_user_id": "1741993395910811648",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 1,
+                      "like_count": 1,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 4
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "2035747103058882828"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "我说不用那么强的也可以，医问加巴喷丁？我说弱了……于是目的达成，开了pr75\n\n虽然我吃这点可能没什么效果，但出院的时候说不定能开医嘱开处方甚至带药，处方有希望了！\n其实我还想要巴氯芬那些的肌松，到时候在哪用就都是光明正大的&amp;药也不用藏了耶✌️"
+                  }
+                ]
+              },
+              "_pale_fire": {
+                "x_api_reply_chains": {
+                  "2035747103058882828": {
+                    "version": 1,
+                    "fetched_at": "2026-04-18T01:35:29Z",
+                    "max_depth": 63,
+                    "posts": [
+                      {
+                        "id": "2035747103058882828",
+                        "source": "local_json",
+                        "payload": {
+                          "data": {
+                            "article": {},
+                            "attachments": {},
+                            "author_id": "1741993395910811648",
+                            "conversation_id": "2035747103058882828",
+                            "created_at": "2026-03-22T15:58:58.000Z",
+                            "edit_controls": {
+                              "edits_remaining": 5,
+                              "is_edit_eligible": false,
+                              "editable_until": "2026-03-22T16:58:58.000Z"
+                            },
+                            "edit_history_tweet_ids": [
+                              "2035748075378229509"
+                            ],
+                            "entities": {},
+                            "geo": {},
+                            "id": "2035748075378229509",
+                            "in_reply_to_user_id": "1741993395910811648",
+                            "lang": "zh",
+                            "note_tweet": {
+                              "entities": {}
+                            },
+                            "possibly_sensitive": false,
+                            "public_metrics": {
+                              "retweet_count": 0,
+                              "reply_count": 0,
+                              "like_count": 0,
+                              "quote_count": 0,
+                              "bookmark_count": 0,
+                              "impression_count": 0
+                            },
+                            "referenced_tweets": [
+                              {
+                                "type": "replied_to",
+                                "id": "2035747103058882828"
+                              }
+                            ],
+                            "reply_settings": "everyone",
+                            "text": "我说不用那么强的也可以，医问加巴喷丁？我说弱了……于是目的达成，开了pr75\n\n虽然我吃这点可能没什么效果，但出院的时候说不定能开医嘱开处方甚至带药，处方有希望了！\n其实我还想要巴氯芬那些的肌松，到时候在哪用就都是光明正大的&amp;药也不用藏了耶✌️"
+                          },
+                          "includes": {
+                            "media": [
+                              {
+                                "height": 3024,
+                                "media_key": "3_2035747069626023936",
+                                "public_metrics": {},
+                                "type": "photo",
+                                "url": "https://pbs.twimg.com/media/HEBtLImaAAAvy5Q.jpg",
+                                "width": 4032
+                              }
+                            ],
+                            "users": [
+                              {
+                                "created_at": "2024-01-02T01:22:57.000Z",
+                                "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 倒影@TauCeti_10700 计划这个号机的浓度更高一些 | 🚪88/158",
+                                "entities": {
+                                  "url": {
+                                    "urls": [
+                                      {
+                                        "start": 0,
+                                        "end": 23,
+                                        "url": "https://t.co/iO6MRJNTYR",
+                                        "expanded_url": "https://ngl.link/anincandescence1",
+                                        "display_url": "ngl.link/anincandescenc…"
+                                      }
+                                    ]
+                                  },
+                                  "description": {
+                                    "mentions": [
+                                      {
+                                        "start": 62,
+                                        "end": 76,
+                                        "username": "TauCeti_10700"
+                                      }
+                                    ]
+                                  }
+                                },
+                                "id": "1741993395910811648",
+                                "location": "天鹅座X-1 //⬇️ 匿名提问箱",
+                                "name": "炽烈已极",
+                                "pinned_tweet_id": "2024076888923365667",
+                                "profile_image_url": "https://pbs.twimg.com/profile_images/2034869645342076928/m2LinKe5_normal.jpg",
+                                "protected": false,
+                                "public_metrics": {
+                                  "followers_count": 1839,
+                                  "following_count": 249,
+                                  "tweet_count": 6557,
+                                  "listed_count": 6,
+                                  "like_count": 15505,
+                                  "media_count": 1168
+                                },
+                                "url": "https://t.co/iO6MRJNTYR",
+                                "username": "AnIncandescence",
+                                "verified": false
+                              }
+                            ],
+                            "tweets": [
+                              {
+                                "article": {},
+                                "attachments": {},
+                                "author_id": "1741993395910811648",
+                                "conversation_id": "2035747103058882828",
+                                "created_at": "2026-03-22T15:58:58.000Z",
+                                "edit_controls": {
+                                  "edits_remaining": 5,
+                                  "is_edit_eligible": false,
+                                  "editable_until": "2026-03-22T16:58:58.000Z"
+                                },
+                                "edit_history_tweet_ids": [
+                                  "2035748075378229509"
+                                ],
+                                "entities": {},
+                                "geo": {},
+                                "id": "2035748075378229509",
+                                "in_reply_to_user_id": "1741993395910811648",
+                                "lang": "zh",
+                                "note_tweet": {
+                                  "entities": {}
+                                },
+                                "possibly_sensitive": false,
+                                "public_metrics": {
+                                  "retweet_count": 0,
+                                  "reply_count": 0,
+                                  "like_count": 0,
+                                  "quote_count": 0,
+                                  "bookmark_count": 0,
+                                  "impression_count": 0
+                                },
+                                "referenced_tweets": [
+                                  {
+                                    "type": "replied_to",
+                                    "id": "2035747103058882828"
+                                  }
+                                ],
+                                "reply_settings": "everyone",
+                                "text": "我说不用那么强的也可以，医问加巴喷丁？我说弱了……于是目的达成，开了pr75\n\n虽然我吃这点可能没什么效果，但出院的时候说不定能开医嘱开处方甚至带药，处方有希望了！\n其实我还想要巴氯芬那些的肌松，到时候在哪用就都是光明正大的&amp;药也不用藏了耶✌️"
+                              },
+                              {
+                                "article": {},
+                                "attachments": {
+                                  "media_keys": [
+                                    "3_2035747069626023936"
+                                  ]
+                                },
+                                "author_id": "1741993395910811648",
+                                "conversation_id": "2035747103058882828",
+                                "created_at": "2026-03-22T15:55:06.000Z",
+                                "edit_controls": {
+                                  "edits_remaining": 5,
+                                  "is_edit_eligible": false,
+                                  "editable_until": "2026-03-22T16:55:06.000Z"
+                                },
+                                "edit_history_tweet_ids": [
+                                  "2035747103058882828"
+                                ],
+                                "entities": {
+                                  "urls": [
+                                    {
+                                      "start": 139,
+                                      "end": 162,
+                                      "url": "https://t.co/6fs24OppyL",
+                                      "expanded_url": "https://x.com/AnIncandescence/status/2035747103058882828/photo/1",
+                                      "display_url": "pic.x.com/6fs24OppyL",
+                                      "media_key": "3_2035747069626023936"
+                                    }
+                                  ]
+                                },
+                                "geo": {},
+                                "id": "2035747103058882828",
+                                "lang": "zh",
+                                "note_tweet": {
+                                  "entities": {}
+                                },
+                                "possibly_sensitive": false,
+                                "public_metrics": {
+                                  "retweet_count": 0,
+                                  "reply_count": 1,
+                                  "like_count": 1,
+                                  "quote_count": 0,
+                                  "bookmark_count": 0,
+                                  "impression_count": 17
+                                },
+                                "reply_settings": "everyone",
+                                "text": "「全身（大部分）肌肉酸痛，特别是整个背部和大腿，还有关节痛，膝盖，肘关节，手腕脚腕尤其。可能和经前期有关…」\n\n找值班医生护士开药，因为平常自己吃的没带过来，优先就考虑了曲马多（口服/注射），我说和我抗抑郁药cyp2d6冲突了\n医：那羟考酮？（发愁）你用的药这么多怎么全是冲突 https://t.co/6fs24OppyL"
+                              }
+                            ]
+                          }
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741993395910811648",
+    "conversation_id": "1902776775576568304",
+    "created_at": "2025-03-21T06:15:24.000Z",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2025-03-21T07:15:24.000Z"
+    },
+    "edit_history_tweet_ids": [
+      "1902967257065721893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 10,
+          "username": "RXdruglab",
+          "id": "3022697779"
+        },
+        {
+          "start": 11,
+          "end": 24,
+          "username": "xx1012000456",
+          "id": "1386670401422434304"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902967257065721893",
+    "in_reply_to_user_id": "3022697779",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1902779062927626442"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RXdruglab @xx1012000456 难喝难喝真的难喝"
+  },
+  "includes": {
+    "users": [
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "互fo欢迎！ 猫，诗歌，精神动力学。艺术，C#，波粒二象性。回归曲线上的量子生物，无攻击性。“我们彻夜飞旋，直至没入火焰。”阴暗碎碎念纯享版@TauCeti_10700 提问箱👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/MuEKSg4tIS",
+                "expanded_url": "https://ngl.link/anincandescence",
+                "display_url": "ngl.link/anincandescence"
+              }
+            ]
+          },
+          "description": {
+            "mentions": [
+              {
+                "start": 70,
+                "end": 84,
+                "username": "TauCeti_10700"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "0°00′N 260°00′E Mars",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "1896009323920404722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789433740277567488/d3KhwUX1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 169,
+          "tweet_count": 1782,
+          "listed_count": 1,
+          "like_count": 5120,
+          "media_count": 420
+        },
+        "url": "https://t.co/MuEKSg4tIS",
+        "username": "AnIncandescence",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/KMcpbSmDcL",
+                "expanded_url": "https://t.me/XDrugLab",
+                "display_url": "t.me/XDrugLab"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1861564676557152611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14061,
+          "following_count": 17,
+          "tweet_count": 764,
+          "listed_count": 12,
+          "like_count": 15,
+          "media_count": 27
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 578,
+          "following_count": 485,
+          "tweet_count": 1001,
+          "listed_count": 2,
+          "like_count": 13,
+          "media_count": 10
+        },
+        "username": "xx1012000456",
+        "verified": false
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741993395910811648",
+        "conversation_id": "1902776775576568304",
+        "created_at": "2025-03-21T06:15:24.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2025-03-21T07:15:24.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1902967257065721893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 10,
+              "username": "RXdruglab",
+              "id": "3022697779"
+            },
+            {
+              "start": 11,
+              "end": 24,
+              "username": "xx1012000456",
+              "id": "1386670401422434304"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902967257065721893",
+        "in_reply_to_user_id": "3022697779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1902779062927626442"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RXdruglab @xx1012000456 难喝难喝真的难喝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1902776775576568304",
+        "created_at": "2025-03-20T17:47:35.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2025-03-20T18:47:35.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1902779062927626442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 13,
+              "username": "xx1012000456",
+              "id": "1386670401422434304"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902779062927626442",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 771
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1902776775576568304"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 有个人跟我说挺难喝的，而且不知道为啥喝了也没有感觉。"
+      }
+    ]
+  },
+  "_pale_fire": {
+    "x_api_reply_chains": {
+      "1902776775576568304": {
+        "version": 1,
+        "fetched_at": "2026-04-18T00:07:04Z",
+        "max_depth": 63,
+        "posts": [
+          {
+            "id": "1902776775576568304",
+            "source": "x_api",
+            "payload": {
+              "data": {
+                "edit_history_tweet_ids": [
+                  "1902776775576568304"
+                ],
+                "attachments": {
+                  "media_keys": [
+                    "3_1902776678071537664"
+                  ]
+                },
+                "created_at": "2025-03-20T17:38:29.000Z",
+                "entities": {
+                  "urls": [
+                    {
+                      "start": 11,
+                      "end": 34,
+                      "url": "https://t.co/NRMBlLfbB9",
+                      "expanded_url": "https://x.com/xx1012000456/status/1902776775576568304/photo/1",
+                      "display_url": "pic.x.com/NRMBlLfbB9",
+                      "media_key": "3_1902776678071537664"
+                    }
+                  ]
+                },
+                "possibly_sensitive": false,
+                "reply_settings": "everyone",
+                "conversation_id": "1902776775576568304",
+                "lang": "zh",
+                "author_id": "1386670401422434304",
+                "id": "1902776775576568304",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": true,
+                  "editable_until": "2025-03-20T18:38:29.000Z"
+                },
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 3,
+                  "like_count": 26,
+                  "quote_count": 0,
+                  "bookmark_count": 2,
+                  "impression_count": 7091
+                },
+                "text": "到货，找个时间试试🤣 https://t.co/NRMBlLfbB9"
+              },
+              "includes": {
+                "media": [
+                  {
+                    "height": 1560,
+                    "type": "photo",
+                    "url": "https://pbs.twimg.com/media/GmgFTq9aEAAbf0T.jpg",
+                    "media_key": "3_1902776678071537664",
+                    "width": 719
+                  }
+                ],
+                "users": [
+                  {
+                    "public_metrics": {
+                      "followers_count": 951,
+                      "following_count": 473,
+                      "tweet_count": 1676,
+                      "listed_count": 2,
+                      "like_count": 21,
+                      "media_count": 13
+                    },
+                    "verified": false,
+                    "name": "xx1012000456",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+                    "username": "xx1012000456",
+                    "created_at": "2021-04-26T13:16:21.000Z",
+                    "protected": false,
+                    "id": "1386670401422434304",
+                    "description": "x-square「公子」化学爱好者和业余药师"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

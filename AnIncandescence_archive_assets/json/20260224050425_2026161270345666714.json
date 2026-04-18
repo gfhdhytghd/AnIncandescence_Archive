@@ -1,1 +1,487 @@
-{"data":{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"2026115482101993732","created_at":"2026-02-24T05:04:25.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2026-02-24T06:04:25.000Z"},"edit_history_tweet_ids":["2026161270345666714"],"entities":{"mentions":[{"start":0,"end":10,"username":"woaishuji","id":"897749985361444866"},{"start":11,"end":27,"username":"SaladFire142857","id":"1861412609121210368"}]},"geo":{},"id":"2026161270345666714","in_reply_to_user_id":"897749985361444866","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"2026143930182697189"}],"reply_settings":"everyone","text":"@woaishuji @SaladFire142857 使用还是要说一下哦"},"includes":{"users":[{"created_at":"2024-01-02T01:22:57.000Z","description":"猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 倒影@TauCeti_10700 计划这个号机的浓度更高一些 | 🚪88/158","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/iO6MRJNTYR","expanded_url":"https://ngl.link/anincandescence1","display_url":"ngl.link/anincandescenc…"}]},"description":{"mentions":[{"start":62,"end":76,"username":"TauCeti_10700"}]}},"id":"1741993395910811648","location":"天鹅座X-1 //⬇️ 匿名提问箱","name":"炽烈已极","pinned_tweet_id":"2024076888923365667","profile_image_url":"https://pbs.twimg.com/profile_images/2006317223414255617/jGT_GZyG_normal.jpg","protected":false,"public_metrics":{"followers_count":1731,"following_count":235,"tweet_count":5966,"listed_count":5,"like_count":14391,"media_count":1073},"url":"https://t.co/iO6MRJNTYR","username":"AnIncandescence","verified":false},{"created_at":"2017-08-16T09:20:50.000Z","description":"是(伪)文学少女/废宅/垃圾大学生/ 学渣/文盲/废物/ky怪/感情敏感者/打心怪/重度中二病/小透明/mtx［非二元］（目前无🍬）/双相［医生善良的没有直接确诊］/ADHD（?）/(自 称)孟乔森综合征/（想对我发情的人 真是抱歉呢）","id":"897749985361444866","name":"文学少女安德烈","pinned_tweet_id":"1862810120075583938","profile_image_url":"https://pbs.twimg.com/profile_images/2004417757199130624/fcknZsxJ_normal.jpg","protected":false,"public_metrics":{"followers_count":1600,"following_count":1828,"tweet_count":16160,"listed_count":10,"like_count":437521,"media_count":2725},"username":"woaishuji","verified":false},{"created_at":"2024-11-26T14:12:21.000Z","description":"Forget me","id":"1861412609121210368","location":"Enteringround","name":"Salad","pinned_tweet_id":"1903706395746222178","profile_image_url":"https://pbs.twimg.com/profile_images/2022322053425344512/pCk9gJuT_normal.jpg","protected":false,"public_metrics":{"followers_count":58,"following_count":108,"tweet_count":1458,"listed_count":1,"like_count":3005,"media_count":166},"username":"SaladFire142857","verified":false}],"tweets":[{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"2026115482101993732","created_at":"2026-02-24T05:04:25.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2026-02-24T06:04:25.000Z"},"edit_history_tweet_ids":["2026161270345666714"],"entities":{"mentions":[{"start":0,"end":10,"username":"woaishuji","id":"897749985361444866"},{"start":11,"end":27,"username":"SaladFire142857","id":"1861412609121210368"}]},"geo":{},"id":"2026161270345666714","in_reply_to_user_id":"897749985361444866","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"2026143930182697189"}],"reply_settings":"everyone","text":"@woaishuji @SaladFire142857 使用还是要说一下哦"},{"article":{},"attachments":{},"author_id":"897749985361444866","conversation_id":"2026115482101993732","created_at":"2026-02-24T03:55:31.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2026-02-24T04:55:31.000Z"},"edit_history_tweet_ids":["2026143930182697189"],"entities":{"mentions":[{"start":0,"end":16,"username":"SaladFire142857","id":"1861412609121210368"},{"start":17,"end":33,"username":"AnIncandescence","id":"1741993395910811648"}]},"geo":{},"id":"2026143930182697189","in_reply_to_user_id":"1861412609121210368","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":1,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":12},"referenced_tweets":[{"type":"replied_to","id":"2026139517477167460"}],"reply_settings":"everyone","text":"@SaladFire142857 @AnIncandescence 呜呜呜 盗图致歉"}]}}
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741993395910811648",
+    "conversation_id": "2026115482101993732",
+    "created_at": "2026-02-24T05:04:25.000Z",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2026-02-24T06:04:25.000Z"
+    },
+    "edit_history_tweet_ids": [
+      "2026161270345666714"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 10,
+          "username": "woaishuji",
+          "id": "897749985361444866"
+        },
+        {
+          "start": 11,
+          "end": 27,
+          "username": "SaladFire142857",
+          "id": "1861412609121210368"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026161270345666714",
+    "in_reply_to_user_id": "897749985361444866",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "2026143930182697189"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@woaishuji @SaladFire142857 使用还是要说一下哦"
+  },
+  "includes": {
+    "users": [
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 倒影@TauCeti_10700 计划这个号机的浓度更高一些 | 🚪88/158",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/iO6MRJNTYR",
+                "expanded_url": "https://ngl.link/anincandescence1",
+                "display_url": "ngl.link/anincandescenc…"
+              }
+            ]
+          },
+          "description": {
+            "mentions": [
+              {
+                "start": 62,
+                "end": 76,
+                "username": "TauCeti_10700"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "天鹅座X-1 //⬇️ 匿名提问箱",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "2024076888923365667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006317223414255617/jGT_GZyG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1731,
+          "following_count": 235,
+          "tweet_count": 5966,
+          "listed_count": 5,
+          "like_count": 14391,
+          "media_count": 1073
+        },
+        "url": "https://t.co/iO6MRJNTYR",
+        "username": "AnIncandescence",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-16T09:20:50.000Z",
+        "description": "是(伪)文学少女/废宅/垃圾大学生/ 学渣/文盲/废物/ky怪/感情敏感者/打心怪/重度中二病/小透明/mtx［非二元］（目前无🍬）/双相［医生善良的没有直接确诊］/ADHD（?）/(自 称)孟乔森综合征/（想对我发情的人 真是抱歉呢）",
+        "id": "897749985361444866",
+        "name": "文学少女安德烈",
+        "pinned_tweet_id": "1862810120075583938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004417757199130624/fcknZsxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1600,
+          "following_count": 1828,
+          "tweet_count": 16160,
+          "listed_count": 10,
+          "like_count": 437521,
+          "media_count": 2725
+        },
+        "username": "woaishuji",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-26T14:12:21.000Z",
+        "description": "Forget me",
+        "id": "1861412609121210368",
+        "location": "Enteringround",
+        "name": "Salad",
+        "pinned_tweet_id": "1903706395746222178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022322053425344512/pCk9gJuT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 108,
+          "tweet_count": 1458,
+          "listed_count": 1,
+          "like_count": 3005,
+          "media_count": 166
+        },
+        "username": "SaladFire142857",
+        "verified": false
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741993395910811648",
+        "conversation_id": "2026115482101993732",
+        "created_at": "2026-02-24T05:04:25.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2026-02-24T06:04:25.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "2026161270345666714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 10,
+              "username": "woaishuji",
+              "id": "897749985361444866"
+            },
+            {
+              "start": 11,
+              "end": 27,
+              "username": "SaladFire142857",
+              "id": "1861412609121210368"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026161270345666714",
+        "in_reply_to_user_id": "897749985361444866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "2026143930182697189"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woaishuji @SaladFire142857 使用还是要说一下哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "897749985361444866",
+        "conversation_id": "2026115482101993732",
+        "created_at": "2026-02-24T03:55:31.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2026-02-24T04:55:31.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "2026143930182697189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 16,
+              "username": "SaladFire142857",
+              "id": "1861412609121210368"
+            },
+            {
+              "start": 17,
+              "end": 33,
+              "username": "AnIncandescence",
+              "id": "1741993395910811648"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026143930182697189",
+        "in_reply_to_user_id": "1861412609121210368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "2026139517477167460"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SaladFire142857 @AnIncandescence 呜呜呜 盗图致歉"
+      }
+    ]
+  },
+  "_pale_fire": {
+    "x_api_reply_chains": {
+      "2026139517477167460": {
+        "version": 1,
+        "fetched_at": "2026-04-18T01:31:11Z",
+        "max_depth": 63,
+        "posts": [
+          {
+            "id": "2026139517477167460",
+            "source": "x_api_oauth1",
+            "payload": {
+              "data": {
+                "created_at": "2026-02-24T03:37:59.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2026-02-24T04:37:59.000Z"
+                },
+                "in_reply_to_user_id": "897749985361444866",
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "2026115482101993732"
+                  }
+                ],
+                "conversation_id": "2026115482101993732",
+                "reply_settings": "everyone",
+                "edit_history_tweet_ids": [
+                  "2026139517477167460"
+                ],
+                "id": "2026139517477167460",
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 0,
+                      "end": 10,
+                      "username": "woaishuji",
+                      "id": "897749985361444866"
+                    },
+                    {
+                      "start": 31,
+                      "end": 47,
+                      "username": "AnIncandescence",
+                      "id": "1741993395910811648"
+                    }
+                  ]
+                },
+                "author_id": "1861412609121210368",
+                "text": "@woaishuji 安安盗炽老师图！x &gt; &lt;\n@AnIncandescence",
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 40
+                },
+                "lang": "zh",
+                "possibly_sensitive": false
+              },
+              "includes": {
+                "users": [
+                  {
+                    "verified": false,
+                    "id": "1861412609121210368",
+                    "created_at": "2024-11-26T14:12:21.000Z",
+                    "protected": false,
+                    "username": "SaladFire142857",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2034133525830725632/Ckd9loi4_normal.jpg",
+                    "public_metrics": {
+                      "followers_count": 55,
+                      "following_count": 71,
+                      "tweet_count": 1707,
+                      "listed_count": 1,
+                      "like_count": 3115,
+                      "media_count": 221
+                    },
+                    "location": "Enteringround",
+                    "description": "Lost to the Aethyr",
+                    "name": "Salad"
+                  },
+                  {
+                    "verified": false,
+                    "id": "897749985361444866",
+                    "created_at": "2017-08-16T09:20:50.000Z",
+                    "protected": false,
+                    "username": "woaishuji",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2004417757199130624/fcknZsxJ_normal.jpg",
+                    "public_metrics": {
+                      "followers_count": 1639,
+                      "following_count": 1875,
+                      "tweet_count": 16792,
+                      "listed_count": 10,
+                      "like_count": 468093,
+                      "media_count": 2884
+                    },
+                    "description": "",
+                    "name": "文学少女安德烈"
+                  }
+                ],
+                "tweets": [
+                  {
+                    "created_at": "2026-02-24T02:02:28.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": true,
+                      "editable_until": "2026-02-24T03:02:28.000Z"
+                    },
+                    "conversation_id": "2026115482101993732",
+                    "reply_settings": "everyone",
+                    "edit_history_tweet_ids": [
+                      "2026115482101993732"
+                    ],
+                    "id": "2026115482101993732",
+                    "author_id": "897749985361444866",
+                    "text": "啊啊啊啊啊啊吧\n突然发现派甲酯只剩2t了\n不得不赶紧冲刺精神病院了\n上一次我都忘了去诊室去问能不能加号了\n被挂号处说了号就灰头土脸逃走了\n但今天不得不去强行又出远门\n想死\n又得七八点才能回家了\n而且只会浪费钱财\n（自闭 https://t.co/XfZDhJfu2M",
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 1,
+                      "like_count": 11,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 475
+                    },
+                    "lang": "zh",
+                    "attachments": {
+                      "media_keys": [
+                        "3_2026115479925125120"
+                      ]
+                    },
+                    "possibly_sensitive": false,
+                    "entities": {
+                      "urls": [
+                        {
+                          "start": 110,
+                          "end": 133,
+                          "url": "https://t.co/XfZDhJfu2M",
+                          "expanded_url": "https://x.com/woaishuji/status/2026115482101993732/photo/1",
+                          "display_url": "pic.x.com/XfZDhJfu2M",
+                          "media_key": "3_2026115479925125120"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "2026115482101993732",
+            "source": "x_api_oauth1",
+            "payload": {
+              "data": {
+                "attachments": {
+                  "media_keys": [
+                    "3_2026115479925125120"
+                  ]
+                },
+                "text": "啊啊啊啊啊啊吧\n突然发现派甲酯只剩2t了\n不得不赶紧冲刺精神病院了\n上一次我都忘了去诊室去问能不能加号了\n被挂号处说了号就灰头土脸逃走了\n但今天不得不去强行又出远门\n想死\n又得七八点才能回家了\n而且只会浪费钱财\n（自闭 https://t.co/XfZDhJfu2M",
+                "conversation_id": "2026115482101993732",
+                "entities": {
+                  "urls": [
+                    {
+                      "start": 110,
+                      "end": 133,
+                      "url": "https://t.co/XfZDhJfu2M",
+                      "expanded_url": "https://x.com/woaishuji/status/2026115482101993732/photo/1",
+                      "display_url": "pic.x.com/XfZDhJfu2M",
+                      "media_key": "3_2026115479925125120"
+                    }
+                  ]
+                },
+                "reply_settings": "everyone",
+                "edit_history_tweet_ids": [
+                  "2026115482101993732"
+                ],
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 11,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 475
+                },
+                "id": "2026115482101993732",
+                "lang": "zh",
+                "possibly_sensitive": false,
+                "author_id": "897749985361444866",
+                "created_at": "2026-02-24T02:02:28.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": true,
+                  "editable_until": "2026-02-24T03:02:28.000Z"
+                }
+              },
+              "includes": {
+                "media": [
+                  {
+                    "url": "https://pbs.twimg.com/media/HB41S07bcAAEvWM.jpg",
+                    "width": 455,
+                    "height": 455,
+                    "media_key": "3_2026115479925125120",
+                    "type": "photo"
+                  }
+                ],
+                "users": [
+                  {
+                    "public_metrics": {
+                      "followers_count": 1639,
+                      "following_count": 1875,
+                      "tweet_count": 16792,
+                      "listed_count": 10,
+                      "like_count": 468093,
+                      "media_count": 2884
+                    },
+                    "verified": false,
+                    "name": "文学少女安德烈",
+                    "id": "897749985361444866",
+                    "username": "woaishuji",
+                    "created_at": "2017-08-16T09:20:50.000Z",
+                    "description": "",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2004417757199130624/fcknZsxJ_normal.jpg",
+                    "protected": false
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

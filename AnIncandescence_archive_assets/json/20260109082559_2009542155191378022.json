@@ -1,1 +1,2835 @@
-{"data":{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"2009525563116196260","created_at":"2026-01-09T08:25:59.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2026-01-09T09:25:59.000Z"},"edit_history_tweet_ids":["2009542155191378022"],"entities":{"mentions":[{"start":0,"end":14,"username":"Kumamushi2021","id":"1437034228768595977"}]},"geo":{},"id":"2009542155191378022","in_reply_to_user_id":"1437034228768595977","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"2009538738054140337"}],"reply_settings":"everyone","text":"@Kumamushi2021 我晕车，别的还好，甚至喜欢飞机起飞和降落的感觉（）"},"includes":{"users":[{"created_at":"2024-01-02T01:22:57.000Z","description":"猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/iO6MRJNm9j","expanded_url":"https://ngl.link/anincandescence1","display_url":"ngl.link/anincandescenc…"}]}},"id":"1741993395910811648","location":"天鹅座X-1","name":"炽烈已极","pinned_tweet_id":"2007712706254737908","profile_image_url":"https://pbs.twimg.com/profile_images/2006317223414255617/jGT_GZyG_normal.jpg","protected":false,"public_metrics":{"followers_count":1465,"following_count":223,"tweet_count":5089,"listed_count":4,"like_count":12588,"media_count":967},"url":"https://t.co/iO6MRJNm9j","username":"AnIncandescence","verified":true},{"created_at":"2021-09-12T12:43:59.000Z","description":"欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/患有双相注意避雷/废话很多","id":"1437034228768595977","location":"你的身旁","name":"🥛💤","pinned_tweet_id":"1839611665257824656","profile_image_url":"https://pbs.twimg.com/profile_images/2008872173084229632/7RVhFGtF_normal.jpg","protected":true,"public_metrics":{"followers_count":111,"following_count":92,"tweet_count":1544,"listed_count":1,"like_count":3118,"media_count":162},"username":"Kumamushi2021","verified":false}],"tweets":[{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"2009525563116196260","created_at":"2026-01-09T08:25:59.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2026-01-09T09:25:59.000Z"},"edit_history_tweet_ids":["2009542155191378022"],"entities":{"mentions":[{"start":0,"end":14,"username":"Kumamushi2021","id":"1437034228768595977"}]},"geo":{},"id":"2009542155191378022","in_reply_to_user_id":"1437034228768595977","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"2009538738054140337"}],"reply_settings":"everyone","text":"@Kumamushi2021 我晕车，别的还好，甚至喜欢飞机起飞和降落的感觉（）"}]},"errors":[{"resource_id":"2009538738054140337","parameter":"referenced_tweets.id","resource_type":"tweet","section":"includes","title":"Authorization Error","value":"2009538738054140337","detail":"Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2009538738054140337].","type":"https://api.twitter.com/2/problems/not-authorized-for-resource"}]}
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741993395910811648",
+    "conversation_id": "2009525563116196260",
+    "created_at": "2026-01-09T08:25:59.000Z",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2026-01-09T09:25:59.000Z"
+    },
+    "edit_history_tweet_ids": [
+      "2009542155191378022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "Kumamushi2021",
+          "id": "1437034228768595977"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009542155191378022",
+    "in_reply_to_user_id": "1437034228768595977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "2009538738054140337"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kumamushi2021 我晕车，别的还好，甚至喜欢飞机起飞和降落的感觉（）"
+  },
+  "includes": {
+    "users": [
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/iO6MRJNm9j",
+                "expanded_url": "https://ngl.link/anincandescence1",
+                "display_url": "ngl.link/anincandescenc…"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "天鹅座X-1",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "2007712706254737908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006317223414255617/jGT_GZyG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1465,
+          "following_count": 223,
+          "tweet_count": 5089,
+          "listed_count": 4,
+          "like_count": 12588,
+          "media_count": 967
+        },
+        "url": "https://t.co/iO6MRJNm9j",
+        "username": "AnIncandescence",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/患有双相注意避雷/废话很多",
+        "id": "1437034228768595977",
+        "location": "你的身旁",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008872173084229632/7RVhFGtF_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 92,
+          "tweet_count": 1544,
+          "listed_count": 1,
+          "like_count": 3118,
+          "media_count": 162
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741993395910811648",
+        "conversation_id": "2009525563116196260",
+        "created_at": "2026-01-09T08:25:59.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2026-01-09T09:25:59.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "2009542155191378022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 14,
+              "username": "Kumamushi2021",
+              "id": "1437034228768595977"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009542155191378022",
+        "in_reply_to_user_id": "1437034228768595977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "2009538738054140337"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kumamushi2021 我晕车，别的还好，甚至喜欢飞机起飞和降落的感觉（）"
+      }
+    ]
+  },
+  "errors": [
+    {
+      "resource_id": "2009538738054140337",
+      "parameter": "referenced_tweets.id",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "value": "2009538738054140337",
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2009538738054140337].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource"
+    }
+  ],
+  "_pale_fire": {
+    "x_api_reply_chains": {
+      "2009538738054140337": {
+        "version": 1,
+        "fetched_at": "2026-04-18T01:23:52Z",
+        "max_depth": 64,
+        "posts": [
+          {
+            "id": "2009538738054140337",
+            "source": "x_api_oauth1",
+            "payload": {
+              "data": {
+                "id": "2009538738054140337",
+                "lang": "zh",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2026-01-09T09:12:25.000Z"
+                },
+                "conversation_id": "2009525563116196260",
+                "reply_settings": "everyone",
+                "author_id": "1437034228768595977",
+                "edit_history_tweet_ids": [
+                  "2009538738054140337"
+                ],
+                "created_at": "2026-01-09T08:12:25.000Z",
+                "text": "@AnIncandescence 炽老师平时会晕车晕机晕船吗  感觉前庭系统很敏感的样子",
+                "in_reply_to_user_id": "1741993395910811648",
+                "possibly_sensitive": false,
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 45
+                },
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 0,
+                      "end": 16,
+                      "username": "AnIncandescence",
+                      "id": "1741993395910811648"
+                    }
+                  ]
+                },
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "2009537710705529057"
+                  }
+                ]
+              },
+              "includes": {
+                "users": [
+                  {
+                    "username": "Kumamushi2021",
+                    "name": "🥛💤",
+                    "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/患有双相注意避雷/废话很多",
+                    "created_at": "2021-09-12T12:43:59.000Z",
+                    "verified": false,
+                    "protected": false,
+                    "id": "1437034228768595977",
+                    "location": "你的身旁",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2008872173084229632/7RVhFGtF_normal.jpg",
+                    "public_metrics": {
+                      "followers_count": 200,
+                      "following_count": 104,
+                      "tweet_count": 2051,
+                      "listed_count": 4,
+                      "like_count": 3885,
+                      "media_count": 207
+                    }
+                  }
+                ]
+              },
+              "errors": [
+                {
+                  "parameter": "in_reply_to_user_id",
+                  "resource_id": "1741993395910811648",
+                  "value": "1741993395910811648",
+                  "detail": "User has been suspended: [1741993395910811648].",
+                  "title": "Forbidden",
+                  "resource_type": "user",
+                  "type": "https://api.twitter.com/2/problems/resource-not-found"
+                },
+                {
+                  "resource_id": "2009537710705529057",
+                  "parameter": "referenced_tweets.id",
+                  "resource_type": "tweet",
+                  "section": "includes",
+                  "title": "Authorization Error",
+                  "value": "2009537710705529057",
+                  "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2009537710705529057].",
+                  "type": "https://api.twitter.com/2/problems/not-authorized-for-resource"
+                }
+              ]
+            }
+          },
+          {
+            "id": "2009537710705529057",
+            "source": "local_json",
+            "payload": {
+              "data": {
+                "article": {},
+                "attachments": {},
+                "author_id": "1741993395910811648",
+                "conversation_id": "2009525563116196260",
+                "created_at": "2026-01-09T08:08:20.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2026-01-09T09:08:20.000Z"
+                },
+                "edit_history_tweet_ids": [
+                  "2009537710705529057"
+                ],
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 0,
+                      "end": 14,
+                      "username": "Kumamushi2021",
+                      "id": "1437034228768595977"
+                    }
+                  ]
+                },
+                "geo": {},
+                "id": "2009537710705529057",
+                "in_reply_to_user_id": "1437034228768595977",
+                "lang": "zh",
+                "note_tweet": {
+                  "entities": {}
+                },
+                "possibly_sensitive": false,
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 0
+                },
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "2009534577958945180"
+                  }
+                ],
+                "reply_settings": "everyone",
+                "text": "@Kumamushi2021 我之前在电脑上和同桌玩传送门都快要死掉了，belike好难受但是好想一起玩。。结束后躺着缓了好久，和晕车感觉一样"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "created_at": "2024-01-02T01:22:57.000Z",
+                    "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/iO6MRJNm9j",
+                            "expanded_url": "https://ngl.link/anincandescence1",
+                            "display_url": "ngl.link/anincandescenc…"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1741993395910811648",
+                    "location": "天鹅座X-1",
+                    "name": "炽烈已极",
+                    "pinned_tweet_id": "2007712706254737908",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2006317223414255617/jGT_GZyG_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 1462,
+                      "following_count": 222,
+                      "tweet_count": 5088,
+                      "listed_count": 4,
+                      "like_count": 12586,
+                      "media_count": 967
+                    },
+                    "url": "https://t.co/iO6MRJNm9j",
+                    "username": "AnIncandescence",
+                    "verified": true
+                  },
+                  {
+                    "created_at": "2021-09-12T12:43:59.000Z",
+                    "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/患有双相注意避雷/废话很多",
+                    "id": "1437034228768595977",
+                    "location": "你的身旁",
+                    "name": "🥛💤",
+                    "pinned_tweet_id": "1839611665257824656",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2008872173084229632/7RVhFGtF_normal.jpg",
+                    "protected": true,
+                    "public_metrics": {
+                      "followers_count": 111,
+                      "following_count": 92,
+                      "tweet_count": 1542,
+                      "listed_count": 1,
+                      "like_count": 3118,
+                      "media_count": 162
+                    },
+                    "username": "Kumamushi2021",
+                    "verified": false
+                  }
+                ],
+                "tweets": [
+                  {
+                    "article": {},
+                    "attachments": {},
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "2009525563116196260",
+                    "created_at": "2026-01-09T08:08:20.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2026-01-09T09:08:20.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "2009537710705529057"
+                    ],
+                    "entities": {
+                      "mentions": [
+                        {
+                          "start": 0,
+                          "end": 14,
+                          "username": "Kumamushi2021",
+                          "id": "1437034228768595977"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "2009537710705529057",
+                    "in_reply_to_user_id": "1437034228768595977",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 0,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 0
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "2009534577958945180"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "@Kumamushi2021 我之前在电脑上和同桌玩传送门都快要死掉了，belike好难受但是好想一起玩。。结束后躺着缓了好久，和晕车感觉一样"
+                  }
+                ]
+              },
+              "errors": [
+                {
+                  "resource_id": "2009534577958945180",
+                  "parameter": "referenced_tweets.id",
+                  "resource_type": "tweet",
+                  "section": "includes",
+                  "title": "Authorization Error",
+                  "value": "2009534577958945180",
+                  "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2009534577958945180].",
+                  "type": "https://api.twitter.com/2/problems/not-authorized-for-resource"
+                }
+              ],
+              "_pale_fire": {
+                "x_api_reply_chains": {
+                  "2009534577958945180": {
+                    "version": 1,
+                    "fetched_at": "2026-04-18T01:23:52Z",
+                    "max_depth": 64,
+                    "posts": [
+                      {
+                        "id": "2009534577958945180",
+                        "source": "x_api_oauth1",
+                        "payload": {
+                          "data": {
+                            "edit_history_tweet_ids": [
+                              "2009534577958945180"
+                            ],
+                            "conversation_id": "2009525563116196260",
+                            "text": "@AnIncandescence 晕3D要逐渐适应的啦  先从运动不那么剧烈的应用开始尝试  一感到难受就休息，慢慢的去适应",
+                            "author_id": "1437034228768595977",
+                            "possibly_sensitive": false,
+                            "entities": {
+                              "mentions": [
+                                {
+                                  "start": 0,
+                                  "end": 16,
+                                  "username": "AnIncandescence",
+                                  "id": "1741993395910811648"
+                                }
+                              ]
+                            },
+                            "public_metrics": {
+                              "retweet_count": 0,
+                              "reply_count": 1,
+                              "like_count": 0,
+                              "quote_count": 0,
+                              "bookmark_count": 0,
+                              "impression_count": 35
+                            },
+                            "id": "2009534577958945180",
+                            "reply_settings": "everyone",
+                            "created_at": "2026-01-09T07:55:53.000Z",
+                            "referenced_tweets": [
+                              {
+                                "type": "replied_to",
+                                "id": "2009533740830347644"
+                              }
+                            ],
+                            "lang": "zh",
+                            "in_reply_to_user_id": "1741993395910811648",
+                            "edit_controls": {
+                              "edits_remaining": 5,
+                              "is_edit_eligible": false,
+                              "editable_until": "2026-01-09T08:55:53.000Z"
+                            },
+                            "context_annotations": [
+                              {
+                                "domain": {
+                                  "id": "46",
+                                  "name": "Business Taxonomy",
+                                  "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                                },
+                                "entity": {
+                                  "id": "1557697333571112960",
+                                  "name": "Technology Business",
+                                  "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares"
+                                }
+                              }
+                            ]
+                          },
+                          "includes": {
+                            "users": [
+                              {
+                                "public_metrics": {
+                                  "followers_count": 200,
+                                  "following_count": 104,
+                                  "tweet_count": 2051,
+                                  "listed_count": 4,
+                                  "like_count": 3885,
+                                  "media_count": 207
+                                },
+                                "name": "🥛💤",
+                                "username": "Kumamushi2021",
+                                "profile_image_url": "https://pbs.twimg.com/profile_images/2008872173084229632/7RVhFGtF_normal.jpg",
+                                "id": "1437034228768595977",
+                                "created_at": "2021-09-12T12:43:59.000Z",
+                                "location": "你的身旁",
+                                "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/患有双相注意避雷/废话很多",
+                                "verified": false,
+                                "protected": false
+                              }
+                            ]
+                          },
+                          "errors": [
+                            {
+                              "parameter": "in_reply_to_user_id",
+                              "resource_id": "1741993395910811648",
+                              "value": "1741993395910811648",
+                              "detail": "User has been suspended: [1741993395910811648].",
+                              "title": "Forbidden",
+                              "resource_type": "user",
+                              "type": "https://api.twitter.com/2/problems/resource-not-found"
+                            },
+                            {
+                              "resource_id": "2009533740830347644",
+                              "parameter": "referenced_tweets.id",
+                              "resource_type": "tweet",
+                              "section": "includes",
+                              "title": "Authorization Error",
+                              "value": "2009533740830347644",
+                              "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2009533740830347644].",
+                              "type": "https://api.twitter.com/2/problems/not-authorized-for-resource"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "id": "2009533740830347644",
+                        "source": "local_json",
+                        "payload": {
+                          "data": {
+                            "article": {},
+                            "attachments": {},
+                            "author_id": "1741993395910811648",
+                            "context_annotations": [
+                              {
+                                "domain": {
+                                  "id": "46",
+                                  "name": "Business Taxonomy",
+                                  "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                                },
+                                "entity": {
+                                  "id": "1557697333571112960",
+                                  "name": "Technology Business",
+                                  "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares"
+                                }
+                              }
+                            ],
+                            "conversation_id": "2009525563116196260",
+                            "created_at": "2026-01-09T07:52:33.000Z",
+                            "edit_controls": {
+                              "edits_remaining": 5,
+                              "is_edit_eligible": false,
+                              "editable_until": "2026-01-09T08:52:33.000Z"
+                            },
+                            "edit_history_tweet_ids": [
+                              "2009533740830347644"
+                            ],
+                            "entities": {
+                              "mentions": [
+                                {
+                                  "start": 0,
+                                  "end": 14,
+                                  "username": "Kumamushi2021",
+                                  "id": "1437034228768595977"
+                                }
+                              ]
+                            },
+                            "geo": {},
+                            "id": "2009533740830347644",
+                            "in_reply_to_user_id": "1437034228768595977",
+                            "lang": "zh",
+                            "note_tweet": {
+                              "entities": {}
+                            },
+                            "possibly_sensitive": false,
+                            "public_metrics": {
+                              "retweet_count": 0,
+                              "reply_count": 0,
+                              "like_count": 0,
+                              "quote_count": 0,
+                              "bookmark_count": 0,
+                              "impression_count": 0
+                            },
+                            "referenced_tweets": [
+                              {
+                                "type": "replied_to",
+                                "id": "2009532598415249828"
+                              }
+                            ],
+                            "reply_settings": "everyone",
+                            "text": "@Kumamushi2021 可是爱玩TT看网上都说晕3d多玩就能适应，可能是我玩的不够多所以没好吧（"
+                          },
+                          "includes": {
+                            "users": [
+                              {
+                                "created_at": "2024-01-02T01:22:57.000Z",
+                                "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+                                "entities": {
+                                  "url": {
+                                    "urls": [
+                                      {
+                                        "start": 0,
+                                        "end": 23,
+                                        "url": "https://t.co/iO6MRJNm9j",
+                                        "expanded_url": "https://ngl.link/anincandescence1",
+                                        "display_url": "ngl.link/anincandescenc…"
+                                      }
+                                    ]
+                                  }
+                                },
+                                "id": "1741993395910811648",
+                                "location": "天鹅座X-1",
+                                "name": "炽烈已极",
+                                "pinned_tweet_id": "2007712706254737908",
+                                "profile_image_url": "https://pbs.twimg.com/profile_images/2006317223414255617/jGT_GZyG_normal.jpg",
+                                "protected": false,
+                                "public_metrics": {
+                                  "followers_count": 1461,
+                                  "following_count": 222,
+                                  "tweet_count": 5083,
+                                  "listed_count": 4,
+                                  "like_count": 12580,
+                                  "media_count": 966
+                                },
+                                "url": "https://t.co/iO6MRJNm9j",
+                                "username": "AnIncandescence",
+                                "verified": true
+                              },
+                              {
+                                "created_at": "2021-09-12T12:43:59.000Z",
+                                "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/患有双相注意避雷/废话很多",
+                                "id": "1437034228768595977",
+                                "location": "你的身旁",
+                                "name": "🥛💤",
+                                "pinned_tweet_id": "1839611665257824656",
+                                "profile_image_url": "https://pbs.twimg.com/profile_images/2008872173084229632/7RVhFGtF_normal.jpg",
+                                "protected": true,
+                                "public_metrics": {
+                                  "followers_count": 111,
+                                  "following_count": 92,
+                                  "tweet_count": 1539,
+                                  "listed_count": 1,
+                                  "like_count": 3118,
+                                  "media_count": 162
+                                },
+                                "username": "Kumamushi2021",
+                                "verified": false
+                              }
+                            ],
+                            "tweets": [
+                              {
+                                "article": {},
+                                "attachments": {},
+                                "author_id": "1741993395910811648",
+                                "context_annotations": [
+                                  {
+                                    "domain": {
+                                      "id": "46",
+                                      "name": "Business Taxonomy",
+                                      "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                                    },
+                                    "entity": {
+                                      "id": "1557697333571112960",
+                                      "name": "Technology Business",
+                                      "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares"
+                                    }
+                                  }
+                                ],
+                                "conversation_id": "2009525563116196260",
+                                "created_at": "2026-01-09T07:52:33.000Z",
+                                "edit_controls": {
+                                  "edits_remaining": 5,
+                                  "is_edit_eligible": false,
+                                  "editable_until": "2026-01-09T08:52:33.000Z"
+                                },
+                                "edit_history_tweet_ids": [
+                                  "2009533740830347644"
+                                ],
+                                "entities": {
+                                  "mentions": [
+                                    {
+                                      "start": 0,
+                                      "end": 14,
+                                      "username": "Kumamushi2021",
+                                      "id": "1437034228768595977"
+                                    }
+                                  ]
+                                },
+                                "geo": {},
+                                "id": "2009533740830347644",
+                                "in_reply_to_user_id": "1437034228768595977",
+                                "lang": "zh",
+                                "note_tweet": {
+                                  "entities": {}
+                                },
+                                "possibly_sensitive": false,
+                                "public_metrics": {
+                                  "retweet_count": 0,
+                                  "reply_count": 0,
+                                  "like_count": 0,
+                                  "quote_count": 0,
+                                  "bookmark_count": 0,
+                                  "impression_count": 0
+                                },
+                                "referenced_tweets": [
+                                  {
+                                    "type": "replied_to",
+                                    "id": "2009532598415249828"
+                                  }
+                                ],
+                                "reply_settings": "everyone",
+                                "text": "@Kumamushi2021 可是爱玩TT看网上都说晕3d多玩就能适应，可能是我玩的不够多所以没好吧（"
+                              }
+                            ]
+                          },
+                          "errors": [
+                            {
+                              "resource_id": "2009532598415249828",
+                              "parameter": "referenced_tweets.id",
+                              "resource_type": "tweet",
+                              "section": "includes",
+                              "title": "Authorization Error",
+                              "value": "2009532598415249828",
+                              "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2009532598415249828].",
+                              "type": "https://api.twitter.com/2/problems/not-authorized-for-resource"
+                            }
+                          ],
+                          "_pale_fire": {
+                            "x_api_reply_chains": {
+                              "2009532598415249828": {
+                                "version": 1,
+                                "fetched_at": "2026-04-18T01:23:51Z",
+                                "max_depth": 64,
+                                "posts": [
+                                  {
+                                    "id": "2009532598415249828",
+                                    "source": "x_api_oauth1",
+                                    "payload": {
+                                      "data": {
+                                        "id": "2009532598415249828",
+                                        "edit_history_tweet_ids": [
+                                          "2009532598415249828"
+                                        ],
+                                        "public_metrics": {
+                                          "retweet_count": 0,
+                                          "reply_count": 1,
+                                          "like_count": 0,
+                                          "quote_count": 0,
+                                          "bookmark_count": 0,
+                                          "impression_count": 43
+                                        },
+                                        "entities": {
+                                          "mentions": [
+                                            {
+                                              "start": 0,
+                                              "end": 16,
+                                              "username": "AnIncandescence",
+                                              "id": "1741993395910811648"
+                                            }
+                                          ]
+                                        },
+                                        "author_id": "1437034228768595977",
+                                        "text": "@AnIncandescence 咦3D眩晕！？不会很难受吗不要勉强自己啦x",
+                                        "lang": "zh",
+                                        "reply_settings": "everyone",
+                                        "context_annotations": [
+                                          {
+                                            "domain": {
+                                              "id": "46",
+                                              "name": "Business Taxonomy",
+                                              "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                                            },
+                                            "entity": {
+                                              "id": "1557697333571112960",
+                                              "name": "Technology Business",
+                                              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares"
+                                            }
+                                          }
+                                        ],
+                                        "possibly_sensitive": false,
+                                        "edit_controls": {
+                                          "edits_remaining": 5,
+                                          "is_edit_eligible": false,
+                                          "editable_until": "2026-01-09T08:48:01.000Z"
+                                        },
+                                        "referenced_tweets": [
+                                          {
+                                            "type": "replied_to",
+                                            "id": "2009527713267331432"
+                                          }
+                                        ],
+                                        "in_reply_to_user_id": "1741993395910811648",
+                                        "created_at": "2026-01-09T07:48:01.000Z",
+                                        "conversation_id": "2009525563116196260"
+                                      },
+                                      "includes": {
+                                        "users": [
+                                          {
+                                            "profile_image_url": "https://pbs.twimg.com/profile_images/2008872173084229632/7RVhFGtF_normal.jpg",
+                                            "verified": false,
+                                            "public_metrics": {
+                                              "followers_count": 200,
+                                              "following_count": 104,
+                                              "tweet_count": 2051,
+                                              "listed_count": 4,
+                                              "like_count": 3885,
+                                              "media_count": 207
+                                            },
+                                            "location": "你的身旁",
+                                            "id": "1437034228768595977",
+                                            "name": "🥛💤",
+                                            "created_at": "2021-09-12T12:43:59.000Z",
+                                            "username": "Kumamushi2021",
+                                            "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/患有双相注意避雷/废话很多",
+                                            "protected": false
+                                          }
+                                        ]
+                                      },
+                                      "errors": [
+                                        {
+                                          "parameter": "in_reply_to_user_id",
+                                          "resource_id": "1741993395910811648",
+                                          "value": "1741993395910811648",
+                                          "detail": "User has been suspended: [1741993395910811648].",
+                                          "title": "Forbidden",
+                                          "resource_type": "user",
+                                          "type": "https://api.twitter.com/2/problems/resource-not-found"
+                                        },
+                                        {
+                                          "resource_id": "2009527713267331432",
+                                          "parameter": "referenced_tweets.id",
+                                          "resource_type": "tweet",
+                                          "section": "includes",
+                                          "title": "Authorization Error",
+                                          "value": "2009527713267331432",
+                                          "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2009527713267331432].",
+                                          "type": "https://api.twitter.com/2/problems/not-authorized-for-resource"
+                                        }
+                                      ]
+                                    }
+                                  },
+                                  {
+                                    "id": "2009527713267331432",
+                                    "source": "local_json",
+                                    "payload": {
+                                      "data": {
+                                        "article": {},
+                                        "attachments": {},
+                                        "author_id": "1741993395910811648",
+                                        "context_annotations": [
+                                          {
+                                            "domain": {
+                                              "id": "46",
+                                              "name": "Business Taxonomy",
+                                              "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                                            },
+                                            "entity": {
+                                              "id": "1557697333571112960",
+                                              "name": "Technology Business",
+                                              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares"
+                                            }
+                                          }
+                                        ],
+                                        "conversation_id": "2009525563116196260",
+                                        "created_at": "2026-01-09T07:28:36.000Z",
+                                        "edit_controls": {
+                                          "edits_remaining": 5,
+                                          "is_edit_eligible": false,
+                                          "editable_until": "2026-01-09T08:28:36.000Z"
+                                        },
+                                        "edit_history_tweet_ids": [
+                                          "2009527713267331432"
+                                        ],
+                                        "entities": {
+                                          "mentions": [
+                                            {
+                                              "start": 0,
+                                              "end": 14,
+                                              "username": "Kumamushi2021",
+                                              "id": "1437034228768595977"
+                                            }
+                                          ]
+                                        },
+                                        "geo": {},
+                                        "id": "2009527713267331432",
+                                        "in_reply_to_user_id": "1437034228768595977",
+                                        "lang": "zh",
+                                        "note_tweet": {
+                                          "entities": {}
+                                        },
+                                        "possibly_sensitive": false,
+                                        "public_metrics": {
+                                          "retweet_count": 0,
+                                          "reply_count": 0,
+                                          "like_count": 0,
+                                          "quote_count": 0,
+                                          "bookmark_count": 0,
+                                          "impression_count": 0
+                                        },
+                                        "referenced_tweets": [
+                                          {
+                                            "type": "replied_to",
+                                            "id": "2009525563116196260"
+                                          }
+                                        ],
+                                        "reply_settings": "everyone",
+                                        "text": "@Kumamushi2021 好耶！！我将和3d眩晕自由搏击（"
+                                      },
+                                      "includes": {
+                                        "users": [
+                                          {
+                                            "created_at": "2024-01-02T01:22:57.000Z",
+                                            "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+                                            "entities": {
+                                              "url": {
+                                                "urls": [
+                                                  {
+                                                    "start": 0,
+                                                    "end": 23,
+                                                    "url": "https://t.co/iO6MRJNm9j",
+                                                    "expanded_url": "https://ngl.link/anincandescence1",
+                                                    "display_url": "ngl.link/anincandescenc…"
+                                                  }
+                                                ]
+                                              }
+                                            },
+                                            "id": "1741993395910811648",
+                                            "location": "天鹅座X-1",
+                                            "name": "炽烈已极",
+                                            "pinned_tweet_id": "2007712706254737908",
+                                            "profile_image_url": "https://pbs.twimg.com/profile_images/2006317223414255617/jGT_GZyG_normal.jpg",
+                                            "protected": false,
+                                            "public_metrics": {
+                                              "followers_count": 1460,
+                                              "following_count": 222,
+                                              "tweet_count": 5079,
+                                              "listed_count": 4,
+                                              "like_count": 12577,
+                                              "media_count": 965
+                                            },
+                                            "url": "https://t.co/iO6MRJNm9j",
+                                            "username": "AnIncandescence",
+                                            "verified": true
+                                          },
+                                          {
+                                            "created_at": "2021-09-12T12:43:59.000Z",
+                                            "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/患有双相注意避雷/废话很多",
+                                            "id": "1437034228768595977",
+                                            "location": "你的身旁",
+                                            "name": "🥛💤",
+                                            "pinned_tweet_id": "1839611665257824656",
+                                            "profile_image_url": "https://pbs.twimg.com/profile_images/2008872173084229632/7RVhFGtF_normal.jpg",
+                                            "protected": true,
+                                            "public_metrics": {
+                                              "followers_count": 111,
+                                              "following_count": 92,
+                                              "tweet_count": 1538,
+                                              "listed_count": 1,
+                                              "like_count": 3116,
+                                              "media_count": 162
+                                            },
+                                            "username": "Kumamushi2021",
+                                            "verified": false
+                                          }
+                                        ],
+                                        "tweets": [
+                                          {
+                                            "article": {},
+                                            "attachments": {},
+                                            "author_id": "1741993395910811648",
+                                            "context_annotations": [
+                                              {
+                                                "domain": {
+                                                  "id": "46",
+                                                  "name": "Business Taxonomy",
+                                                  "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                                                },
+                                                "entity": {
+                                                  "id": "1557697333571112960",
+                                                  "name": "Technology Business",
+                                                  "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares"
+                                                }
+                                              }
+                                            ],
+                                            "conversation_id": "2009525563116196260",
+                                            "created_at": "2026-01-09T07:28:36.000Z",
+                                            "edit_controls": {
+                                              "edits_remaining": 5,
+                                              "is_edit_eligible": false,
+                                              "editable_until": "2026-01-09T08:28:36.000Z"
+                                            },
+                                            "edit_history_tweet_ids": [
+                                              "2009527713267331432"
+                                            ],
+                                            "entities": {
+                                              "mentions": [
+                                                {
+                                                  "start": 0,
+                                                  "end": 14,
+                                                  "username": "Kumamushi2021",
+                                                  "id": "1437034228768595977"
+                                                }
+                                              ]
+                                            },
+                                            "geo": {},
+                                            "id": "2009527713267331432",
+                                            "in_reply_to_user_id": "1437034228768595977",
+                                            "lang": "zh",
+                                            "note_tweet": {
+                                              "entities": {}
+                                            },
+                                            "possibly_sensitive": false,
+                                            "public_metrics": {
+                                              "retweet_count": 0,
+                                              "reply_count": 0,
+                                              "like_count": 0,
+                                              "quote_count": 0,
+                                              "bookmark_count": 0,
+                                              "impression_count": 0
+                                            },
+                                            "referenced_tweets": [
+                                              {
+                                                "type": "replied_to",
+                                                "id": "2009525563116196260"
+                                              }
+                                            ],
+                                            "reply_settings": "everyone",
+                                            "text": "@Kumamushi2021 好耶！！我将和3d眩晕自由搏击（"
+                                          }
+                                        ]
+                                      },
+                                      "errors": [
+                                        {
+                                          "resource_id": "2009525563116196260",
+                                          "parameter": "referenced_tweets.id",
+                                          "resource_type": "tweet",
+                                          "section": "includes",
+                                          "title": "Authorization Error",
+                                          "value": "2009525563116196260",
+                                          "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2009525563116196260].",
+                                          "type": "https://api.twitter.com/2/problems/not-authorized-for-resource"
+                                        }
+                                      ],
+                                      "_pale_fire": {
+                                        "x_api_reply_chains": {
+                                          "2009525563116196260": {
+                                            "version": 1,
+                                            "fetched_at": "2026-04-18T01:23:08Z",
+                                            "max_depth": 64,
+                                            "posts": [
+                                              {
+                                                "id": "2009525563116196260",
+                                                "source": "x_api_oauth1",
+                                                "payload": {
+                                                  "data": {
+                                                    "text": "买了台Quest3S！！\n终于不用在VRC当人棍了木嘿嘿嘿（搓手）（搓手）",
+                                                    "lang": "zh",
+                                                    "possibly_sensitive": false,
+                                                    "id": "2009525563116196260",
+                                                    "public_metrics": {
+                                                      "retweet_count": 0,
+                                                      "reply_count": 1,
+                                                      "like_count": 4,
+                                                      "quote_count": 0,
+                                                      "bookmark_count": 0,
+                                                      "impression_count": 242
+                                                    },
+                                                    "edit_controls": {
+                                                      "edits_remaining": 5,
+                                                      "is_edit_eligible": true,
+                                                      "editable_until": "2026-01-09T08:20:04.000Z"
+                                                    },
+                                                    "author_id": "1437034228768595977",
+                                                    "edit_history_tweet_ids": [
+                                                      "2009525563116196260"
+                                                    ],
+                                                    "created_at": "2026-01-09T07:20:04.000Z",
+                                                    "reply_settings": "everyone",
+                                                    "conversation_id": "2009525563116196260"
+                                                  },
+                                                  "includes": {
+                                                    "users": [
+                                                      {
+                                                        "id": "1437034228768595977",
+                                                        "name": "🥛💤",
+                                                        "verified": false,
+                                                        "profile_image_url": "https://pbs.twimg.com/profile_images/2008872173084229632/7RVhFGtF_normal.jpg",
+                                                        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/患有双相注意避雷/废话很多",
+                                                        "protected": false,
+                                                        "public_metrics": {
+                                                          "followers_count": 200,
+                                                          "following_count": 104,
+                                                          "tweet_count": 2051,
+                                                          "listed_count": 4,
+                                                          "like_count": 3885,
+                                                          "media_count": 207
+                                                        },
+                                                        "username": "Kumamushi2021",
+                                                        "created_at": "2021-09-12T12:43:59.000Z",
+                                                        "location": "你的身旁"
+                                                      }
+                                                    ]
+                                                  }
+                                                }
+                                              }
+                                            ]
+                                          }
+                                        }
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "id": "2009525563116196260",
+                                    "source": "x_api_oauth1",
+                                    "payload": {
+                                      "data": {
+                                        "text": "买了台Quest3S！！\n终于不用在VRC当人棍了木嘿嘿嘿（搓手）（搓手）",
+                                        "lang": "zh",
+                                        "possibly_sensitive": false,
+                                        "id": "2009525563116196260",
+                                        "public_metrics": {
+                                          "retweet_count": 0,
+                                          "reply_count": 1,
+                                          "like_count": 4,
+                                          "quote_count": 0,
+                                          "bookmark_count": 0,
+                                          "impression_count": 242
+                                        },
+                                        "edit_controls": {
+                                          "edits_remaining": 5,
+                                          "is_edit_eligible": true,
+                                          "editable_until": "2026-01-09T08:20:04.000Z"
+                                        },
+                                        "author_id": "1437034228768595977",
+                                        "edit_history_tweet_ids": [
+                                          "2009525563116196260"
+                                        ],
+                                        "created_at": "2026-01-09T07:20:04.000Z",
+                                        "reply_settings": "everyone",
+                                        "conversation_id": "2009525563116196260"
+                                      },
+                                      "includes": {
+                                        "users": [
+                                          {
+                                            "id": "1437034228768595977",
+                                            "name": "🥛💤",
+                                            "verified": false,
+                                            "profile_image_url": "https://pbs.twimg.com/profile_images/2008872173084229632/7RVhFGtF_normal.jpg",
+                                            "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/患有双相注意避雷/废话很多",
+                                            "protected": false,
+                                            "public_metrics": {
+                                              "followers_count": 200,
+                                              "following_count": 104,
+                                              "tweet_count": 2051,
+                                              "listed_count": 4,
+                                              "like_count": 3885,
+                                              "media_count": 207
+                                            },
+                                            "username": "Kumamushi2021",
+                                            "created_at": "2021-09-12T12:43:59.000Z",
+                                            "location": "你的身旁"
+                                          }
+                                        ]
+                                      }
+                                    }
+                                  }
+                                ]
+                              }
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "id": "2009532598415249828",
+                        "source": "x_api_oauth1",
+                        "payload": {
+                          "data": {
+                            "id": "2009532598415249828",
+                            "edit_history_tweet_ids": [
+                              "2009532598415249828"
+                            ],
+                            "public_metrics": {
+                              "retweet_count": 0,
+                              "reply_count": 1,
+                              "like_count": 0,
+                              "quote_count": 0,
+                              "bookmark_count": 0,
+                              "impression_count": 43
+                            },
+                            "entities": {
+                              "mentions": [
+                                {
+                                  "start": 0,
+                                  "end": 16,
+                                  "username": "AnIncandescence",
+                                  "id": "1741993395910811648"
+                                }
+                              ]
+                            },
+                            "author_id": "1437034228768595977",
+                            "text": "@AnIncandescence 咦3D眩晕！？不会很难受吗不要勉强自己啦x",
+                            "lang": "zh",
+                            "reply_settings": "everyone",
+                            "context_annotations": [
+                              {
+                                "domain": {
+                                  "id": "46",
+                                  "name": "Business Taxonomy",
+                                  "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                                },
+                                "entity": {
+                                  "id": "1557697333571112960",
+                                  "name": "Technology Business",
+                                  "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares"
+                                }
+                              }
+                            ],
+                            "possibly_sensitive": false,
+                            "edit_controls": {
+                              "edits_remaining": 5,
+                              "is_edit_eligible": false,
+                              "editable_until": "2026-01-09T08:48:01.000Z"
+                            },
+                            "referenced_tweets": [
+                              {
+                                "type": "replied_to",
+                                "id": "2009527713267331432"
+                              }
+                            ],
+                            "in_reply_to_user_id": "1741993395910811648",
+                            "created_at": "2026-01-09T07:48:01.000Z",
+                            "conversation_id": "2009525563116196260"
+                          },
+                          "includes": {
+                            "users": [
+                              {
+                                "profile_image_url": "https://pbs.twimg.com/profile_images/2008872173084229632/7RVhFGtF_normal.jpg",
+                                "verified": false,
+                                "public_metrics": {
+                                  "followers_count": 200,
+                                  "following_count": 104,
+                                  "tweet_count": 2051,
+                                  "listed_count": 4,
+                                  "like_count": 3885,
+                                  "media_count": 207
+                                },
+                                "location": "你的身旁",
+                                "id": "1437034228768595977",
+                                "name": "🥛💤",
+                                "created_at": "2021-09-12T12:43:59.000Z",
+                                "username": "Kumamushi2021",
+                                "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/患有双相注意避雷/废话很多",
+                                "protected": false
+                              }
+                            ]
+                          },
+                          "errors": [
+                            {
+                              "parameter": "in_reply_to_user_id",
+                              "resource_id": "1741993395910811648",
+                              "value": "1741993395910811648",
+                              "detail": "User has been suspended: [1741993395910811648].",
+                              "title": "Forbidden",
+                              "resource_type": "user",
+                              "type": "https://api.twitter.com/2/problems/resource-not-found"
+                            },
+                            {
+                              "resource_id": "2009527713267331432",
+                              "parameter": "referenced_tweets.id",
+                              "resource_type": "tweet",
+                              "section": "includes",
+                              "title": "Authorization Error",
+                              "value": "2009527713267331432",
+                              "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2009527713267331432].",
+                              "type": "https://api.twitter.com/2/problems/not-authorized-for-resource"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "id": "2009527713267331432",
+                        "source": "local_json",
+                        "payload": {
+                          "data": {
+                            "article": {},
+                            "attachments": {},
+                            "author_id": "1741993395910811648",
+                            "context_annotations": [
+                              {
+                                "domain": {
+                                  "id": "46",
+                                  "name": "Business Taxonomy",
+                                  "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                                },
+                                "entity": {
+                                  "id": "1557697333571112960",
+                                  "name": "Technology Business",
+                                  "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares"
+                                }
+                              }
+                            ],
+                            "conversation_id": "2009525563116196260",
+                            "created_at": "2026-01-09T07:28:36.000Z",
+                            "edit_controls": {
+                              "edits_remaining": 5,
+                              "is_edit_eligible": false,
+                              "editable_until": "2026-01-09T08:28:36.000Z"
+                            },
+                            "edit_history_tweet_ids": [
+                              "2009527713267331432"
+                            ],
+                            "entities": {
+                              "mentions": [
+                                {
+                                  "start": 0,
+                                  "end": 14,
+                                  "username": "Kumamushi2021",
+                                  "id": "1437034228768595977"
+                                }
+                              ]
+                            },
+                            "geo": {},
+                            "id": "2009527713267331432",
+                            "in_reply_to_user_id": "1437034228768595977",
+                            "lang": "zh",
+                            "note_tweet": {
+                              "entities": {}
+                            },
+                            "possibly_sensitive": false,
+                            "public_metrics": {
+                              "retweet_count": 0,
+                              "reply_count": 0,
+                              "like_count": 0,
+                              "quote_count": 0,
+                              "bookmark_count": 0,
+                              "impression_count": 0
+                            },
+                            "referenced_tweets": [
+                              {
+                                "type": "replied_to",
+                                "id": "2009525563116196260"
+                              }
+                            ],
+                            "reply_settings": "everyone",
+                            "text": "@Kumamushi2021 好耶！！我将和3d眩晕自由搏击（"
+                          },
+                          "includes": {
+                            "users": [
+                              {
+                                "created_at": "2024-01-02T01:22:57.000Z",
+                                "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+                                "entities": {
+                                  "url": {
+                                    "urls": [
+                                      {
+                                        "start": 0,
+                                        "end": 23,
+                                        "url": "https://t.co/iO6MRJNm9j",
+                                        "expanded_url": "https://ngl.link/anincandescence1",
+                                        "display_url": "ngl.link/anincandescenc…"
+                                      }
+                                    ]
+                                  }
+                                },
+                                "id": "1741993395910811648",
+                                "location": "天鹅座X-1",
+                                "name": "炽烈已极",
+                                "pinned_tweet_id": "2007712706254737908",
+                                "profile_image_url": "https://pbs.twimg.com/profile_images/2006317223414255617/jGT_GZyG_normal.jpg",
+                                "protected": false,
+                                "public_metrics": {
+                                  "followers_count": 1460,
+                                  "following_count": 222,
+                                  "tweet_count": 5079,
+                                  "listed_count": 4,
+                                  "like_count": 12577,
+                                  "media_count": 965
+                                },
+                                "url": "https://t.co/iO6MRJNm9j",
+                                "username": "AnIncandescence",
+                                "verified": true
+                              },
+                              {
+                                "created_at": "2021-09-12T12:43:59.000Z",
+                                "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/患有双相注意避雷/废话很多",
+                                "id": "1437034228768595977",
+                                "location": "你的身旁",
+                                "name": "🥛💤",
+                                "pinned_tweet_id": "1839611665257824656",
+                                "profile_image_url": "https://pbs.twimg.com/profile_images/2008872173084229632/7RVhFGtF_normal.jpg",
+                                "protected": true,
+                                "public_metrics": {
+                                  "followers_count": 111,
+                                  "following_count": 92,
+                                  "tweet_count": 1538,
+                                  "listed_count": 1,
+                                  "like_count": 3116,
+                                  "media_count": 162
+                                },
+                                "username": "Kumamushi2021",
+                                "verified": false
+                              }
+                            ],
+                            "tweets": [
+                              {
+                                "article": {},
+                                "attachments": {},
+                                "author_id": "1741993395910811648",
+                                "context_annotations": [
+                                  {
+                                    "domain": {
+                                      "id": "46",
+                                      "name": "Business Taxonomy",
+                                      "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                                    },
+                                    "entity": {
+                                      "id": "1557697333571112960",
+                                      "name": "Technology Business",
+                                      "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares"
+                                    }
+                                  }
+                                ],
+                                "conversation_id": "2009525563116196260",
+                                "created_at": "2026-01-09T07:28:36.000Z",
+                                "edit_controls": {
+                                  "edits_remaining": 5,
+                                  "is_edit_eligible": false,
+                                  "editable_until": "2026-01-09T08:28:36.000Z"
+                                },
+                                "edit_history_tweet_ids": [
+                                  "2009527713267331432"
+                                ],
+                                "entities": {
+                                  "mentions": [
+                                    {
+                                      "start": 0,
+                                      "end": 14,
+                                      "username": "Kumamushi2021",
+                                      "id": "1437034228768595977"
+                                    }
+                                  ]
+                                },
+                                "geo": {},
+                                "id": "2009527713267331432",
+                                "in_reply_to_user_id": "1437034228768595977",
+                                "lang": "zh",
+                                "note_tweet": {
+                                  "entities": {}
+                                },
+                                "possibly_sensitive": false,
+                                "public_metrics": {
+                                  "retweet_count": 0,
+                                  "reply_count": 0,
+                                  "like_count": 0,
+                                  "quote_count": 0,
+                                  "bookmark_count": 0,
+                                  "impression_count": 0
+                                },
+                                "referenced_tweets": [
+                                  {
+                                    "type": "replied_to",
+                                    "id": "2009525563116196260"
+                                  }
+                                ],
+                                "reply_settings": "everyone",
+                                "text": "@Kumamushi2021 好耶！！我将和3d眩晕自由搏击（"
+                              }
+                            ]
+                          },
+                          "errors": [
+                            {
+                              "resource_id": "2009525563116196260",
+                              "parameter": "referenced_tweets.id",
+                              "resource_type": "tweet",
+                              "section": "includes",
+                              "title": "Authorization Error",
+                              "value": "2009525563116196260",
+                              "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2009525563116196260].",
+                              "type": "https://api.twitter.com/2/problems/not-authorized-for-resource"
+                            }
+                          ],
+                          "_pale_fire": {
+                            "x_api_reply_chains": {
+                              "2009525563116196260": {
+                                "version": 1,
+                                "fetched_at": "2026-04-18T01:23:08Z",
+                                "max_depth": 64,
+                                "posts": [
+                                  {
+                                    "id": "2009525563116196260",
+                                    "source": "x_api_oauth1",
+                                    "payload": {
+                                      "data": {
+                                        "text": "买了台Quest3S！！\n终于不用在VRC当人棍了木嘿嘿嘿（搓手）（搓手）",
+                                        "lang": "zh",
+                                        "possibly_sensitive": false,
+                                        "id": "2009525563116196260",
+                                        "public_metrics": {
+                                          "retweet_count": 0,
+                                          "reply_count": 1,
+                                          "like_count": 4,
+                                          "quote_count": 0,
+                                          "bookmark_count": 0,
+                                          "impression_count": 242
+                                        },
+                                        "edit_controls": {
+                                          "edits_remaining": 5,
+                                          "is_edit_eligible": true,
+                                          "editable_until": "2026-01-09T08:20:04.000Z"
+                                        },
+                                        "author_id": "1437034228768595977",
+                                        "edit_history_tweet_ids": [
+                                          "2009525563116196260"
+                                        ],
+                                        "created_at": "2026-01-09T07:20:04.000Z",
+                                        "reply_settings": "everyone",
+                                        "conversation_id": "2009525563116196260"
+                                      },
+                                      "includes": {
+                                        "users": [
+                                          {
+                                            "id": "1437034228768595977",
+                                            "name": "🥛💤",
+                                            "verified": false,
+                                            "profile_image_url": "https://pbs.twimg.com/profile_images/2008872173084229632/7RVhFGtF_normal.jpg",
+                                            "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/患有双相注意避雷/废话很多",
+                                            "protected": false,
+                                            "public_metrics": {
+                                              "followers_count": 200,
+                                              "following_count": 104,
+                                              "tweet_count": 2051,
+                                              "listed_count": 4,
+                                              "like_count": 3885,
+                                              "media_count": 207
+                                            },
+                                            "username": "Kumamushi2021",
+                                            "created_at": "2021-09-12T12:43:59.000Z",
+                                            "location": "你的身旁"
+                                          }
+                                        ]
+                                      }
+                                    }
+                                  }
+                                ]
+                              }
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "id": "2009525563116196260",
+                        "source": "x_api_oauth1",
+                        "payload": {
+                          "data": {
+                            "text": "买了台Quest3S！！\n终于不用在VRC当人棍了木嘿嘿嘿（搓手）（搓手）",
+                            "lang": "zh",
+                            "possibly_sensitive": false,
+                            "id": "2009525563116196260",
+                            "public_metrics": {
+                              "retweet_count": 0,
+                              "reply_count": 1,
+                              "like_count": 4,
+                              "quote_count": 0,
+                              "bookmark_count": 0,
+                              "impression_count": 242
+                            },
+                            "edit_controls": {
+                              "edits_remaining": 5,
+                              "is_edit_eligible": true,
+                              "editable_until": "2026-01-09T08:20:04.000Z"
+                            },
+                            "author_id": "1437034228768595977",
+                            "edit_history_tweet_ids": [
+                              "2009525563116196260"
+                            ],
+                            "created_at": "2026-01-09T07:20:04.000Z",
+                            "reply_settings": "everyone",
+                            "conversation_id": "2009525563116196260"
+                          },
+                          "includes": {
+                            "users": [
+                              {
+                                "id": "1437034228768595977",
+                                "name": "🥛💤",
+                                "verified": false,
+                                "profile_image_url": "https://pbs.twimg.com/profile_images/2008872173084229632/7RVhFGtF_normal.jpg",
+                                "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/患有双相注意避雷/废话很多",
+                                "protected": false,
+                                "public_metrics": {
+                                  "followers_count": 200,
+                                  "following_count": 104,
+                                  "tweet_count": 2051,
+                                  "listed_count": 4,
+                                  "like_count": 3885,
+                                  "media_count": 207
+                                },
+                                "username": "Kumamushi2021",
+                                "created_at": "2021-09-12T12:43:59.000Z",
+                                "location": "你的身旁"
+                              }
+                            ]
+                          }
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          },
+          {
+            "id": "2009534577958945180",
+            "source": "x_api_oauth1",
+            "payload": {
+              "data": {
+                "edit_history_tweet_ids": [
+                  "2009534577958945180"
+                ],
+                "conversation_id": "2009525563116196260",
+                "text": "@AnIncandescence 晕3D要逐渐适应的啦  先从运动不那么剧烈的应用开始尝试  一感到难受就休息，慢慢的去适应",
+                "author_id": "1437034228768595977",
+                "possibly_sensitive": false,
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 0,
+                      "end": 16,
+                      "username": "AnIncandescence",
+                      "id": "1741993395910811648"
+                    }
+                  ]
+                },
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 35
+                },
+                "id": "2009534577958945180",
+                "reply_settings": "everyone",
+                "created_at": "2026-01-09T07:55:53.000Z",
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "2009533740830347644"
+                  }
+                ],
+                "lang": "zh",
+                "in_reply_to_user_id": "1741993395910811648",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2026-01-09T08:55:53.000Z"
+                },
+                "context_annotations": [
+                  {
+                    "domain": {
+                      "id": "46",
+                      "name": "Business Taxonomy",
+                      "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                      "id": "1557697333571112960",
+                      "name": "Technology Business",
+                      "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares"
+                    }
+                  }
+                ]
+              },
+              "includes": {
+                "users": [
+                  {
+                    "public_metrics": {
+                      "followers_count": 200,
+                      "following_count": 104,
+                      "tweet_count": 2051,
+                      "listed_count": 4,
+                      "like_count": 3885,
+                      "media_count": 207
+                    },
+                    "name": "🥛💤",
+                    "username": "Kumamushi2021",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2008872173084229632/7RVhFGtF_normal.jpg",
+                    "id": "1437034228768595977",
+                    "created_at": "2021-09-12T12:43:59.000Z",
+                    "location": "你的身旁",
+                    "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/患有双相注意避雷/废话很多",
+                    "verified": false,
+                    "protected": false
+                  }
+                ]
+              },
+              "errors": [
+                {
+                  "parameter": "in_reply_to_user_id",
+                  "resource_id": "1741993395910811648",
+                  "value": "1741993395910811648",
+                  "detail": "User has been suspended: [1741993395910811648].",
+                  "title": "Forbidden",
+                  "resource_type": "user",
+                  "type": "https://api.twitter.com/2/problems/resource-not-found"
+                },
+                {
+                  "resource_id": "2009533740830347644",
+                  "parameter": "referenced_tweets.id",
+                  "resource_type": "tweet",
+                  "section": "includes",
+                  "title": "Authorization Error",
+                  "value": "2009533740830347644",
+                  "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2009533740830347644].",
+                  "type": "https://api.twitter.com/2/problems/not-authorized-for-resource"
+                }
+              ]
+            }
+          },
+          {
+            "id": "2009533740830347644",
+            "source": "local_json",
+            "payload": {
+              "data": {
+                "article": {},
+                "attachments": {},
+                "author_id": "1741993395910811648",
+                "context_annotations": [
+                  {
+                    "domain": {
+                      "id": "46",
+                      "name": "Business Taxonomy",
+                      "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                      "id": "1557697333571112960",
+                      "name": "Technology Business",
+                      "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares"
+                    }
+                  }
+                ],
+                "conversation_id": "2009525563116196260",
+                "created_at": "2026-01-09T07:52:33.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2026-01-09T08:52:33.000Z"
+                },
+                "edit_history_tweet_ids": [
+                  "2009533740830347644"
+                ],
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 0,
+                      "end": 14,
+                      "username": "Kumamushi2021",
+                      "id": "1437034228768595977"
+                    }
+                  ]
+                },
+                "geo": {},
+                "id": "2009533740830347644",
+                "in_reply_to_user_id": "1437034228768595977",
+                "lang": "zh",
+                "note_tweet": {
+                  "entities": {}
+                },
+                "possibly_sensitive": false,
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 0
+                },
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "2009532598415249828"
+                  }
+                ],
+                "reply_settings": "everyone",
+                "text": "@Kumamushi2021 可是爱玩TT看网上都说晕3d多玩就能适应，可能是我玩的不够多所以没好吧（"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "created_at": "2024-01-02T01:22:57.000Z",
+                    "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/iO6MRJNm9j",
+                            "expanded_url": "https://ngl.link/anincandescence1",
+                            "display_url": "ngl.link/anincandescenc…"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1741993395910811648",
+                    "location": "天鹅座X-1",
+                    "name": "炽烈已极",
+                    "pinned_tweet_id": "2007712706254737908",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2006317223414255617/jGT_GZyG_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 1461,
+                      "following_count": 222,
+                      "tweet_count": 5083,
+                      "listed_count": 4,
+                      "like_count": 12580,
+                      "media_count": 966
+                    },
+                    "url": "https://t.co/iO6MRJNm9j",
+                    "username": "AnIncandescence",
+                    "verified": true
+                  },
+                  {
+                    "created_at": "2021-09-12T12:43:59.000Z",
+                    "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/患有双相注意避雷/废话很多",
+                    "id": "1437034228768595977",
+                    "location": "你的身旁",
+                    "name": "🥛💤",
+                    "pinned_tweet_id": "1839611665257824656",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2008872173084229632/7RVhFGtF_normal.jpg",
+                    "protected": true,
+                    "public_metrics": {
+                      "followers_count": 111,
+                      "following_count": 92,
+                      "tweet_count": 1539,
+                      "listed_count": 1,
+                      "like_count": 3118,
+                      "media_count": 162
+                    },
+                    "username": "Kumamushi2021",
+                    "verified": false
+                  }
+                ],
+                "tweets": [
+                  {
+                    "article": {},
+                    "attachments": {},
+                    "author_id": "1741993395910811648",
+                    "context_annotations": [
+                      {
+                        "domain": {
+                          "id": "46",
+                          "name": "Business Taxonomy",
+                          "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                        },
+                        "entity": {
+                          "id": "1557697333571112960",
+                          "name": "Technology Business",
+                          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares"
+                        }
+                      }
+                    ],
+                    "conversation_id": "2009525563116196260",
+                    "created_at": "2026-01-09T07:52:33.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2026-01-09T08:52:33.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "2009533740830347644"
+                    ],
+                    "entities": {
+                      "mentions": [
+                        {
+                          "start": 0,
+                          "end": 14,
+                          "username": "Kumamushi2021",
+                          "id": "1437034228768595977"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "2009533740830347644",
+                    "in_reply_to_user_id": "1437034228768595977",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 0,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 0
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "2009532598415249828"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "@Kumamushi2021 可是爱玩TT看网上都说晕3d多玩就能适应，可能是我玩的不够多所以没好吧（"
+                  }
+                ]
+              },
+              "errors": [
+                {
+                  "resource_id": "2009532598415249828",
+                  "parameter": "referenced_tweets.id",
+                  "resource_type": "tweet",
+                  "section": "includes",
+                  "title": "Authorization Error",
+                  "value": "2009532598415249828",
+                  "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2009532598415249828].",
+                  "type": "https://api.twitter.com/2/problems/not-authorized-for-resource"
+                }
+              ],
+              "_pale_fire": {
+                "x_api_reply_chains": {
+                  "2009532598415249828": {
+                    "version": 1,
+                    "fetched_at": "2026-04-18T01:23:51Z",
+                    "max_depth": 64,
+                    "posts": [
+                      {
+                        "id": "2009532598415249828",
+                        "source": "x_api_oauth1",
+                        "payload": {
+                          "data": {
+                            "id": "2009532598415249828",
+                            "edit_history_tweet_ids": [
+                              "2009532598415249828"
+                            ],
+                            "public_metrics": {
+                              "retweet_count": 0,
+                              "reply_count": 1,
+                              "like_count": 0,
+                              "quote_count": 0,
+                              "bookmark_count": 0,
+                              "impression_count": 43
+                            },
+                            "entities": {
+                              "mentions": [
+                                {
+                                  "start": 0,
+                                  "end": 16,
+                                  "username": "AnIncandescence",
+                                  "id": "1741993395910811648"
+                                }
+                              ]
+                            },
+                            "author_id": "1437034228768595977",
+                            "text": "@AnIncandescence 咦3D眩晕！？不会很难受吗不要勉强自己啦x",
+                            "lang": "zh",
+                            "reply_settings": "everyone",
+                            "context_annotations": [
+                              {
+                                "domain": {
+                                  "id": "46",
+                                  "name": "Business Taxonomy",
+                                  "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                                },
+                                "entity": {
+                                  "id": "1557697333571112960",
+                                  "name": "Technology Business",
+                                  "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares"
+                                }
+                              }
+                            ],
+                            "possibly_sensitive": false,
+                            "edit_controls": {
+                              "edits_remaining": 5,
+                              "is_edit_eligible": false,
+                              "editable_until": "2026-01-09T08:48:01.000Z"
+                            },
+                            "referenced_tweets": [
+                              {
+                                "type": "replied_to",
+                                "id": "2009527713267331432"
+                              }
+                            ],
+                            "in_reply_to_user_id": "1741993395910811648",
+                            "created_at": "2026-01-09T07:48:01.000Z",
+                            "conversation_id": "2009525563116196260"
+                          },
+                          "includes": {
+                            "users": [
+                              {
+                                "profile_image_url": "https://pbs.twimg.com/profile_images/2008872173084229632/7RVhFGtF_normal.jpg",
+                                "verified": false,
+                                "public_metrics": {
+                                  "followers_count": 200,
+                                  "following_count": 104,
+                                  "tweet_count": 2051,
+                                  "listed_count": 4,
+                                  "like_count": 3885,
+                                  "media_count": 207
+                                },
+                                "location": "你的身旁",
+                                "id": "1437034228768595977",
+                                "name": "🥛💤",
+                                "created_at": "2021-09-12T12:43:59.000Z",
+                                "username": "Kumamushi2021",
+                                "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/患有双相注意避雷/废话很多",
+                                "protected": false
+                              }
+                            ]
+                          },
+                          "errors": [
+                            {
+                              "parameter": "in_reply_to_user_id",
+                              "resource_id": "1741993395910811648",
+                              "value": "1741993395910811648",
+                              "detail": "User has been suspended: [1741993395910811648].",
+                              "title": "Forbidden",
+                              "resource_type": "user",
+                              "type": "https://api.twitter.com/2/problems/resource-not-found"
+                            },
+                            {
+                              "resource_id": "2009527713267331432",
+                              "parameter": "referenced_tweets.id",
+                              "resource_type": "tweet",
+                              "section": "includes",
+                              "title": "Authorization Error",
+                              "value": "2009527713267331432",
+                              "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2009527713267331432].",
+                              "type": "https://api.twitter.com/2/problems/not-authorized-for-resource"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "id": "2009527713267331432",
+                        "source": "local_json",
+                        "payload": {
+                          "data": {
+                            "article": {},
+                            "attachments": {},
+                            "author_id": "1741993395910811648",
+                            "context_annotations": [
+                              {
+                                "domain": {
+                                  "id": "46",
+                                  "name": "Business Taxonomy",
+                                  "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                                },
+                                "entity": {
+                                  "id": "1557697333571112960",
+                                  "name": "Technology Business",
+                                  "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares"
+                                }
+                              }
+                            ],
+                            "conversation_id": "2009525563116196260",
+                            "created_at": "2026-01-09T07:28:36.000Z",
+                            "edit_controls": {
+                              "edits_remaining": 5,
+                              "is_edit_eligible": false,
+                              "editable_until": "2026-01-09T08:28:36.000Z"
+                            },
+                            "edit_history_tweet_ids": [
+                              "2009527713267331432"
+                            ],
+                            "entities": {
+                              "mentions": [
+                                {
+                                  "start": 0,
+                                  "end": 14,
+                                  "username": "Kumamushi2021",
+                                  "id": "1437034228768595977"
+                                }
+                              ]
+                            },
+                            "geo": {},
+                            "id": "2009527713267331432",
+                            "in_reply_to_user_id": "1437034228768595977",
+                            "lang": "zh",
+                            "note_tweet": {
+                              "entities": {}
+                            },
+                            "possibly_sensitive": false,
+                            "public_metrics": {
+                              "retweet_count": 0,
+                              "reply_count": 0,
+                              "like_count": 0,
+                              "quote_count": 0,
+                              "bookmark_count": 0,
+                              "impression_count": 0
+                            },
+                            "referenced_tweets": [
+                              {
+                                "type": "replied_to",
+                                "id": "2009525563116196260"
+                              }
+                            ],
+                            "reply_settings": "everyone",
+                            "text": "@Kumamushi2021 好耶！！我将和3d眩晕自由搏击（"
+                          },
+                          "includes": {
+                            "users": [
+                              {
+                                "created_at": "2024-01-02T01:22:57.000Z",
+                                "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+                                "entities": {
+                                  "url": {
+                                    "urls": [
+                                      {
+                                        "start": 0,
+                                        "end": 23,
+                                        "url": "https://t.co/iO6MRJNm9j",
+                                        "expanded_url": "https://ngl.link/anincandescence1",
+                                        "display_url": "ngl.link/anincandescenc…"
+                                      }
+                                    ]
+                                  }
+                                },
+                                "id": "1741993395910811648",
+                                "location": "天鹅座X-1",
+                                "name": "炽烈已极",
+                                "pinned_tweet_id": "2007712706254737908",
+                                "profile_image_url": "https://pbs.twimg.com/profile_images/2006317223414255617/jGT_GZyG_normal.jpg",
+                                "protected": false,
+                                "public_metrics": {
+                                  "followers_count": 1460,
+                                  "following_count": 222,
+                                  "tweet_count": 5079,
+                                  "listed_count": 4,
+                                  "like_count": 12577,
+                                  "media_count": 965
+                                },
+                                "url": "https://t.co/iO6MRJNm9j",
+                                "username": "AnIncandescence",
+                                "verified": true
+                              },
+                              {
+                                "created_at": "2021-09-12T12:43:59.000Z",
+                                "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/患有双相注意避雷/废话很多",
+                                "id": "1437034228768595977",
+                                "location": "你的身旁",
+                                "name": "🥛💤",
+                                "pinned_tweet_id": "1839611665257824656",
+                                "profile_image_url": "https://pbs.twimg.com/profile_images/2008872173084229632/7RVhFGtF_normal.jpg",
+                                "protected": true,
+                                "public_metrics": {
+                                  "followers_count": 111,
+                                  "following_count": 92,
+                                  "tweet_count": 1538,
+                                  "listed_count": 1,
+                                  "like_count": 3116,
+                                  "media_count": 162
+                                },
+                                "username": "Kumamushi2021",
+                                "verified": false
+                              }
+                            ],
+                            "tweets": [
+                              {
+                                "article": {},
+                                "attachments": {},
+                                "author_id": "1741993395910811648",
+                                "context_annotations": [
+                                  {
+                                    "domain": {
+                                      "id": "46",
+                                      "name": "Business Taxonomy",
+                                      "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                                    },
+                                    "entity": {
+                                      "id": "1557697333571112960",
+                                      "name": "Technology Business",
+                                      "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares"
+                                    }
+                                  }
+                                ],
+                                "conversation_id": "2009525563116196260",
+                                "created_at": "2026-01-09T07:28:36.000Z",
+                                "edit_controls": {
+                                  "edits_remaining": 5,
+                                  "is_edit_eligible": false,
+                                  "editable_until": "2026-01-09T08:28:36.000Z"
+                                },
+                                "edit_history_tweet_ids": [
+                                  "2009527713267331432"
+                                ],
+                                "entities": {
+                                  "mentions": [
+                                    {
+                                      "start": 0,
+                                      "end": 14,
+                                      "username": "Kumamushi2021",
+                                      "id": "1437034228768595977"
+                                    }
+                                  ]
+                                },
+                                "geo": {},
+                                "id": "2009527713267331432",
+                                "in_reply_to_user_id": "1437034228768595977",
+                                "lang": "zh",
+                                "note_tweet": {
+                                  "entities": {}
+                                },
+                                "possibly_sensitive": false,
+                                "public_metrics": {
+                                  "retweet_count": 0,
+                                  "reply_count": 0,
+                                  "like_count": 0,
+                                  "quote_count": 0,
+                                  "bookmark_count": 0,
+                                  "impression_count": 0
+                                },
+                                "referenced_tweets": [
+                                  {
+                                    "type": "replied_to",
+                                    "id": "2009525563116196260"
+                                  }
+                                ],
+                                "reply_settings": "everyone",
+                                "text": "@Kumamushi2021 好耶！！我将和3d眩晕自由搏击（"
+                              }
+                            ]
+                          },
+                          "errors": [
+                            {
+                              "resource_id": "2009525563116196260",
+                              "parameter": "referenced_tweets.id",
+                              "resource_type": "tweet",
+                              "section": "includes",
+                              "title": "Authorization Error",
+                              "value": "2009525563116196260",
+                              "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2009525563116196260].",
+                              "type": "https://api.twitter.com/2/problems/not-authorized-for-resource"
+                            }
+                          ],
+                          "_pale_fire": {
+                            "x_api_reply_chains": {
+                              "2009525563116196260": {
+                                "version": 1,
+                                "fetched_at": "2026-04-18T01:23:08Z",
+                                "max_depth": 64,
+                                "posts": [
+                                  {
+                                    "id": "2009525563116196260",
+                                    "source": "x_api_oauth1",
+                                    "payload": {
+                                      "data": {
+                                        "text": "买了台Quest3S！！\n终于不用在VRC当人棍了木嘿嘿嘿（搓手）（搓手）",
+                                        "lang": "zh",
+                                        "possibly_sensitive": false,
+                                        "id": "2009525563116196260",
+                                        "public_metrics": {
+                                          "retweet_count": 0,
+                                          "reply_count": 1,
+                                          "like_count": 4,
+                                          "quote_count": 0,
+                                          "bookmark_count": 0,
+                                          "impression_count": 242
+                                        },
+                                        "edit_controls": {
+                                          "edits_remaining": 5,
+                                          "is_edit_eligible": true,
+                                          "editable_until": "2026-01-09T08:20:04.000Z"
+                                        },
+                                        "author_id": "1437034228768595977",
+                                        "edit_history_tweet_ids": [
+                                          "2009525563116196260"
+                                        ],
+                                        "created_at": "2026-01-09T07:20:04.000Z",
+                                        "reply_settings": "everyone",
+                                        "conversation_id": "2009525563116196260"
+                                      },
+                                      "includes": {
+                                        "users": [
+                                          {
+                                            "id": "1437034228768595977",
+                                            "name": "🥛💤",
+                                            "verified": false,
+                                            "profile_image_url": "https://pbs.twimg.com/profile_images/2008872173084229632/7RVhFGtF_normal.jpg",
+                                            "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/患有双相注意避雷/废话很多",
+                                            "protected": false,
+                                            "public_metrics": {
+                                              "followers_count": 200,
+                                              "following_count": 104,
+                                              "tweet_count": 2051,
+                                              "listed_count": 4,
+                                              "like_count": 3885,
+                                              "media_count": 207
+                                            },
+                                            "username": "Kumamushi2021",
+                                            "created_at": "2021-09-12T12:43:59.000Z",
+                                            "location": "你的身旁"
+                                          }
+                                        ]
+                                      }
+                                    }
+                                  }
+                                ]
+                              }
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "id": "2009525563116196260",
+                        "source": "x_api_oauth1",
+                        "payload": {
+                          "data": {
+                            "text": "买了台Quest3S！！\n终于不用在VRC当人棍了木嘿嘿嘿（搓手）（搓手）",
+                            "lang": "zh",
+                            "possibly_sensitive": false,
+                            "id": "2009525563116196260",
+                            "public_metrics": {
+                              "retweet_count": 0,
+                              "reply_count": 1,
+                              "like_count": 4,
+                              "quote_count": 0,
+                              "bookmark_count": 0,
+                              "impression_count": 242
+                            },
+                            "edit_controls": {
+                              "edits_remaining": 5,
+                              "is_edit_eligible": true,
+                              "editable_until": "2026-01-09T08:20:04.000Z"
+                            },
+                            "author_id": "1437034228768595977",
+                            "edit_history_tweet_ids": [
+                              "2009525563116196260"
+                            ],
+                            "created_at": "2026-01-09T07:20:04.000Z",
+                            "reply_settings": "everyone",
+                            "conversation_id": "2009525563116196260"
+                          },
+                          "includes": {
+                            "users": [
+                              {
+                                "id": "1437034228768595977",
+                                "name": "🥛💤",
+                                "verified": false,
+                                "profile_image_url": "https://pbs.twimg.com/profile_images/2008872173084229632/7RVhFGtF_normal.jpg",
+                                "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/患有双相注意避雷/废话很多",
+                                "protected": false,
+                                "public_metrics": {
+                                  "followers_count": 200,
+                                  "following_count": 104,
+                                  "tweet_count": 2051,
+                                  "listed_count": 4,
+                                  "like_count": 3885,
+                                  "media_count": 207
+                                },
+                                "username": "Kumamushi2021",
+                                "created_at": "2021-09-12T12:43:59.000Z",
+                                "location": "你的身旁"
+                              }
+                            ]
+                          }
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          },
+          {
+            "id": "2009532598415249828",
+            "source": "x_api_oauth1",
+            "payload": {
+              "data": {
+                "id": "2009532598415249828",
+                "edit_history_tweet_ids": [
+                  "2009532598415249828"
+                ],
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 43
+                },
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 0,
+                      "end": 16,
+                      "username": "AnIncandescence",
+                      "id": "1741993395910811648"
+                    }
+                  ]
+                },
+                "author_id": "1437034228768595977",
+                "text": "@AnIncandescence 咦3D眩晕！？不会很难受吗不要勉强自己啦x",
+                "lang": "zh",
+                "reply_settings": "everyone",
+                "context_annotations": [
+                  {
+                    "domain": {
+                      "id": "46",
+                      "name": "Business Taxonomy",
+                      "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                      "id": "1557697333571112960",
+                      "name": "Technology Business",
+                      "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares"
+                    }
+                  }
+                ],
+                "possibly_sensitive": false,
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2026-01-09T08:48:01.000Z"
+                },
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "2009527713267331432"
+                  }
+                ],
+                "in_reply_to_user_id": "1741993395910811648",
+                "created_at": "2026-01-09T07:48:01.000Z",
+                "conversation_id": "2009525563116196260"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2008872173084229632/7RVhFGtF_normal.jpg",
+                    "verified": false,
+                    "public_metrics": {
+                      "followers_count": 200,
+                      "following_count": 104,
+                      "tweet_count": 2051,
+                      "listed_count": 4,
+                      "like_count": 3885,
+                      "media_count": 207
+                    },
+                    "location": "你的身旁",
+                    "id": "1437034228768595977",
+                    "name": "🥛💤",
+                    "created_at": "2021-09-12T12:43:59.000Z",
+                    "username": "Kumamushi2021",
+                    "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/患有双相注意避雷/废话很多",
+                    "protected": false
+                  }
+                ]
+              },
+              "errors": [
+                {
+                  "parameter": "in_reply_to_user_id",
+                  "resource_id": "1741993395910811648",
+                  "value": "1741993395910811648",
+                  "detail": "User has been suspended: [1741993395910811648].",
+                  "title": "Forbidden",
+                  "resource_type": "user",
+                  "type": "https://api.twitter.com/2/problems/resource-not-found"
+                },
+                {
+                  "resource_id": "2009527713267331432",
+                  "parameter": "referenced_tweets.id",
+                  "resource_type": "tweet",
+                  "section": "includes",
+                  "title": "Authorization Error",
+                  "value": "2009527713267331432",
+                  "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2009527713267331432].",
+                  "type": "https://api.twitter.com/2/problems/not-authorized-for-resource"
+                }
+              ]
+            }
+          },
+          {
+            "id": "2009527713267331432",
+            "source": "local_json",
+            "payload": {
+              "data": {
+                "article": {},
+                "attachments": {},
+                "author_id": "1741993395910811648",
+                "context_annotations": [
+                  {
+                    "domain": {
+                      "id": "46",
+                      "name": "Business Taxonomy",
+                      "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                      "id": "1557697333571112960",
+                      "name": "Technology Business",
+                      "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares"
+                    }
+                  }
+                ],
+                "conversation_id": "2009525563116196260",
+                "created_at": "2026-01-09T07:28:36.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2026-01-09T08:28:36.000Z"
+                },
+                "edit_history_tweet_ids": [
+                  "2009527713267331432"
+                ],
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 0,
+                      "end": 14,
+                      "username": "Kumamushi2021",
+                      "id": "1437034228768595977"
+                    }
+                  ]
+                },
+                "geo": {},
+                "id": "2009527713267331432",
+                "in_reply_to_user_id": "1437034228768595977",
+                "lang": "zh",
+                "note_tweet": {
+                  "entities": {}
+                },
+                "possibly_sensitive": false,
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 0
+                },
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "2009525563116196260"
+                  }
+                ],
+                "reply_settings": "everyone",
+                "text": "@Kumamushi2021 好耶！！我将和3d眩晕自由搏击（"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "created_at": "2024-01-02T01:22:57.000Z",
+                    "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/iO6MRJNm9j",
+                            "expanded_url": "https://ngl.link/anincandescence1",
+                            "display_url": "ngl.link/anincandescenc…"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1741993395910811648",
+                    "location": "天鹅座X-1",
+                    "name": "炽烈已极",
+                    "pinned_tweet_id": "2007712706254737908",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2006317223414255617/jGT_GZyG_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 1460,
+                      "following_count": 222,
+                      "tweet_count": 5079,
+                      "listed_count": 4,
+                      "like_count": 12577,
+                      "media_count": 965
+                    },
+                    "url": "https://t.co/iO6MRJNm9j",
+                    "username": "AnIncandescence",
+                    "verified": true
+                  },
+                  {
+                    "created_at": "2021-09-12T12:43:59.000Z",
+                    "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/患有双相注意避雷/废话很多",
+                    "id": "1437034228768595977",
+                    "location": "你的身旁",
+                    "name": "🥛💤",
+                    "pinned_tweet_id": "1839611665257824656",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2008872173084229632/7RVhFGtF_normal.jpg",
+                    "protected": true,
+                    "public_metrics": {
+                      "followers_count": 111,
+                      "following_count": 92,
+                      "tweet_count": 1538,
+                      "listed_count": 1,
+                      "like_count": 3116,
+                      "media_count": 162
+                    },
+                    "username": "Kumamushi2021",
+                    "verified": false
+                  }
+                ],
+                "tweets": [
+                  {
+                    "article": {},
+                    "attachments": {},
+                    "author_id": "1741993395910811648",
+                    "context_annotations": [
+                      {
+                        "domain": {
+                          "id": "46",
+                          "name": "Business Taxonomy",
+                          "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                        },
+                        "entity": {
+                          "id": "1557697333571112960",
+                          "name": "Technology Business",
+                          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares"
+                        }
+                      }
+                    ],
+                    "conversation_id": "2009525563116196260",
+                    "created_at": "2026-01-09T07:28:36.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2026-01-09T08:28:36.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "2009527713267331432"
+                    ],
+                    "entities": {
+                      "mentions": [
+                        {
+                          "start": 0,
+                          "end": 14,
+                          "username": "Kumamushi2021",
+                          "id": "1437034228768595977"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "2009527713267331432",
+                    "in_reply_to_user_id": "1437034228768595977",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 0,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 0
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "2009525563116196260"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "@Kumamushi2021 好耶！！我将和3d眩晕自由搏击（"
+                  }
+                ]
+              },
+              "errors": [
+                {
+                  "resource_id": "2009525563116196260",
+                  "parameter": "referenced_tweets.id",
+                  "resource_type": "tweet",
+                  "section": "includes",
+                  "title": "Authorization Error",
+                  "value": "2009525563116196260",
+                  "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2009525563116196260].",
+                  "type": "https://api.twitter.com/2/problems/not-authorized-for-resource"
+                }
+              ],
+              "_pale_fire": {
+                "x_api_reply_chains": {
+                  "2009525563116196260": {
+                    "version": 1,
+                    "fetched_at": "2026-04-18T01:23:08Z",
+                    "max_depth": 64,
+                    "posts": [
+                      {
+                        "id": "2009525563116196260",
+                        "source": "x_api_oauth1",
+                        "payload": {
+                          "data": {
+                            "text": "买了台Quest3S！！\n终于不用在VRC当人棍了木嘿嘿嘿（搓手）（搓手）",
+                            "lang": "zh",
+                            "possibly_sensitive": false,
+                            "id": "2009525563116196260",
+                            "public_metrics": {
+                              "retweet_count": 0,
+                              "reply_count": 1,
+                              "like_count": 4,
+                              "quote_count": 0,
+                              "bookmark_count": 0,
+                              "impression_count": 242
+                            },
+                            "edit_controls": {
+                              "edits_remaining": 5,
+                              "is_edit_eligible": true,
+                              "editable_until": "2026-01-09T08:20:04.000Z"
+                            },
+                            "author_id": "1437034228768595977",
+                            "edit_history_tweet_ids": [
+                              "2009525563116196260"
+                            ],
+                            "created_at": "2026-01-09T07:20:04.000Z",
+                            "reply_settings": "everyone",
+                            "conversation_id": "2009525563116196260"
+                          },
+                          "includes": {
+                            "users": [
+                              {
+                                "id": "1437034228768595977",
+                                "name": "🥛💤",
+                                "verified": false,
+                                "profile_image_url": "https://pbs.twimg.com/profile_images/2008872173084229632/7RVhFGtF_normal.jpg",
+                                "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/患有双相注意避雷/废话很多",
+                                "protected": false,
+                                "public_metrics": {
+                                  "followers_count": 200,
+                                  "following_count": 104,
+                                  "tweet_count": 2051,
+                                  "listed_count": 4,
+                                  "like_count": 3885,
+                                  "media_count": 207
+                                },
+                                "username": "Kumamushi2021",
+                                "created_at": "2021-09-12T12:43:59.000Z",
+                                "location": "你的身旁"
+                              }
+                            ]
+                          }
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          },
+          {
+            "id": "2009525563116196260",
+            "source": "x_api_oauth1",
+            "payload": {
+              "data": {
+                "text": "买了台Quest3S！！\n终于不用在VRC当人棍了木嘿嘿嘿（搓手）（搓手）",
+                "lang": "zh",
+                "possibly_sensitive": false,
+                "id": "2009525563116196260",
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 4,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 242
+                },
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": true,
+                  "editable_until": "2026-01-09T08:20:04.000Z"
+                },
+                "author_id": "1437034228768595977",
+                "edit_history_tweet_ids": [
+                  "2009525563116196260"
+                ],
+                "created_at": "2026-01-09T07:20:04.000Z",
+                "reply_settings": "everyone",
+                "conversation_id": "2009525563116196260"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "id": "1437034228768595977",
+                    "name": "🥛💤",
+                    "verified": false,
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2008872173084229632/7RVhFGtF_normal.jpg",
+                    "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/患有双相注意避雷/废话很多",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 200,
+                      "following_count": 104,
+                      "tweet_count": 2051,
+                      "listed_count": 4,
+                      "like_count": 3885,
+                      "media_count": 207
+                    },
+                    "username": "Kumamushi2021",
+                    "created_at": "2021-09-12T12:43:59.000Z",
+                    "location": "你的身旁"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

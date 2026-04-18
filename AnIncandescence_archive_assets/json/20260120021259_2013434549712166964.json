@@ -1,1 +1,459 @@
-{"data":{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"2013275988264726670","created_at":"2026-01-20T02:12:59.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2026-01-20T03:12:59.000Z"},"edit_history_tweet_ids":["2013434549712166964"],"entities":{"mentions":[{"start":0,"end":12,"username":"taikongjile","id":"1960187829687885824"}]},"geo":{},"id":"2013434549712166964","in_reply_to_user_id":"1960187829687885824","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"2013424730754121756"}],"reply_settings":"everyone","text":"@taikongjile 没有🤔为什么选择它"},"includes":{"users":[{"created_at":"2024-01-02T01:22:57.000Z","description":"猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/iO6MRJNm9j","expanded_url":"https://ngl.link/anincandescence1","display_url":"ngl.link/anincandescenc…"}]}},"id":"1741993395910811648","location":"天鹅座X-1","name":"炽烈已极","pinned_tweet_id":"2010452086539145687","profile_image_url":"https://pbs.twimg.com/profile_images/2006317223414255617/jGT_GZyG_normal.jpg","protected":false,"public_metrics":{"followers_count":1528,"following_count":222,"tweet_count":5271,"listed_count":6,"like_count":12981,"media_count":994},"url":"https://t.co/iO6MRJNm9j","username":"AnIncandescence","verified":true},{"created_at":"2025-08-26T03:49:38.000Z","description":"官方网站:https://t.co/ZQnAUQt63U\n交流群:https://t.co/FvFWw9Jk8E\nDC交流群：https://t.co/JtSA2uwb28","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/i6JxOs4twU","expanded_url":"http://www.shangtaikong.com/","display_url":"shangtaikong.com"}]},"description":{"urls":[{"start":5,"end":28,"url":"https://t.co/ZQnAUQt63U","expanded_url":"https://overdose.day","display_url":"overdose.day"},{"start":33,"end":56,"url":"https://t.co/FvFWw9Jk8E","expanded_url":"https://t.me/huaxuejilebaike666","display_url":"t.me/huaxuejilebaik…"},{"start":63,"end":86,"url":"https://t.co/JtSA2uwb28","expanded_url":"https://discord.gg/XmNt8AXCEb","display_url":"discord.gg/XmNt8AXCEb"}]}},"id":"1960187829687885824","name":"太空极乐百科🍥","profile_image_url":"https://pbs.twimg.com/profile_images/2002586355323502592/8QOsOMbS_normal.jpg","protected":false,"public_metrics":{"followers_count":5755,"following_count":1759,"tweet_count":1998,"listed_count":3,"like_count":1105,"media_count":318},"url":"https://t.co/i6JxOs4twU","username":"taikongjile","verified":false}],"tweets":[{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"2013275988264726670","created_at":"2026-01-20T02:12:59.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2026-01-20T03:12:59.000Z"},"edit_history_tweet_ids":["2013434549712166964"],"entities":{"mentions":[{"start":0,"end":12,"username":"taikongjile","id":"1960187829687885824"}]},"geo":{},"id":"2013434549712166964","in_reply_to_user_id":"1960187829687885824","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"2013424730754121756"}],"reply_settings":"everyone","text":"@taikongjile 没有🤔为什么选择它"},{"article":{},"attachments":{},"author_id":"1960187829687885824","conversation_id":"2013275988264726670","created_at":"2026-01-20T01:33:58.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2026-01-20T02:33:58.000Z"},"edit_history_tweet_ids":["2013424730754121756"],"entities":{"mentions":[{"start":0,"end":16,"username":"AnIncandescence","id":"1741993395910811648"}]},"geo":{},"id":"2013424730754121756","in_reply_to_user_id":"1741993395910811648","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":1,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":48},"referenced_tweets":[{"type":"replied_to","id":"2013275988264726670"}],"reply_settings":"everyone","text":"@AnIncandescence 想吃，你有尝试过MXE吗"}]}}
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741993395910811648",
+    "conversation_id": "2013275988264726670",
+    "created_at": "2026-01-20T02:12:59.000Z",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2026-01-20T03:12:59.000Z"
+    },
+    "edit_history_tweet_ids": [
+      "2013434549712166964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 12,
+          "username": "taikongjile",
+          "id": "1960187829687885824"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013434549712166964",
+    "in_reply_to_user_id": "1960187829687885824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "2013424730754121756"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@taikongjile 没有🤔为什么选择它"
+  },
+  "includes": {
+    "users": [
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/iO6MRJNm9j",
+                "expanded_url": "https://ngl.link/anincandescence1",
+                "display_url": "ngl.link/anincandescenc…"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "天鹅座X-1",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "2010452086539145687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006317223414255617/jGT_GZyG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1528,
+          "following_count": 222,
+          "tweet_count": 5271,
+          "listed_count": 6,
+          "like_count": 12981,
+          "media_count": 994
+        },
+        "url": "https://t.co/iO6MRJNm9j",
+        "username": "AnIncandescence",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-26T03:49:38.000Z",
+        "description": "官方网站:https://t.co/ZQnAUQt63U\n交流群:https://t.co/FvFWw9Jk8E\nDC交流群：https://t.co/JtSA2uwb28",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/i6JxOs4twU",
+                "expanded_url": "http://www.shangtaikong.com/",
+                "display_url": "shangtaikong.com"
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "start": 5,
+                "end": 28,
+                "url": "https://t.co/ZQnAUQt63U",
+                "expanded_url": "https://overdose.day",
+                "display_url": "overdose.day"
+              },
+              {
+                "start": 33,
+                "end": 56,
+                "url": "https://t.co/FvFWw9Jk8E",
+                "expanded_url": "https://t.me/huaxuejilebaike666",
+                "display_url": "t.me/huaxuejilebaik…"
+              },
+              {
+                "start": 63,
+                "end": 86,
+                "url": "https://t.co/JtSA2uwb28",
+                "expanded_url": "https://discord.gg/XmNt8AXCEb",
+                "display_url": "discord.gg/XmNt8AXCEb"
+              }
+            ]
+          }
+        },
+        "id": "1960187829687885824",
+        "name": "太空极乐百科🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002586355323502592/8QOsOMbS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5755,
+          "following_count": 1759,
+          "tweet_count": 1998,
+          "listed_count": 3,
+          "like_count": 1105,
+          "media_count": 318
+        },
+        "url": "https://t.co/i6JxOs4twU",
+        "username": "taikongjile",
+        "verified": false
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741993395910811648",
+        "conversation_id": "2013275988264726670",
+        "created_at": "2026-01-20T02:12:59.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2026-01-20T03:12:59.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "2013434549712166964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 12,
+              "username": "taikongjile",
+              "id": "1960187829687885824"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013434549712166964",
+        "in_reply_to_user_id": "1960187829687885824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "2013424730754121756"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@taikongjile 没有🤔为什么选择它"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960187829687885824",
+        "conversation_id": "2013275988264726670",
+        "created_at": "2026-01-20T01:33:58.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2026-01-20T02:33:58.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "2013424730754121756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 16,
+              "username": "AnIncandescence",
+              "id": "1741993395910811648"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013424730754121756",
+        "in_reply_to_user_id": "1741993395910811648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 48
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "2013275988264726670"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnIncandescence 想吃，你有尝试过MXE吗"
+      }
+    ]
+  },
+  "_pale_fire": {
+    "x_api_reply_chains": {
+      "2013275988264726670": {
+        "version": 1,
+        "fetched_at": "2026-04-18T01:25:12Z",
+        "max_depth": 63,
+        "posts": [
+          {
+            "id": "2013275988264726670",
+            "source": "local_json",
+            "payload": {
+              "data": {
+                "article": {},
+                "attachments": {},
+                "author_id": "1741993395910811648",
+                "conversation_id": "2013275988264726670",
+                "created_at": "2026-01-19T15:42:55.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": true,
+                  "editable_until": "2026-01-19T16:42:55.000Z"
+                },
+                "edit_history_tweet_ids": [
+                  "2013275988264726670"
+                ],
+                "entities": {
+                  "urls": [
+                    {
+                      "start": 36,
+                      "end": 59,
+                      "url": "https://t.co/FASsksfd0X",
+                      "expanded_url": "https://twitter.com/anincandescence/status/1932072044985745853",
+                      "display_url": "x.com/anincandescenc…"
+                    }
+                  ]
+                },
+                "geo": {},
+                "id": "2013275988264726670",
+                "lang": "zh",
+                "note_tweet": {
+                  "entities": {}
+                },
+                "possibly_sensitive": false,
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 0
+                },
+                "referenced_tweets": [
+                  {
+                    "type": "quoted",
+                    "id": "1932072044985745853"
+                  }
+                ],
+                "reply_settings": "everyone",
+                "text": "终于找到了，第一次2f-dck\n我的氯胺酮平替🥹有概率刷出健全buff https://t.co/FASsksfd0X"
+              },
+              "includes": {
+                "media": [
+                  {
+                    "height": 3024,
+                    "media_key": "3_1932072036253171712",
+                    "public_metrics": {},
+                    "type": "photo",
+                    "url": "https://pbs.twimg.com/media/GtAZR8lWAAAyzp1.jpg",
+                    "width": 4032
+                  }
+                ],
+                "users": [
+                  {
+                    "created_at": "2024-01-02T01:22:57.000Z",
+                    "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/iO6MRJNm9j",
+                            "expanded_url": "https://ngl.link/anincandescence1",
+                            "display_url": "ngl.link/anincandescenc…"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1741993395910811648",
+                    "location": "天鹅座X-1",
+                    "name": "炽烈已极",
+                    "pinned_tweet_id": "2010452086539145687",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2006317223414255617/jGT_GZyG_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 1529,
+                      "following_count": 223,
+                      "tweet_count": 5256,
+                      "listed_count": 6,
+                      "like_count": 12967,
+                      "media_count": 992
+                    },
+                    "url": "https://t.co/iO6MRJNm9j",
+                    "username": "AnIncandescence",
+                    "verified": true
+                  }
+                ],
+                "tweets": [
+                  {
+                    "article": {},
+                    "attachments": {},
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "2013275988264726670",
+                    "created_at": "2026-01-19T15:42:55.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": true,
+                      "editable_until": "2026-01-19T16:42:55.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "2013275988264726670"
+                    ],
+                    "entities": {
+                      "urls": [
+                        {
+                          "start": 36,
+                          "end": 59,
+                          "url": "https://t.co/FASsksfd0X",
+                          "expanded_url": "https://twitter.com/anincandescence/status/1932072044985745853",
+                          "display_url": "x.com/anincandescenc…"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "2013275988264726670",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 0,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 0
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "quoted",
+                        "id": "1932072044985745853"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "终于找到了，第一次2f-dck\n我的氯胺酮平替🥹有概率刷出健全buff https://t.co/FASsksfd0X"
+                  },
+                  {
+                    "article": {},
+                    "attachments": {
+                      "media_keys": [
+                        "3_1932072036253171712"
+                      ]
+                    },
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "1932072044985745853",
+                    "created_at": "2025-06-09T13:47:26.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2025-06-09T14:47:26.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "1932072044985745853"
+                    ],
+                    "entities": {
+                      "urls": [
+                        {
+                          "start": 69,
+                          "end": 92,
+                          "url": "https://t.co/ejsw4mk3k6",
+                          "expanded_url": "https://x.com/AnIncandescence/status/1932072044985745853/photo/1",
+                          "display_url": "pic.x.com/ejsw4mk3k6",
+                          "media_key": "3_1932072036253171712"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "1932072044985745853",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 1,
+                      "reply_count": 7,
+                      "like_count": 27,
+                      "quote_count": 2,
+                      "bookmark_count": 1,
+                      "impression_count": 3431
+                    },
+                    "reply_settings": "everyone",
+                    "text": "从紊流的海域逃向高空乱流吧\n\n嘈杂的，匆忙的，被扰人的琐事堆积的...那团雾挥之不去，于是用混乱去覆写混乱试试？那些东西会在静默中崩解吗 https://t.co/ejsw4mk3k6"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

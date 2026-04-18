@@ -1,1 +1,379 @@
-{"data":{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1949530715324076394","created_at":"2025-07-29T00:10:32.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-07-29T01:10:32.000Z"},"edit_history_tweet_ids":["1949985860872450181"],"entities":{"mentions":[{"start":0,"end":13,"username":"ustuYukichan","id":"1722890177696468992"}]},"geo":{},"id":"1949985860872450181","in_reply_to_user_id":"1722890177696468992","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1949982938839347226"}],"reply_settings":"everyone","text":"@ustuYukichan 谢谢你🥰"},"includes":{"users":[{"created_at":"2024-01-02T01:22:57.000Z","description":"猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/MuEKSg4tIS","expanded_url":"https://ngl.link/anincandescence","display_url":"ngl.link/anincandescence"}]}},"id":"1741993395910811648","location":"天鹅座X-1","name":"炽烈已极","pinned_tweet_id":"1944465960406245490","profile_image_url":"https://pbs.twimg.com/profile_images/1947176726292725760/VAZ0WSeY_normal.jpg","protected":false,"public_metrics":{"followers_count":1098,"following_count":207,"tweet_count":3432,"listed_count":1,"like_count":9513,"media_count":688},"url":"https://t.co/MuEKSg4tIS","username":"AnIncandescence","verified":false},{"created_at":"2023-11-10T08:13:34.000Z","description":"病み垢｜リスカ｜od｜shutwt｜drugtwt｜🇯🇵／🇨🇳/🇬🇧簡単な会話おkです","id":"1722890177696468992","location":"地獄","name":"有害天使","pinned_tweet_id":"1935744475927921066","profile_image_url":"https://pbs.twimg.com/profile_images/1924492543619952640/Xcv18q2k_normal.jpg","protected":false,"public_metrics":{"followers_count":99,"following_count":326,"tweet_count":873,"listed_count":0,"like_count":162,"media_count":35},"username":"ustuYukichan","verified":false}],"tweets":[{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1949530715324076394","created_at":"2025-07-29T00:10:32.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-07-29T01:10:32.000Z"},"edit_history_tweet_ids":["1949985860872450181"],"entities":{"mentions":[{"start":0,"end":13,"username":"ustuYukichan","id":"1722890177696468992"}]},"geo":{},"id":"1949985860872450181","in_reply_to_user_id":"1722890177696468992","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1949982938839347226"}],"reply_settings":"everyone","text":"@ustuYukichan 谢谢你🥰"},{"article":{},"attachments":{},"author_id":"1722890177696468992","conversation_id":"1949530715324076394","created_at":"2025-07-28T23:58:56.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-07-29T00:58:56.000Z"},"edit_history_tweet_ids":["1949982938839347226"],"entities":{"mentions":[{"start":0,"end":16,"username":"AnIncandescence","id":"1741993395910811648"}]},"geo":{},"id":"1949982938839347226","in_reply_to_user_id":"1741993395910811648","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":1,"like_count":1,"quote_count":0,"bookmark_count":0,"impression_count":4},"referenced_tweets":[{"type":"replied_to","id":"1949530715324076394"}],"reply_settings":"everyone","text":"@AnIncandescence 炽烈姐姐的文字总是透着淡淡的哀愁，像透明淡蓝色的玻璃水母，又像是出现在繁华都市的神明少女大人"}]}}
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741993395910811648",
+    "conversation_id": "1949530715324076394",
+    "created_at": "2025-07-29T00:10:32.000Z",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2025-07-29T01:10:32.000Z"
+    },
+    "edit_history_tweet_ids": [
+      "1949985860872450181"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 13,
+          "username": "ustuYukichan",
+          "id": "1722890177696468992"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949985860872450181",
+    "in_reply_to_user_id": "1722890177696468992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1949982938839347226"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ustuYukichan 谢谢你🥰"
+  },
+  "includes": {
+    "users": [
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/MuEKSg4tIS",
+                "expanded_url": "https://ngl.link/anincandescence",
+                "display_url": "ngl.link/anincandescence"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "天鹅座X-1",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "1944465960406245490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947176726292725760/VAZ0WSeY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1098,
+          "following_count": 207,
+          "tweet_count": 3432,
+          "listed_count": 1,
+          "like_count": 9513,
+          "media_count": 688
+        },
+        "url": "https://t.co/MuEKSg4tIS",
+        "username": "AnIncandescence",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-10T08:13:34.000Z",
+        "description": "病み垢｜リスカ｜od｜shutwt｜drugtwt｜🇯🇵／🇨🇳/🇬🇧簡単な会話おkです",
+        "id": "1722890177696468992",
+        "location": "地獄",
+        "name": "有害天使",
+        "pinned_tweet_id": "1935744475927921066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924492543619952640/Xcv18q2k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 326,
+          "tweet_count": 873,
+          "listed_count": 0,
+          "like_count": 162,
+          "media_count": 35
+        },
+        "username": "ustuYukichan",
+        "verified": false
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741993395910811648",
+        "conversation_id": "1949530715324076394",
+        "created_at": "2025-07-29T00:10:32.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2025-07-29T01:10:32.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1949985860872450181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 13,
+              "username": "ustuYukichan",
+              "id": "1722890177696468992"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949985860872450181",
+        "in_reply_to_user_id": "1722890177696468992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1949982938839347226"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ustuYukichan 谢谢你🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722890177696468992",
+        "conversation_id": "1949530715324076394",
+        "created_at": "2025-07-28T23:58:56.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2025-07-29T00:58:56.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1949982938839347226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 16,
+              "username": "AnIncandescence",
+              "id": "1741993395910811648"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949982938839347226",
+        "in_reply_to_user_id": "1741993395910811648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1949530715324076394"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnIncandescence 炽烈姐姐的文字总是透着淡淡的哀愁，像透明淡蓝色的玻璃水母，又像是出现在繁华都市的神明少女大人"
+      }
+    ]
+  },
+  "_pale_fire": {
+    "x_api_reply_chains": {
+      "1949530715324076394": {
+        "version": 1,
+        "fetched_at": "2026-04-18T00:49:15Z",
+        "max_depth": 63,
+        "posts": [
+          {
+            "id": "1949530715324076394",
+            "source": "local_json",
+            "payload": {
+              "data": {
+                "article": {},
+                "attachments": {},
+                "author_id": "1741993395910811648",
+                "conversation_id": "1949530715324076394",
+                "created_at": "2025-07-27T18:16:21.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2025-07-27T19:16:21.000Z"
+                },
+                "edit_history_tweet_ids": [
+                  "1949534337801805845"
+                ],
+                "entities": {},
+                "geo": {},
+                "id": "1949534337801805845",
+                "in_reply_to_user_id": "1741993395910811648",
+                "lang": "zh",
+                "note_tweet": {
+                  "entities": {}
+                },
+                "possibly_sensitive": false,
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 0
+                },
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "1949530715324076394"
+                  }
+                ],
+                "reply_settings": "everyone",
+                "text": "觉得自己颠沛流离过得并不好，但是情况又被一些人羡慕着，好对不起一直以来的环境和所拥有的现况...但是我仍然很痛苦\n\n一直告诉自己没什么好比的，但是听到话语如此真实在耳边证实了这不是猜想。\n好想把拥有的这一切换给谁然后我从驾驶席位上原地蒸发，就这样幻想着吧"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "created_at": "2024-01-02T01:22:57.000Z",
+                    "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/MuEKSg4tIS",
+                            "expanded_url": "https://ngl.link/anincandescence",
+                            "display_url": "ngl.link/anincandescence"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1741993395910811648",
+                    "location": "天鹅座X-1",
+                    "name": "炽烈已极",
+                    "pinned_tweet_id": "1944465960406245490",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1947176726292725760/VAZ0WSeY_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 1095,
+                      "following_count": 205,
+                      "tweet_count": 3405,
+                      "listed_count": 1,
+                      "like_count": 9447,
+                      "media_count": 686
+                    },
+                    "url": "https://t.co/MuEKSg4tIS",
+                    "username": "AnIncandescence",
+                    "verified": false
+                  }
+                ],
+                "tweets": [
+                  {
+                    "article": {},
+                    "attachments": {},
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "1949530715324076394",
+                    "created_at": "2025-07-27T18:16:21.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2025-07-27T19:16:21.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "1949534337801805845"
+                    ],
+                    "entities": {},
+                    "geo": {},
+                    "id": "1949534337801805845",
+                    "in_reply_to_user_id": "1741993395910811648",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 0,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 0
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "1949530715324076394"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "觉得自己颠沛流离过得并不好，但是情况又被一些人羡慕着，好对不起一直以来的环境和所拥有的现况...但是我仍然很痛苦\n\n一直告诉自己没什么好比的，但是听到话语如此真实在耳边证实了这不是猜想。\n好想把拥有的这一切换给谁然后我从驾驶席位上原地蒸发，就这样幻想着吧"
+                  },
+                  {
+                    "article": {},
+                    "attachments": {},
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "1949530715324076394",
+                    "created_at": "2025-07-27T18:01:57.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2025-07-27T19:01:57.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "1949530715324076394"
+                    ],
+                    "entities": {},
+                    "geo": {},
+                    "id": "1949530715324076394",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 1,
+                      "like_count": 3,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 23
+                    },
+                    "reply_settings": "everyone",
+                    "text": "“和我做朋友好吗...”\n看到一些漂亮的语句会忍不住对它们的作者这么想，但也仅仅是想，从未说出口站在人流中等着被捡走，很任性吧"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

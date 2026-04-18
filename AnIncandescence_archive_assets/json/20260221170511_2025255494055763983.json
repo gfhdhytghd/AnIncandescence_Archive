@@ -1,1 +1,195 @@
-{"data":{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"2025245542654378429","created_at":"2026-02-21T17:05:11.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2026-02-21T18:05:11.000Z"},"edit_history_tweet_ids":["2025255494055763983"],"entities":{"mentions":[{"start":0,"end":12,"username":"fish1151004","id":"1951250095485444096"}]},"geo":{},"id":"2025255494055763983","in_reply_to_user_id":"1951250095485444096","lang":"ja","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"2025255201758998988"}],"reply_settings":"everyone","text":"@fish1151004 豪！"},"includes":{"users":[{"created_at":"2024-01-02T01:22:57.000Z","description":"猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 倒影@TauCeti_10700 计划这个号机的浓度更高一些 | 🚪88/158","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/iO6MRJNTYR","expanded_url":"https://ngl.link/anincandescence1","display_url":"ngl.link/anincandescenc…"}]},"description":{"mentions":[{"start":62,"end":76,"username":"TauCeti_10700"}]}},"id":"1741993395910811648","location":"天鹅座X-1 //⬇️ 匿名提问箱","name":"炽烈已极","pinned_tweet_id":"2024076888923365667","profile_image_url":"https://pbs.twimg.com/profile_images/2006317223414255617/jGT_GZyG_normal.jpg","protected":false,"public_metrics":{"followers_count":1723,"following_count":234,"tweet_count":5854,"listed_count":5,"like_count":14182,"media_count":1060},"url":"https://t.co/iO6MRJNTYR","username":"AnIncandescence","verified":false},{"created_at":"2025-08-01T11:55:39.000Z","description":"𝓃ℴ𝒷ℴ𝒹𝓎'𝓈 𝓅𝓇ℴ𝓂𝒾𝓈𝑒𝒹 𝓉ℴ𝓂ℴ𝓇𝓇ℴ𝓌, 𝓈ℴ 𝒾'𝓂𝒶 𝓁ℴ𝓋𝑒 𝓎ℴ𝓊 𝑒𝓋𝑒𝓇𝓎 𝓃𝒾𝑔𝒽𝓉 𝓁𝒾𝓀𝑒 𝒾𝓉'𝓈 𝓉𝒽𝑒 𝓁𝒶𝓈𝓉 𝓃𝒾𝑔𝒽𝓉.","id":"1951250095485444096","location":"失乐园之诗","name":"Island404_","pinned_tweet_id":"1989174264021553309","profile_image_url":"https://pbs.twimg.com/profile_images/2025234785669722112/MtwJOJZX_normal.jpg","protected":true,"public_metrics":{"followers_count":122,"following_count":106,"tweet_count":4403,"listed_count":0,"like_count":13066,"media_count":540},"username":"fish1151004","verified":false}],"tweets":[{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"2025245542654378429","created_at":"2026-02-21T17:05:11.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2026-02-21T18:05:11.000Z"},"edit_history_tweet_ids":["2025255494055763983"],"entities":{"mentions":[{"start":0,"end":12,"username":"fish1151004","id":"1951250095485444096"}]},"geo":{},"id":"2025255494055763983","in_reply_to_user_id":"1951250095485444096","lang":"ja","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"2025255201758998988"}],"reply_settings":"everyone","text":"@fish1151004 豪！"}]},"errors":[{"resource_id":"2025255201758998988","parameter":"referenced_tweets.id","resource_type":"tweet","section":"includes","title":"Authorization Error","value":"2025255201758998988","detail":"Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2025255201758998988].","type":"https://api.twitter.com/2/problems/not-authorized-for-resource"}]}
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741993395910811648",
+    "conversation_id": "2025245542654378429",
+    "created_at": "2026-02-21T17:05:11.000Z",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2026-02-21T18:05:11.000Z"
+    },
+    "edit_history_tweet_ids": [
+      "2025255494055763983"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 12,
+          "username": "fish1151004",
+          "id": "1951250095485444096"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025255494055763983",
+    "in_reply_to_user_id": "1951250095485444096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "2025255201758998988"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fish1151004 豪！"
+  },
+  "includes": {
+    "users": [
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 倒影@TauCeti_10700 计划这个号机的浓度更高一些 | 🚪88/158",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/iO6MRJNTYR",
+                "expanded_url": "https://ngl.link/anincandescence1",
+                "display_url": "ngl.link/anincandescenc…"
+              }
+            ]
+          },
+          "description": {
+            "mentions": [
+              {
+                "start": 62,
+                "end": 76,
+                "username": "TauCeti_10700"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "天鹅座X-1 //⬇️ 匿名提问箱",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "2024076888923365667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006317223414255617/jGT_GZyG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1723,
+          "following_count": 234,
+          "tweet_count": 5854,
+          "listed_count": 5,
+          "like_count": 14182,
+          "media_count": 1060
+        },
+        "url": "https://t.co/iO6MRJNTYR",
+        "username": "AnIncandescence",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-01T11:55:39.000Z",
+        "description": "𝓃ℴ𝒷ℴ𝒹𝓎'𝓈 𝓅𝓇ℴ𝓂𝒾𝓈𝑒𝒹 𝓉ℴ𝓂ℴ𝓇𝓇ℴ𝓌, 𝓈ℴ 𝒾'𝓂𝒶 𝓁ℴ𝓋𝑒 𝓎ℴ𝓊 𝑒𝓋𝑒𝓇𝓎 𝓃𝒾𝑔𝒽𝓉 𝓁𝒾𝓀𝑒 𝒾𝓉'𝓈 𝓉𝒽𝑒 𝓁𝒶𝓈𝓉 𝓃𝒾𝑔𝒽𝓉.",
+        "id": "1951250095485444096",
+        "location": "失乐园之诗",
+        "name": "Island404_",
+        "pinned_tweet_id": "1989174264021553309",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025234785669722112/MtwJOJZX_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 106,
+          "tweet_count": 4403,
+          "listed_count": 0,
+          "like_count": 13066,
+          "media_count": 540
+        },
+        "username": "fish1151004",
+        "verified": false
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741993395910811648",
+        "conversation_id": "2025245542654378429",
+        "created_at": "2026-02-21T17:05:11.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2026-02-21T18:05:11.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "2025255494055763983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 12,
+              "username": "fish1151004",
+              "id": "1951250095485444096"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025255494055763983",
+        "in_reply_to_user_id": "1951250095485444096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "2025255201758998988"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fish1151004 豪！"
+      }
+    ]
+  },
+  "errors": [
+    {
+      "resource_id": "2025255201758998988",
+      "parameter": "referenced_tweets.id",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "value": "2025255201758998988",
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2025255201758998988].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource"
+    }
+  ],
+  "_pale_fire": {
+    "x_api_reply_chains": {
+      "2025255201758998988": {
+        "version": 1,
+        "fetched_at": "2026-04-18T02:39:41Z",
+        "max_depth": 64,
+        "posts": [],
+        "terminal_error": {
+          "id": "2025255201758998988",
+          "message": "Sorry, you are not authorized to see the Tweet with id: [2025255201758998988]. Wayback fallback: Wayback fallback did not find archived JSON for tweet id 2025255201758998988."
+        }
+      }
+    }
+  }
+}

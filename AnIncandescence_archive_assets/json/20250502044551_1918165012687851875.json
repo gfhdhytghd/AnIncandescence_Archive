@@ -1,1 +1,699 @@
-{"data":{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1917902654627606871","created_at":"2025-05-02T04:45:51.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-05-02T05:45:51.000Z"},"edit_history_tweet_ids":["1918165012687851875"],"entities":{"mentions":[{"start":0,"end":16,"username":"PaitangOfficial","id":"1272405078683430913"},{"start":17,"end":31,"username":"Coccus_Swamer","id":"1552238688590958592"}]},"geo":{},"id":"1918165012687851875","in_reply_to_user_id":"1272405078683430913","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1918162173236256817"}],"reply_settings":"everyone","text":"@PaitangOfficial @Coccus_Swamer 凶就凶一点了🥺忙我也能理解，可是讲东答西只会浪费双方的时间啊，大家都想快点解决问题不是吗"},"includes":{"users":[{"created_at":"2024-01-02T01:22:57.000Z","description":"猫，诗歌，精神动力学。艺术，C#，波粒二象性。不断寻找着广播塔的星际候鸟。 | 求式性 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/MuEKSg4tIS","expanded_url":"https://ngl.link/anincandescence","display_url":"ngl.link/anincandescence"}]}},"id":"1741993395910811648","location":"0°00′N 260°00′E Mars","name":"炽烈已极","pinned_tweet_id":"1905895186867400960","profile_image_url":"https://pbs.twimg.com/profile_images/1789433740277567488/d3KhwUX1_normal.jpg","protected":false,"public_metrics":{"followers_count":888,"following_count":186,"tweet_count":2627,"listed_count":2,"like_count":7250,"media_count":529},"url":"https://t.co/MuEKSg4tIS","username":"AnIncandescence","verified":true},{"created_at":"2020-06-15T05:46:41.000Z","description":"生物黑客/促智药 （nootropics）发烧/神经科学 精神药理学习中/娱乐用药反对/不择手段的自我提升/睡眠科学狂热研究中/抗衰研究中/重度ADHD+阿斯伯格/TO级创造力者/化学物理白痴/极端的营养食物和补剂/博弈论&逻辑学 擅长/科学主义者","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/r6ojtqN78M","expanded_url":"https://t.me/paitangcuzhi","display_url":"t.me/paitangcuzhi"}]}},"id":"1272405078683430913","location":"一个ADHD、从事逆转衰老、认知提升剂研发","name":"☯️🧬無極","pinned_tweet_id":"1917519795584446560","profile_image_url":"https://pbs.twimg.com/profile_images/1917519720225394688/2jVCu-Iq_normal.jpg","protected":false,"public_metrics":{"followers_count":9056,"following_count":354,"tweet_count":12140,"listed_count":26,"like_count":7182,"media_count":1494},"url":"https://t.co/r6ojtqN78M","username":"PaitangOfficial","verified":false},{"created_at":"2022-07-27T10:25:26.000Z","description":"是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/诗歌/日本語-Deutsch-Français-Español/互关慎重/@Yesmynamehaer1","entities":{"description":{"mentions":[{"start":102,"end":117,"username":"Yesmynamehaer1"}]}},"id":"1552238688590958592","location":"Funabashi-shi, Chiba","name":"焦糖蘋果醬配奶油麵包片 u･ω･u","pinned_tweet_id":"1899894438404776248","profile_image_url":"https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg","protected":false,"public_metrics":{"followers_count":815,"following_count":2204,"tweet_count":3236,"listed_count":0,"like_count":8999,"media_count":540},"username":"Coccus_Swamer","verified":true}],"tweets":[{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1917902654627606871","created_at":"2025-05-02T04:45:51.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-05-02T05:45:51.000Z"},"edit_history_tweet_ids":["1918165012687851875"],"entities":{"mentions":[{"start":0,"end":16,"username":"PaitangOfficial","id":"1272405078683430913"},{"start":17,"end":31,"username":"Coccus_Swamer","id":"1552238688590958592"}]},"geo":{},"id":"1918165012687851875","in_reply_to_user_id":"1272405078683430913","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1918162173236256817"}],"reply_settings":"everyone","text":"@PaitangOfficial @Coccus_Swamer 凶就凶一点了🥺忙我也能理解，可是讲东答西只会浪费双方的时间啊，大家都想快点解决问题不是吗"},{"article":{},"attachments":{},"author_id":"1272405078683430913","conversation_id":"1917902654627606871","created_at":"2025-05-02T04:34:34.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-05-02T05:34:34.000Z"},"edit_history_tweet_ids":["1918162173236256817"],"entities":{"mentions":[{"start":0,"end":16,"username":"AnIncandescence","id":"1741993395910811648"},{"start":17,"end":31,"username":"Coccus_Swamer","id":"1552238688590958592"}]},"geo":{},"id":"1918162173236256817","in_reply_to_user_id":"1741993395910811648","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":1,"like_count":2,"quote_count":0,"bookmark_count":0,"impression_count":19},"referenced_tweets":[{"type":"replied_to","id":"1918161726895198300"}],"reply_settings":"everyone","text":"@AnIncandescence @Coccus_Swamer 人家一天打那么多电话，那么多客户 没办法的我可以共情他们我我以前送过外卖，一天服务几百个人一天一两百块钱 真没有那个耐心\n\n实在不行顺丰 京东\n\n或者和某人买个驿站 就不会了"}]}}
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741993395910811648",
+    "conversation_id": "1917902654627606871",
+    "created_at": "2025-05-02T04:45:51.000Z",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2025-05-02T05:45:51.000Z"
+    },
+    "edit_history_tweet_ids": [
+      "1918165012687851875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 16,
+          "username": "PaitangOfficial",
+          "id": "1272405078683430913"
+        },
+        {
+          "start": 17,
+          "end": 31,
+          "username": "Coccus_Swamer",
+          "id": "1552238688590958592"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918165012687851875",
+    "in_reply_to_user_id": "1272405078683430913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1918162173236256817"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PaitangOfficial @Coccus_Swamer 凶就凶一点了🥺忙我也能理解，可是讲东答西只会浪费双方的时间啊，大家都想快点解决问题不是吗"
+  },
+  "includes": {
+    "users": [
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，C#，波粒二象性。不断寻找着广播塔的星际候鸟。 | 求式性 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/MuEKSg4tIS",
+                "expanded_url": "https://ngl.link/anincandescence",
+                "display_url": "ngl.link/anincandescence"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "0°00′N 260°00′E Mars",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "1905895186867400960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789433740277567488/d3KhwUX1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 888,
+          "following_count": 186,
+          "tweet_count": 2627,
+          "listed_count": 2,
+          "like_count": 7250,
+          "media_count": 529
+        },
+        "url": "https://t.co/MuEKSg4tIS",
+        "username": "AnIncandescence",
+        "verified": true
+      },
+      {
+        "created_at": "2020-06-15T05:46:41.000Z",
+        "description": "生物黑客/促智药 （nootropics）发烧/神经科学 精神药理学习中/娱乐用药反对/不择手段的自我提升/睡眠科学狂热研究中/抗衰研究中/重度ADHD+阿斯伯格/TO级创造力者/化学物理白痴/极端的营养食物和补剂/博弈论&逻辑学 擅长/科学主义者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/r6ojtqN78M",
+                "expanded_url": "https://t.me/paitangcuzhi",
+                "display_url": "t.me/paitangcuzhi"
+              }
+            ]
+          }
+        },
+        "id": "1272405078683430913",
+        "location": "一个ADHD、从事逆转衰老、认知提升剂研发",
+        "name": "☯️🧬無極",
+        "pinned_tweet_id": "1917519795584446560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917519720225394688/2jVCu-Iq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9056,
+          "following_count": 354,
+          "tweet_count": 12140,
+          "listed_count": 26,
+          "like_count": 7182,
+          "media_count": 1494
+        },
+        "url": "https://t.co/r6ojtqN78M",
+        "username": "PaitangOfficial",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/诗歌/日本語-Deutsch-Français-Español/互关慎重/@Yesmynamehaer1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "start": 102,
+                "end": 117,
+                "username": "Yesmynamehaer1"
+              }
+            ]
+          }
+        },
+        "id": "1552238688590958592",
+        "location": "Funabashi-shi, Chiba",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1899894438404776248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 815,
+          "following_count": 2204,
+          "tweet_count": 3236,
+          "listed_count": 0,
+          "like_count": 8999,
+          "media_count": 540
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741993395910811648",
+        "conversation_id": "1917902654627606871",
+        "created_at": "2025-05-02T04:45:51.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2025-05-02T05:45:51.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1918165012687851875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 16,
+              "username": "PaitangOfficial",
+              "id": "1272405078683430913"
+            },
+            {
+              "start": 17,
+              "end": 31,
+              "username": "Coccus_Swamer",
+              "id": "1552238688590958592"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918165012687851875",
+        "in_reply_to_user_id": "1272405078683430913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1918162173236256817"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PaitangOfficial @Coccus_Swamer 凶就凶一点了🥺忙我也能理解，可是讲东答西只会浪费双方的时间啊，大家都想快点解决问题不是吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1272405078683430913",
+        "conversation_id": "1917902654627606871",
+        "created_at": "2025-05-02T04:34:34.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2025-05-02T05:34:34.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1918162173236256817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 16,
+              "username": "AnIncandescence",
+              "id": "1741993395910811648"
+            },
+            {
+              "start": 17,
+              "end": 31,
+              "username": "Coccus_Swamer",
+              "id": "1552238688590958592"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918162173236256817",
+        "in_reply_to_user_id": "1741993395910811648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 2,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1918161726895198300"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnIncandescence @Coccus_Swamer 人家一天打那么多电话，那么多客户 没办法的我可以共情他们我我以前送过外卖，一天服务几百个人一天一两百块钱 真没有那个耐心\n\n实在不行顺丰 京东\n\n或者和某人买个驿站 就不会了"
+      }
+    ]
+  },
+  "_pale_fire": {
+    "x_api_reply_chains": {
+      "1918161726895198300": {
+        "version": 1,
+        "fetched_at": "2026-04-18T00:14:58Z",
+        "max_depth": 63,
+        "posts": [
+          {
+            "id": "1918161726895198300",
+            "source": "local_json",
+            "payload": {
+              "data": {
+                "article": {},
+                "attachments": {},
+                "author_id": "1741993395910811648",
+                "conversation_id": "1917902654627606871",
+                "created_at": "2025-05-02T04:32:48.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2025-05-02T05:32:48.000Z"
+                },
+                "edit_history_tweet_ids": [
+                  "1918161726895198300"
+                ],
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 0,
+                      "end": 14,
+                      "username": "Coccus_Swamer",
+                      "id": "1552238688590958592"
+                    }
+                  ]
+                },
+                "geo": {},
+                "id": "1918161726895198300",
+                "in_reply_to_user_id": "1552238688590958592",
+                "lang": "zh",
+                "note_tweet": {
+                  "entities": {}
+                },
+                "possibly_sensitive": false,
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 0
+                },
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "1917902654627606871"
+                  }
+                ],
+                "reply_settings": "everyone",
+                "text": "@Coccus_Swamer 而且除了凶还有些沟通效率特别低。。跨服聊天一样"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "created_at": "2024-01-02T01:22:57.000Z",
+                    "description": "猫，诗歌，精神动力学。艺术，C#，波粒二象性。不断寻找着广播塔的星际候鸟。 | 求式性 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/MuEKSg4tIS",
+                            "expanded_url": "https://ngl.link/anincandescence",
+                            "display_url": "ngl.link/anincandescence"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1741993395910811648",
+                    "location": "0°00′N 260°00′E Mars",
+                    "name": "炽烈已极",
+                    "pinned_tweet_id": "1905895186867400960",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1789433740277567488/d3KhwUX1_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 888,
+                      "following_count": 185,
+                      "tweet_count": 2624,
+                      "listed_count": 2,
+                      "like_count": 7239,
+                      "media_count": 529
+                    },
+                    "url": "https://t.co/MuEKSg4tIS",
+                    "username": "AnIncandescence",
+                    "verified": true
+                  },
+                  {
+                    "created_at": "2022-07-27T10:25:26.000Z",
+                    "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/诗歌/日本語-Deutsch-Français-Español/互关慎重/@Yesmynamehaer1",
+                    "entities": {
+                      "description": {
+                        "mentions": [
+                          {
+                            "start": 102,
+                            "end": 117,
+                            "username": "Yesmynamehaer1"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1552238688590958592",
+                    "location": "Funabashi-shi, Chiba",
+                    "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+                    "pinned_tweet_id": "1899894438404776248",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 815,
+                      "following_count": 2204,
+                      "tweet_count": 3236,
+                      "listed_count": 0,
+                      "like_count": 8997,
+                      "media_count": 540
+                    },
+                    "username": "Coccus_Swamer",
+                    "verified": true
+                  }
+                ],
+                "tweets": [
+                  {
+                    "article": {},
+                    "attachments": {},
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "1917902654627606871",
+                    "created_at": "2025-05-02T04:32:48.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2025-05-02T05:32:48.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "1918161726895198300"
+                    ],
+                    "entities": {
+                      "mentions": [
+                        {
+                          "start": 0,
+                          "end": 14,
+                          "username": "Coccus_Swamer",
+                          "id": "1552238688590958592"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "1918161726895198300",
+                    "in_reply_to_user_id": "1552238688590958592",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 0,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 0
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "1917902654627606871"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "@Coccus_Swamer 而且除了凶还有些沟通效率特别低。。跨服聊天一样"
+                  },
+                  {
+                    "article": {},
+                    "attachments": {},
+                    "author_id": "1552238688590958592",
+                    "conversation_id": "1917902654627606871",
+                    "created_at": "2025-05-01T11:23:20.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2025-05-01T12:23:20.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "1917902654627606871"
+                    ],
+                    "entities": {},
+                    "geo": {},
+                    "id": "1917902654627606871",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 3,
+                      "like_count": 11,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 203
+                    },
+                    "reply_settings": "everyone",
+                    "text": "和快递员说话好困难，，，感觉每个人都凶凶的，，，"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "1917902654627606871",
+            "source": "local_json",
+            "payload": {
+              "data": {
+                "article": {},
+                "attachments": {},
+                "author_id": "1741993395910811648",
+                "conversation_id": "1917902654627606871",
+                "created_at": "2025-05-02T04:32:48.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2025-05-02T05:32:48.000Z"
+                },
+                "edit_history_tweet_ids": [
+                  "1918161726895198300"
+                ],
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 0,
+                      "end": 14,
+                      "username": "Coccus_Swamer",
+                      "id": "1552238688590958592"
+                    }
+                  ]
+                },
+                "geo": {},
+                "id": "1918161726895198300",
+                "in_reply_to_user_id": "1552238688590958592",
+                "lang": "zh",
+                "note_tweet": {
+                  "entities": {}
+                },
+                "possibly_sensitive": false,
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 0
+                },
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "1917902654627606871"
+                  }
+                ],
+                "reply_settings": "everyone",
+                "text": "@Coccus_Swamer 而且除了凶还有些沟通效率特别低。。跨服聊天一样"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "created_at": "2024-01-02T01:22:57.000Z",
+                    "description": "猫，诗歌，精神动力学。艺术，C#，波粒二象性。不断寻找着广播塔的星际候鸟。 | 求式性 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/MuEKSg4tIS",
+                            "expanded_url": "https://ngl.link/anincandescence",
+                            "display_url": "ngl.link/anincandescence"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1741993395910811648",
+                    "location": "0°00′N 260°00′E Mars",
+                    "name": "炽烈已极",
+                    "pinned_tweet_id": "1905895186867400960",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1789433740277567488/d3KhwUX1_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 888,
+                      "following_count": 185,
+                      "tweet_count": 2624,
+                      "listed_count": 2,
+                      "like_count": 7239,
+                      "media_count": 529
+                    },
+                    "url": "https://t.co/MuEKSg4tIS",
+                    "username": "AnIncandescence",
+                    "verified": true
+                  },
+                  {
+                    "created_at": "2022-07-27T10:25:26.000Z",
+                    "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/诗歌/日本語-Deutsch-Français-Español/互关慎重/@Yesmynamehaer1",
+                    "entities": {
+                      "description": {
+                        "mentions": [
+                          {
+                            "start": 102,
+                            "end": 117,
+                            "username": "Yesmynamehaer1"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1552238688590958592",
+                    "location": "Funabashi-shi, Chiba",
+                    "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+                    "pinned_tweet_id": "1899894438404776248",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 815,
+                      "following_count": 2204,
+                      "tweet_count": 3236,
+                      "listed_count": 0,
+                      "like_count": 8997,
+                      "media_count": 540
+                    },
+                    "username": "Coccus_Swamer",
+                    "verified": true
+                  }
+                ],
+                "tweets": [
+                  {
+                    "article": {},
+                    "attachments": {},
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "1917902654627606871",
+                    "created_at": "2025-05-02T04:32:48.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2025-05-02T05:32:48.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "1918161726895198300"
+                    ],
+                    "entities": {
+                      "mentions": [
+                        {
+                          "start": 0,
+                          "end": 14,
+                          "username": "Coccus_Swamer",
+                          "id": "1552238688590958592"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "1918161726895198300",
+                    "in_reply_to_user_id": "1552238688590958592",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 0,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 0
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "1917902654627606871"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "@Coccus_Swamer 而且除了凶还有些沟通效率特别低。。跨服聊天一样"
+                  },
+                  {
+                    "article": {},
+                    "attachments": {},
+                    "author_id": "1552238688590958592",
+                    "conversation_id": "1917902654627606871",
+                    "created_at": "2025-05-01T11:23:20.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2025-05-01T12:23:20.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "1917902654627606871"
+                    ],
+                    "entities": {},
+                    "geo": {},
+                    "id": "1917902654627606871",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 3,
+                      "like_count": 11,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 203
+                    },
+                    "reply_settings": "everyone",
+                    "text": "和快递员说话好困难，，，感觉每个人都凶凶的，，，"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

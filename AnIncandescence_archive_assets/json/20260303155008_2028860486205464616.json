@@ -1,1 +1,462 @@
-{"data":{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"2028839123801587746","created_at":"2026-03-03T15:50:08.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2026-03-03T16:50:08.000Z"},"edit_history_tweet_ids":["2028860486205464616"],"entities":{"mentions":[{"start":0,"end":12,"username":"386Nsg47079","id":"1744320870800379904"}]},"geo":{},"id":"2028860486205464616","in_reply_to_user_id":"1744320870800379904","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"2028860255661388230"}],"reply_settings":"everyone","text":"@386Nsg47079 啊…有人离开了吗？"},"includes":{"media":[{"height":215,"media_key":"3_2028856824393564161","public_metrics":{},"type":"photo","url":"https://pbs.twimg.com/media/HCfyiE4bAAEl_Ro.png","width":1408}],"users":[{"created_at":"2024-01-02T01:22:57.000Z","description":"猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 倒影@TauCeti_10700 计划这个号机的浓度更高一些 | 🚪88/158","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/iO6MRJNTYR","expanded_url":"https://ngl.link/anincandescence1","display_url":"ngl.link/anincandescenc…"}]},"description":{"mentions":[{"start":62,"end":76,"username":"TauCeti_10700"}]}},"id":"1741993395910811648","location":"天鹅座X-1 //⬇️ 匿名提问箱","name":"炽烈已极","pinned_tweet_id":"2024076888923365667","profile_image_url":"https://pbs.twimg.com/profile_images/2027047460930023425/YHzQxhYF_normal.jpg","protected":false,"public_metrics":{"followers_count":1752,"following_count":235,"tweet_count":6180,"listed_count":5,"like_count":14862,"media_count":1105},"url":"https://t.co/iO6MRJNTYR","username":"AnIncandescence","verified":false},{"created_at":"2024-01-08T11:31:57.000Z","description":"这个家伙是个电子👻。\n互fo私信就可以了喔。","id":"1744320870800379904","name":"Prisetta","pinned_tweet_id":"1918543024587768099","profile_image_url":"https://pbs.twimg.com/profile_images/1958095597841641472/XjO-tOy8_normal.jpg","protected":false,"public_metrics":{"followers_count":207,"following_count":197,"tweet_count":1302,"listed_count":2,"like_count":987,"media_count":163},"username":"386Nsg47079","verified":false}],"tweets":[{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"2028839123801587746","created_at":"2026-03-03T15:50:08.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2026-03-03T16:50:08.000Z"},"edit_history_tweet_ids":["2028860486205464616"],"entities":{"mentions":[{"start":0,"end":12,"username":"386Nsg47079","id":"1744320870800379904"}]},"geo":{},"id":"2028860486205464616","in_reply_to_user_id":"1744320870800379904","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"2028860255661388230"}],"reply_settings":"everyone","text":"@386Nsg47079 啊…有人离开了吗？"},{"article":{},"attachments":{"media_keys":["3_2028856824393564161"]},"author_id":"1744320870800379904","conversation_id":"2028839123801587746","created_at":"2026-03-03T15:49:14.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2026-03-03T16:49:14.000Z"},"edit_history_tweet_ids":["2028860255661388230"],"entities":{"mentions":[{"start":0,"end":16,"username":"AnIncandescence","id":"1741993395910811648"}],"urls":[{"start":100,"end":123,"url":"https://t.co/kOcXecNmd4","expanded_url":"https://x.com/386Nsg47079/status/2028860255661388230/photo/1","display_url":"pic.x.com/kOcXecNmd4","media_key":"3_2028856824393564161"}]},"geo":{},"id":"2028860255661388230","in_reply_to_user_id":"1741993395910811648","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":1,"like_count":1,"quote_count":0,"bookmark_count":0,"impression_count":1},"referenced_tweets":[{"type":"replied_to","id":"2028839123801587746"}],"reply_settings":"everyone","text":"@AnIncandescence 生命确实不是在任何情况下都是有价值的。设想一种大多数人都认为是负效用的生存处境并不困难。然而，生命的一部分价值终归是私人的，理由应当取决于你自己，请自己回应迷惘吧。 https://t.co/kOcXecNmd4"}]}}
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741993395910811648",
+    "conversation_id": "2028839123801587746",
+    "created_at": "2026-03-03T15:50:08.000Z",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2026-03-03T16:50:08.000Z"
+    },
+    "edit_history_tweet_ids": [
+      "2028860486205464616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 12,
+          "username": "386Nsg47079",
+          "id": "1744320870800379904"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028860486205464616",
+    "in_reply_to_user_id": "1744320870800379904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "2028860255661388230"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@386Nsg47079 啊…有人离开了吗？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 215,
+        "media_key": "3_2028856824393564161",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCfyiE4bAAEl_Ro.png",
+        "width": 1408
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 倒影@TauCeti_10700 计划这个号机的浓度更高一些 | 🚪88/158",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/iO6MRJNTYR",
+                "expanded_url": "https://ngl.link/anincandescence1",
+                "display_url": "ngl.link/anincandescenc…"
+              }
+            ]
+          },
+          "description": {
+            "mentions": [
+              {
+                "start": 62,
+                "end": 76,
+                "username": "TauCeti_10700"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "天鹅座X-1 //⬇️ 匿名提问箱",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "2024076888923365667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027047460930023425/YHzQxhYF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1752,
+          "following_count": 235,
+          "tweet_count": 6180,
+          "listed_count": 5,
+          "like_count": 14862,
+          "media_count": 1105
+        },
+        "url": "https://t.co/iO6MRJNTYR",
+        "username": "AnIncandescence",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-08T11:31:57.000Z",
+        "description": "这个家伙是个电子👻。\n互fo私信就可以了喔。",
+        "id": "1744320870800379904",
+        "name": "Prisetta",
+        "pinned_tweet_id": "1918543024587768099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958095597841641472/XjO-tOy8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 197,
+          "tweet_count": 1302,
+          "listed_count": 2,
+          "like_count": 987,
+          "media_count": 163
+        },
+        "username": "386Nsg47079",
+        "verified": false
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741993395910811648",
+        "conversation_id": "2028839123801587746",
+        "created_at": "2026-03-03T15:50:08.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2026-03-03T16:50:08.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "2028860486205464616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 12,
+              "username": "386Nsg47079",
+              "id": "1744320870800379904"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028860486205464616",
+        "in_reply_to_user_id": "1744320870800379904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "2028860255661388230"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@386Nsg47079 啊…有人离开了吗？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028856824393564161"
+          ]
+        },
+        "author_id": "1744320870800379904",
+        "conversation_id": "2028839123801587746",
+        "created_at": "2026-03-03T15:49:14.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2026-03-03T16:49:14.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "2028860255661388230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 16,
+              "username": "AnIncandescence",
+              "id": "1741993395910811648"
+            }
+          ],
+          "urls": [
+            {
+              "start": 100,
+              "end": 123,
+              "url": "https://t.co/kOcXecNmd4",
+              "expanded_url": "https://x.com/386Nsg47079/status/2028860255661388230/photo/1",
+              "display_url": "pic.x.com/kOcXecNmd4",
+              "media_key": "3_2028856824393564161"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028860255661388230",
+        "in_reply_to_user_id": "1741993395910811648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "2028839123801587746"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnIncandescence 生命确实不是在任何情况下都是有价值的。设想一种大多数人都认为是负效用的生存处境并不困难。然而，生命的一部分价值终归是私人的，理由应当取决于你自己，请自己回应迷惘吧。 https://t.co/kOcXecNmd4"
+      }
+    ]
+  },
+  "_pale_fire": {
+    "x_api_reply_chains": {
+      "2028839123801587746": {
+        "version": 1,
+        "fetched_at": "2026-04-18T01:32:36Z",
+        "max_depth": 63,
+        "posts": [
+          {
+            "id": "2028839123801587746",
+            "source": "local_json",
+            "payload": {
+              "data": {
+                "article": {},
+                "attachments": {},
+                "author_id": "1741993395910811648",
+                "conversation_id": "2028839123801587746",
+                "created_at": "2026-03-03T14:28:52.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2026-03-03T15:28:52.000Z"
+                },
+                "edit_history_tweet_ids": [
+                  "2028840031000125722"
+                ],
+                "entities": {},
+                "geo": {},
+                "id": "2028840031000125722",
+                "in_reply_to_user_id": "1741993395910811648",
+                "lang": "zh",
+                "note_tweet": {
+                  "entities": {}
+                },
+                "possibly_sensitive": false,
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 0
+                },
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "2028839123801587746"
+                  }
+                ],
+                "reply_settings": "everyone",
+                "text": "疾病。躯体和精神的症状交织在一起，解不开的死结。可以预见的是就算我活下来了这片阴云，越来越长的病名列表也会笼罩我的余生"
+              },
+              "includes": {
+                "media": [
+                  {
+                    "height": 1091,
+                    "media_key": "3_2028839098174320640",
+                    "public_metrics": {},
+                    "type": "photo",
+                    "url": "https://pbs.twimg.com/media/HCfiaRkasAAO0Ia.jpg",
+                    "width": 1576
+                  },
+                  {
+                    "height": 3072,
+                    "media_key": "3_2028839098170175488",
+                    "public_metrics": {},
+                    "type": "photo",
+                    "url": "https://pbs.twimg.com/media/HCfiaRjbcAAJ6ud.jpg",
+                    "width": 4096
+                  }
+                ],
+                "users": [
+                  {
+                    "created_at": "2024-01-02T01:22:57.000Z",
+                    "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 倒影@TauCeti_10700 计划这个号机的浓度更高一些 | 🚪88/158",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/iO6MRJNTYR",
+                            "expanded_url": "https://ngl.link/anincandescence1",
+                            "display_url": "ngl.link/anincandescenc…"
+                          }
+                        ]
+                      },
+                      "description": {
+                        "mentions": [
+                          {
+                            "start": 62,
+                            "end": 76,
+                            "username": "TauCeti_10700"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1741993395910811648",
+                    "location": "天鹅座X-1 //⬇️ 匿名提问箱",
+                    "name": "炽烈已极",
+                    "pinned_tweet_id": "2024076888923365667",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2027047460930023425/YHzQxhYF_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 1752,
+                      "following_count": 235,
+                      "tweet_count": 6175,
+                      "listed_count": 5,
+                      "like_count": 14855,
+                      "media_count": 1105
+                    },
+                    "url": "https://t.co/iO6MRJNTYR",
+                    "username": "AnIncandescence",
+                    "verified": false
+                  }
+                ],
+                "tweets": [
+                  {
+                    "article": {},
+                    "attachments": {},
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "2028839123801587746",
+                    "created_at": "2026-03-03T14:28:52.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2026-03-03T15:28:52.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "2028840031000125722"
+                    ],
+                    "entities": {},
+                    "geo": {},
+                    "id": "2028840031000125722",
+                    "in_reply_to_user_id": "1741993395910811648",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 0,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 0
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "2028839123801587746"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "疾病。躯体和精神的症状交织在一起，解不开的死结。可以预见的是就算我活下来了这片阴云，越来越长的病名列表也会笼罩我的余生"
+                  },
+                  {
+                    "article": {},
+                    "attachments": {
+                      "media_keys": [
+                        "3_2028839098174320640",
+                        "3_2028839098170175488"
+                      ]
+                    },
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "2028839123801587746",
+                    "created_at": "2026-03-03T14:25:15.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2026-03-03T15:25:15.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "2028839123801587746"
+                    ],
+                    "entities": {
+                      "urls": [
+                        {
+                          "start": 145,
+                          "end": 168,
+                          "url": "https://t.co/aBYikEDvqG",
+                          "expanded_url": "https://x.com/AnIncandescence/status/2028839123801587746/photo/1",
+                          "display_url": "pic.x.com/aBYikEDvqG",
+                          "media_key": "3_2028839098174320640"
+                        },
+                        {
+                          "start": 145,
+                          "end": 168,
+                          "url": "https://t.co/aBYikEDvqG",
+                          "expanded_url": "https://x.com/AnIncandescence/status/2028839123801587746/photo/1",
+                          "display_url": "pic.x.com/aBYikEDvqG",
+                          "media_key": "3_2028839098170175488"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "2028839123801587746",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 1,
+                      "like_count": 2,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 36
+                    },
+                    "reply_settings": "everyone",
+                    "text": "地狱难度…救救我TT\n\n目前好像还没有找到能治好的办法，脊椎的疼痛和内异症的都是。有一个关键字为血小板的治疗3k一针…不知道要做多少次，而且似乎也不确定效果\n\n开了住院的单子但是还没决定要不要去。好想放弃啊…明明这样更轻松，坚持下去的理由到底是什么根本想不出来，为什么大家都说活着是正确的 https://t.co/aBYikEDvqG"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

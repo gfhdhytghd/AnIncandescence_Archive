@@ -2,17 +2,6 @@
 (() => {
   const TWEET_FILTERS = [
     {
-      key: "reply",
-      label: "隐藏回复帖",
-      storageKey: `${getArchiveStorageNamespace()}-hide-replies`,
-      predicate: (tweet, firstSegment) => {
-        const meta = tweet.dataset.isReply;
-        if (meta === "true") return true;
-        if (meta === "false") return false;
-        return /^@\S+/.test(firstSegment);
-      },
-    },
-    {
       key: "repost",
       label: "隐藏转贴",
       storageKey: `${getArchiveStorageNamespace()}-hide-reposts`,
@@ -25,12 +14,102 @@
     },
   ];
 
-  setupTweetFilters();
+  const allTweets = Array.from(document.querySelectorAll(".tweet"));
+  if (!allTweets.length) return;
 
-  function setupTweetFilters() {
-    const tweets = Array.from(document.querySelectorAll(".tweet"));
-    if (!tweets.length) return;
+  const controls = document.createElement("div");
+  controls.className = "archive-controls";
 
+  const stickyBar = document.createElement("div");
+  stickyBar.className = "archive-sticky-bar";
+
+  setupArchiveTabs(allTweets, stickyBar);
+  setupTweetFilters(allTweets, controls);
+  setupCommentExpansion(allTweets, controls);
+  setupReplyChainExpansion(allTweets, controls);
+  if (controls.children.length) stickyBar.appendChild(controls);
+
+  const header = document.querySelector(".archive-header");
+  const shell = document.querySelector(".archive-shell");
+  if (header) header.hidden = true;
+  if (shell && stickyBar.children.length) {
+    if (header?.parentNode === shell) {
+      shell.insertBefore(stickyBar, header.nextSibling);
+    } else {
+      shell.insertBefore(stickyBar, shell.firstChild);
+    }
+  }
+
+  setupDetailPanel();
+
+  function setupArchiveTabs(tweets, container) {
+    const tabKey = `${getArchiveStorageNamespace()}-archive-tab`;
+    const posts = tweets.filter((t) => t.dataset.isReply !== "true");
+    const replies = tweets.filter((t) => t.dataset.isReply === "true");
+    if (!replies.length) return;
+
+    const tabBar = document.createElement("div");
+    tabBar.className = "archive-tabs";
+    tabBar.innerHTML =
+      `<button class="archive-tab active" data-archive-tab="posts">` +
+      `帖子<span class="archive-tab-meta">${posts.length}</span></button>` +
+    `<button class="archive-tab" data-archive-tab="replies">` +
+      `回复<span class="archive-tab-meta">${replies.length}</span></button>`;
+
+    container.appendChild(tabBar);
+
+    const tabButtons = Array.from(tabBar.querySelectorAll(".archive-tab"));
+    const scrollPositions = { posts: 0, replies: 0 };
+    let currentTab = "posts";
+
+    const saved = readTabState(tabKey);
+    if (saved && saved !== "posts") {
+      activateTab(saved, true);
+    }
+
+    tabButtons.forEach((btn) => {
+      btn.addEventListener("click", () => activateTab(btn.dataset.archiveTab, false));
+    });
+
+    function activateTab(name, isInit) {
+      if (!isInit) scrollPositions[currentTab] = window.scrollY;
+      currentTab = name;
+      tabButtons.forEach((b) => b.classList.toggle("active", b.dataset.archiveTab === name));
+      writeTabState(tabKey, name);
+      tweets.forEach((tweet) => {
+        const isReply = tweet.dataset.isReply === "true";
+        const isRepost = tweet.classList.contains("tweet-is-repost");
+        const hiddenByFilter = isRepost && (document.querySelector("[data-filter-key=\"repost\"]")?.checked || false);
+        if (hiddenByFilter) {
+          tweet.hidden = true;
+        } else if (name === "posts") {
+          tweet.hidden = isReply;
+        } else {
+          tweet.hidden = !isReply;
+        }
+      });
+      if (!isInit) window.scrollTo(0, scrollPositions[name]);
+    }
+
+    function readTabState(key) {
+      try { return window.localStorage.getItem(key) || "posts"; } catch { return "posts"; }
+    }
+    function writeTabState(key, value) {
+      try { window.localStorage.setItem(key, value); } catch {}
+    }
+
+    // Expose for coordination with filters
+    window._archiveActiveTab = () => {
+      const active = tabBar.querySelector(".archive-tab.active");
+      return active ? active.dataset.archiveTab : "posts";
+    };
+    window._archiveRefreshTab = () => {
+      const active = tabBar.querySelector(".archive-tab.active");
+      if (active) activateTab(active.dataset.archiveTab, true);
+    };
+  }
+
+  function setupTweetFilters(tweets, ctrls) {
     const classifiedFilters = TWEET_FILTERS.map((filter) => ({ ...filter, tweets: [] }));
 
     tweets.forEach((tweet) => {
@@ -39,50 +118,207 @@
       classifiedFilters.forEach((filter) => {
         const matches = filter.predicate(tweet, firstSegment);
         tweet.classList.toggle(`tweet-is-${filter.key}`, matches);
-        if (matches) {
-          filter.tweets.push(tweet);
-        }
+        if (matches) filter.tweets.push(tweet);
       });
     });
 
-    const activeFilters = classifiedFilters.filter((filter) => filter.tweets.length);
+    const activeFilters = classifiedFilters.filter((f) => f.tweets.length);
     if (!activeFilters.length) return;
 
-    const controls = document.createElement("div");
-    controls.className = "archive-controls";
-    controls.innerHTML = activeFilters
-      .map(
-        (filter) => `
-          <label class="archive-toggle">
-            <input class="archive-toggle-input" type="checkbox" data-filter-key="${filter.key}" />
-            <span class="archive-toggle-switch" aria-hidden="true"></span>
-            <span class="archive-toggle-label">${filter.label}</span>
-            <span class="archive-toggle-meta">${filter.tweets.length} / ${tweets.length}</span>
-          </label>
-        `,
-      )
-      .join("");
-
-    const intro = document.querySelector(".archive-subtitle");
-    const shell = document.querySelector(".archive-shell");
-    if (!shell) return;
-    if (intro?.parentNode === shell) {
-      shell.insertBefore(controls, intro.nextSibling);
-    } else {
-      shell.insertBefore(controls, shell.firstChild);
-    }
-
     activeFilters.forEach((filter) => {
-      const checkbox = controls.querySelector(`[data-filter-key="${filter.key}"]`);
-      if (!checkbox) return;
+      const label = document.createElement("label");
+      label.className = "archive-toggle";
+      label.innerHTML =
+        `<input class="archive-toggle-input" type="checkbox" data-filter-key="${filter.key}"/>` +
+        `<span class="archive-toggle-switch" aria-hidden="true"></span>` +
+        `<span class="archive-toggle-label">${filter.label}</span>`;
+      ctrls.appendChild(label);
+
+      const checkbox = label.querySelector("input");
       checkbox.checked = readFilterState(filter.storageKey);
       checkbox.addEventListener("change", () => {
         writeFilterState(filter.storageKey, checkbox.checked);
-        applyTweetFilters(tweets, activeFilters, controls);
+        applyTweetFilters(tweets, activeFilters, ctrls);
       });
     });
 
-    applyTweetFilters(tweets, activeFilters, controls);
+    applyTweetFilters(tweets, activeFilters, ctrls);
+  }
+
+  function setupCommentExpansion(tweets, ctrls) {
+    const expandKey = `${getArchiveStorageNamespace()}-default-expand-comments`;
+    const tweetsWithComments = tweets.filter((t) => t.querySelector(".tweet-comments"));
+    if (!tweetsWithComments.length) return;
+
+    const defaultExpand = readFilterState(expandKey);
+
+    // Global toggle
+    const toggle = document.createElement("label");
+    toggle.className = "archive-toggle";
+    toggle.innerHTML =
+      `<input class="archive-toggle-input" type="checkbox" data-filter-key="expand-comments"/>` +
+      `<span class="archive-toggle-switch" aria-hidden="true"></span>` +
+      `<span class="archive-toggle-label">默认展开评论</span>`;
+    ctrls.appendChild(toggle);
+
+    const globalCheckbox = toggle.querySelector("input");
+    globalCheckbox.checked = defaultExpand;
+    globalCheckbox.addEventListener("change", () => {
+      writeFilterState(expandKey, globalCheckbox.checked);
+      tweetsWithComments.forEach((tweet) => setCommentState(tweet, globalCheckbox.checked));
+    });
+
+    // Per-tweet buttons
+    tweetsWithComments.forEach((tweet) => {
+      setCommentState(tweet, defaultExpand);
+      const btn = tweet.querySelector(".tweet-expand-btn");
+      if (btn) {
+        btn.addEventListener("click", (e) => {
+          e.stopPropagation();
+          const comments = tweet.querySelector(".tweet-comments");
+          if (comments) setCommentState(tweet, comments.hidden);
+        });
+      }
+    });
+  }
+
+  function setCommentState(tweet, expanded) {
+    const comments = tweet.querySelector(".tweet-comments");
+    const btn = tweet.querySelector(".tweet-expand-btn");
+    if (comments) comments.hidden = !expanded;
+    if (btn) {
+      const count = btn.dataset.commentCount;
+      btn.textContent = expanded
+        ? `收起评论 (${count})`
+        : `展开评论 (${count})`;
+    }
+  }
+
+  function setupReplyChainExpansion(tweets, ctrls) {
+    const expandKey = `${getArchiveStorageNamespace()}-default-expand-reply-chain`;
+    const tweetsWithChain = tweets.filter((t) => t.querySelector(".tweet-reply-chain"));
+    if (!tweetsWithChain.length) return;
+
+    const defaultExpand = readFilterState(expandKey);
+
+    const toggle = document.createElement("label");
+    toggle.className = "archive-toggle";
+    toggle.innerHTML =
+      `<input class="archive-toggle-input" type="checkbox" data-filter-key="expand-reply-chain"/>` +
+      `<span class="archive-toggle-switch" aria-hidden="true"></span>` +
+      `<span class="archive-toggle-label">默认展开回复链</span>`;
+    ctrls.appendChild(toggle);
+
+    const globalCheckbox = toggle.querySelector("input");
+    globalCheckbox.checked = defaultExpand;
+    globalCheckbox.addEventListener("change", () => {
+      writeFilterState(expandKey, globalCheckbox.checked);
+      tweetsWithChain.forEach((tweet) => {
+        const chain = tweet.querySelector(".tweet-reply-chain");
+        if (chain) chain.open = globalCheckbox.checked;
+      });
+    });
+
+    tweetsWithChain.forEach((tweet) => {
+      const chain = tweet.querySelector(".tweet-reply-chain");
+      if (chain) chain.open = defaultExpand;
+    });
+  }
+
+  function setupDetailPanel() {
+    const panel = document.querySelector(".detail-panel");
+    if (!panel) return;
+    const backdrop = document.querySelector(".detail-panel-backdrop");
+    const closeBtn = panel.querySelector(".detail-panel-close");
+    const panelBody = panel.querySelector(".detail-panel-body");
+
+    document.querySelectorAll(".tweet").forEach((tweet) => {
+      tweet.addEventListener("click", (e) => {
+        if (e.target.closest("a, button, video, input, .lightbox")) return;
+        openPanel(tweet);
+      });
+    });
+
+    function openPanel(tweet) {
+      panelBody.innerHTML = "";
+
+      // Referenced / replied-to content (shown above post)
+      const replyChain = tweet.querySelector(".tweet-reply-chain");
+      if (replyChain) {
+        const ctx = document.createElement("div");
+        ctx.className = "detail-context";
+        const chainClone = replyChain.cloneNode(true);
+        chainClone.open = true;
+        ctx.appendChild(chainClone);
+        panelBody.appendChild(ctx);
+      }
+
+      // Post details (clone without comments, expand button, reply chain)
+      const clone = tweet.cloneNode(true);
+      const cd = clone.querySelector(".tweet-comments");
+      const eb = clone.querySelector(".tweet-expand-btn");
+      const rc = clone.querySelector(".tweet-reply-chain");
+      if (cd) cd.remove();
+      if (eb) eb.remove();
+      if (rc) rc.remove();
+      clone.removeAttribute("class");
+      clone.className = "detail-post";
+      panelBody.appendChild(clone);
+
+      // Comments (shown below post)
+      const comments = tweet.querySelector(".tweet-comments");
+      const commentCount = comments ? Number(comments.dataset.commentTotal || comments.children.length || 0) : 0;
+      if (comments && commentCount) {
+        const section = document.createElement("div");
+        section.className = "detail-comments";
+        section.innerHTML =
+          "<div class='detail-comments-header'>评论 (" + commentCount + ")</div>" +
+          comments.innerHTML +
+          "<p class='detail-note'>仅包含本地存档及已缓存回复链中可见的评论，并按父子回复关系嵌套显示</p>";
+        panelBody.appendChild(section);
+      }
+
+      panelBody.scrollTop = 0;
+      panel.classList.add("is-open");
+      if (backdrop) backdrop.hidden = false;
+      document.body.classList.add("detail-panel-open");
+    }
+
+    function closePanel() {
+      panel.classList.remove("is-open");
+      panelBody.innerHTML = "<p class='detail-empty'>点击帖子查看详情</p>";
+      if (backdrop) backdrop.hidden = true;
+      document.body.classList.remove("detail-panel-open");
+    }
+
+    if (backdrop) backdrop.addEventListener("click", closePanel);
+    if (closeBtn) closeBtn.addEventListener("click", closePanel);
+
+    document.addEventListener("keydown", (e) => {
+      if (e.key === "Escape" && panel.classList.contains("is-open")) closePanel();
+    });
+  }
+
+  function applyTweetFilters(tweets, filters, ctrls) {
+    const enabledFilters = new Set(
+      filters
+        .filter((f) => ctrls.querySelector(`[data-filter-key="${f.key}"]`)?.checked)
+        .map((f) => f.key),
+    );
+    const activeTab = window._archiveActiveTab ? window._archiveActiveTab() : null;
+    tweets.forEach((tweet) => {
+      const hiddenByFilter = filters.some(
+        (f) => enabledFilters.has(f.key) && tweet.classList.contains(`tweet-is-${f.key}`),
+      );
+      if (hiddenByFilter) {
+        tweet.hidden = true;
+      } else if (activeTab) {
+        const isReply = tweet.dataset.isReply === "true";
+        tweet.hidden = activeTab === "posts" ? isReply : !isReply;
+      } else {
+        tweet.hidden = false;
+      }
+    });
   }
 
   function getFirstSegmentText(body) {
@@ -91,21 +327,6 @@
     const scratch = document.createElement("div");
     scratch.innerHTML = firstSegmentHtml;
     return (scratch.textContent || "").trim();
-  }
-
-  function applyTweetFilters(tweets, filters, controls) {
-    const enabledFilters = new Set(
-      filters
-        .filter((filter) => controls.querySelector(`[data-filter-key="${filter.key}"]`)?.checked)
-        .map((filter) => filter.key),
-    );
-
-    tweets.forEach((tweet) => {
-      const shouldHide = filters.some(
-        (filter) => enabledFilters.has(filter.key) && tweet.classList.contains(`tweet-is-${filter.key}`),
-      );
-      tweet.hidden = shouldHide;
-    });
   }
 
   function getArchiveStorageNamespace() {

@@ -1,1 +1,1298 @@
-{"data":{"attachments":{},"author_id":"1741993395910811648","conversation_id":"1809540211421925599","created_at":"2024-07-12T18:07:01.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2024-07-12T19:07:01.000Z"},"edit_history_tweet_ids":["1811824601929838776"],"entities":{"mentions":[{"start":0,"end":12,"username":"CM739506479","id":"1593538581384994817"}]},"geo":{},"id":"1811824601929838776","in_reply_to_user_id":"1593538581384994817","lang":"zh","possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1811822982853198133"}],"reply_settings":"everyone","text":"@CM739506479 恩。。主要是我本身就吃snri，虽然还是想办法获取了反苯，考虑作增效备选吧"},"includes":{"users":[{"created_at":"2024-01-02T01:22:57.000Z","description":"猫，诗歌，精神动力学。艺术，C#，波粒二象性。回归曲线上的量子生物，无攻击性。","id":"1741993395910811648","location":"0°00′N 260°00′E Mars","name":"炽烈已极","pinned_tweet_id":"1809649123382948242","profile_image_url":"https://pbs.twimg.com/profile_images/1789433740277567488/d3KhwUX1_normal.jpg","protected":false,"public_metrics":{"followers_count":114,"following_count":86,"tweet_count":621,"listed_count":0,"like_count":1672},"username":"AnIncandescence","verified":false},{"created_at":"2022-11-18T09:36:27.000Z","description":"","id":"1593538581384994817","name":"陈铭","profile_image_url":"https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png","protected":false,"public_metrics":{"followers_count":10,"following_count":19,"tweet_count":14,"listed_count":0,"like_count":3},"username":"CM739506479","verified":false}],"tweets":[{"attachments":{},"author_id":"1741993395910811648","conversation_id":"1809540211421925599","created_at":"2024-07-12T18:07:01.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2024-07-12T19:07:01.000Z"},"edit_history_tweet_ids":["1811824601929838776"],"entities":{"mentions":[{"start":0,"end":12,"username":"CM739506479","id":"1593538581384994817"}]},"geo":{},"id":"1811824601929838776","in_reply_to_user_id":"1593538581384994817","lang":"zh","possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1811822982853198133"}],"reply_settings":"everyone","text":"@CM739506479 恩。。主要是我本身就吃snri，虽然还是想办法获取了反苯，考虑作增效备选吧"},{"attachments":{},"author_id":"1593538581384994817","conversation_id":"1809540211421925599","created_at":"2024-07-12T18:00:35.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2024-07-12T19:00:35.000Z"},"edit_history_tweet_ids":["1811822982853198133"],"entities":{"mentions":[{"start":0,"end":16,"username":"AnIncandescence","id":"1741993395910811648"}]},"geo":{},"id":"1811822982853198133","in_reply_to_user_id":"1741993395910811648","lang":"zh","possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":1,"like_count":1,"quote_count":0,"bookmark_count":0,"impression_count":9},"referenced_tweets":[{"type":"replied_to","id":"1811821525525275072"}],"reply_settings":"everyone","text":"@AnIncandescence 只要用对方法，几乎没有风险，酪胺反应，血清素综合征通通拿下。"}]}}
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1741993395910811648",
+    "conversation_id": "1809540211421925599",
+    "created_at": "2024-07-12T18:07:01.000Z",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-07-12T19:07:01.000Z"
+    },
+    "edit_history_tweet_ids": [
+      "1811824601929838776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 12,
+          "username": "CM739506479",
+          "id": "1593538581384994817"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1811824601929838776",
+    "in_reply_to_user_id": "1593538581384994817",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1811822982853198133"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CM739506479 恩。。主要是我本身就吃snri，虽然还是想办法获取了反苯，考虑作增效备选吧"
+  },
+  "includes": {
+    "users": [
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，C#，波粒二象性。回归曲线上的量子生物，无攻击性。",
+        "id": "1741993395910811648",
+        "location": "0°00′N 260°00′E Mars",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "1809649123382948242",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789433740277567488/d3KhwUX1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 86,
+          "tweet_count": 621,
+          "listed_count": 0,
+          "like_count": 1672
+        },
+        "username": "AnIncandescence",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-18T09:36:27.000Z",
+        "description": "",
+        "id": "1593538581384994817",
+        "name": "陈铭",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 19,
+          "tweet_count": 14,
+          "listed_count": 0,
+          "like_count": 3
+        },
+        "username": "CM739506479",
+        "verified": false
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1741993395910811648",
+        "conversation_id": "1809540211421925599",
+        "created_at": "2024-07-12T18:07:01.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2024-07-12T19:07:01.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1811824601929838776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 12,
+              "username": "CM739506479",
+              "id": "1593538581384994817"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811824601929838776",
+        "in_reply_to_user_id": "1593538581384994817",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1811822982853198133"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CM739506479 恩。。主要是我本身就吃snri，虽然还是想办法获取了反苯，考虑作增效备选吧"
+      },
+      {
+        "attachments": {},
+        "author_id": "1593538581384994817",
+        "conversation_id": "1809540211421925599",
+        "created_at": "2024-07-12T18:00:35.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2024-07-12T19:00:35.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1811822982853198133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 16,
+              "username": "AnIncandescence",
+              "id": "1741993395910811648"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811822982853198133",
+        "in_reply_to_user_id": "1741993395910811648",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1811821525525275072"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnIncandescence 只要用对方法，几乎没有风险，酪胺反应，血清素综合征通通拿下。"
+      }
+    ]
+  },
+  "_pale_fire": {
+    "x_api_reply_chains": {
+      "1811821525525275072": {
+        "version": 1,
+        "fetched_at": "2026-04-17T23:57:02Z",
+        "max_depth": 63,
+        "posts": [
+          {
+            "id": "1811821525525275072",
+            "source": "local_json",
+            "payload": {
+              "data": {
+                "attachments": {},
+                "author_id": "1741993395910811648",
+                "conversation_id": "1809540211421925599",
+                "created_at": "2024-07-12T17:54:48.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2024-07-12T18:54:48.000Z"
+                },
+                "edit_history_tweet_ids": [
+                  "1811821525525275072"
+                ],
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 0,
+                      "end": 12,
+                      "username": "CM739506479",
+                      "id": "1593538581384994817"
+                    }
+                  ]
+                },
+                "geo": {},
+                "id": "1811821525525275072",
+                "in_reply_to_user_id": "1593538581384994817",
+                "lang": "zh",
+                "possibly_sensitive": false,
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 0
+                },
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "1811793063943241884"
+                  }
+                ],
+                "reply_settings": "everyone",
+                "text": "@CM739506479 反苯环丙胺有是有，感觉风险有点大"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "created_at": "2024-01-02T01:22:57.000Z",
+                    "description": "猫，诗歌，精神动力学。艺术，C#，波粒二象性。回归曲线上的量子生物，无攻击性。",
+                    "id": "1741993395910811648",
+                    "location": "0°00′N 260°00′E Mars",
+                    "name": "炽烈已极",
+                    "pinned_tweet_id": "1809649123382948242",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1789433740277567488/d3KhwUX1_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 114,
+                      "following_count": 86,
+                      "tweet_count": 620,
+                      "listed_count": 0,
+                      "like_count": 1669
+                    },
+                    "username": "AnIncandescence",
+                    "verified": false
+                  },
+                  {
+                    "created_at": "2022-11-18T09:36:27.000Z",
+                    "description": "",
+                    "id": "1593538581384994817",
+                    "name": "陈铭",
+                    "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 10,
+                      "following_count": 19,
+                      "tweet_count": 12,
+                      "listed_count": 0,
+                      "like_count": 3
+                    },
+                    "username": "CM739506479",
+                    "verified": false
+                  }
+                ],
+                "tweets": [
+                  {
+                    "attachments": {},
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "1809540211421925599",
+                    "created_at": "2024-07-12T17:54:48.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2024-07-12T18:54:48.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "1811821525525275072"
+                    ],
+                    "entities": {
+                      "mentions": [
+                        {
+                          "start": 0,
+                          "end": 12,
+                          "username": "CM739506479",
+                          "id": "1593538581384994817"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "1811821525525275072",
+                    "in_reply_to_user_id": "1593538581384994817",
+                    "lang": "zh",
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 0,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 0
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "1811793063943241884"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "@CM739506479 反苯环丙胺有是有，感觉风险有点大"
+                  },
+                  {
+                    "attachments": {},
+                    "author_id": "1593538581384994817",
+                    "conversation_id": "1809540211421925599",
+                    "created_at": "2024-07-12T16:01:42.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2024-07-12T17:01:42.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "1811793063943241884"
+                    ],
+                    "entities": {
+                      "mentions": [
+                        {
+                          "start": 0,
+                          "end": 16,
+                          "username": "AnIncandescence",
+                          "id": "1741993395910811648"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "1811793063943241884",
+                    "in_reply_to_user_id": "1741993395910811648",
+                    "lang": "zh",
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 1,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 4
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "1809544013352956068"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "@AnIncandescence 用反苯不更好吗"
+                  }
+                ]
+              },
+              "_pale_fire": {
+                "x_api_reply_chains": {
+                  "1809544013352956068": {
+                    "version": 1,
+                    "fetched_at": "2026-04-17T23:57:02Z",
+                    "max_depth": 63,
+                    "posts": [
+                      {
+                        "id": "1809544013352956068",
+                        "source": "local_json",
+                        "payload": {
+                          "data": {
+                            "attachments": {},
+                            "author_id": "1741993395910811648",
+                            "conversation_id": "1809540211421925599",
+                            "created_at": "2024-07-06T11:04:47.000Z",
+                            "edit_controls": {
+                              "edits_remaining": 5,
+                              "is_edit_eligible": false,
+                              "editable_until": "2024-07-06T12:04:47.000Z"
+                            },
+                            "edit_history_tweet_ids": [
+                              "1809544013352956068"
+                            ],
+                            "entities": {},
+                            "geo": {},
+                            "id": "1809544013352956068",
+                            "in_reply_to_user_id": "1741993395910811648",
+                            "lang": "zh",
+                            "possibly_sensitive": false,
+                            "public_metrics": {
+                              "retweet_count": 0,
+                              "reply_count": 0,
+                              "like_count": 0,
+                              "quote_count": 0,
+                              "bookmark_count": 0,
+                              "impression_count": 0
+                            },
+                            "referenced_tweets": [
+                              {
+                                "type": "replied_to",
+                                "id": "1809540211421925599"
+                              }
+                            ],
+                            "reply_settings": "everyone",
+                            "text": "因为暂时没司来考虑用别的方式绕绕消化道的mao的...但是，嗯，这玩意下口不能，盐酸盐啊盐酸盐"
+                          },
+                          "includes": {
+                            "users": [
+                              {
+                                "created_at": "2024-01-02T01:22:57.000Z",
+                                "description": "猫，诗歌，精神动力学。艺术，C#，波粒二象性。回归曲线上的量子生物，无攻击性。",
+                                "id": "1741993395910811648",
+                                "name": "炽烈已极",
+                                "pinned_tweet_id": "1809171399677820951",
+                                "profile_image_url": "https://pbs.twimg.com/profile_images/1789433740277567488/d3KhwUX1_normal.jpg",
+                                "protected": false,
+                                "public_metrics": {
+                                  "followers_count": 87,
+                                  "following_count": 67,
+                                  "tweet_count": 472,
+                                  "listed_count": 0,
+                                  "like_count": 965
+                                },
+                                "username": "AnIncandescence",
+                                "verified": false
+                              }
+                            ],
+                            "tweets": [
+                              {
+                                "attachments": {},
+                                "author_id": "1741993395910811648",
+                                "conversation_id": "1809540211421925599",
+                                "created_at": "2024-07-06T11:04:47.000Z",
+                                "edit_controls": {
+                                  "edits_remaining": 5,
+                                  "is_edit_eligible": false,
+                                  "editable_until": "2024-07-06T12:04:47.000Z"
+                                },
+                                "edit_history_tweet_ids": [
+                                  "1809544013352956068"
+                                ],
+                                "entities": {},
+                                "geo": {},
+                                "id": "1809544013352956068",
+                                "in_reply_to_user_id": "1741993395910811648",
+                                "lang": "zh",
+                                "possibly_sensitive": false,
+                                "public_metrics": {
+                                  "retweet_count": 0,
+                                  "reply_count": 0,
+                                  "like_count": 0,
+                                  "quote_count": 0,
+                                  "bookmark_count": 0,
+                                  "impression_count": 0
+                                },
+                                "referenced_tweets": [
+                                  {
+                                    "type": "replied_to",
+                                    "id": "1809540211421925599"
+                                  }
+                                ],
+                                "reply_settings": "everyone",
+                                "text": "因为暂时没司来考虑用别的方式绕绕消化道的mao的...但是，嗯，这玩意下口不能，盐酸盐啊盐酸盐"
+                              },
+                              {
+                                "attachments": {
+                                  "media_keys": [
+                                    "3_1809540206950744064"
+                                  ]
+                                },
+                                "author_id": "1741993395910811648",
+                                "conversation_id": "1809540211421925599",
+                                "created_at": "2024-07-06T10:49:40.000Z",
+                                "edit_controls": {
+                                  "edits_remaining": 5,
+                                  "is_edit_eligible": false,
+                                  "editable_until": "2024-07-06T11:49:40.000Z"
+                                },
+                                "edit_history_tweet_ids": [
+                                  "1809540211421925599"
+                                ],
+                                "entities": {
+                                  "urls": [
+                                    {
+                                      "start": 35,
+                                      "end": 58,
+                                      "url": "https://t.co/9wLQ6GlU5E",
+                                      "expanded_url": "https://twitter.com/AnIncandescence/status/1809540211421925599/photo/1",
+                                      "display_url": "pic.twitter.com/9wLQ6GlU5E",
+                                      "media_key": "3_1809540206950744064"
+                                    }
+                                  ]
+                                },
+                                "geo": {},
+                                "id": "1809540211421925599",
+                                "lang": "zh",
+                                "possibly_sensitive": false,
+                                "public_metrics": {
+                                  "retweet_count": 0,
+                                  "reply_count": 4,
+                                  "like_count": 1,
+                                  "quote_count": 0,
+                                  "bookmark_count": 0,
+                                  "impression_count": 31
+                                },
+                                "reply_settings": "everyone",
+                                "text": "鼻吸一小口苯乙胺...痛到泪眼模糊\n忍不了😭这可是强碱啊真的没问题吗 https://t.co/9wLQ6GlU5E"
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "id": "1809540211421925599",
+                        "source": "local_json",
+                        "payload": {
+                          "data": {
+                            "attachments": {
+                              "media_keys": [
+                                "3_1809548851818229760"
+                              ]
+                            },
+                            "author_id": "1741993395910811648",
+                            "context_annotations": [
+                              {
+                                "domain": {
+                                  "id": "46",
+                                  "name": "Business Taxonomy",
+                                  "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                                },
+                                "entity": {
+                                  "id": "1557696888568045569",
+                                  "name": "Food & Beverage Business",
+                                  "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers."
+                                }
+                              }
+                            ],
+                            "conversation_id": "1809540211421925599",
+                            "created_at": "2024-07-06T11:24:01.000Z",
+                            "edit_controls": {
+                              "edits_remaining": 5,
+                              "is_edit_eligible": false,
+                              "editable_until": "2024-07-06T12:24:01.000Z"
+                            },
+                            "edit_history_tweet_ids": [
+                              "1809548855983157321"
+                            ],
+                            "entities": {
+                              "urls": [
+                                {
+                                  "start": 29,
+                                  "end": 52,
+                                  "url": "https://t.co/3cSnOk9uVv",
+                                  "expanded_url": "https://twitter.com/AnIncandescence/status/1809548855983157321/photo/1",
+                                  "display_url": "pic.twitter.com/3cSnOk9uVv",
+                                  "media_key": "3_1809548851818229760"
+                                }
+                              ]
+                            },
+                            "geo": {},
+                            "id": "1809548855983157321",
+                            "in_reply_to_user_id": "1741993395910811648",
+                            "lang": "zh",
+                            "possibly_sensitive": false,
+                            "public_metrics": {
+                              "retweet_count": 0,
+                              "reply_count": 0,
+                              "like_count": 0,
+                              "quote_count": 0,
+                              "bookmark_count": 0,
+                              "impression_count": 0
+                            },
+                            "referenced_tweets": [
+                              {
+                                "type": "replied_to",
+                                "id": "1809540211421925599"
+                              }
+                            ],
+                            "reply_settings": "everyone",
+                            "text": "T+0：加一药匙泡水喝了，难喝，吃块糖，“我药效呢”预定 https://t.co/3cSnOk9uVv"
+                          },
+                          "includes": {
+                            "media": [
+                              {
+                                "height": 1536,
+                                "media_key": "3_1809548851818229760",
+                                "public_metrics": {},
+                                "type": "photo",
+                                "url": "https://pbs.twimg.com/media/GRzPF-RXcAAJAHC.jpg",
+                                "width": 2048
+                              }
+                            ],
+                            "users": [
+                              {
+                                "created_at": "2024-01-02T01:22:57.000Z",
+                                "description": "猫，诗歌，精神动力学。艺术，C#，波粒二象性。回归曲线上的量子生物，无攻击性。",
+                                "id": "1741993395910811648",
+                                "name": "炽烈已极",
+                                "pinned_tweet_id": "1809171399677820951",
+                                "profile_image_url": "https://pbs.twimg.com/profile_images/1789433740277567488/d3KhwUX1_normal.jpg",
+                                "protected": false,
+                                "public_metrics": {
+                                  "followers_count": 88,
+                                  "following_count": 68,
+                                  "tweet_count": 475,
+                                  "listed_count": 0,
+                                  "like_count": 966
+                                },
+                                "username": "AnIncandescence",
+                                "verified": false
+                              }
+                            ],
+                            "tweets": [
+                              {
+                                "attachments": {
+                                  "media_keys": [
+                                    "3_1809548851818229760"
+                                  ]
+                                },
+                                "author_id": "1741993395910811648",
+                                "context_annotations": [
+                                  {
+                                    "domain": {
+                                      "id": "46",
+                                      "name": "Business Taxonomy",
+                                      "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                                    },
+                                    "entity": {
+                                      "id": "1557696888568045569",
+                                      "name": "Food & Beverage Business",
+                                      "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers."
+                                    }
+                                  }
+                                ],
+                                "conversation_id": "1809540211421925599",
+                                "created_at": "2024-07-06T11:24:01.000Z",
+                                "edit_controls": {
+                                  "edits_remaining": 5,
+                                  "is_edit_eligible": false,
+                                  "editable_until": "2024-07-06T12:24:01.000Z"
+                                },
+                                "edit_history_tweet_ids": [
+                                  "1809548855983157321"
+                                ],
+                                "entities": {
+                                  "urls": [
+                                    {
+                                      "start": 29,
+                                      "end": 52,
+                                      "url": "https://t.co/3cSnOk9uVv",
+                                      "expanded_url": "https://twitter.com/AnIncandescence/status/1809548855983157321/photo/1",
+                                      "display_url": "pic.twitter.com/3cSnOk9uVv",
+                                      "media_key": "3_1809548851818229760"
+                                    }
+                                  ]
+                                },
+                                "geo": {},
+                                "id": "1809548855983157321",
+                                "in_reply_to_user_id": "1741993395910811648",
+                                "lang": "zh",
+                                "possibly_sensitive": false,
+                                "public_metrics": {
+                                  "retweet_count": 0,
+                                  "reply_count": 0,
+                                  "like_count": 0,
+                                  "quote_count": 0,
+                                  "bookmark_count": 0,
+                                  "impression_count": 0
+                                },
+                                "referenced_tweets": [
+                                  {
+                                    "type": "replied_to",
+                                    "id": "1809540211421925599"
+                                  }
+                                ],
+                                "reply_settings": "everyone",
+                                "text": "T+0：加一药匙泡水喝了，难喝，吃块糖，“我药效呢”预定 https://t.co/3cSnOk9uVv"
+                              },
+                              {
+                                "attachments": {
+                                  "media_keys": [
+                                    "3_1809540206950744064"
+                                  ]
+                                },
+                                "author_id": "1741993395910811648",
+                                "conversation_id": "1809540211421925599",
+                                "created_at": "2024-07-06T10:49:40.000Z",
+                                "edit_controls": {
+                                  "edits_remaining": 5,
+                                  "is_edit_eligible": false,
+                                  "editable_until": "2024-07-06T11:49:40.000Z"
+                                },
+                                "edit_history_tweet_ids": [
+                                  "1809540211421925599"
+                                ],
+                                "entities": {
+                                  "urls": [
+                                    {
+                                      "start": 35,
+                                      "end": 58,
+                                      "url": "https://t.co/9wLQ6GlU5E",
+                                      "expanded_url": "https://twitter.com/AnIncandescence/status/1809540211421925599/photo/1",
+                                      "display_url": "pic.twitter.com/9wLQ6GlU5E",
+                                      "media_key": "3_1809540206950744064"
+                                    }
+                                  ]
+                                },
+                                "geo": {},
+                                "id": "1809540211421925599",
+                                "lang": "zh",
+                                "possibly_sensitive": false,
+                                "public_metrics": {
+                                  "retweet_count": 0,
+                                  "reply_count": 6,
+                                  "like_count": 1,
+                                  "quote_count": 0,
+                                  "bookmark_count": 0,
+                                  "impression_count": 74
+                                },
+                                "reply_settings": "everyone",
+                                "text": "鼻吸一小口苯乙胺...痛到泪眼模糊\n忍不了😭这可是强碱啊真的没问题吗 https://t.co/9wLQ6GlU5E"
+                              }
+                            ]
+                          }
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          },
+          {
+            "id": "1811793063943241884",
+            "source": "local_json",
+            "payload": {
+              "data": {
+                "attachments": {},
+                "author_id": "1741993395910811648",
+                "conversation_id": "1809540211421925599",
+                "created_at": "2024-07-12T17:54:48.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2024-07-12T18:54:48.000Z"
+                },
+                "edit_history_tweet_ids": [
+                  "1811821525525275072"
+                ],
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 0,
+                      "end": 12,
+                      "username": "CM739506479",
+                      "id": "1593538581384994817"
+                    }
+                  ]
+                },
+                "geo": {},
+                "id": "1811821525525275072",
+                "in_reply_to_user_id": "1593538581384994817",
+                "lang": "zh",
+                "possibly_sensitive": false,
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 0
+                },
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "1811793063943241884"
+                  }
+                ],
+                "reply_settings": "everyone",
+                "text": "@CM739506479 反苯环丙胺有是有，感觉风险有点大"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "created_at": "2024-01-02T01:22:57.000Z",
+                    "description": "猫，诗歌，精神动力学。艺术，C#，波粒二象性。回归曲线上的量子生物，无攻击性。",
+                    "id": "1741993395910811648",
+                    "location": "0°00′N 260°00′E Mars",
+                    "name": "炽烈已极",
+                    "pinned_tweet_id": "1809649123382948242",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1789433740277567488/d3KhwUX1_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 114,
+                      "following_count": 86,
+                      "tweet_count": 620,
+                      "listed_count": 0,
+                      "like_count": 1669
+                    },
+                    "username": "AnIncandescence",
+                    "verified": false
+                  },
+                  {
+                    "created_at": "2022-11-18T09:36:27.000Z",
+                    "description": "",
+                    "id": "1593538581384994817",
+                    "name": "陈铭",
+                    "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 10,
+                      "following_count": 19,
+                      "tweet_count": 12,
+                      "listed_count": 0,
+                      "like_count": 3
+                    },
+                    "username": "CM739506479",
+                    "verified": false
+                  }
+                ],
+                "tweets": [
+                  {
+                    "attachments": {},
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "1809540211421925599",
+                    "created_at": "2024-07-12T17:54:48.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2024-07-12T18:54:48.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "1811821525525275072"
+                    ],
+                    "entities": {
+                      "mentions": [
+                        {
+                          "start": 0,
+                          "end": 12,
+                          "username": "CM739506479",
+                          "id": "1593538581384994817"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "1811821525525275072",
+                    "in_reply_to_user_id": "1593538581384994817",
+                    "lang": "zh",
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 0,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 0
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "1811793063943241884"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "@CM739506479 反苯环丙胺有是有，感觉风险有点大"
+                  },
+                  {
+                    "attachments": {},
+                    "author_id": "1593538581384994817",
+                    "conversation_id": "1809540211421925599",
+                    "created_at": "2024-07-12T16:01:42.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2024-07-12T17:01:42.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "1811793063943241884"
+                    ],
+                    "entities": {
+                      "mentions": [
+                        {
+                          "start": 0,
+                          "end": 16,
+                          "username": "AnIncandescence",
+                          "id": "1741993395910811648"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "1811793063943241884",
+                    "in_reply_to_user_id": "1741993395910811648",
+                    "lang": "zh",
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 1,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 4
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "1809544013352956068"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "@AnIncandescence 用反苯不更好吗"
+                  }
+                ]
+              },
+              "_pale_fire": {
+                "x_api_reply_chains": {
+                  "1809544013352956068": {
+                    "version": 1,
+                    "fetched_at": "2026-04-17T23:57:02Z",
+                    "max_depth": 63,
+                    "posts": [
+                      {
+                        "id": "1809544013352956068",
+                        "source": "local_json",
+                        "payload": {
+                          "data": {
+                            "attachments": {},
+                            "author_id": "1741993395910811648",
+                            "conversation_id": "1809540211421925599",
+                            "created_at": "2024-07-06T11:04:47.000Z",
+                            "edit_controls": {
+                              "edits_remaining": 5,
+                              "is_edit_eligible": false,
+                              "editable_until": "2024-07-06T12:04:47.000Z"
+                            },
+                            "edit_history_tweet_ids": [
+                              "1809544013352956068"
+                            ],
+                            "entities": {},
+                            "geo": {},
+                            "id": "1809544013352956068",
+                            "in_reply_to_user_id": "1741993395910811648",
+                            "lang": "zh",
+                            "possibly_sensitive": false,
+                            "public_metrics": {
+                              "retweet_count": 0,
+                              "reply_count": 0,
+                              "like_count": 0,
+                              "quote_count": 0,
+                              "bookmark_count": 0,
+                              "impression_count": 0
+                            },
+                            "referenced_tweets": [
+                              {
+                                "type": "replied_to",
+                                "id": "1809540211421925599"
+                              }
+                            ],
+                            "reply_settings": "everyone",
+                            "text": "因为暂时没司来考虑用别的方式绕绕消化道的mao的...但是，嗯，这玩意下口不能，盐酸盐啊盐酸盐"
+                          },
+                          "includes": {
+                            "users": [
+                              {
+                                "created_at": "2024-01-02T01:22:57.000Z",
+                                "description": "猫，诗歌，精神动力学。艺术，C#，波粒二象性。回归曲线上的量子生物，无攻击性。",
+                                "id": "1741993395910811648",
+                                "name": "炽烈已极",
+                                "pinned_tweet_id": "1809171399677820951",
+                                "profile_image_url": "https://pbs.twimg.com/profile_images/1789433740277567488/d3KhwUX1_normal.jpg",
+                                "protected": false,
+                                "public_metrics": {
+                                  "followers_count": 87,
+                                  "following_count": 67,
+                                  "tweet_count": 472,
+                                  "listed_count": 0,
+                                  "like_count": 965
+                                },
+                                "username": "AnIncandescence",
+                                "verified": false
+                              }
+                            ],
+                            "tweets": [
+                              {
+                                "attachments": {},
+                                "author_id": "1741993395910811648",
+                                "conversation_id": "1809540211421925599",
+                                "created_at": "2024-07-06T11:04:47.000Z",
+                                "edit_controls": {
+                                  "edits_remaining": 5,
+                                  "is_edit_eligible": false,
+                                  "editable_until": "2024-07-06T12:04:47.000Z"
+                                },
+                                "edit_history_tweet_ids": [
+                                  "1809544013352956068"
+                                ],
+                                "entities": {},
+                                "geo": {},
+                                "id": "1809544013352956068",
+                                "in_reply_to_user_id": "1741993395910811648",
+                                "lang": "zh",
+                                "possibly_sensitive": false,
+                                "public_metrics": {
+                                  "retweet_count": 0,
+                                  "reply_count": 0,
+                                  "like_count": 0,
+                                  "quote_count": 0,
+                                  "bookmark_count": 0,
+                                  "impression_count": 0
+                                },
+                                "referenced_tweets": [
+                                  {
+                                    "type": "replied_to",
+                                    "id": "1809540211421925599"
+                                  }
+                                ],
+                                "reply_settings": "everyone",
+                                "text": "因为暂时没司来考虑用别的方式绕绕消化道的mao的...但是，嗯，这玩意下口不能，盐酸盐啊盐酸盐"
+                              },
+                              {
+                                "attachments": {
+                                  "media_keys": [
+                                    "3_1809540206950744064"
+                                  ]
+                                },
+                                "author_id": "1741993395910811648",
+                                "conversation_id": "1809540211421925599",
+                                "created_at": "2024-07-06T10:49:40.000Z",
+                                "edit_controls": {
+                                  "edits_remaining": 5,
+                                  "is_edit_eligible": false,
+                                  "editable_until": "2024-07-06T11:49:40.000Z"
+                                },
+                                "edit_history_tweet_ids": [
+                                  "1809540211421925599"
+                                ],
+                                "entities": {
+                                  "urls": [
+                                    {
+                                      "start": 35,
+                                      "end": 58,
+                                      "url": "https://t.co/9wLQ6GlU5E",
+                                      "expanded_url": "https://twitter.com/AnIncandescence/status/1809540211421925599/photo/1",
+                                      "display_url": "pic.twitter.com/9wLQ6GlU5E",
+                                      "media_key": "3_1809540206950744064"
+                                    }
+                                  ]
+                                },
+                                "geo": {},
+                                "id": "1809540211421925599",
+                                "lang": "zh",
+                                "possibly_sensitive": false,
+                                "public_metrics": {
+                                  "retweet_count": 0,
+                                  "reply_count": 4,
+                                  "like_count": 1,
+                                  "quote_count": 0,
+                                  "bookmark_count": 0,
+                                  "impression_count": 31
+                                },
+                                "reply_settings": "everyone",
+                                "text": "鼻吸一小口苯乙胺...痛到泪眼模糊\n忍不了😭这可是强碱啊真的没问题吗 https://t.co/9wLQ6GlU5E"
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "id": "1809540211421925599",
+                        "source": "local_json",
+                        "payload": {
+                          "data": {
+                            "attachments": {
+                              "media_keys": [
+                                "3_1809548851818229760"
+                              ]
+                            },
+                            "author_id": "1741993395910811648",
+                            "context_annotations": [
+                              {
+                                "domain": {
+                                  "id": "46",
+                                  "name": "Business Taxonomy",
+                                  "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                                },
+                                "entity": {
+                                  "id": "1557696888568045569",
+                                  "name": "Food & Beverage Business",
+                                  "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers."
+                                }
+                              }
+                            ],
+                            "conversation_id": "1809540211421925599",
+                            "created_at": "2024-07-06T11:24:01.000Z",
+                            "edit_controls": {
+                              "edits_remaining": 5,
+                              "is_edit_eligible": false,
+                              "editable_until": "2024-07-06T12:24:01.000Z"
+                            },
+                            "edit_history_tweet_ids": [
+                              "1809548855983157321"
+                            ],
+                            "entities": {
+                              "urls": [
+                                {
+                                  "start": 29,
+                                  "end": 52,
+                                  "url": "https://t.co/3cSnOk9uVv",
+                                  "expanded_url": "https://twitter.com/AnIncandescence/status/1809548855983157321/photo/1",
+                                  "display_url": "pic.twitter.com/3cSnOk9uVv",
+                                  "media_key": "3_1809548851818229760"
+                                }
+                              ]
+                            },
+                            "geo": {},
+                            "id": "1809548855983157321",
+                            "in_reply_to_user_id": "1741993395910811648",
+                            "lang": "zh",
+                            "possibly_sensitive": false,
+                            "public_metrics": {
+                              "retweet_count": 0,
+                              "reply_count": 0,
+                              "like_count": 0,
+                              "quote_count": 0,
+                              "bookmark_count": 0,
+                              "impression_count": 0
+                            },
+                            "referenced_tweets": [
+                              {
+                                "type": "replied_to",
+                                "id": "1809540211421925599"
+                              }
+                            ],
+                            "reply_settings": "everyone",
+                            "text": "T+0：加一药匙泡水喝了，难喝，吃块糖，“我药效呢”预定 https://t.co/3cSnOk9uVv"
+                          },
+                          "includes": {
+                            "media": [
+                              {
+                                "height": 1536,
+                                "media_key": "3_1809548851818229760",
+                                "public_metrics": {},
+                                "type": "photo",
+                                "url": "https://pbs.twimg.com/media/GRzPF-RXcAAJAHC.jpg",
+                                "width": 2048
+                              }
+                            ],
+                            "users": [
+                              {
+                                "created_at": "2024-01-02T01:22:57.000Z",
+                                "description": "猫，诗歌，精神动力学。艺术，C#，波粒二象性。回归曲线上的量子生物，无攻击性。",
+                                "id": "1741993395910811648",
+                                "name": "炽烈已极",
+                                "pinned_tweet_id": "1809171399677820951",
+                                "profile_image_url": "https://pbs.twimg.com/profile_images/1789433740277567488/d3KhwUX1_normal.jpg",
+                                "protected": false,
+                                "public_metrics": {
+                                  "followers_count": 88,
+                                  "following_count": 68,
+                                  "tweet_count": 475,
+                                  "listed_count": 0,
+                                  "like_count": 966
+                                },
+                                "username": "AnIncandescence",
+                                "verified": false
+                              }
+                            ],
+                            "tweets": [
+                              {
+                                "attachments": {
+                                  "media_keys": [
+                                    "3_1809548851818229760"
+                                  ]
+                                },
+                                "author_id": "1741993395910811648",
+                                "context_annotations": [
+                                  {
+                                    "domain": {
+                                      "id": "46",
+                                      "name": "Business Taxonomy",
+                                      "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                                    },
+                                    "entity": {
+                                      "id": "1557696888568045569",
+                                      "name": "Food & Beverage Business",
+                                      "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers."
+                                    }
+                                  }
+                                ],
+                                "conversation_id": "1809540211421925599",
+                                "created_at": "2024-07-06T11:24:01.000Z",
+                                "edit_controls": {
+                                  "edits_remaining": 5,
+                                  "is_edit_eligible": false,
+                                  "editable_until": "2024-07-06T12:24:01.000Z"
+                                },
+                                "edit_history_tweet_ids": [
+                                  "1809548855983157321"
+                                ],
+                                "entities": {
+                                  "urls": [
+                                    {
+                                      "start": 29,
+                                      "end": 52,
+                                      "url": "https://t.co/3cSnOk9uVv",
+                                      "expanded_url": "https://twitter.com/AnIncandescence/status/1809548855983157321/photo/1",
+                                      "display_url": "pic.twitter.com/3cSnOk9uVv",
+                                      "media_key": "3_1809548851818229760"
+                                    }
+                                  ]
+                                },
+                                "geo": {},
+                                "id": "1809548855983157321",
+                                "in_reply_to_user_id": "1741993395910811648",
+                                "lang": "zh",
+                                "possibly_sensitive": false,
+                                "public_metrics": {
+                                  "retweet_count": 0,
+                                  "reply_count": 0,
+                                  "like_count": 0,
+                                  "quote_count": 0,
+                                  "bookmark_count": 0,
+                                  "impression_count": 0
+                                },
+                                "referenced_tweets": [
+                                  {
+                                    "type": "replied_to",
+                                    "id": "1809540211421925599"
+                                  }
+                                ],
+                                "reply_settings": "everyone",
+                                "text": "T+0：加一药匙泡水喝了，难喝，吃块糖，“我药效呢”预定 https://t.co/3cSnOk9uVv"
+                              },
+                              {
+                                "attachments": {
+                                  "media_keys": [
+                                    "3_1809540206950744064"
+                                  ]
+                                },
+                                "author_id": "1741993395910811648",
+                                "conversation_id": "1809540211421925599",
+                                "created_at": "2024-07-06T10:49:40.000Z",
+                                "edit_controls": {
+                                  "edits_remaining": 5,
+                                  "is_edit_eligible": false,
+                                  "editable_until": "2024-07-06T11:49:40.000Z"
+                                },
+                                "edit_history_tweet_ids": [
+                                  "1809540211421925599"
+                                ],
+                                "entities": {
+                                  "urls": [
+                                    {
+                                      "start": 35,
+                                      "end": 58,
+                                      "url": "https://t.co/9wLQ6GlU5E",
+                                      "expanded_url": "https://twitter.com/AnIncandescence/status/1809540211421925599/photo/1",
+                                      "display_url": "pic.twitter.com/9wLQ6GlU5E",
+                                      "media_key": "3_1809540206950744064"
+                                    }
+                                  ]
+                                },
+                                "geo": {},
+                                "id": "1809540211421925599",
+                                "lang": "zh",
+                                "possibly_sensitive": false,
+                                "public_metrics": {
+                                  "retweet_count": 0,
+                                  "reply_count": 6,
+                                  "like_count": 1,
+                                  "quote_count": 0,
+                                  "bookmark_count": 0,
+                                  "impression_count": 74
+                                },
+                                "reply_settings": "everyone",
+                                "text": "鼻吸一小口苯乙胺...痛到泪眼模糊\n忍不了😭这可是强碱啊真的没问题吗 https://t.co/9wLQ6GlU5E"
+                              }
+                            ]
+                          }
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

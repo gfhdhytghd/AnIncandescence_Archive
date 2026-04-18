@@ -1,1 +1,536 @@
-{"data":{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"2023801557259874394","created_at":"2026-02-18T09:52:17.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2026-02-18T10:52:17.000Z"},"edit_history_tweet_ids":["2024059384444133394"],"entities":{"mentions":[{"start":0,"end":11,"username":"Freundis21","id":"1975516163078594560"},{"start":12,"end":26,"username":"CynAutumn8964","id":"1687536266878042112"}]},"geo":{},"id":"2024059384444133394","in_reply_to_user_id":"1975516163078594560","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"2024013896063787225"}],"reply_settings":"everyone","text":"@Freundis21 @CynAutumn8964 它是三环啊，而且抗抑郁机制另一种说法是可能跟血清素没什么关系"},"includes":{"users":[{"created_at":"2024-01-02T01:22:57.000Z","description":"猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | @TauCeti_10700 日常和碎碎念 | 🚪88/158","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/iO6MRJNTYR","expanded_url":"https://ngl.link/anincandescence1","display_url":"ngl.link/anincandescenc…"}]},"description":{"mentions":[{"start":70,"end":84,"username":"TauCeti_10700"}]}},"id":"1741993395910811648","location":"天鹅座X-1","name":"炽烈已极","pinned_tweet_id":"2010452086539145687","profile_image_url":"https://pbs.twimg.com/profile_images/2006317223414255617/jGT_GZyG_normal.jpg","protected":false,"public_metrics":{"followers_count":1714,"following_count":234,"tweet_count":5757,"listed_count":5,"like_count":13974,"media_count":1050},"url":"https://t.co/iO6MRJNTYR","username":"AnIncandescence","verified":false},{"created_at":"2025-10-07T10:59:00.000Z","description":"=废物｜女性｜INFJ｜LGBTQ友好｜此账号包括：selfharm、drug/overdose&日常废话。直关无言抱歉，会互fo（如果有没fo到的请私信我ovo）。匿名提问（如果有的话）https://t.co/8kDSGb7b5b","entities":{"description":{"urls":[{"start":94,"end":117,"url":"https://t.co/8kDSGb7b5b","expanded_url":"https://miyu.link/Freundis","display_url":"miyu.link/Freundis"}]}},"id":"1975516163078594560","name":"Bokuwayakudatazudesu","pinned_tweet_id":"1986037851113373928","profile_image_url":"https://pbs.twimg.com/profile_images/1979709468096053248/NP6_6sIl_normal.jpg","protected":false,"public_metrics":{"followers_count":650,"following_count":634,"tweet_count":1031,"listed_count":1,"like_count":7215,"media_count":157},"username":"Freundis21","verified":false},{"created_at":"2023-08-04T18:50:04.000Z","description":"🍄Psychonaut ，不od，药理学者，中性别，🏳️‍🌈LGBT友善，双相，恋人@mizyubvg3","entities":{"description":{"mentions":[{"start":42,"end":52,"username":"mizyubvg3"}]}},"id":"1687536266878042112","location":"乱葬谷","name":"小欣","pinned_tweet_id":"1976359644974247949","profile_image_url":"https://pbs.twimg.com/profile_images/2009528579781218309/rMFgvaLa_normal.jpg","protected":false,"public_metrics":{"followers_count":86,"following_count":104,"tweet_count":391,"listed_count":0,"like_count":273,"media_count":15},"username":"CynAutumn8964","verified":false}],"tweets":[{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"2023801557259874394","created_at":"2026-02-18T09:52:17.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2026-02-18T10:52:17.000Z"},"edit_history_tweet_ids":["2024059384444133394"],"entities":{"mentions":[{"start":0,"end":11,"username":"Freundis21","id":"1975516163078594560"},{"start":12,"end":26,"username":"CynAutumn8964","id":"1687536266878042112"}]},"geo":{},"id":"2024059384444133394","in_reply_to_user_id":"1975516163078594560","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"2024013896063787225"}],"reply_settings":"everyone","text":"@Freundis21 @CynAutumn8964 它是三环啊，而且抗抑郁机制另一种说法是可能跟血清素没什么关系"},{"article":{},"attachments":{},"author_id":"1975516163078594560","conversation_id":"2023801557259874394","created_at":"2026-02-18T06:51:31.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2026-02-18T07:51:31.000Z"},"edit_history_tweet_ids":["2024013896063787225"],"entities":{"mentions":[{"start":0,"end":14,"username":"CynAutumn8964","id":"1687536266878042112"}]},"geo":{},"id":"2024013896063787225","in_reply_to_user_id":"1687536266878042112","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":19},"referenced_tweets":[{"type":"replied_to","id":"2023968689662607459"}],"reply_settings":"everyone","text":"@CynAutumn8964 血清素再摄取增强剂"}]}}
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741993395910811648",
+    "conversation_id": "2023801557259874394",
+    "created_at": "2026-02-18T09:52:17.000Z",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2026-02-18T10:52:17.000Z"
+    },
+    "edit_history_tweet_ids": [
+      "2024059384444133394"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 11,
+          "username": "Freundis21",
+          "id": "1975516163078594560"
+        },
+        {
+          "start": 12,
+          "end": 26,
+          "username": "CynAutumn8964",
+          "id": "1687536266878042112"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024059384444133394",
+    "in_reply_to_user_id": "1975516163078594560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "2024013896063787225"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Freundis21 @CynAutumn8964 它是三环啊，而且抗抑郁机制另一种说法是可能跟血清素没什么关系"
+  },
+  "includes": {
+    "users": [
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | @TauCeti_10700 日常和碎碎念 | 🚪88/158",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/iO6MRJNTYR",
+                "expanded_url": "https://ngl.link/anincandescence1",
+                "display_url": "ngl.link/anincandescenc…"
+              }
+            ]
+          },
+          "description": {
+            "mentions": [
+              {
+                "start": 70,
+                "end": 84,
+                "username": "TauCeti_10700"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "天鹅座X-1",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "2010452086539145687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006317223414255617/jGT_GZyG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1714,
+          "following_count": 234,
+          "tweet_count": 5757,
+          "listed_count": 5,
+          "like_count": 13974,
+          "media_count": 1050
+        },
+        "url": "https://t.co/iO6MRJNTYR",
+        "username": "AnIncandescence",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-07T10:59:00.000Z",
+        "description": "=废物｜女性｜INFJ｜LGBTQ友好｜此账号包括：selfharm、drug/overdose&日常废话。直关无言抱歉，会互fo（如果有没fo到的请私信我ovo）。匿名提问（如果有的话）https://t.co/8kDSGb7b5b",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "start": 94,
+                "end": 117,
+                "url": "https://t.co/8kDSGb7b5b",
+                "expanded_url": "https://miyu.link/Freundis",
+                "display_url": "miyu.link/Freundis"
+              }
+            ]
+          }
+        },
+        "id": "1975516163078594560",
+        "name": "Bokuwayakudatazudesu",
+        "pinned_tweet_id": "1986037851113373928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979709468096053248/NP6_6sIl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 650,
+          "following_count": 634,
+          "tweet_count": 1031,
+          "listed_count": 1,
+          "like_count": 7215,
+          "media_count": 157
+        },
+        "username": "Freundis21",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-04T18:50:04.000Z",
+        "description": "🍄Psychonaut ，不od，药理学者，中性别，🏳️‍🌈LGBT友善，双相，恋人@mizyubvg3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "start": 42,
+                "end": 52,
+                "username": "mizyubvg3"
+              }
+            ]
+          }
+        },
+        "id": "1687536266878042112",
+        "location": "乱葬谷",
+        "name": "小欣",
+        "pinned_tweet_id": "1976359644974247949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009528579781218309/rMFgvaLa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 104,
+          "tweet_count": 391,
+          "listed_count": 0,
+          "like_count": 273,
+          "media_count": 15
+        },
+        "username": "CynAutumn8964",
+        "verified": false
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741993395910811648",
+        "conversation_id": "2023801557259874394",
+        "created_at": "2026-02-18T09:52:17.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2026-02-18T10:52:17.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "2024059384444133394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 11,
+              "username": "Freundis21",
+              "id": "1975516163078594560"
+            },
+            {
+              "start": 12,
+              "end": 26,
+              "username": "CynAutumn8964",
+              "id": "1687536266878042112"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024059384444133394",
+        "in_reply_to_user_id": "1975516163078594560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "2024013896063787225"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Freundis21 @CynAutumn8964 它是三环啊，而且抗抑郁机制另一种说法是可能跟血清素没什么关系"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975516163078594560",
+        "conversation_id": "2023801557259874394",
+        "created_at": "2026-02-18T06:51:31.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2026-02-18T07:51:31.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "2024013896063787225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 14,
+              "username": "CynAutumn8964",
+              "id": "1687536266878042112"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024013896063787225",
+        "in_reply_to_user_id": "1687536266878042112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "2023968689662607459"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CynAutumn8964 血清素再摄取增强剂"
+      }
+    ]
+  },
+  "_pale_fire": {
+    "x_api_reply_chains": {
+      "2023968689662607459": {
+        "version": 1,
+        "fetched_at": "2026-04-18T01:28:56Z",
+        "max_depth": 63,
+        "posts": [
+          {
+            "id": "2023968689662607459",
+            "source": "x_api_oauth1",
+            "payload": {
+              "data": {
+                "created_at": "2026-02-18T03:51:53.000Z",
+                "edit_history_tweet_ids": [
+                  "2023968689662607459"
+                ],
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "2023801557259874394"
+                  }
+                ],
+                "reply_settings": "everyone",
+                "id": "2023968689662607459",
+                "author_id": "1687536266878042112",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2026-02-18T04:51:53.000Z"
+                },
+                "lang": "zh",
+                "conversation_id": "2023801557259874394",
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 111
+                },
+                "in_reply_to_user_id": "1975516163078594560",
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 0,
+                      "end": 11,
+                      "username": "Freundis21",
+                      "id": "1975516163078594560"
+                    }
+                  ]
+                },
+                "text": "@Freundis21 噻奈普汀是促血清素再摄取来着？",
+                "possibly_sensitive": false
+              },
+              "includes": {
+                "users": [
+                  {
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2009528579781218309/rMFgvaLa_normal.jpg",
+                    "public_metrics": {
+                      "followers_count": 80,
+                      "following_count": 100,
+                      "tweet_count": 409,
+                      "listed_count": 0,
+                      "like_count": 280,
+                      "media_count": 14
+                    },
+                    "description": "禁毒大使，药理学者，中性别，🏳️‍🌈LGBT友善，双相，恋人@mizyubvg3",
+                    "entities": {
+                      "description": {
+                        "mentions": [
+                          {
+                            "start": 30,
+                            "end": 40,
+                            "username": "mizyubvg3"
+                          }
+                        ]
+                      }
+                    },
+                    "username": "CynAutumn8964",
+                    "name": "小欣",
+                    "verified": false,
+                    "id": "1687536266878042112",
+                    "protected": false,
+                    "location": "乱葬谷",
+                    "created_at": "2023-08-04T18:50:04.000Z"
+                  },
+                  {
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1979709468096053248/NP6_6sIl_normal.jpg",
+                    "public_metrics": {
+                      "followers_count": 1152,
+                      "following_count": 957,
+                      "tweet_count": 1418,
+                      "listed_count": 1,
+                      "like_count": 8076,
+                      "media_count": 306
+                    },
+                    "description": "提问https://t.co/8kDSGb7b5b",
+                    "entities": {
+                      "description": {
+                        "urls": [
+                          {
+                            "start": 2,
+                            "end": 25,
+                            "url": "https://t.co/8kDSGb7b5b",
+                            "expanded_url": "https://miyu.link/Freundis",
+                            "display_url": "miyu.link/Freundis"
+                          }
+                        ]
+                      }
+                    },
+                    "username": "Freundis21",
+                    "name": "Bokuwayakudatazudesu",
+                    "verified": false,
+                    "id": "1975516163078594560",
+                    "protected": false,
+                    "created_at": "2025-10-07T10:59:00.000Z"
+                  }
+                ],
+                "tweets": [
+                  {
+                    "created_at": "2026-02-17T16:47:46.000Z",
+                    "edit_history_tweet_ids": [
+                      "2023801557259874394"
+                    ],
+                    "reply_settings": "everyone",
+                    "id": "2023801557259874394",
+                    "author_id": "1975516163078594560",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": true,
+                      "editable_until": "2026-02-17T17:47:46.000Z"
+                    },
+                    "lang": "zh",
+                    "conversation_id": "2023801557259874394",
+                    "attachments": {
+                      "media_keys": [
+                        "3_2023801551966650368"
+                      ]
+                    },
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 1,
+                      "like_count": 17,
+                      "quote_count": 0,
+                      "bookmark_count": 2,
+                      "impression_count": 1947
+                    },
+                    "text": "噻奈普汀的话不建议滥用，第一次控制在37.5mg及以内吧，成人一次摄入超过这个量都会出现严重的不性良反应，超过或到达50mg会增加得5-羟色胺综合征的风险和中毒风险。你要是治疗抑郁的话，一天三次，每次12.5mg就好，和其他许多常见的od药物和抑郁药物也不能联用 https://t.co/QMfRvsV4TQ",
+                    "entities": {
+                      "urls": [
+                        {
+                          "start": 132,
+                          "end": 155,
+                          "url": "https://t.co/QMfRvsV4TQ",
+                          "expanded_url": "https://x.com/Freundis21/status/2023801557259874394/photo/1",
+                          "display_url": "pic.x.com/QMfRvsV4TQ",
+                          "media_key": "3_2023801551966650368"
+                        }
+                      ]
+                    },
+                    "possibly_sensitive": false
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "2023801557259874394",
+            "source": "x_api_oauth1",
+            "payload": {
+              "data": {
+                "created_at": "2026-02-17T16:47:46.000Z",
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 17,
+                  "quote_count": 0,
+                  "bookmark_count": 2,
+                  "impression_count": 1947
+                },
+                "reply_settings": "everyone",
+                "attachments": {
+                  "media_keys": [
+                    "3_2023801551966650368"
+                  ]
+                },
+                "edit_history_tweet_ids": [
+                  "2023801557259874394"
+                ],
+                "conversation_id": "2023801557259874394",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": true,
+                  "editable_until": "2026-02-17T17:47:46.000Z"
+                },
+                "author_id": "1975516163078594560",
+                "entities": {
+                  "urls": [
+                    {
+                      "start": 132,
+                      "end": 155,
+                      "url": "https://t.co/QMfRvsV4TQ",
+                      "expanded_url": "https://x.com/Freundis21/status/2023801557259874394/photo/1",
+                      "display_url": "pic.x.com/QMfRvsV4TQ",
+                      "media_key": "3_2023801551966650368"
+                    }
+                  ]
+                },
+                "text": "噻奈普汀的话不建议滥用，第一次控制在37.5mg及以内吧，成人一次摄入超过这个量都会出现严重的不性良反应，超过或到达50mg会增加得5-羟色胺综合征的风险和中毒风险。你要是治疗抑郁的话，一天三次，每次12.5mg就好，和其他许多常见的od药物和抑郁药物也不能联用 https://t.co/QMfRvsV4TQ",
+                "id": "2023801557259874394",
+                "lang": "zh",
+                "possibly_sensitive": false
+              },
+              "includes": {
+                "media": [
+                  {
+                    "height": 923,
+                    "url": "https://pbs.twimg.com/media/HBX8yfjbQAA84EH.jpg",
+                    "width": 1170,
+                    "media_key": "3_2023801551966650368",
+                    "type": "photo"
+                  }
+                ],
+                "users": [
+                  {
+                    "verified": false,
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1979709468096053248/NP6_6sIl_normal.jpg",
+                    "id": "1975516163078594560",
+                    "username": "Freundis21",
+                    "public_metrics": {
+                      "followers_count": 1152,
+                      "following_count": 957,
+                      "tweet_count": 1418,
+                      "listed_count": 1,
+                      "like_count": 8076,
+                      "media_count": 306
+                    },
+                    "protected": false,
+                    "name": "Bokuwayakudatazudesu",
+                    "entities": {
+                      "description": {
+                        "urls": [
+                          {
+                            "start": 2,
+                            "end": 25,
+                            "url": "https://t.co/8kDSGb7b5b",
+                            "expanded_url": "https://miyu.link/Freundis",
+                            "display_url": "miyu.link/Freundis"
+                          }
+                        ]
+                      }
+                    },
+                    "description": "提问https://t.co/8kDSGb7b5b",
+                    "created_at": "2025-10-07T10:59:00.000Z"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

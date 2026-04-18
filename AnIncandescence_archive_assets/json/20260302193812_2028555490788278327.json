@@ -1,1 +1,445 @@
-{"data":{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"2028106216338301029","created_at":"2026-03-02T19:38:12.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2026-03-02T20:38:12.000Z"},"edit_history_tweet_ids":["2028555490788278327"],"entities":{"mentions":[{"start":0,"end":13,"username":"AliceEslight","id":"1585942498253238273"},{"start":14,"end":24,"username":"BBreclass","id":"784637178886455296"}]},"geo":{},"id":"2028555490788278327","in_reply_to_user_id":"1585942498253238273","lang":"ja","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"2028412115485339744"}],"reply_settings":"everyone","text":"@AliceEslight @BBreclass 密教！"},"includes":{"users":[{"created_at":"2024-01-02T01:22:57.000Z","description":"猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 倒影@TauCeti_10700 计划这个号机的浓度更高一些 | 🚪88/158","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/iO6MRJNTYR","expanded_url":"https://ngl.link/anincandescence1","display_url":"ngl.link/anincandescenc…"}]},"description":{"mentions":[{"start":62,"end":76,"username":"TauCeti_10700"}]}},"id":"1741993395910811648","location":"天鹅座X-1 //⬇️ 匿名提问箱","name":"炽烈已极","pinned_tweet_id":"2024076888923365667","profile_image_url":"https://pbs.twimg.com/profile_images/2027047460930023425/YHzQxhYF_normal.jpg","protected":false,"public_metrics":{"followers_count":1755,"following_count":236,"tweet_count":6168,"listed_count":5,"like_count":14861,"media_count":1102},"url":"https://t.co/iO6MRJNTYR","username":"AnIncandescence","verified":false},{"created_at":"2022-10-28T10:32:40.000Z","description":"爱丽丝，明天是什么颜色呢？","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/y3f6U9JOiT","expanded_url":"https://ngl.link/aliceeslight1","display_url":"ngl.link/aliceeslight1"}]}},"id":"1585942498253238273","location":"无人可以替代","name":"疯子酱&爱丽丝","profile_image_url":"https://pbs.twimg.com/profile_images/1967640168355205120/rB48nN0F_normal.jpg","protected":false,"public_metrics":{"followers_count":532,"following_count":89,"tweet_count":13304,"listed_count":4,"like_count":36186,"media_count":609},"url":"https://t.co/y3f6U9JOiT","username":"AliceEslight","verified":false},{"created_at":"2016-10-08T06:10:56.000Z","description":"没有什么必须被遗忘","id":"784637178886455296","name":"骨白鸽","profile_image_url":"https://pbs.twimg.com/profile_images/2024442529014308864/VqOpTGaa_normal.jpg","protected":false,"public_metrics":{"followers_count":3,"following_count":48,"tweet_count":2111,"listed_count":3,"like_count":11,"media_count":2033},"username":"BBreclass","verified":false}],"tweets":[{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"2028106216338301029","created_at":"2026-03-02T19:38:12.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2026-03-02T20:38:12.000Z"},"edit_history_tweet_ids":["2028555490788278327"],"entities":{"mentions":[{"start":0,"end":13,"username":"AliceEslight","id":"1585942498253238273"},{"start":14,"end":24,"username":"BBreclass","id":"784637178886455296"}]},"geo":{},"id":"2028555490788278327","in_reply_to_user_id":"1585942498253238273","lang":"ja","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"2028412115485339744"}],"reply_settings":"everyone","text":"@AliceEslight @BBreclass 密教！"},{"article":{},"attachments":{},"author_id":"1585942498253238273","conversation_id":"2028106216338301029","created_at":"2026-03-02T10:08:29.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2026-03-02T11:08:29.000Z"},"edit_history_tweet_ids":["2028412115485339744"],"entities":{"mentions":[{"start":0,"end":10,"username":"BBreclass","id":"784637178886455296"}]},"geo":{},"id":"2028412115485339744","in_reply_to_user_id":"784637178886455296","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":2,"like_count":3,"quote_count":0,"bookmark_count":0,"impression_count":253},"referenced_tweets":[{"type":"replied_to","id":"2028388668889514265"}],"reply_settings":"everyone","text":"@BBreclass 骨白鸽，你应当知道大部分亡者是进入虚界，死得再死一点，只有小部分倒霉蛋才进入纯白之门。"}]}}
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741993395910811648",
+    "conversation_id": "2028106216338301029",
+    "created_at": "2026-03-02T19:38:12.000Z",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2026-03-02T20:38:12.000Z"
+    },
+    "edit_history_tweet_ids": [
+      "2028555490788278327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 13,
+          "username": "AliceEslight",
+          "id": "1585942498253238273"
+        },
+        {
+          "start": 14,
+          "end": 24,
+          "username": "BBreclass",
+          "id": "784637178886455296"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028555490788278327",
+    "in_reply_to_user_id": "1585942498253238273",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "2028412115485339744"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AliceEslight @BBreclass 密教！"
+  },
+  "includes": {
+    "users": [
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 倒影@TauCeti_10700 计划这个号机的浓度更高一些 | 🚪88/158",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/iO6MRJNTYR",
+                "expanded_url": "https://ngl.link/anincandescence1",
+                "display_url": "ngl.link/anincandescenc…"
+              }
+            ]
+          },
+          "description": {
+            "mentions": [
+              {
+                "start": 62,
+                "end": 76,
+                "username": "TauCeti_10700"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "天鹅座X-1 //⬇️ 匿名提问箱",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "2024076888923365667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027047460930023425/YHzQxhYF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1755,
+          "following_count": 236,
+          "tweet_count": 6168,
+          "listed_count": 5,
+          "like_count": 14861,
+          "media_count": 1102
+        },
+        "url": "https://t.co/iO6MRJNTYR",
+        "username": "AnIncandescence",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-28T10:32:40.000Z",
+        "description": "爱丽丝，明天是什么颜色呢？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/y3f6U9JOiT",
+                "expanded_url": "https://ngl.link/aliceeslight1",
+                "display_url": "ngl.link/aliceeslight1"
+              }
+            ]
+          }
+        },
+        "id": "1585942498253238273",
+        "location": "无人可以替代",
+        "name": "疯子酱&爱丽丝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967640168355205120/rB48nN0F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 532,
+          "following_count": 89,
+          "tweet_count": 13304,
+          "listed_count": 4,
+          "like_count": 36186,
+          "media_count": 609
+        },
+        "url": "https://t.co/y3f6U9JOiT",
+        "username": "AliceEslight",
+        "verified": false
+      },
+      {
+        "created_at": "2016-10-08T06:10:56.000Z",
+        "description": "没有什么必须被遗忘",
+        "id": "784637178886455296",
+        "name": "骨白鸽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024442529014308864/VqOpTGaa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 48,
+          "tweet_count": 2111,
+          "listed_count": 3,
+          "like_count": 11,
+          "media_count": 2033
+        },
+        "username": "BBreclass",
+        "verified": false
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741993395910811648",
+        "conversation_id": "2028106216338301029",
+        "created_at": "2026-03-02T19:38:12.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2026-03-02T20:38:12.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "2028555490788278327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 13,
+              "username": "AliceEslight",
+              "id": "1585942498253238273"
+            },
+            {
+              "start": 14,
+              "end": 24,
+              "username": "BBreclass",
+              "id": "784637178886455296"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028555490788278327",
+        "in_reply_to_user_id": "1585942498253238273",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "2028412115485339744"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AliceEslight @BBreclass 密教！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1585942498253238273",
+        "conversation_id": "2028106216338301029",
+        "created_at": "2026-03-02T10:08:29.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2026-03-02T11:08:29.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "2028412115485339744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 10,
+              "username": "BBreclass",
+              "id": "784637178886455296"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028412115485339744",
+        "in_reply_to_user_id": "784637178886455296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 2,
+          "like_count": 3,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 253
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "2028388668889514265"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BBreclass 骨白鸽，你应当知道大部分亡者是进入虚界，死得再死一点，只有小部分倒霉蛋才进入纯白之门。"
+      }
+    ]
+  },
+  "_pale_fire": {
+    "x_api_reply_chains": {
+      "2028388668889514265": {
+        "version": 1,
+        "fetched_at": "2026-04-18T01:32:36Z",
+        "max_depth": 63,
+        "posts": [
+          {
+            "id": "2028388668889514265",
+            "source": "x_api_oauth1",
+            "payload": {
+              "data": {
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "2028106216338301029"
+                  }
+                ],
+                "author_id": "784637178886455296",
+                "created_at": "2026-03-02T08:35:18.000Z",
+                "in_reply_to_user_id": "1585942498253238273",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2026-03-02T09:35:18.000Z"
+                },
+                "possibly_sensitive": false,
+                "id": "2028388668889514265",
+                "reply_settings": "everyone",
+                "text": "@AliceEslight 你下一次的初始，不一定比这个初始好。都是roll的事情，你怎么知道未来变好的概率就比roll初始的概率低呢？",
+                "edit_history_tweet_ids": [
+                  "2028388668889514265"
+                ],
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 466
+                },
+                "lang": "zh",
+                "conversation_id": "2028106216338301029",
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 0,
+                      "end": 13,
+                      "username": "AliceEslight",
+                      "id": "1585942498253238273"
+                    }
+                  ]
+                }
+              },
+              "includes": {
+                "users": [
+                  {
+                    "protected": false,
+                    "name": "骨白鸽",
+                    "created_at": "2016-10-08T06:10:56.000Z",
+                    "verified": false,
+                    "description": "没有什么必须被遗忘",
+                    "username": "BBreclass",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2024442529014308864/VqOpTGaa_normal.jpg",
+                    "public_metrics": {
+                      "followers_count": 10,
+                      "following_count": 60,
+                      "tweet_count": 2509,
+                      "listed_count": 3,
+                      "like_count": 93,
+                      "media_count": 2034
+                    },
+                    "id": "784637178886455296"
+                  },
+                  {
+                    "protected": false,
+                    "name": "疯子酱&爱丽丝",
+                    "created_at": "2022-10-28T10:32:40.000Z",
+                    "verified": false,
+                    "description": "愿我早逝，且无来生。",
+                    "username": "AliceEslight",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2043351664686739456/8serZhCr_normal.jpg",
+                    "public_metrics": {
+                      "followers_count": 544,
+                      "following_count": 91,
+                      "tweet_count": 14112,
+                      "listed_count": 4,
+                      "like_count": 38000,
+                      "media_count": 634
+                    },
+                    "id": "1585942498253238273",
+                    "location": "渐至的永宁乡"
+                  }
+                ],
+                "tweets": [
+                  {
+                    "author_id": "1585942498253238273",
+                    "created_at": "2026-03-01T13:52:57.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": true,
+                      "editable_until": "2026-03-01T14:52:57.000Z"
+                    },
+                    "possibly_sensitive": false,
+                    "id": "2028106216338301029",
+                    "reply_settings": "everyone",
+                    "text": "所以就感觉自杀很爽。一笔勾销，什么病啊什么苦啊，全都没有啦！全都不用面对。太爽了。",
+                    "edit_history_tweet_ids": [
+                      "2028106216338301029"
+                    ],
+                    "public_metrics": {
+                      "retweet_count": 108,
+                      "reply_count": 26,
+                      "like_count": 713,
+                      "quote_count": 5,
+                      "bookmark_count": 19,
+                      "impression_count": 25877
+                    },
+                    "lang": "zh",
+                    "conversation_id": "2028106216338301029"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "2028106216338301029",
+            "source": "x_api_oauth1",
+            "payload": {
+              "data": {
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": true,
+                  "editable_until": "2026-03-01T14:52:57.000Z"
+                },
+                "public_metrics": {
+                  "retweet_count": 108,
+                  "reply_count": 26,
+                  "like_count": 713,
+                  "quote_count": 5,
+                  "bookmark_count": 19,
+                  "impression_count": 25877
+                },
+                "id": "2028106216338301029",
+                "possibly_sensitive": false,
+                "text": "所以就感觉自杀很爽。一笔勾销，什么病啊什么苦啊，全都没有啦！全都不用面对。太爽了。",
+                "reply_settings": "everyone",
+                "created_at": "2026-03-01T13:52:57.000Z",
+                "lang": "zh",
+                "edit_history_tweet_ids": [
+                  "2028106216338301029"
+                ],
+                "conversation_id": "2028106216338301029",
+                "author_id": "1585942498253238273"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "name": "疯子酱&爱丽丝",
+                    "protected": false,
+                    "username": "AliceEslight",
+                    "location": "渐至的永宁乡",
+                    "id": "1585942498253238273",
+                    "public_metrics": {
+                      "followers_count": 544,
+                      "following_count": 91,
+                      "tweet_count": 14112,
+                      "listed_count": 4,
+                      "like_count": 38000,
+                      "media_count": 634
+                    },
+                    "created_at": "2022-10-28T10:32:40.000Z",
+                    "verified": false,
+                    "description": "愿我早逝，且无来生。",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2043351664686739456/8serZhCr_normal.jpg"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

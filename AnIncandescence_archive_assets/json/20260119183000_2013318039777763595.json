@@ -1,1 +1,605 @@
-{"data":{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"2013298948925010222","created_at":"2026-01-19T18:30:00.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2026-01-19T19:30:00.000Z"},"edit_history_tweet_ids":["2013318039777763595"],"entities":{"mentions":[{"start":0,"end":10,"username":"oct424242","id":"1761821960978460672"}]},"geo":{},"id":"2013318039777763595","in_reply_to_user_id":"1761821960978460672","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"2013317069865963543"}],"reply_settings":"everyone","text":"@oct424242 不想，醒过来TT…"},"includes":{"users":[{"created_at":"2024-01-02T01:22:57.000Z","description":"猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/iO6MRJNm9j","expanded_url":"https://ngl.link/anincandescence1","display_url":"ngl.link/anincandescenc…"}]}},"id":"1741993395910811648","location":"天鹅座X-1","name":"炽烈已极","pinned_tweet_id":"2010452086539145687","profile_image_url":"https://pbs.twimg.com/profile_images/2006317223414255617/jGT_GZyG_normal.jpg","protected":false,"public_metrics":{"followers_count":1527,"following_count":222,"tweet_count":5263,"listed_count":6,"like_count":12973,"media_count":993},"url":"https://t.co/iO6MRJNm9j","username":"AnIncandescence","verified":true},{"created_at":"2024-02-25T18:34:37.000Z","description":"they/them🏳️‍🌈🏳️‍⚧️ 务虚｜提问箱https://t.co/bYJdqcI0be","entities":{"description":{"urls":[{"start":25,"end":48,"url":"https://t.co/bYJdqcI0be","expanded_url":"https://ngl.link/margaret42","display_url":"ngl.link/margaret42"}]}},"id":"1761821960978460672","location":"北美","name":"🐙🌌","pinned_tweet_id":"1898009233653973144","profile_image_url":"https://pbs.twimg.com/profile_images/1828782828555001857/4E7p9DfA_normal.jpg","protected":false,"public_metrics":{"followers_count":96,"following_count":150,"tweet_count":896,"listed_count":1,"like_count":1378,"media_count":45},"username":"oct424242","verified":false}],"tweets":[{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"2013298948925010222","created_at":"2026-01-19T18:30:00.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2026-01-19T19:30:00.000Z"},"edit_history_tweet_ids":["2013318039777763595"],"entities":{"mentions":[{"start":0,"end":10,"username":"oct424242","id":"1761821960978460672"}]},"geo":{},"id":"2013318039777763595","in_reply_to_user_id":"1761821960978460672","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"2013317069865963543"}],"reply_settings":"everyone","text":"@oct424242 不想，醒过来TT…"},{"article":{},"attachments":{},"author_id":"1761821960978460672","conversation_id":"2013298948925010222","created_at":"2026-01-19T18:26:09.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2026-01-19T19:26:09.000Z"},"edit_history_tweet_ids":["2013317069865963543"],"entities":{"mentions":[{"start":0,"end":16,"username":"AnIncandescence","id":"1741993395910811648"}]},"geo":{},"id":"2013317069865963543","in_reply_to_user_id":"1741993395910811648","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":1,"like_count":1,"quote_count":0,"bookmark_count":0,"impression_count":3},"referenced_tweets":[{"type":"replied_to","id":"2013313686257967283"}],"reply_settings":"everyone","text":"@AnIncandescence 哦🥺还好吗"}]}}
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741993395910811648",
+    "conversation_id": "2013298948925010222",
+    "created_at": "2026-01-19T18:30:00.000Z",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2026-01-19T19:30:00.000Z"
+    },
+    "edit_history_tweet_ids": [
+      "2013318039777763595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 10,
+          "username": "oct424242",
+          "id": "1761821960978460672"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013318039777763595",
+    "in_reply_to_user_id": "1761821960978460672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "2013317069865963543"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oct424242 不想，醒过来TT…"
+  },
+  "includes": {
+    "users": [
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/iO6MRJNm9j",
+                "expanded_url": "https://ngl.link/anincandescence1",
+                "display_url": "ngl.link/anincandescenc…"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "天鹅座X-1",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "2010452086539145687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006317223414255617/jGT_GZyG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1527,
+          "following_count": 222,
+          "tweet_count": 5263,
+          "listed_count": 6,
+          "like_count": 12973,
+          "media_count": 993
+        },
+        "url": "https://t.co/iO6MRJNm9j",
+        "username": "AnIncandescence",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-25T18:34:37.000Z",
+        "description": "they/them🏳️‍🌈🏳️‍⚧️ 务虚｜提问箱https://t.co/bYJdqcI0be",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "start": 25,
+                "end": 48,
+                "url": "https://t.co/bYJdqcI0be",
+                "expanded_url": "https://ngl.link/margaret42",
+                "display_url": "ngl.link/margaret42"
+              }
+            ]
+          }
+        },
+        "id": "1761821960978460672",
+        "location": "北美",
+        "name": "🐙🌌",
+        "pinned_tweet_id": "1898009233653973144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828782828555001857/4E7p9DfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 150,
+          "tweet_count": 896,
+          "listed_count": 1,
+          "like_count": 1378,
+          "media_count": 45
+        },
+        "username": "oct424242",
+        "verified": false
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741993395910811648",
+        "conversation_id": "2013298948925010222",
+        "created_at": "2026-01-19T18:30:00.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2026-01-19T19:30:00.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "2013318039777763595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 10,
+              "username": "oct424242",
+              "id": "1761821960978460672"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013318039777763595",
+        "in_reply_to_user_id": "1761821960978460672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "2013317069865963543"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oct424242 不想，醒过来TT…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761821960978460672",
+        "conversation_id": "2013298948925010222",
+        "created_at": "2026-01-19T18:26:09.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2026-01-19T19:26:09.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "2013317069865963543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 16,
+              "username": "AnIncandescence",
+              "id": "1741993395910811648"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013317069865963543",
+        "in_reply_to_user_id": "1741993395910811648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "2013313686257967283"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnIncandescence 哦🥺还好吗"
+      }
+    ]
+  },
+  "_pale_fire": {
+    "x_api_reply_chains": {
+      "2013313686257967283": {
+        "version": 1,
+        "fetched_at": "2026-04-18T01:25:12Z",
+        "max_depth": 63,
+        "posts": [
+          {
+            "id": "2013313686257967283",
+            "source": "local_json",
+            "payload": {
+              "data": {
+                "article": {},
+                "attachments": {},
+                "author_id": "1741993395910811648",
+                "conversation_id": "2013298948925010222",
+                "created_at": "2026-01-19T18:12:43.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2026-01-19T19:12:43.000Z"
+                },
+                "edit_history_tweet_ids": [
+                  "2013313686257967283"
+                ],
+                "entities": {},
+                "geo": {},
+                "id": "2013313686257967283",
+                "in_reply_to_user_id": "1741993395910811648",
+                "lang": "zh",
+                "note_tweet": {
+                  "entities": {},
+                  "text": "「撕碎我…不知道对谁请求着\n碾压过一切的眩晕，将绝望也渲染开来\n哎..？我想起了什么 24年的夏天。。\n你去看看\n沉重的呼吸，身体又好像轻到能飘起来，苦涩和欣快搅在一起，我却享受着短暂被允许的混乱…不要离开我。你也是，药效也是，但是我什么都留不住…吗？\n啊，我做到了\n我哭出来了，但眼泪不像是我的\n我看不清」"
+                },
+                "possibly_sensitive": false,
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 0
+                },
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "2013298948925010222"
+                  }
+                ],
+                "reply_settings": "everyone",
+                "text": "「撕碎我…不知道对谁请求着\n碾压过一切的眩晕，将绝望也渲染开来\n哎..？我想起了什么 24年的夏天。。\n你去看看\n沉重的呼吸，身体又好像轻到能飘起来，苦涩和欣快搅在一起，我却享受着短暂被允许的混乱…不要离开我。你也是，药效也是，但是我什么都留不住…吗？\n啊，我做到了"
+              },
+              "includes": {
+                "media": [
+                  {
+                    "height": 4032,
+                    "media_key": "3_2013298785753952256",
+                    "public_metrics": {},
+                    "type": "photo",
+                    "url": "https://pbs.twimg.com/media/G_CslCeW8AAnYkT.jpg",
+                    "width": 3024
+                  }
+                ],
+                "users": [
+                  {
+                    "created_at": "2024-01-02T01:22:57.000Z",
+                    "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/iO6MRJNm9j",
+                            "expanded_url": "https://ngl.link/anincandescence1",
+                            "display_url": "ngl.link/anincandescenc…"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1741993395910811648",
+                    "location": "天鹅座X-1",
+                    "name": "炽烈已极",
+                    "pinned_tweet_id": "2010452086539145687",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2006317223414255617/jGT_GZyG_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 1528,
+                      "following_count": 223,
+                      "tweet_count": 5262,
+                      "listed_count": 6,
+                      "like_count": 12972,
+                      "media_count": 993
+                    },
+                    "url": "https://t.co/iO6MRJNm9j",
+                    "username": "AnIncandescence",
+                    "verified": true
+                  }
+                ],
+                "tweets": [
+                  {
+                    "article": {},
+                    "attachments": {},
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "2013298948925010222",
+                    "created_at": "2026-01-19T18:12:43.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2026-01-19T19:12:43.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "2013313686257967283"
+                    ],
+                    "entities": {},
+                    "geo": {},
+                    "id": "2013313686257967283",
+                    "in_reply_to_user_id": "1741993395910811648",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {},
+                      "text": "「撕碎我…不知道对谁请求着\n碾压过一切的眩晕，将绝望也渲染开来\n哎..？我想起了什么 24年的夏天。。\n你去看看\n沉重的呼吸，身体又好像轻到能飘起来，苦涩和欣快搅在一起，我却享受着短暂被允许的混乱…不要离开我。你也是，药效也是，但是我什么都留不住…吗？\n啊，我做到了\n我哭出来了，但眼泪不像是我的\n我看不清」"
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 0,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 0
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "2013298948925010222"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "「撕碎我…不知道对谁请求着\n碾压过一切的眩晕，将绝望也渲染开来\n哎..？我想起了什么 24年的夏天。。\n你去看看\n沉重的呼吸，身体又好像轻到能飘起来，苦涩和欣快搅在一起，我却享受着短暂被允许的混乱…不要离开我。你也是，药效也是，但是我什么都留不住…吗？\n啊，我做到了"
+                  },
+                  {
+                    "article": {},
+                    "attachments": {
+                      "media_keys": [
+                        "3_2013298785753952256"
+                      ]
+                    },
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "2013298948925010222",
+                    "created_at": "2026-01-19T17:14:09.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2026-01-19T18:14:09.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "2013298948925010222"
+                    ],
+                    "entities": {
+                      "urls": [
+                        {
+                          "start": 24,
+                          "end": 47,
+                          "url": "https://t.co/Xpfxna8dSq",
+                          "expanded_url": "https://x.com/AnIncandescence/status/2013298948925010222/photo/1",
+                          "display_url": "pic.x.com/Xpfxna8dSq",
+                          "media_key": "3_2013298785753952256"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "2013298948925010222",
+                    "lang": "ja",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 3,
+                      "like_count": 2,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 64
+                    },
+                    "reply_settings": "everyone",
+                    "text": "3dmxe...捞捞...…Σ_(꒪ཀ꒪」∠) https://t.co/Xpfxna8dSq"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "2013298948925010222",
+            "source": "local_json",
+            "payload": {
+              "data": {
+                "article": {},
+                "attachments": {},
+                "author_id": "1741993395910811648",
+                "conversation_id": "2013298948925010222",
+                "created_at": "2026-01-19T18:12:43.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2026-01-19T19:12:43.000Z"
+                },
+                "edit_history_tweet_ids": [
+                  "2013313686257967283"
+                ],
+                "entities": {},
+                "geo": {},
+                "id": "2013313686257967283",
+                "in_reply_to_user_id": "1741993395910811648",
+                "lang": "zh",
+                "note_tweet": {
+                  "entities": {},
+                  "text": "「撕碎我…不知道对谁请求着\n碾压过一切的眩晕，将绝望也渲染开来\n哎..？我想起了什么 24年的夏天。。\n你去看看\n沉重的呼吸，身体又好像轻到能飘起来，苦涩和欣快搅在一起，我却享受着短暂被允许的混乱…不要离开我。你也是，药效也是，但是我什么都留不住…吗？\n啊，我做到了\n我哭出来了，但眼泪不像是我的\n我看不清」"
+                },
+                "possibly_sensitive": false,
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 0
+                },
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "2013298948925010222"
+                  }
+                ],
+                "reply_settings": "everyone",
+                "text": "「撕碎我…不知道对谁请求着\n碾压过一切的眩晕，将绝望也渲染开来\n哎..？我想起了什么 24年的夏天。。\n你去看看\n沉重的呼吸，身体又好像轻到能飘起来，苦涩和欣快搅在一起，我却享受着短暂被允许的混乱…不要离开我。你也是，药效也是，但是我什么都留不住…吗？\n啊，我做到了"
+              },
+              "includes": {
+                "media": [
+                  {
+                    "height": 4032,
+                    "media_key": "3_2013298785753952256",
+                    "public_metrics": {},
+                    "type": "photo",
+                    "url": "https://pbs.twimg.com/media/G_CslCeW8AAnYkT.jpg",
+                    "width": 3024
+                  }
+                ],
+                "users": [
+                  {
+                    "created_at": "2024-01-02T01:22:57.000Z",
+                    "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/iO6MRJNm9j",
+                            "expanded_url": "https://ngl.link/anincandescence1",
+                            "display_url": "ngl.link/anincandescenc…"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1741993395910811648",
+                    "location": "天鹅座X-1",
+                    "name": "炽烈已极",
+                    "pinned_tweet_id": "2010452086539145687",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2006317223414255617/jGT_GZyG_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 1528,
+                      "following_count": 223,
+                      "tweet_count": 5262,
+                      "listed_count": 6,
+                      "like_count": 12972,
+                      "media_count": 993
+                    },
+                    "url": "https://t.co/iO6MRJNm9j",
+                    "username": "AnIncandescence",
+                    "verified": true
+                  }
+                ],
+                "tweets": [
+                  {
+                    "article": {},
+                    "attachments": {},
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "2013298948925010222",
+                    "created_at": "2026-01-19T18:12:43.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2026-01-19T19:12:43.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "2013313686257967283"
+                    ],
+                    "entities": {},
+                    "geo": {},
+                    "id": "2013313686257967283",
+                    "in_reply_to_user_id": "1741993395910811648",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {},
+                      "text": "「撕碎我…不知道对谁请求着\n碾压过一切的眩晕，将绝望也渲染开来\n哎..？我想起了什么 24年的夏天。。\n你去看看\n沉重的呼吸，身体又好像轻到能飘起来，苦涩和欣快搅在一起，我却享受着短暂被允许的混乱…不要离开我。你也是，药效也是，但是我什么都留不住…吗？\n啊，我做到了\n我哭出来了，但眼泪不像是我的\n我看不清」"
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 0,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 0
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "2013298948925010222"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "「撕碎我…不知道对谁请求着\n碾压过一切的眩晕，将绝望也渲染开来\n哎..？我想起了什么 24年的夏天。。\n你去看看\n沉重的呼吸，身体又好像轻到能飘起来，苦涩和欣快搅在一起，我却享受着短暂被允许的混乱…不要离开我。你也是，药效也是，但是我什么都留不住…吗？\n啊，我做到了"
+                  },
+                  {
+                    "article": {},
+                    "attachments": {
+                      "media_keys": [
+                        "3_2013298785753952256"
+                      ]
+                    },
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "2013298948925010222",
+                    "created_at": "2026-01-19T17:14:09.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2026-01-19T18:14:09.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "2013298948925010222"
+                    ],
+                    "entities": {
+                      "urls": [
+                        {
+                          "start": 24,
+                          "end": 47,
+                          "url": "https://t.co/Xpfxna8dSq",
+                          "expanded_url": "https://x.com/AnIncandescence/status/2013298948925010222/photo/1",
+                          "display_url": "pic.x.com/Xpfxna8dSq",
+                          "media_key": "3_2013298785753952256"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "2013298948925010222",
+                    "lang": "ja",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 3,
+                      "like_count": 2,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 64
+                    },
+                    "reply_settings": "everyone",
+                    "text": "3dmxe...捞捞...…Σ_(꒪ཀ꒪」∠) https://t.co/Xpfxna8dSq"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

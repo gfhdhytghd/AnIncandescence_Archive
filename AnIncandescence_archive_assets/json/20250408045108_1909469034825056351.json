@@ -1,1 +1,413 @@
-{"data":{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1909466004486517182","created_at":"2025-04-08T04:51:08.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-04-08T05:51:08.000Z"},"edit_history_tweet_ids":["1909469034825056351"],"entities":{"mentions":[{"start":0,"end":14,"username":"zunnihuojia23","id":"1675185486053384192"},{"start":15,"end":27,"username":"Sailoud0218","id":"1676795014557618176"}]},"geo":{},"id":"1909469034825056351","in_reply_to_user_id":"1675185486053384192","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1909468185130057928"}],"reply_settings":"everyone","text":"@zunnihuojia23 @Sailoud0218 兔头发力了！"},"includes":{"media":[{"height":2048,"media_key":"3_1909468182311813120","public_metrics":{},"type":"photo","url":"https://pbs.twimg.com/media/Gn_LMeybQAAxla8.jpg","width":922}],"users":[{"created_at":"2024-01-02T01:22:57.000Z","description":"猫，诗歌，精神动力学。艺术，C#，波粒二象性。回归曲线上的量子生物，无攻击性。 | “我们彻夜飞旋，直至没入火焰。” | 小小炽 @TauCeti_10700 | 匿名提问箱👇 | 🚪88/158","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/MuEKSg4tIS","expanded_url":"https://ngl.link/anincandescence","display_url":"ngl.link/anincandescence"}]},"description":{"mentions":[{"start":65,"end":79,"username":"TauCeti_10700"}]}},"id":"1741993395910811648","location":"0°00′N 260°00′E Mars","name":"炽烈已极","pinned_tweet_id":"1905895186867400960","profile_image_url":"https://pbs.twimg.com/profile_images/1789433740277567488/d3KhwUX1_normal.jpg","protected":false,"public_metrics":{"followers_count":627,"following_count":193,"tweet_count":2208,"listed_count":1,"like_count":6047,"media_count":484},"url":"https://t.co/MuEKSg4tIS","username":"AnIncandescence","verified":false},{"created_at":"2023-07-01T16:52:10.000Z","description":"“___”","id":"1675185486053384192","location":"正在杀出冥界","name":"毕不加索","profile_image_url":"https://pbs.twimg.com/profile_images/1900596636264300544/nuYT76q__normal.jpg","protected":false,"public_metrics":{"followers_count":10,"following_count":21,"tweet_count":4,"listed_count":0,"like_count":45,"media_count":2},"username":"zunnihuojia23","verified":false},{"created_at":"2023-07-06T03:27:45.000Z","description":"🌈 Trans/ENBY 笼中鸟 星之核","id":"1676795014557618176","location":"🎉正在殺出冥界🎉","name":"迟鸢","pinned_tweet_id":"1890050546691957158","profile_image_url":"https://pbs.twimg.com/profile_images/1903431415724945408/kfgSFmU9_normal.jpg","protected":false,"public_metrics":{"followers_count":188,"following_count":409,"tweet_count":1008,"listed_count":1,"like_count":2868,"media_count":218},"username":"Sailoud0218","verified":false}],"tweets":[{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1909466004486517182","created_at":"2025-04-08T04:51:08.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-04-08T05:51:08.000Z"},"edit_history_tweet_ids":["1909469034825056351"],"entities":{"mentions":[{"start":0,"end":14,"username":"zunnihuojia23","id":"1675185486053384192"},{"start":15,"end":27,"username":"Sailoud0218","id":"1676795014557618176"}]},"geo":{},"id":"1909469034825056351","in_reply_to_user_id":"1675185486053384192","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1909468185130057928"}],"reply_settings":"everyone","text":"@zunnihuojia23 @Sailoud0218 兔头发力了！"},{"article":{},"attachments":{"media_keys":["3_1909468182311813120"]},"author_id":"1675185486053384192","context_annotations":[{"domain":{"id":"46","name":"Business Taxonomy","description":"Categories within Brand Verticals that narrow down the scope of Brands"},"entity":{"id":"1557696940178935808","name":"Gaming Business","description":"Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers"}}],"conversation_id":"1909466004486517182","created_at":"2025-04-08T04:47:46.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-04-08T05:47:46.000Z"},"edit_history_tweet_ids":["1909468185130057928"],"entities":{"mentions":[{"start":0,"end":12,"username":"Sailoud0218","id":"1676795014557618176"}],"urls":[{"start":28,"end":51,"url":"https://t.co/ECxXxwZXTR","expanded_url":"https://x.com/zunnihuojia23/status/1909468185130057928/photo/1","display_url":"pic.x.com/ECxXxwZXTR","media_key":"3_1909468182311813120"}]},"geo":{},"id":"1909468185130057928","in_reply_to_user_id":"1676795014557618176","lang":"ja","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":1,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":3},"referenced_tweets":[{"type":"replied_to","id":"1909466004486517182"}],"reply_settings":"everyone","text":"@Sailoud0218 没事血狼初评m3超大杯中上😋 https://t.co/ECxXxwZXTR"}]}}
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741993395910811648",
+    "conversation_id": "1909466004486517182",
+    "created_at": "2025-04-08T04:51:08.000Z",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2025-04-08T05:51:08.000Z"
+    },
+    "edit_history_tweet_ids": [
+      "1909469034825056351"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "zunnihuojia23",
+          "id": "1675185486053384192"
+        },
+        {
+          "start": 15,
+          "end": 27,
+          "username": "Sailoud0218",
+          "id": "1676795014557618176"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909469034825056351",
+    "in_reply_to_user_id": "1675185486053384192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1909468185130057928"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zunnihuojia23 @Sailoud0218 兔头发力了！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1909468182311813120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn_LMeybQAAxla8.jpg",
+        "width": 922
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，C#，波粒二象性。回归曲线上的量子生物，无攻击性。 | “我们彻夜飞旋，直至没入火焰。” | 小小炽 @TauCeti_10700 | 匿名提问箱👇 | 🚪88/158",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/MuEKSg4tIS",
+                "expanded_url": "https://ngl.link/anincandescence",
+                "display_url": "ngl.link/anincandescence"
+              }
+            ]
+          },
+          "description": {
+            "mentions": [
+              {
+                "start": 65,
+                "end": 79,
+                "username": "TauCeti_10700"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "0°00′N 260°00′E Mars",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "1905895186867400960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789433740277567488/d3KhwUX1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 627,
+          "following_count": 193,
+          "tweet_count": 2208,
+          "listed_count": 1,
+          "like_count": 6047,
+          "media_count": 484
+        },
+        "url": "https://t.co/MuEKSg4tIS",
+        "username": "AnIncandescence",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-01T16:52:10.000Z",
+        "description": "“___”",
+        "id": "1675185486053384192",
+        "location": "正在杀出冥界",
+        "name": "毕不加索",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900596636264300544/nuYT76q__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 21,
+          "tweet_count": 4,
+          "listed_count": 0,
+          "like_count": 45,
+          "media_count": 2
+        },
+        "username": "zunnihuojia23",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-06T03:27:45.000Z",
+        "description": "🌈 Trans/ENBY 笼中鸟 星之核",
+        "id": "1676795014557618176",
+        "location": "🎉正在殺出冥界🎉",
+        "name": "迟鸢",
+        "pinned_tweet_id": "1890050546691957158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903431415724945408/kfgSFmU9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 409,
+          "tweet_count": 1008,
+          "listed_count": 1,
+          "like_count": 2868,
+          "media_count": 218
+        },
+        "username": "Sailoud0218",
+        "verified": false
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741993395910811648",
+        "conversation_id": "1909466004486517182",
+        "created_at": "2025-04-08T04:51:08.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2025-04-08T05:51:08.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1909469034825056351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 14,
+              "username": "zunnihuojia23",
+              "id": "1675185486053384192"
+            },
+            {
+              "start": 15,
+              "end": 27,
+              "username": "Sailoud0218",
+              "id": "1676795014557618176"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909469034825056351",
+        "in_reply_to_user_id": "1675185486053384192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1909468185130057928"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zunnihuojia23 @Sailoud0218 兔头发力了！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1909468182311813120"
+          ]
+        },
+        "author_id": "1675185486053384192",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "46",
+              "name": "Business Taxonomy",
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+            },
+            "entity": {
+              "id": "1557696940178935808",
+              "name": "Gaming Business",
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers"
+            }
+          }
+        ],
+        "conversation_id": "1909466004486517182",
+        "created_at": "2025-04-08T04:47:46.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2025-04-08T05:47:46.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1909468185130057928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 12,
+              "username": "Sailoud0218",
+              "id": "1676795014557618176"
+            }
+          ],
+          "urls": [
+            {
+              "start": 28,
+              "end": 51,
+              "url": "https://t.co/ECxXxwZXTR",
+              "expanded_url": "https://x.com/zunnihuojia23/status/1909468185130057928/photo/1",
+              "display_url": "pic.x.com/ECxXxwZXTR",
+              "media_key": "3_1909468182311813120"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909468185130057928",
+        "in_reply_to_user_id": "1676795014557618176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1909466004486517182"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sailoud0218 没事血狼初评m3超大杯中上😋 https://t.co/ECxXxwZXTR"
+      }
+    ]
+  },
+  "_pale_fire": {
+    "x_api_reply_chains": {
+      "1909466004486517182": {
+        "version": 1,
+        "fetched_at": "2026-04-18T00:10:43Z",
+        "max_depth": 63,
+        "posts": [
+          {
+            "id": "1909466004486517182",
+            "source": "x_api",
+            "payload": {
+              "data": {
+                "lang": "zh",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": true,
+                  "editable_until": "2025-04-08T05:39:06.000Z"
+                },
+                "id": "1909466004486517182",
+                "edit_history_tweet_ids": [
+                  "1909466004486517182"
+                ],
+                "possibly_sensitive": false,
+                "created_at": "2025-04-08T04:39:06.000Z",
+                "author_id": "1676795014557618176",
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 6,
+                  "quote_count": 0,
+                  "bookmark_count": 1,
+                  "impression_count": 2150
+                },
+                "entities": {
+                  "urls": [
+                    {
+                      "start": 117,
+                      "end": 140,
+                      "url": "https://t.co/TyMARSNvyV",
+                      "expanded_url": "https://x.com/Sailoud0218/status/1909466004486517182/photo/1",
+                      "display_url": "pic.x.com/TyMARSNvyV",
+                      "media_key": "3_1909465986857943041"
+                    },
+                    {
+                      "start": 117,
+                      "end": 140,
+                      "url": "https://t.co/TyMARSNvyV",
+                      "expanded_url": "https://x.com/Sailoud0218/status/1909466004486517182/photo/1",
+                      "display_url": "pic.x.com/TyMARSNvyV",
+                      "media_key": "16_1909465990343331842"
+                    }
+                  ]
+                },
+                "conversation_id": "1909466004486517182",
+                "text": "凯尔希右肩上的那一点源石结晶，是她生而为人的证据，也是夺走她生命的根源。\n源石结晶开始扩散，直至吞噬了她整个身躯，随风消散——你的眼睛来不及捕捉这一完整过程\n越是强大，越是脆弱。\n长生之人的生命在此终结。\n她已经完成了她的诺言。\n😭 https://t.co/TyMARSNvyV",
+                "attachments": {
+                  "media_keys": [
+                    "3_1909465986857943041",
+                    "16_1909465990343331842"
+                  ]
+                },
+                "reply_settings": "everyone"
+              },
+              "includes": {
+                "media": [
+                  {
+                    "width": 2048,
+                    "type": "photo",
+                    "url": "https://pbs.twimg.com/media/Gn_JMsFbwAEiSZe.jpg",
+                    "height": 1281,
+                    "media_key": "3_1909465986857943041"
+                  },
+                  {
+                    "width": 108,
+                    "type": "animated_gif",
+                    "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/Gn_JM5EakAIfEAx.jpg",
+                    "variants": [
+                      {
+                        "bit_rate": 0,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/tweet_video/Gn_JM5EakAIfEAx.mp4"
+                      }
+                    ],
+                    "height": 108,
+                    "media_key": "16_1909465990343331842"
+                  }
+                ],
+                "users": [
+                  {
+                    "username": "Sailoud0218",
+                    "description": "🌈 Trans/ENBY 笼中鸟 星之核\n\nLove with @_Char____ ❤️",
+                    "entities": {
+                      "description": {
+                        "mentions": [
+                          {
+                            "start": 32,
+                            "end": 42,
+                            "username": "_Char____"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1676795014557618176",
+                    "name": "迟鸢",
+                    "protected": false,
+                    "verified": false,
+                    "created_at": "2023-07-06T03:27:45.000Z",
+                    "public_metrics": {
+                      "followers_count": 168,
+                      "following_count": 384,
+                      "tweet_count": 1072,
+                      "listed_count": 2,
+                      "like_count": 2689,
+                      "media_count": 232
+                    },
+                    "location": "🎉正在殺出冥界🎉",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1903431415724945408/kfgSFmU9_normal.jpg"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

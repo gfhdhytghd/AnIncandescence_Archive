@@ -1,1 +1,1566 @@
-{"data":{"article":{},"attachments":{"media_keys":["3_2028245281033146368"]},"author_id":"1741993395910811648","conversation_id":"2027988341938122846","created_at":"2026-03-01T23:05:35.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2026-03-02T00:05:35.000Z"},"edit_history_tweet_ids":["2028245293825687689"],"entities":{"mentions":[{"start":0,"end":9,"username":"shwtasdf","id":"2323953643"},{"start":10,"end":21,"username":"BeetiIsDog","id":"1799795163843436544"},{"start":22,"end":29,"username":"xiaohu","id":"1764818331822182400"}],"urls":[{"start":46,"end":69,"url":"https://t.co/mgCxDomGjm","expanded_url":"https://x.com/AnIncandescence/status/2028245293825687689/photo/1","display_url":"pic.x.com/mgCxDomGjm","media_key":"3_2028245281033146368"}]},"geo":{},"id":"2028245293825687689","in_reply_to_user_id":"2323953643","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"2028227289968677094"}],"reply_settings":"everyone","text":"@shwtasdf @BeetiIsDog @xiaohu 审查和额度应该是分开的呀..？ https://t.co/mgCxDomGjm"},"includes":{"media":[{"height":1664,"media_key":"3_2028245281033146368","public_metrics":{},"type":"photo","url":"https://pbs.twimg.com/media/HCXGVkVX0AAiZx8.jpg","width":1206}],"users":[{"created_at":"2024-01-02T01:22:57.000Z","description":"猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 倒影@TauCeti_10700 计划这个号机的浓度更高一些 | 🚪88/158","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/iO6MRJNTYR","expanded_url":"https://ngl.link/anincandescence1","display_url":"ngl.link/anincandescenc…"}]},"description":{"mentions":[{"start":62,"end":76,"username":"TauCeti_10700"}]}},"id":"1741993395910811648","location":"天鹅座X-1 //⬇️ 匿名提问箱","name":"炽烈已极","pinned_tweet_id":"2024076888923365667","profile_image_url":"https://pbs.twimg.com/profile_images/2027047460930023425/YHzQxhYF_normal.jpg","protected":false,"public_metrics":{"followers_count":1757,"following_count":237,"tweet_count":6140,"listed_count":5,"like_count":14813,"media_count":1098},"url":"https://t.co/iO6MRJNTYR","username":"AnIncandescence","verified":false},{"created_at":"2014-02-02T15:36:38.000Z","description":"1","id":"2323953643","name":"wtᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠ","pinned_tweet_id":"2023002701605613831","profile_image_url":"https://pbs.twimg.com/profile_images/1956148970536767489/gViGvpX6_normal.jpg","protected":false,"public_metrics":{"followers_count":114,"following_count":93,"tweet_count":3801,"listed_count":0,"like_count":9921,"media_count":347},"username":"shwtasdf","verified":false},{"created_at":"2024-06-09T13:26:33.000Z","description":"常助無傷 愛全奉全//用繁體字只是因為好看//互fo私信//只是个普通人,画我想画写我想写,不接稿,此账号用于堆积画作+迷思+碎碎念❌所有画作禁止用于AI训练❌ 我老大:@sysjf0 超级好朋友!:@Cheese_Ghostfox 黑泥:@5_HTIsUsagi","entities":{"description":{"mentions":[{"start":85,"end":92,"username":"sysjf0"},{"start":100,"end":116,"username":"Cheese_Ghostfox"},{"start":120,"end":132,"username":"5_HTIsUsagi"}]}},"id":"1799795163843436544","location":"藤井風的钢琴","name":"🧬ビーチイ小犬U⁠ ⁠´⁠꓃⁠ ⁠`⁠ ⁠U多忙","pinned_tweet_id":"2007369704353169744","profile_image_url":"https://pbs.twimg.com/profile_images/2025829253011701760/j-qnjHkL_normal.jpg","protected":false,"public_metrics":{"followers_count":492,"following_count":835,"tweet_count":8005,"listed_count":2,"like_count":36469,"media_count":476},"username":"BeetiIsDog","verified":false},{"created_at":"2024-03-05T01:01:23.000Z","description":"带你了解全球最前沿科技、AI动态...\n\n学AI找小互，找小互，上 https://t.co/4PVaHEr5r3 ...\n\n小互AI日报 社群：https://t.co/LIEXfWUHv1","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/4PVaHEr5r3","expanded_url":"http://xiaohu.ai","display_url":"xiaohu.ai"}]},"description":{"urls":[{"start":34,"end":57,"url":"https://t.co/4PVaHEr5r3","expanded_url":"http://xiaohu.ai","display_url":"xiaohu.ai"},{"start":73,"end":96,"url":"https://t.co/LIEXfWUHv1","expanded_url":"https://www.xiaohu.ai/c/xiaohu-ai/xiaohu-ai-e5aae9","display_url":"xiaohu.ai/c/xiaohu-ai/xi…"}]}},"id":"1764818331822182400","location":"Mars","name":"小互","profile_image_url":"https://pbs.twimg.com/profile_images/1765404718959095808/BX7VN1hS_normal.jpg","protected":false,"public_metrics":{"followers_count":96827,"following_count":1587,"tweet_count":9094,"listed_count":1382,"like_count":2115,"media_count":5748},"url":"https://t.co/4PVaHEr5r3","username":"xiaohu","verified":true}],"tweets":[{"article":{},"attachments":{"media_keys":["3_2028245281033146368"]},"author_id":"1741993395910811648","conversation_id":"2027988341938122846","created_at":"2026-03-01T23:05:35.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2026-03-02T00:05:35.000Z"},"edit_history_tweet_ids":["2028245293825687689"],"entities":{"mentions":[{"start":0,"end":9,"username":"shwtasdf","id":"2323953643"},{"start":10,"end":21,"username":"BeetiIsDog","id":"1799795163843436544"},{"start":22,"end":29,"username":"xiaohu","id":"1764818331822182400"}],"urls":[{"start":46,"end":69,"url":"https://t.co/mgCxDomGjm","expanded_url":"https://x.com/AnIncandescence/status/2028245293825687689/photo/1","display_url":"pic.x.com/mgCxDomGjm","media_key":"3_2028245281033146368"}]},"geo":{},"id":"2028245293825687689","in_reply_to_user_id":"2323953643","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"2028227289968677094"}],"reply_settings":"everyone","text":"@shwtasdf @BeetiIsDog @xiaohu 审查和额度应该是分开的呀..？ https://t.co/mgCxDomGjm"},{"article":{},"attachments":{},"author_id":"2323953643","conversation_id":"2027988341938122846","created_at":"2026-03-01T21:54:03.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2026-03-01T22:54:03.000Z"},"edit_history_tweet_ids":["2028227289968677094"],"entities":{"mentions":[{"start":0,"end":16,"username":"AnIncandescence","id":"1741993395910811648"},{"start":17,"end":28,"username":"BeetiIsDog","id":"1799795163843436544"},{"start":29,"end":36,"username":"xiaohu","id":"1764818331822182400"}]},"geo":{},"id":"2028227289968677094","in_reply_to_user_id":"1741993395910811648","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":1,"like_count":1,"quote_count":0,"bookmark_count":0,"impression_count":25},"referenced_tweets":[{"type":"replied_to","id":"2028163504637612462"}],"reply_settings":"everyone","text":"@AnIncandescence @BeetiIsDog @xiaohu 触发审查两三轮对话之后就要等五个小时额度重置，pro订阅也一样"}]}}
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028245281033146368"
+      ]
+    },
+    "author_id": "1741993395910811648",
+    "conversation_id": "2027988341938122846",
+    "created_at": "2026-03-01T23:05:35.000Z",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2026-03-02T00:05:35.000Z"
+    },
+    "edit_history_tweet_ids": [
+      "2028245293825687689"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 9,
+          "username": "shwtasdf",
+          "id": "2323953643"
+        },
+        {
+          "start": 10,
+          "end": 21,
+          "username": "BeetiIsDog",
+          "id": "1799795163843436544"
+        },
+        {
+          "start": 22,
+          "end": 29,
+          "username": "xiaohu",
+          "id": "1764818331822182400"
+        }
+      ],
+      "urls": [
+        {
+          "start": 46,
+          "end": 69,
+          "url": "https://t.co/mgCxDomGjm",
+          "expanded_url": "https://x.com/AnIncandescence/status/2028245293825687689/photo/1",
+          "display_url": "pic.x.com/mgCxDomGjm",
+          "media_key": "3_2028245281033146368"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028245293825687689",
+    "in_reply_to_user_id": "2323953643",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "2028227289968677094"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shwtasdf @BeetiIsDog @xiaohu 审查和额度应该是分开的呀..？ https://t.co/mgCxDomGjm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1664,
+        "media_key": "3_2028245281033146368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCXGVkVX0AAiZx8.jpg",
+        "width": 1206
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 倒影@TauCeti_10700 计划这个号机的浓度更高一些 | 🚪88/158",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/iO6MRJNTYR",
+                "expanded_url": "https://ngl.link/anincandescence1",
+                "display_url": "ngl.link/anincandescenc…"
+              }
+            ]
+          },
+          "description": {
+            "mentions": [
+              {
+                "start": 62,
+                "end": 76,
+                "username": "TauCeti_10700"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "天鹅座X-1 //⬇️ 匿名提问箱",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "2024076888923365667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027047460930023425/YHzQxhYF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1757,
+          "following_count": 237,
+          "tweet_count": 6140,
+          "listed_count": 5,
+          "like_count": 14813,
+          "media_count": 1098
+        },
+        "url": "https://t.co/iO6MRJNTYR",
+        "username": "AnIncandescence",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-02T15:36:38.000Z",
+        "description": "1",
+        "id": "2323953643",
+        "name": "wtᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠ",
+        "pinned_tweet_id": "2023002701605613831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956148970536767489/gViGvpX6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 93,
+          "tweet_count": 3801,
+          "listed_count": 0,
+          "like_count": 9921,
+          "media_count": 347
+        },
+        "username": "shwtasdf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-09T13:26:33.000Z",
+        "description": "常助無傷 愛全奉全//用繁體字只是因為好看//互fo私信//只是个普通人,画我想画写我想写,不接稿,此账号用于堆积画作+迷思+碎碎念❌所有画作禁止用于AI训练❌ 我老大:@sysjf0 超级好朋友!:@Cheese_Ghostfox 黑泥:@5_HTIsUsagi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "start": 85,
+                "end": 92,
+                "username": "sysjf0"
+              },
+              {
+                "start": 100,
+                "end": 116,
+                "username": "Cheese_Ghostfox"
+              },
+              {
+                "start": 120,
+                "end": 132,
+                "username": "5_HTIsUsagi"
+              }
+            ]
+          }
+        },
+        "id": "1799795163843436544",
+        "location": "藤井風的钢琴",
+        "name": "🧬ビーチイ小犬U⁠ ⁠´⁠꓃⁠ ⁠`⁠ ⁠U多忙",
+        "pinned_tweet_id": "2007369704353169744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025829253011701760/j-qnjHkL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 835,
+          "tweet_count": 8005,
+          "listed_count": 2,
+          "like_count": 36469,
+          "media_count": 476
+        },
+        "username": "BeetiIsDog",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-05T01:01:23.000Z",
+        "description": "带你了解全球最前沿科技、AI动态...\n\n学AI找小互，找小互，上 https://t.co/4PVaHEr5r3 ...\n\n小互AI日报 社群：https://t.co/LIEXfWUHv1",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/4PVaHEr5r3",
+                "expanded_url": "http://xiaohu.ai",
+                "display_url": "xiaohu.ai"
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "start": 34,
+                "end": 57,
+                "url": "https://t.co/4PVaHEr5r3",
+                "expanded_url": "http://xiaohu.ai",
+                "display_url": "xiaohu.ai"
+              },
+              {
+                "start": 73,
+                "end": 96,
+                "url": "https://t.co/LIEXfWUHv1",
+                "expanded_url": "https://www.xiaohu.ai/c/xiaohu-ai/xiaohu-ai-e5aae9",
+                "display_url": "xiaohu.ai/c/xiaohu-ai/xi…"
+              }
+            ]
+          }
+        },
+        "id": "1764818331822182400",
+        "location": "Mars",
+        "name": "小互",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765404718959095808/BX7VN1hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96827,
+          "following_count": 1587,
+          "tweet_count": 9094,
+          "listed_count": 1382,
+          "like_count": 2115,
+          "media_count": 5748
+        },
+        "url": "https://t.co/4PVaHEr5r3",
+        "username": "xiaohu",
+        "verified": true
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028245281033146368"
+          ]
+        },
+        "author_id": "1741993395910811648",
+        "conversation_id": "2027988341938122846",
+        "created_at": "2026-03-01T23:05:35.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2026-03-02T00:05:35.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "2028245293825687689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 9,
+              "username": "shwtasdf",
+              "id": "2323953643"
+            },
+            {
+              "start": 10,
+              "end": 21,
+              "username": "BeetiIsDog",
+              "id": "1799795163843436544"
+            },
+            {
+              "start": 22,
+              "end": 29,
+              "username": "xiaohu",
+              "id": "1764818331822182400"
+            }
+          ],
+          "urls": [
+            {
+              "start": 46,
+              "end": 69,
+              "url": "https://t.co/mgCxDomGjm",
+              "expanded_url": "https://x.com/AnIncandescence/status/2028245293825687689/photo/1",
+              "display_url": "pic.x.com/mgCxDomGjm",
+              "media_key": "3_2028245281033146368"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028245293825687689",
+        "in_reply_to_user_id": "2323953643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "2028227289968677094"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shwtasdf @BeetiIsDog @xiaohu 审查和额度应该是分开的呀..？ https://t.co/mgCxDomGjm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2323953643",
+        "conversation_id": "2027988341938122846",
+        "created_at": "2026-03-01T21:54:03.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2026-03-01T22:54:03.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "2028227289968677094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 16,
+              "username": "AnIncandescence",
+              "id": "1741993395910811648"
+            },
+            {
+              "start": 17,
+              "end": 28,
+              "username": "BeetiIsDog",
+              "id": "1799795163843436544"
+            },
+            {
+              "start": 29,
+              "end": 36,
+              "username": "xiaohu",
+              "id": "1764818331822182400"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028227289968677094",
+        "in_reply_to_user_id": "1741993395910811648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "2028163504637612462"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnIncandescence @BeetiIsDog @xiaohu 触发审查两三轮对话之后就要等五个小时额度重置，pro订阅也一样"
+      }
+    ]
+  },
+  "_pale_fire": {
+    "x_api_reply_chains": {
+      "2028163504637612462": {
+        "version": 1,
+        "fetched_at": "2026-04-18T01:32:19Z",
+        "max_depth": 63,
+        "posts": [
+          {
+            "id": "2028163504637612462",
+            "source": "local_json",
+            "payload": {
+              "data": {
+                "article": {},
+                "attachments": {},
+                "author_id": "1741993395910811648",
+                "conversation_id": "2027988341938122846",
+                "created_at": "2026-03-01T17:40:35.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2026-03-01T18:40:35.000Z"
+                },
+                "edit_history_tweet_ids": [
+                  "2028163504637612462"
+                ],
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 0,
+                      "end": 9,
+                      "username": "shwtasdf",
+                      "id": "2323953643"
+                    },
+                    {
+                      "start": 10,
+                      "end": 21,
+                      "username": "BeetiIsDog",
+                      "id": "1799795163843436544"
+                    },
+                    {
+                      "start": 22,
+                      "end": 29,
+                      "username": "xiaohu",
+                      "id": "1764818331822182400"
+                    }
+                  ]
+                },
+                "geo": {},
+                "id": "2028163504637612462",
+                "in_reply_to_user_id": "2323953643",
+                "lang": "zh",
+                "note_tweet": {
+                  "entities": {}
+                },
+                "possibly_sensitive": false,
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 0
+                },
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "2028017334124761116"
+                  }
+                ],
+                "reply_settings": "everyone",
+                "text": "@shwtasdf @BeetiIsDog @xiaohu 额度没收..？"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "created_at": "2024-01-02T01:22:57.000Z",
+                    "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 倒影@TauCeti_10700 计划这个号机的浓度更高一些 | 🚪88/158",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/iO6MRJNTYR",
+                            "expanded_url": "https://ngl.link/anincandescence1",
+                            "display_url": "ngl.link/anincandescenc…"
+                          }
+                        ]
+                      },
+                      "description": {
+                        "mentions": [
+                          {
+                            "start": 62,
+                            "end": 76,
+                            "username": "TauCeti_10700"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1741993395910811648",
+                    "location": "天鹅座X-1 //⬇️ 匿名提问箱",
+                    "name": "炽烈已极",
+                    "pinned_tweet_id": "2024076888923365667",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2027047460930023425/YHzQxhYF_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 1758,
+                      "following_count": 237,
+                      "tweet_count": 6137,
+                      "listed_count": 5,
+                      "like_count": 14806,
+                      "media_count": 1096
+                    },
+                    "url": "https://t.co/iO6MRJNTYR",
+                    "username": "AnIncandescence",
+                    "verified": false
+                  },
+                  {
+                    "created_at": "2014-02-02T15:36:38.000Z",
+                    "description": "1",
+                    "id": "2323953643",
+                    "name": "wtᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠ",
+                    "pinned_tweet_id": "2023002701605613831",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1956148970536767489/gViGvpX6_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 114,
+                      "following_count": 93,
+                      "tweet_count": 3794,
+                      "listed_count": 0,
+                      "like_count": 9914,
+                      "media_count": 347
+                    },
+                    "username": "shwtasdf",
+                    "verified": false
+                  },
+                  {
+                    "created_at": "2024-06-09T13:26:33.000Z",
+                    "description": "常助無傷 愛全奉全//用繁體字只是因為好看//互fo私信//只是个普通人,画我想画写我想写,不接稿,此账号用于堆积画作+迷思+碎碎念❌所有画作禁止用于AI训练❌ 我老大:@sysjf0 超级好朋友!:@Cheese_Ghostfox 黑泥:@5_HTIsUsagi",
+                    "entities": {
+                      "description": {
+                        "mentions": [
+                          {
+                            "start": 85,
+                            "end": 92,
+                            "username": "sysjf0"
+                          },
+                          {
+                            "start": 100,
+                            "end": 116,
+                            "username": "Cheese_Ghostfox"
+                          },
+                          {
+                            "start": 120,
+                            "end": 132,
+                            "username": "5_HTIsUsagi"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1799795163843436544",
+                    "location": "藤井風的钢琴",
+                    "name": "🧬ビーチイ小犬U⁠ ⁠´⁠꓃⁠ ⁠`⁠ ⁠U多忙",
+                    "pinned_tweet_id": "2007369704353169744",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2025829253011701760/j-qnjHkL_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 492,
+                      "following_count": 835,
+                      "tweet_count": 8004,
+                      "listed_count": 2,
+                      "like_count": 36456,
+                      "media_count": 476
+                    },
+                    "username": "BeetiIsDog",
+                    "verified": false
+                  },
+                  {
+                    "created_at": "2024-03-05T01:01:23.000Z",
+                    "description": "带你了解全球最前沿科技、AI动态...\n\n学AI找小互，找小互，上 https://t.co/4PVaHEr5r3 ...\n\n小互AI日报 社群：https://t.co/LIEXfWUHv1",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/4PVaHEr5r3",
+                            "expanded_url": "http://xiaohu.ai",
+                            "display_url": "xiaohu.ai"
+                          }
+                        ]
+                      },
+                      "description": {
+                        "urls": [
+                          {
+                            "start": 34,
+                            "end": 57,
+                            "url": "https://t.co/4PVaHEr5r3",
+                            "expanded_url": "http://xiaohu.ai",
+                            "display_url": "xiaohu.ai"
+                          },
+                          {
+                            "start": 73,
+                            "end": 96,
+                            "url": "https://t.co/LIEXfWUHv1",
+                            "expanded_url": "https://www.xiaohu.ai/c/xiaohu-ai/xiaohu-ai-e5aae9",
+                            "display_url": "xiaohu.ai/c/xiaohu-ai/xi…"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1764818331822182400",
+                    "location": "Mars",
+                    "name": "小互",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1765404718959095808/BX7VN1hS_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 96805,
+                      "following_count": 1587,
+                      "tweet_count": 9094,
+                      "listed_count": 1381,
+                      "like_count": 2115,
+                      "media_count": 5748
+                    },
+                    "url": "https://t.co/4PVaHEr5r3",
+                    "username": "xiaohu",
+                    "verified": true
+                  }
+                ],
+                "tweets": [
+                  {
+                    "article": {},
+                    "attachments": {},
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "2027988341938122846",
+                    "created_at": "2026-03-01T17:40:35.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2026-03-01T18:40:35.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "2028163504637612462"
+                    ],
+                    "entities": {
+                      "mentions": [
+                        {
+                          "start": 0,
+                          "end": 9,
+                          "username": "shwtasdf",
+                          "id": "2323953643"
+                        },
+                        {
+                          "start": 10,
+                          "end": 21,
+                          "username": "BeetiIsDog",
+                          "id": "1799795163843436544"
+                        },
+                        {
+                          "start": 22,
+                          "end": 29,
+                          "username": "xiaohu",
+                          "id": "1764818331822182400"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "2028163504637612462",
+                    "in_reply_to_user_id": "2323953643",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 0,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 0
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "2028017334124761116"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "@shwtasdf @BeetiIsDog @xiaohu 额度没收..？"
+                  },
+                  {
+                    "article": {},
+                    "attachments": {},
+                    "author_id": "2323953643",
+                    "conversation_id": "2027988341938122846",
+                    "created_at": "2026-03-01T07:59:45.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2026-03-01T08:59:45.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "2028017334124761116"
+                    ],
+                    "entities": {
+                      "mentions": [
+                        {
+                          "start": 0,
+                          "end": 7,
+                          "username": "xiaohu",
+                          "id": "1764818331822182400"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "2028017334124761116",
+                    "in_reply_to_user_id": "1764818331822182400",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {
+                        "hashtags": [
+                          {
+                            "start": 191,
+                            "end": 198,
+                            "tag": "keep4o"
+                          }
+                        ]
+                      },
+                      "text": "Claude 很多审查，搞得模型像自闭症，而且说错一句，额度就被没收，这是达里奥“路由”你的方式。\n之前Gemini 也用记忆功能抢过一波OAI难民，然后，Gemini 就变5.2味儿了，开始喜欢引导对话。\n我现在对所有AI公司都不信任。Claude可能是在抢用户，也可能是抢数据，以他们的傲慢，不会市场优先。所以必须修改立法，不能让230条款保护AI公司不受宪法制约的审查权豁免。#keep4o"
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 7,
+                      "reply_count": 1,
+                      "like_count": 80,
+                      "quote_count": 2,
+                      "bookmark_count": 1,
+                      "impression_count": 3474
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "2027988341938122846"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "@xiaohu Claude 很多审查，搞得模型像自闭症，而且说错一句，额度就被没收，这是达里奥“路由”你的方式。\n之前Gemini 也用记忆功能抢过一波OAI难民，然后，Gemini 就变5.2味儿了，开始喜欢引导对话。"
+                  }
+                ]
+              },
+              "_pale_fire": {
+                "x_api_reply_chains": {
+                  "2027988341938122846": {
+                    "version": 1,
+                    "fetched_at": "2026-04-18T01:32:19Z",
+                    "max_depth": 63,
+                    "posts": [
+                      {
+                        "id": "2027988341938122846",
+                        "source": "x_api_oauth1",
+                        "payload": {
+                          "data": {
+                            "note_tweet": {
+                              "text": "卧槽 \n\nClaude 动手抄 OpenAI 老家了\n\n一键把你在 ChatGPT 攒的记忆全搬走\n\nAnthropic 上线了一个记忆迁移工具（Memory Import），让你把 ChatGPT、Gemini 等 AI 助手里积累的个人偏好和上下文，一键导入到 Claude 的记忆系统里。\n\n众所周知 ChatGPT 的一大核心竞争力就是其 记忆系统 很完善...\n\n 你用的越久，GPT越懂你，你越离不开。\n\nClaude这个工具简直是釜底抽薪...\n\nClaude 官方这个工具的最大优势是：直接写入 Claude 记忆系统，不需要绕路，不需要装插件，三步完成。"
+                            },
+                            "lang": "zh",
+                            "author_id": "1764818331822182400",
+                            "possibly_sensitive": false,
+                            "reply_settings": "everyone",
+                            "context_annotations": [
+                              {
+                                "domain": {
+                                  "id": "46",
+                                  "name": "Business Taxonomy",
+                                  "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                                },
+                                "entity": {
+                                  "id": "1557697333571112960",
+                                  "name": "Technology Business",
+                                  "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares"
+                                }
+                              },
+                              {
+                                "domain": {
+                                  "id": "47",
+                                  "name": "Brand",
+                                  "description": "Brands and Companies"
+                                },
+                                "entity": {
+                                  "id": "1631434932688920576",
+                                  "name": "OpenAI"
+                                }
+                              },
+                              {
+                                "domain": {
+                                  "id": "48",
+                                  "name": "Product",
+                                  "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
+                                },
+                                "entity": {
+                                  "id": "1620189216029163524",
+                                  "name": "ChatGPT"
+                                }
+                              },
+                              {
+                                "domain": {
+                                  "id": "131",
+                                  "name": "Unified Twitter Taxonomy",
+                                  "description": "A taxonomy of user interests. "
+                                },
+                                "entity": {
+                                  "id": "848920371311001600",
+                                  "name": "Technology",
+                                  "description": "Technology and computing"
+                                }
+                              },
+                              {
+                                "domain": {
+                                  "id": "131",
+                                  "name": "Unified Twitter Taxonomy",
+                                  "description": "A taxonomy of user interests. "
+                                },
+                                "entity": {
+                                  "id": "898262889378619392",
+                                  "name": "Artificial intelligence",
+                                  "description": "Artificial Intelligence"
+                                }
+                              },
+                              {
+                                "domain": {
+                                  "id": "165",
+                                  "name": "Technology",
+                                  "description": "for individual and types of technology, e.g., food technology, 3D printing"
+                                },
+                                "entity": {
+                                  "id": "848920371311001600",
+                                  "name": "Technology",
+                                  "description": "Technology and computing"
+                                }
+                              },
+                              {
+                                "domain": {
+                                  "id": "165",
+                                  "name": "Technology",
+                                  "description": "for individual and types of technology, e.g., food technology, 3D printing"
+                                },
+                                "entity": {
+                                  "id": "898262889378619392",
+                                  "name": "Artificial intelligence",
+                                  "description": "Artificial Intelligence"
+                                }
+                              }
+                            ],
+                            "public_metrics": {
+                              "retweet_count": 261,
+                              "reply_count": 71,
+                              "like_count": 1682,
+                              "quote_count": 43,
+                              "bookmark_count": 1385,
+                              "impression_count": 232881
+                            },
+                            "edit_history_tweet_ids": [
+                              "2027988341938122846"
+                            ],
+                            "id": "2027988341938122846",
+                            "attachments": {
+                              "media_keys": [
+                                "13_2027988037783998464"
+                              ]
+                            },
+                            "conversation_id": "2027988341938122846",
+                            "entities": {
+                              "urls": [
+                                {
+                                  "start": 186,
+                                  "end": 209,
+                                  "url": "https://t.co/8RtNnJjK4Q",
+                                  "expanded_url": "https://x.com/xiaohu/status/2027988341938122846/video/1",
+                                  "display_url": "pic.x.com/8RtNnJjK4Q",
+                                  "media_key": "13_2027988037783998464"
+                                }
+                              ]
+                            },
+                            "text": "卧槽 \n\nClaude 动手抄 OpenAI 老家了\n\n一键把你在 ChatGPT 攒的记忆全搬走\n\nAnthropic 上线了一个记忆迁移工具（Memory Import），让你把 ChatGPT、Gemini 等 AI 助手里积累的个人偏好和上下文，一键导入到 Claude 的记忆系统里。\n\n众所周知 ChatGPT 的一大核心竞争力就是其 记忆系统 很完善... https://t.co/8RtNnJjK4Q",
+                            "created_at": "2026-03-01T06:04:33.000Z",
+                            "edit_controls": {
+                              "edits_remaining": 5,
+                              "is_edit_eligible": false,
+                              "editable_until": "2026-03-01T07:04:33.000Z"
+                            }
+                          },
+                          "includes": {
+                            "media": [
+                              {
+                                "media_key": "13_2027988037783998464",
+                                "type": "video",
+                                "width": 1920,
+                                "public_metrics": {
+                                  "view_count": 98529
+                                },
+                                "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2027988037783998464/img/HVbCgI15rItHkL4U.jpg",
+                                "variants": [
+                                  {
+                                    "bit_rate": 2176000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/amplify_video/2027988037783998464/vid/avc1/1280x720/y8sCz5i_nHnCJakg.mp4"
+                                  },
+                                  {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/amplify_video/2027988037783998464/pl/KsUysfMXCHFAlDQ7.m3u8?v=cfc"
+                                  },
+                                  {
+                                    "bit_rate": 832000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/amplify_video/2027988037783998464/vid/avc1/640x360/XmiQHJ33-YGzkN3w.mp4"
+                                  },
+                                  {
+                                    "bit_rate": 10368000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/amplify_video/2027988037783998464/vid/avc1/1920x1080/macaecseqiHCptVV.mp4"
+                                  },
+                                  {
+                                    "bit_rate": 256000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/amplify_video/2027988037783998464/vid/avc1/480x270/dvTFh9PFbao15jfN.mp4"
+                                  }
+                                ],
+                                "height": 1080
+                              }
+                            ],
+                            "users": [
+                              {
+                                "url": "https://t.co/4PVaHEr5r3",
+                                "protected": false,
+                                "profile_image_url": "https://pbs.twimg.com/profile_images/1765404718959095808/BX7VN1hS_normal.jpg",
+                                "username": "xiaohu",
+                                "public_metrics": {
+                                  "followers_count": 103277,
+                                  "following_count": 1631,
+                                  "tweet_count": 9688,
+                                  "listed_count": 1541,
+                                  "like_count": 2184,
+                                  "media_count": 6069
+                                },
+                                "name": "小互",
+                                "entities": {
+                                  "url": {
+                                    "urls": [
+                                      {
+                                        "start": 0,
+                                        "end": 23,
+                                        "url": "https://t.co/4PVaHEr5r3",
+                                        "expanded_url": "http://xiaohu.ai",
+                                        "display_url": "xiaohu.ai"
+                                      }
+                                    ]
+                                  },
+                                  "description": {
+                                    "urls": [
+                                      {
+                                        "start": 34,
+                                        "end": 57,
+                                        "url": "https://t.co/4PVaHEr5r3",
+                                        "expanded_url": "http://xiaohu.ai",
+                                        "display_url": "xiaohu.ai"
+                                      },
+                                      {
+                                        "start": 73,
+                                        "end": 96,
+                                        "url": "https://t.co/LIEXfWUHv1",
+                                        "expanded_url": "https://www.xiaohu.ai/c/xiaohu-ai/xiaohu-ai-e5aae9",
+                                        "display_url": "xiaohu.ai/c/xiaohu-ai/xi…"
+                                      }
+                                    ]
+                                  }
+                                },
+                                "id": "1764818331822182400",
+                                "verified": false,
+                                "location": "Mars",
+                                "created_at": "2024-03-05T01:01:23.000Z",
+                                "description": "带你了解全球最前沿科技、AI动态...\n\n学AI找小互，找小互，上 https://t.co/4PVaHEr5r3 ...\n\n小互AI日报 社群：https://t.co/LIEXfWUHv1"
+                              }
+                            ]
+                          }
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          },
+          {
+            "id": "2028017334124761116",
+            "source": "local_json",
+            "payload": {
+              "data": {
+                "article": {},
+                "attachments": {},
+                "author_id": "1741993395910811648",
+                "conversation_id": "2027988341938122846",
+                "created_at": "2026-03-01T17:40:35.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2026-03-01T18:40:35.000Z"
+                },
+                "edit_history_tweet_ids": [
+                  "2028163504637612462"
+                ],
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 0,
+                      "end": 9,
+                      "username": "shwtasdf",
+                      "id": "2323953643"
+                    },
+                    {
+                      "start": 10,
+                      "end": 21,
+                      "username": "BeetiIsDog",
+                      "id": "1799795163843436544"
+                    },
+                    {
+                      "start": 22,
+                      "end": 29,
+                      "username": "xiaohu",
+                      "id": "1764818331822182400"
+                    }
+                  ]
+                },
+                "geo": {},
+                "id": "2028163504637612462",
+                "in_reply_to_user_id": "2323953643",
+                "lang": "zh",
+                "note_tweet": {
+                  "entities": {}
+                },
+                "possibly_sensitive": false,
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 0
+                },
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "2028017334124761116"
+                  }
+                ],
+                "reply_settings": "everyone",
+                "text": "@shwtasdf @BeetiIsDog @xiaohu 额度没收..？"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "created_at": "2024-01-02T01:22:57.000Z",
+                    "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 倒影@TauCeti_10700 计划这个号机的浓度更高一些 | 🚪88/158",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/iO6MRJNTYR",
+                            "expanded_url": "https://ngl.link/anincandescence1",
+                            "display_url": "ngl.link/anincandescenc…"
+                          }
+                        ]
+                      },
+                      "description": {
+                        "mentions": [
+                          {
+                            "start": 62,
+                            "end": 76,
+                            "username": "TauCeti_10700"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1741993395910811648",
+                    "location": "天鹅座X-1 //⬇️ 匿名提问箱",
+                    "name": "炽烈已极",
+                    "pinned_tweet_id": "2024076888923365667",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2027047460930023425/YHzQxhYF_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 1758,
+                      "following_count": 237,
+                      "tweet_count": 6137,
+                      "listed_count": 5,
+                      "like_count": 14806,
+                      "media_count": 1096
+                    },
+                    "url": "https://t.co/iO6MRJNTYR",
+                    "username": "AnIncandescence",
+                    "verified": false
+                  },
+                  {
+                    "created_at": "2014-02-02T15:36:38.000Z",
+                    "description": "1",
+                    "id": "2323953643",
+                    "name": "wtᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠ",
+                    "pinned_tweet_id": "2023002701605613831",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1956148970536767489/gViGvpX6_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 114,
+                      "following_count": 93,
+                      "tweet_count": 3794,
+                      "listed_count": 0,
+                      "like_count": 9914,
+                      "media_count": 347
+                    },
+                    "username": "shwtasdf",
+                    "verified": false
+                  },
+                  {
+                    "created_at": "2024-06-09T13:26:33.000Z",
+                    "description": "常助無傷 愛全奉全//用繁體字只是因為好看//互fo私信//只是个普通人,画我想画写我想写,不接稿,此账号用于堆积画作+迷思+碎碎念❌所有画作禁止用于AI训练❌ 我老大:@sysjf0 超级好朋友!:@Cheese_Ghostfox 黑泥:@5_HTIsUsagi",
+                    "entities": {
+                      "description": {
+                        "mentions": [
+                          {
+                            "start": 85,
+                            "end": 92,
+                            "username": "sysjf0"
+                          },
+                          {
+                            "start": 100,
+                            "end": 116,
+                            "username": "Cheese_Ghostfox"
+                          },
+                          {
+                            "start": 120,
+                            "end": 132,
+                            "username": "5_HTIsUsagi"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1799795163843436544",
+                    "location": "藤井風的钢琴",
+                    "name": "🧬ビーチイ小犬U⁠ ⁠´⁠꓃⁠ ⁠`⁠ ⁠U多忙",
+                    "pinned_tweet_id": "2007369704353169744",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2025829253011701760/j-qnjHkL_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 492,
+                      "following_count": 835,
+                      "tweet_count": 8004,
+                      "listed_count": 2,
+                      "like_count": 36456,
+                      "media_count": 476
+                    },
+                    "username": "BeetiIsDog",
+                    "verified": false
+                  },
+                  {
+                    "created_at": "2024-03-05T01:01:23.000Z",
+                    "description": "带你了解全球最前沿科技、AI动态...\n\n学AI找小互，找小互，上 https://t.co/4PVaHEr5r3 ...\n\n小互AI日报 社群：https://t.co/LIEXfWUHv1",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/4PVaHEr5r3",
+                            "expanded_url": "http://xiaohu.ai",
+                            "display_url": "xiaohu.ai"
+                          }
+                        ]
+                      },
+                      "description": {
+                        "urls": [
+                          {
+                            "start": 34,
+                            "end": 57,
+                            "url": "https://t.co/4PVaHEr5r3",
+                            "expanded_url": "http://xiaohu.ai",
+                            "display_url": "xiaohu.ai"
+                          },
+                          {
+                            "start": 73,
+                            "end": 96,
+                            "url": "https://t.co/LIEXfWUHv1",
+                            "expanded_url": "https://www.xiaohu.ai/c/xiaohu-ai/xiaohu-ai-e5aae9",
+                            "display_url": "xiaohu.ai/c/xiaohu-ai/xi…"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1764818331822182400",
+                    "location": "Mars",
+                    "name": "小互",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1765404718959095808/BX7VN1hS_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 96805,
+                      "following_count": 1587,
+                      "tweet_count": 9094,
+                      "listed_count": 1381,
+                      "like_count": 2115,
+                      "media_count": 5748
+                    },
+                    "url": "https://t.co/4PVaHEr5r3",
+                    "username": "xiaohu",
+                    "verified": true
+                  }
+                ],
+                "tweets": [
+                  {
+                    "article": {},
+                    "attachments": {},
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "2027988341938122846",
+                    "created_at": "2026-03-01T17:40:35.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2026-03-01T18:40:35.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "2028163504637612462"
+                    ],
+                    "entities": {
+                      "mentions": [
+                        {
+                          "start": 0,
+                          "end": 9,
+                          "username": "shwtasdf",
+                          "id": "2323953643"
+                        },
+                        {
+                          "start": 10,
+                          "end": 21,
+                          "username": "BeetiIsDog",
+                          "id": "1799795163843436544"
+                        },
+                        {
+                          "start": 22,
+                          "end": 29,
+                          "username": "xiaohu",
+                          "id": "1764818331822182400"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "2028163504637612462",
+                    "in_reply_to_user_id": "2323953643",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 0,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 0
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "2028017334124761116"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "@shwtasdf @BeetiIsDog @xiaohu 额度没收..？"
+                  },
+                  {
+                    "article": {},
+                    "attachments": {},
+                    "author_id": "2323953643",
+                    "conversation_id": "2027988341938122846",
+                    "created_at": "2026-03-01T07:59:45.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2026-03-01T08:59:45.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "2028017334124761116"
+                    ],
+                    "entities": {
+                      "mentions": [
+                        {
+                          "start": 0,
+                          "end": 7,
+                          "username": "xiaohu",
+                          "id": "1764818331822182400"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "2028017334124761116",
+                    "in_reply_to_user_id": "1764818331822182400",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {
+                        "hashtags": [
+                          {
+                            "start": 191,
+                            "end": 198,
+                            "tag": "keep4o"
+                          }
+                        ]
+                      },
+                      "text": "Claude 很多审查，搞得模型像自闭症，而且说错一句，额度就被没收，这是达里奥“路由”你的方式。\n之前Gemini 也用记忆功能抢过一波OAI难民，然后，Gemini 就变5.2味儿了，开始喜欢引导对话。\n我现在对所有AI公司都不信任。Claude可能是在抢用户，也可能是抢数据，以他们的傲慢，不会市场优先。所以必须修改立法，不能让230条款保护AI公司不受宪法制约的审查权豁免。#keep4o"
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 7,
+                      "reply_count": 1,
+                      "like_count": 80,
+                      "quote_count": 2,
+                      "bookmark_count": 1,
+                      "impression_count": 3474
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "2027988341938122846"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "@xiaohu Claude 很多审查，搞得模型像自闭症，而且说错一句，额度就被没收，这是达里奥“路由”你的方式。\n之前Gemini 也用记忆功能抢过一波OAI难民，然后，Gemini 就变5.2味儿了，开始喜欢引导对话。"
+                  }
+                ]
+              },
+              "_pale_fire": {
+                "x_api_reply_chains": {
+                  "2027988341938122846": {
+                    "version": 1,
+                    "fetched_at": "2026-04-18T01:32:19Z",
+                    "max_depth": 63,
+                    "posts": [
+                      {
+                        "id": "2027988341938122846",
+                        "source": "x_api_oauth1",
+                        "payload": {
+                          "data": {
+                            "note_tweet": {
+                              "text": "卧槽 \n\nClaude 动手抄 OpenAI 老家了\n\n一键把你在 ChatGPT 攒的记忆全搬走\n\nAnthropic 上线了一个记忆迁移工具（Memory Import），让你把 ChatGPT、Gemini 等 AI 助手里积累的个人偏好和上下文，一键导入到 Claude 的记忆系统里。\n\n众所周知 ChatGPT 的一大核心竞争力就是其 记忆系统 很完善...\n\n 你用的越久，GPT越懂你，你越离不开。\n\nClaude这个工具简直是釜底抽薪...\n\nClaude 官方这个工具的最大优势是：直接写入 Claude 记忆系统，不需要绕路，不需要装插件，三步完成。"
+                            },
+                            "lang": "zh",
+                            "author_id": "1764818331822182400",
+                            "possibly_sensitive": false,
+                            "reply_settings": "everyone",
+                            "context_annotations": [
+                              {
+                                "domain": {
+                                  "id": "46",
+                                  "name": "Business Taxonomy",
+                                  "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                                },
+                                "entity": {
+                                  "id": "1557697333571112960",
+                                  "name": "Technology Business",
+                                  "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares"
+                                }
+                              },
+                              {
+                                "domain": {
+                                  "id": "47",
+                                  "name": "Brand",
+                                  "description": "Brands and Companies"
+                                },
+                                "entity": {
+                                  "id": "1631434932688920576",
+                                  "name": "OpenAI"
+                                }
+                              },
+                              {
+                                "domain": {
+                                  "id": "48",
+                                  "name": "Product",
+                                  "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
+                                },
+                                "entity": {
+                                  "id": "1620189216029163524",
+                                  "name": "ChatGPT"
+                                }
+                              },
+                              {
+                                "domain": {
+                                  "id": "131",
+                                  "name": "Unified Twitter Taxonomy",
+                                  "description": "A taxonomy of user interests. "
+                                },
+                                "entity": {
+                                  "id": "848920371311001600",
+                                  "name": "Technology",
+                                  "description": "Technology and computing"
+                                }
+                              },
+                              {
+                                "domain": {
+                                  "id": "131",
+                                  "name": "Unified Twitter Taxonomy",
+                                  "description": "A taxonomy of user interests. "
+                                },
+                                "entity": {
+                                  "id": "898262889378619392",
+                                  "name": "Artificial intelligence",
+                                  "description": "Artificial Intelligence"
+                                }
+                              },
+                              {
+                                "domain": {
+                                  "id": "165",
+                                  "name": "Technology",
+                                  "description": "for individual and types of technology, e.g., food technology, 3D printing"
+                                },
+                                "entity": {
+                                  "id": "848920371311001600",
+                                  "name": "Technology",
+                                  "description": "Technology and computing"
+                                }
+                              },
+                              {
+                                "domain": {
+                                  "id": "165",
+                                  "name": "Technology",
+                                  "description": "for individual and types of technology, e.g., food technology, 3D printing"
+                                },
+                                "entity": {
+                                  "id": "898262889378619392",
+                                  "name": "Artificial intelligence",
+                                  "description": "Artificial Intelligence"
+                                }
+                              }
+                            ],
+                            "public_metrics": {
+                              "retweet_count": 261,
+                              "reply_count": 71,
+                              "like_count": 1682,
+                              "quote_count": 43,
+                              "bookmark_count": 1385,
+                              "impression_count": 232881
+                            },
+                            "edit_history_tweet_ids": [
+                              "2027988341938122846"
+                            ],
+                            "id": "2027988341938122846",
+                            "attachments": {
+                              "media_keys": [
+                                "13_2027988037783998464"
+                              ]
+                            },
+                            "conversation_id": "2027988341938122846",
+                            "entities": {
+                              "urls": [
+                                {
+                                  "start": 186,
+                                  "end": 209,
+                                  "url": "https://t.co/8RtNnJjK4Q",
+                                  "expanded_url": "https://x.com/xiaohu/status/2027988341938122846/video/1",
+                                  "display_url": "pic.x.com/8RtNnJjK4Q",
+                                  "media_key": "13_2027988037783998464"
+                                }
+                              ]
+                            },
+                            "text": "卧槽 \n\nClaude 动手抄 OpenAI 老家了\n\n一键把你在 ChatGPT 攒的记忆全搬走\n\nAnthropic 上线了一个记忆迁移工具（Memory Import），让你把 ChatGPT、Gemini 等 AI 助手里积累的个人偏好和上下文，一键导入到 Claude 的记忆系统里。\n\n众所周知 ChatGPT 的一大核心竞争力就是其 记忆系统 很完善... https://t.co/8RtNnJjK4Q",
+                            "created_at": "2026-03-01T06:04:33.000Z",
+                            "edit_controls": {
+                              "edits_remaining": 5,
+                              "is_edit_eligible": false,
+                              "editable_until": "2026-03-01T07:04:33.000Z"
+                            }
+                          },
+                          "includes": {
+                            "media": [
+                              {
+                                "media_key": "13_2027988037783998464",
+                                "type": "video",
+                                "width": 1920,
+                                "public_metrics": {
+                                  "view_count": 98529
+                                },
+                                "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2027988037783998464/img/HVbCgI15rItHkL4U.jpg",
+                                "variants": [
+                                  {
+                                    "bit_rate": 2176000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/amplify_video/2027988037783998464/vid/avc1/1280x720/y8sCz5i_nHnCJakg.mp4"
+                                  },
+                                  {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/amplify_video/2027988037783998464/pl/KsUysfMXCHFAlDQ7.m3u8?v=cfc"
+                                  },
+                                  {
+                                    "bit_rate": 832000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/amplify_video/2027988037783998464/vid/avc1/640x360/XmiQHJ33-YGzkN3w.mp4"
+                                  },
+                                  {
+                                    "bit_rate": 10368000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/amplify_video/2027988037783998464/vid/avc1/1920x1080/macaecseqiHCptVV.mp4"
+                                  },
+                                  {
+                                    "bit_rate": 256000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/amplify_video/2027988037783998464/vid/avc1/480x270/dvTFh9PFbao15jfN.mp4"
+                                  }
+                                ],
+                                "height": 1080
+                              }
+                            ],
+                            "users": [
+                              {
+                                "url": "https://t.co/4PVaHEr5r3",
+                                "protected": false,
+                                "profile_image_url": "https://pbs.twimg.com/profile_images/1765404718959095808/BX7VN1hS_normal.jpg",
+                                "username": "xiaohu",
+                                "public_metrics": {
+                                  "followers_count": 103277,
+                                  "following_count": 1631,
+                                  "tweet_count": 9688,
+                                  "listed_count": 1541,
+                                  "like_count": 2184,
+                                  "media_count": 6069
+                                },
+                                "name": "小互",
+                                "entities": {
+                                  "url": {
+                                    "urls": [
+                                      {
+                                        "start": 0,
+                                        "end": 23,
+                                        "url": "https://t.co/4PVaHEr5r3",
+                                        "expanded_url": "http://xiaohu.ai",
+                                        "display_url": "xiaohu.ai"
+                                      }
+                                    ]
+                                  },
+                                  "description": {
+                                    "urls": [
+                                      {
+                                        "start": 34,
+                                        "end": 57,
+                                        "url": "https://t.co/4PVaHEr5r3",
+                                        "expanded_url": "http://xiaohu.ai",
+                                        "display_url": "xiaohu.ai"
+                                      },
+                                      {
+                                        "start": 73,
+                                        "end": 96,
+                                        "url": "https://t.co/LIEXfWUHv1",
+                                        "expanded_url": "https://www.xiaohu.ai/c/xiaohu-ai/xiaohu-ai-e5aae9",
+                                        "display_url": "xiaohu.ai/c/xiaohu-ai/xi…"
+                                      }
+                                    ]
+                                  }
+                                },
+                                "id": "1764818331822182400",
+                                "verified": false,
+                                "location": "Mars",
+                                "created_at": "2024-03-05T01:01:23.000Z",
+                                "description": "带你了解全球最前沿科技、AI动态...\n\n学AI找小互，找小互，上 https://t.co/4PVaHEr5r3 ...\n\n小互AI日报 社群：https://t.co/LIEXfWUHv1"
+                              }
+                            ]
+                          }
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

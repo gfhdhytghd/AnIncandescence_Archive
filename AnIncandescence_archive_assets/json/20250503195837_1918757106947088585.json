@@ -1,1 +1,206 @@
-{"data":{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1918207101307916716","created_at":"2025-05-03T19:58:37.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-05-03T20:58:37.000Z"},"edit_history_tweet_ids":["1918757106947088585"],"entities":{"mentions":[{"start":0,"end":16,"username":"wtswaishiteruyo","id":"1890780517735473152"}]},"geo":{},"id":"1918757106947088585","in_reply_to_user_id":"1890780517735473152","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1918349375627247631"}],"reply_settings":"everyone","text":"@wtswaishiteruyo 下一次看血压还这样我就吃了😡"},"includes":{"users":[{"created_at":"2024-01-02T01:22:57.000Z","description":"猫，诗歌，精神动力学。艺术，C#，波粒二象性。不断寻找着广播塔的星际候鸟。 | 求式性 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/MuEKSg4tIS","expanded_url":"https://ngl.link/anincandescence","display_url":"ngl.link/anincandescence"}]}},"id":"1741993395910811648","location":"夜航忒修斯","name":"炽烈已极","pinned_tweet_id":"1917636544921493819","profile_image_url":"https://pbs.twimg.com/profile_images/1789433740277567488/d3KhwUX1_normal.jpg","protected":false,"public_metrics":{"followers_count":900,"following_count":186,"tweet_count":2662,"listed_count":2,"like_count":7357,"media_count":538},"url":"https://t.co/MuEKSg4tIS","username":"AnIncandescence","verified":true},{"created_at":"2025-02-15T15:09:54.000Z","description":"支黑｜Mio宝宝：@moeTvT｜Yuki宝宝：@Kazuko045｜奶茶姐姐：@Shirasu8964228","entities":{"description":{"mentions":[{"start":9,"end":16,"username":"moeTvT"},{"start":24,"end":34,"username":"Kazuko045"},{"start":40,"end":55,"username":"Shirasu8964228"}]}},"id":"1890780517735473152","name":"🐱にゃこ🇲🇰🌸","pinned_tweet_id":"1915032097317945640","profile_image_url":"https://pbs.twimg.com/profile_images/1895010945635598336/XgCB_WbF_normal.jpg","protected":true,"public_metrics":{"followers_count":275,"following_count":282,"tweet_count":3107,"listed_count":2,"like_count":8583,"media_count":199},"username":"wtswaishiteruyo","verified":false}],"tweets":[{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1918207101307916716","created_at":"2025-05-03T19:58:37.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-05-03T20:58:37.000Z"},"edit_history_tweet_ids":["1918757106947088585"],"entities":{"mentions":[{"start":0,"end":16,"username":"wtswaishiteruyo","id":"1890780517735473152"}]},"geo":{},"id":"1918757106947088585","in_reply_to_user_id":"1890780517735473152","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1918349375627247631"}],"reply_settings":"everyone","text":"@wtswaishiteruyo 下一次看血压还这样我就吃了😡"}]},"errors":[{"resource_id":"1918349375627247631","parameter":"referenced_tweets.id","resource_type":"tweet","section":"includes","title":"Authorization Error","value":"1918349375627247631","detail":"Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1918349375627247631].","type":"https://api.twitter.com/2/problems/not-authorized-for-resource"}]}
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741993395910811648",
+    "conversation_id": "1918207101307916716",
+    "created_at": "2025-05-03T19:58:37.000Z",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2025-05-03T20:58:37.000Z"
+    },
+    "edit_history_tweet_ids": [
+      "1918757106947088585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 16,
+          "username": "wtswaishiteruyo",
+          "id": "1890780517735473152"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918757106947088585",
+    "in_reply_to_user_id": "1890780517735473152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1918349375627247631"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wtswaishiteruyo 下一次看血压还这样我就吃了😡"
+  },
+  "includes": {
+    "users": [
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，C#，波粒二象性。不断寻找着广播塔的星际候鸟。 | 求式性 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/MuEKSg4tIS",
+                "expanded_url": "https://ngl.link/anincandescence",
+                "display_url": "ngl.link/anincandescence"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "夜航忒修斯",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "1917636544921493819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789433740277567488/d3KhwUX1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 900,
+          "following_count": 186,
+          "tweet_count": 2662,
+          "listed_count": 2,
+          "like_count": 7357,
+          "media_count": 538
+        },
+        "url": "https://t.co/MuEKSg4tIS",
+        "username": "AnIncandescence",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-15T15:09:54.000Z",
+        "description": "支黑｜Mio宝宝：@moeTvT｜Yuki宝宝：@Kazuko045｜奶茶姐姐：@Shirasu8964228",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "start": 9,
+                "end": 16,
+                "username": "moeTvT"
+              },
+              {
+                "start": 24,
+                "end": 34,
+                "username": "Kazuko045"
+              },
+              {
+                "start": 40,
+                "end": 55,
+                "username": "Shirasu8964228"
+              }
+            ]
+          }
+        },
+        "id": "1890780517735473152",
+        "name": "🐱にゃこ🇲🇰🌸",
+        "pinned_tweet_id": "1915032097317945640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895010945635598336/XgCB_WbF_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 282,
+          "tweet_count": 3107,
+          "listed_count": 2,
+          "like_count": 8583,
+          "media_count": 199
+        },
+        "username": "wtswaishiteruyo",
+        "verified": false
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741993395910811648",
+        "conversation_id": "1918207101307916716",
+        "created_at": "2025-05-03T19:58:37.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2025-05-03T20:58:37.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1918757106947088585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 16,
+              "username": "wtswaishiteruyo",
+              "id": "1890780517735473152"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918757106947088585",
+        "in_reply_to_user_id": "1890780517735473152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1918349375627247631"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wtswaishiteruyo 下一次看血压还这样我就吃了😡"
+      }
+    ]
+  },
+  "errors": [
+    {
+      "resource_id": "1918349375627247631",
+      "parameter": "referenced_tweets.id",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "value": "1918349375627247631",
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1918349375627247631].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource"
+    }
+  ],
+  "_pale_fire": {
+    "x_api_reply_chains": {
+      "1918349375627247631": {
+        "version": 1,
+        "fetched_at": "2026-04-18T02:01:51Z",
+        "max_depth": 64,
+        "posts": [],
+        "terminal_error": {
+          "id": "1918349375627247631",
+          "message": "Sorry, you are not authorized to see the Tweet with id: [1918349375627247631]. Wayback fallback: Wayback fallback did not find archived JSON for tweet id 1918349375627247631."
+        }
+      }
+    }
+  }
+}

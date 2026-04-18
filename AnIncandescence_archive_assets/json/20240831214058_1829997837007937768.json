@@ -1,1 +1,352 @@
-{"data":{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1829963754789904843","created_at":"2024-08-31T21:40:58.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2024-08-31T22:40:58.000Z"},"edit_history_tweet_ids":["1829997837007937768"],"entities":{"mentions":[{"start":0,"end":16,"username":"qiandaojiang201","id":"1492729295445237765"}]},"geo":{},"id":"1829997837007937768","in_reply_to_user_id":"1492729295445237765","lang":"qme","possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1829984800406667667"}],"reply_settings":"everyone","text":"@qiandaojiang201 🥰🥰"},"includes":{"users":[{"created_at":"2024-01-02T01:22:57.000Z","description":"互fo欢迎！ 猫，诗歌，精神动力学。艺术，C#，波粒二象性。回归曲线上的量子生物，无攻击性。提问箱👇","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/MuEKSg3VTk","expanded_url":"https://ngl.link/anincandescence","display_url":"ngl.link/anincandescence"}]}},"id":"1741993395910811648","location":"0°00′N 260°00′E Mars","name":"炽烈已极","pinned_tweet_id":"1822993431469150227","profile_image_url":"https://pbs.twimg.com/profile_images/1789433740277567488/d3KhwUX1_normal.jpg","protected":false,"public_metrics":{"followers_count":236,"following_count":155,"tweet_count":1186,"listed_count":0,"like_count":4304},"url":"https://t.co/MuEKSg3VTk","username":"AnIncandescence","verified":false},{"created_at":"2022-02-13T05:16:28.000Z","description":"非常正常朴素的普通人","id":"1492729295445237765","name":"我应该好好爱生活","profile_image_url":"https://pbs.twimg.com/profile_images/1823452054658203648/dsGKVXZe_normal.jpg","protected":false,"public_metrics":{"followers_count":17,"following_count":45,"tweet_count":303,"listed_count":0,"like_count":16},"username":"qiandaojiang201","verified":false}],"tweets":[{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1829963754789904843","created_at":"2024-08-31T21:40:58.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2024-08-31T22:40:58.000Z"},"edit_history_tweet_ids":["1829997837007937768"],"entities":{"mentions":[{"start":0,"end":16,"username":"qiandaojiang201","id":"1492729295445237765"}]},"geo":{},"id":"1829997837007937768","in_reply_to_user_id":"1492729295445237765","lang":"qme","possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1829984800406667667"}],"reply_settings":"everyone","text":"@qiandaojiang201 🥰🥰"},{"article":{},"attachments":{},"author_id":"1492729295445237765","conversation_id":"1829963754789904843","created_at":"2024-08-31T20:49:10.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2024-08-31T21:49:10.000Z"},"edit_history_tweet_ids":["1829984800406667667"],"entities":{"mentions":[{"start":0,"end":16,"username":"AnIncandescence","id":"1741993395910811648"}]},"geo":{},"id":"1829984800406667667","in_reply_to_user_id":"1741993395910811648","lang":"zh","possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":1,"like_count":1,"quote_count":0,"bookmark_count":0,"impression_count":5},"referenced_tweets":[{"type":"replied_to","id":"1829963754789904843"}],"reply_settings":"everyone","text":"@AnIncandescence 我喜欢你"}]}}
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741993395910811648",
+    "conversation_id": "1829963754789904843",
+    "created_at": "2024-08-31T21:40:58.000Z",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-08-31T22:40:58.000Z"
+    },
+    "edit_history_tweet_ids": [
+      "1829997837007937768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 16,
+          "username": "qiandaojiang201",
+          "id": "1492729295445237765"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1829997837007937768",
+    "in_reply_to_user_id": "1492729295445237765",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1829984800406667667"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiandaojiang201 🥰🥰"
+  },
+  "includes": {
+    "users": [
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "互fo欢迎！ 猫，诗歌，精神动力学。艺术，C#，波粒二象性。回归曲线上的量子生物，无攻击性。提问箱👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/MuEKSg3VTk",
+                "expanded_url": "https://ngl.link/anincandescence",
+                "display_url": "ngl.link/anincandescence"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "0°00′N 260°00′E Mars",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "1822993431469150227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789433740277567488/d3KhwUX1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 155,
+          "tweet_count": 1186,
+          "listed_count": 0,
+          "like_count": 4304
+        },
+        "url": "https://t.co/MuEKSg3VTk",
+        "username": "AnIncandescence",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-13T05:16:28.000Z",
+        "description": "非常正常朴素的普通人",
+        "id": "1492729295445237765",
+        "name": "我应该好好爱生活",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823452054658203648/dsGKVXZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 45,
+          "tweet_count": 303,
+          "listed_count": 0,
+          "like_count": 16
+        },
+        "username": "qiandaojiang201",
+        "verified": false
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741993395910811648",
+        "conversation_id": "1829963754789904843",
+        "created_at": "2024-08-31T21:40:58.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2024-08-31T22:40:58.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1829997837007937768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 16,
+              "username": "qiandaojiang201",
+              "id": "1492729295445237765"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829997837007937768",
+        "in_reply_to_user_id": "1492729295445237765",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1829984800406667667"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiandaojiang201 🥰🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1492729295445237765",
+        "conversation_id": "1829963754789904843",
+        "created_at": "2024-08-31T20:49:10.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2024-08-31T21:49:10.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1829984800406667667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 16,
+              "username": "AnIncandescence",
+              "id": "1741993395910811648"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829984800406667667",
+        "in_reply_to_user_id": "1741993395910811648",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1829963754789904843"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnIncandescence 我喜欢你"
+      }
+    ]
+  },
+  "_pale_fire": {
+    "x_api_reply_chains": {
+      "1829963754789904843": {
+        "version": 1,
+        "fetched_at": "2026-04-18T00:01:22Z",
+        "max_depth": 63,
+        "posts": [
+          {
+            "id": "1829963754789904843",
+            "source": "local_json",
+            "payload": {
+              "data": {
+                "article": {},
+                "attachments": {
+                  "media_keys": [
+                    "3_1829963749039452160"
+                  ]
+                },
+                "author_id": "1741993395910811648",
+                "conversation_id": "1829963754789904843",
+                "created_at": "2024-08-31T19:25:32.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": true,
+                  "editable_until": "2024-08-31T20:25:32.000Z"
+                },
+                "edit_history_tweet_ids": [
+                  "1829963754789904843"
+                ],
+                "entities": {
+                  "urls": [
+                    {
+                      "start": 0,
+                      "end": 23,
+                      "url": "https://t.co/u9M6oJckXq",
+                      "expanded_url": "https://twitter.com/AnIncandescence/status/1829963754789904843/photo/1",
+                      "display_url": "pic.x.com/u9m6ojckxq",
+                      "media_key": "3_1829963749039452160"
+                    }
+                  ]
+                },
+                "geo": {},
+                "id": "1829963754789904843",
+                "lang": "zxx",
+                "possibly_sensitive": false,
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 0
+                },
+                "reply_settings": "everyone",
+                "text": "https://t.co/u9M6oJckXq"
+              },
+              "includes": {
+                "media": [
+                  {
+                    "height": 2539,
+                    "media_key": "3_1829963749039452160",
+                    "public_metrics": {},
+                    "type": "photo",
+                    "url": "https://pbs.twimg.com/media/GWVWVY1WsAARxhw.jpg",
+                    "width": 3385
+                  }
+                ],
+                "users": [
+                  {
+                    "created_at": "2024-01-02T01:22:57.000Z",
+                    "description": "互fo欢迎！ 猫，诗歌，精神动力学。艺术，C#，波粒二象性。回归曲线上的量子生物，无攻击性。提问箱👇",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/MuEKSg3VTk",
+                            "expanded_url": "https://ngl.link/anincandescence",
+                            "display_url": "ngl.link/anincandescence"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1741993395910811648",
+                    "location": "0°00′N 260°00′E Mars",
+                    "name": "炽烈已极",
+                    "pinned_tweet_id": "1822993431469150227",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1789433740277567488/d3KhwUX1_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 236,
+                      "following_count": 155,
+                      "tweet_count": 1184,
+                      "listed_count": 0,
+                      "like_count": 4302
+                    },
+                    "url": "https://t.co/MuEKSg3VTk",
+                    "username": "AnIncandescence",
+                    "verified": false
+                  }
+                ],
+                "tweets": [
+                  {
+                    "article": {},
+                    "attachments": {
+                      "media_keys": [
+                        "3_1829963749039452160"
+                      ]
+                    },
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "1829963754789904843",
+                    "created_at": "2024-08-31T19:25:32.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": true,
+                      "editable_until": "2024-08-31T20:25:32.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "1829963754789904843"
+                    ],
+                    "entities": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/u9M6oJckXq",
+                          "expanded_url": "https://twitter.com/AnIncandescence/status/1829963754789904843/photo/1",
+                          "display_url": "pic.x.com/u9m6ojckxq",
+                          "media_key": "3_1829963749039452160"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "1829963754789904843",
+                    "lang": "zxx",
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 0,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 0
+                    },
+                    "reply_settings": "everyone",
+                    "text": "https://t.co/u9M6oJckXq"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

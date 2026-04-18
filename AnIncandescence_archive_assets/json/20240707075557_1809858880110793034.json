@@ -1,1 +1,305 @@
-{"data":{"attachments":{},"author_id":"1741993395910811648","conversation_id":"1809636866892918926","created_at":"2024-07-07T07:55:57.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2024-07-07T08:55:57.000Z"},"edit_history_tweet_ids":["1809858880110793034"],"entities":{"mentions":[{"start":0,"end":10,"username":"hongaibin","id":"1780208570098688000"},{"start":11,"end":26,"username":"yunyun_shimona","id":"758296624875446272"}]},"geo":{},"id":"1809858880110793034","in_reply_to_user_id":"1780208570098688000","lang":"zh","possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1809850885583093786"}],"reply_settings":"everyone","text":"@hongaibin @yunyun_shimona 扎莱普隆是小废物x"},"includes":{"users":[{"created_at":"2024-01-02T01:22:57.000Z","description":"猫，诗歌，精神动力学。艺术，C#，波粒二象性。回归曲线上的量子生物，无攻击性。","id":"1741993395910811648","location":"0°00′N 260°00′E Mars","name":"炽烈已极","pinned_tweet_id":"1809649123382948242","profile_image_url":"https://pbs.twimg.com/profile_images/1789433740277567488/d3KhwUX1_normal.jpg","protected":false,"public_metrics":{"followers_count":94,"following_count":74,"tweet_count":495,"listed_count":0,"like_count":1059},"username":"AnIncandescence","verified":false},{"created_at":"2024-04-16T12:16:25.000Z","description":"我是一个没人爱的家伙\n中度抑郁 中度焦虑 \n感觉活着好窒息。\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了。😡拒绝❌政治","id":"1780208570098688000","name":"鸿哎彬","pinned_tweet_id":"1809281882821156874","profile_image_url":"https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg","protected":false,"public_metrics":{"followers_count":163,"following_count":1095,"tweet_count":1511,"listed_count":1,"like_count":2221},"username":"hongaibin","verified":false},{"created_at":"2016-07-27T13:42:58.000Z","description":"OMG Kawaii Shimona","id":"758296624875446272","location":"別看，看了會死","name":"Shimona@UyukiStudio","pinned_tweet_id":"1806705132387897444","profile_image_url":"https://pbs.twimg.com/profile_images/1806704779227525120/MUrsBHu2_normal.jpg","protected":false,"public_metrics":{"followers_count":23891,"following_count":3286,"tweet_count":24838,"listed_count":33,"like_count":8983},"username":"yunyun_shimona","verified":false}],"tweets":[{"attachments":{},"author_id":"1741993395910811648","conversation_id":"1809636866892918926","created_at":"2024-07-07T07:55:57.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2024-07-07T08:55:57.000Z"},"edit_history_tweet_ids":["1809858880110793034"],"entities":{"mentions":[{"start":0,"end":10,"username":"hongaibin","id":"1780208570098688000"},{"start":11,"end":26,"username":"yunyun_shimona","id":"758296624875446272"}]},"geo":{},"id":"1809858880110793034","in_reply_to_user_id":"1780208570098688000","lang":"zh","possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1809850885583093786"}],"reply_settings":"everyone","text":"@hongaibin @yunyun_shimona 扎莱普隆是小废物x"},{"attachments":{},"author_id":"1780208570098688000","conversation_id":"1809636866892918926","created_at":"2024-07-07T07:24:11.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2024-07-07T08:24:11.000Z"},"edit_history_tweet_ids":["1809850885583093786"],"entities":{"mentions":[{"start":0,"end":15,"username":"yunyun_shimona","id":"758296624875446272"}]},"geo":{},"id":"1809850885583093786","in_reply_to_user_id":"758296624875446272","lang":"zh","possibly_sensitive":false,"public_metrics":{"retweet_count":1,"reply_count":1,"like_count":1,"quote_count":0,"bookmark_count":0,"impression_count":5},"referenced_tweets":[{"type":"replied_to","id":"1809636866892918926"}],"reply_settings":"everyone","text":"@yunyun_shimona 扎来普隆呢"}]}}
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1741993395910811648",
+    "conversation_id": "1809636866892918926",
+    "created_at": "2024-07-07T07:55:57.000Z",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-07-07T08:55:57.000Z"
+    },
+    "edit_history_tweet_ids": [
+      "1809858880110793034"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 10,
+          "username": "hongaibin",
+          "id": "1780208570098688000"
+        },
+        {
+          "start": 11,
+          "end": 26,
+          "username": "yunyun_shimona",
+          "id": "758296624875446272"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1809858880110793034",
+    "in_reply_to_user_id": "1780208570098688000",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1809850885583093786"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hongaibin @yunyun_shimona 扎莱普隆是小废物x"
+  },
+  "includes": {
+    "users": [
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，C#，波粒二象性。回归曲线上的量子生物，无攻击性。",
+        "id": "1741993395910811648",
+        "location": "0°00′N 260°00′E Mars",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "1809649123382948242",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789433740277567488/d3KhwUX1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 74,
+          "tweet_count": 495,
+          "listed_count": 0,
+          "like_count": 1059
+        },
+        "username": "AnIncandescence",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙\n中度抑郁 中度焦虑 \n感觉活着好窒息。\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了。😡拒绝❌政治",
+        "id": "1780208570098688000",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1809281882821156874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789465714790907904/XQGpu6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 1095,
+          "tweet_count": 1511,
+          "listed_count": 1,
+          "like_count": 2221
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-27T13:42:58.000Z",
+        "description": "OMG Kawaii Shimona",
+        "id": "758296624875446272",
+        "location": "別看，看了會死",
+        "name": "Shimona@UyukiStudio",
+        "pinned_tweet_id": "1806705132387897444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806704779227525120/MUrsBHu2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23891,
+          "following_count": 3286,
+          "tweet_count": 24838,
+          "listed_count": 33,
+          "like_count": 8983
+        },
+        "username": "yunyun_shimona",
+        "verified": false
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1741993395910811648",
+        "conversation_id": "1809636866892918926",
+        "created_at": "2024-07-07T07:55:57.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2024-07-07T08:55:57.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1809858880110793034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 10,
+              "username": "hongaibin",
+              "id": "1780208570098688000"
+            },
+            {
+              "start": 11,
+              "end": 26,
+              "username": "yunyun_shimona",
+              "id": "758296624875446272"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809858880110793034",
+        "in_reply_to_user_id": "1780208570098688000",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1809850885583093786"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongaibin @yunyun_shimona 扎莱普隆是小废物x"
+      },
+      {
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1809636866892918926",
+        "created_at": "2024-07-07T07:24:11.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2024-07-07T08:24:11.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1809850885583093786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 15,
+              "username": "yunyun_shimona",
+              "id": "758296624875446272"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809850885583093786",
+        "in_reply_to_user_id": "758296624875446272",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 1,
+          "reply_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1809636866892918926"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yunyun_shimona 扎来普隆呢"
+      }
+    ]
+  },
+  "_pale_fire": {
+    "x_api_reply_chains": {
+      "1809636866892918926": {
+        "version": 1,
+        "fetched_at": "2026-04-17T23:55:06Z",
+        "max_depth": 63,
+        "posts": [
+          {
+            "id": "1809636866892918926",
+            "source": "x_api",
+            "payload": {
+              "data": {
+                "text": "佐匹克隆 是一种 甜甜的昏昏欲睡 自带一种欣快感 最幸福的一种安眠药\n氯硝西泮 是一种强制清空大脑 但是吃的量不够就不会睡着 会被反噬\n思诺思 是一种加强思考 少见致幻 过量就失忆的存在 但是很爽",
+                "edit_history_tweet_ids": [
+                  "1809636866892918926"
+                ],
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 4,
+                  "like_count": 34,
+                  "quote_count": 0,
+                  "bookmark_count": 5,
+                  "impression_count": 1512
+                },
+                "created_at": "2024-07-06T17:13:45.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": true,
+                  "editable_until": "2024-07-06T18:13:45.000Z"
+                },
+                "possibly_sensitive": false,
+                "reply_settings": "everyone",
+                "conversation_id": "1809636866892918926",
+                "id": "1809636866892918926",
+                "author_id": "758296624875446272",
+                "lang": "zh"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "entities": {
+                      "description": {
+                        "hashtags": [
+                          {
+                            "start": 44,
+                            "end": 49,
+                            "tag": "まのさば"
+                          },
+                          {
+                            "start": 50,
+                            "end": 59,
+                            "tag": "ヨグソトースの庭"
+                          },
+                          {
+                            "start": 60,
+                            "end": 78,
+                            "tag": "NeedyGirlOverdose"
+                          }
+                        ],
+                        "mentions": [
+                          {
+                            "start": 9,
+                            "end": 20,
+                            "username": "Cchang3243"
+                          }
+                        ]
+                      }
+                    },
+                    "protected": false,
+                    "id": "758296624875446272",
+                    "created_at": "2016-07-27T13:42:58.000Z",
+                    "location": "Shibuya-ku, Tokyo",
+                    "name": "ロ Ropu プ",
+                    "public_metrics": {
+                      "followers_count": 28599,
+                      "following_count": 4105,
+                      "tweet_count": 32721,
+                      "listed_count": 28,
+                      "like_count": 13574,
+                      "media_count": 4615
+                    },
+                    "verified": false,
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2041579235350077440/8fAzCTT4_normal.jpg",
+                    "username": "_ropu",
+                    "description": "|| お姉さん： @Cchang3243 || CN/EN/JP/KR ○ || タグ：#まのさば #ヨグソトースの庭 #NeedyGirlOverdose ||"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

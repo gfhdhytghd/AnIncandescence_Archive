@@ -1,1 +1,1018 @@
-{"data":{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1964965228090945948","created_at":"2025-09-09T06:19:59.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-09-09T07:19:59.000Z"},"edit_history_tweet_ids":["1965299125462929428"],"entities":{"mentions":[{"start":0,"end":13,"username":"RainduRhinns","id":"1811843582229381123"}]},"geo":{},"id":"1965299125462929428","in_reply_to_user_id":"1811843582229381123","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1965291400872022134"}],"reply_settings":"everyone","text":"@RainduRhinns 其实这次并没有特别慌乱，知道是幻觉，以前倒是希望过见一次克系风格的trip（）算是应验了"},"includes":{"users":[{"created_at":"2024-01-02T01:22:57.000Z","description":"猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/MuEKSg4tIS","expanded_url":"https://ngl.link/anincandescence","display_url":"ngl.link/anincandescence"}]}},"id":"1741993395910811648","location":"天鹅座X-1","name":"炽烈已极","pinned_tweet_id":"1944465960406245490","profile_image_url":"https://pbs.twimg.com/profile_images/1947176726292725760/VAZ0WSeY_normal.jpg","protected":false,"public_metrics":{"followers_count":1174,"following_count":207,"tweet_count":3837,"listed_count":3,"like_count":10398,"media_count":768},"url":"https://t.co/MuEKSg4tIS","username":"AnIncandescence","verified":false},{"created_at":"2024-07-12T19:22:45.000Z","description":"NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人","id":"1811843582229381123","name":"Rhinnschneevall","profile_image_url":"https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg","protected":false,"public_metrics":{"followers_count":217,"following_count":709,"tweet_count":859,"listed_count":1,"like_count":2816,"media_count":56},"username":"RainduRhinns","verified":false}],"tweets":[{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1964965228090945948","created_at":"2025-09-09T06:19:59.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-09-09T07:19:59.000Z"},"edit_history_tweet_ids":["1965299125462929428"],"entities":{"mentions":[{"start":0,"end":13,"username":"RainduRhinns","id":"1811843582229381123"}]},"geo":{},"id":"1965299125462929428","in_reply_to_user_id":"1811843582229381123","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1965291400872022134"}],"reply_settings":"everyone","text":"@RainduRhinns 其实这次并没有特别慌乱，知道是幻觉，以前倒是希望过见一次克系风格的trip（）算是应验了"},{"article":{},"attachments":{},"author_id":"1811843582229381123","conversation_id":"1964965228090945948","created_at":"2025-09-09T05:49:17.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-09-09T06:49:17.000Z"},"edit_history_tweet_ids":["1965291400872022134"],"entities":{"mentions":[{"start":0,"end":16,"username":"AnIncandescence","id":"1741993395910811648"}]},"geo":{},"id":"1965291400872022134","in_reply_to_user_id":"1741993395910811648","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":1,"like_count":1,"quote_count":0,"bookmark_count":0,"impression_count":17},"referenced_tweets":[{"type":"replied_to","id":"1965283850378248573"}],"reply_settings":"everyone","text":"@AnIncandescence 阴间这一块（"}]}}
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741993395910811648",
+    "conversation_id": "1964965228090945948",
+    "created_at": "2025-09-09T06:19:59.000Z",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2025-09-09T07:19:59.000Z"
+    },
+    "edit_history_tweet_ids": [
+      "1965299125462929428"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 13,
+          "username": "RainduRhinns",
+          "id": "1811843582229381123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965299125462929428",
+    "in_reply_to_user_id": "1811843582229381123",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1965291400872022134"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RainduRhinns 其实这次并没有特别慌乱，知道是幻觉，以前倒是希望过见一次克系风格的trip（）算是应验了"
+  },
+  "includes": {
+    "users": [
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/MuEKSg4tIS",
+                "expanded_url": "https://ngl.link/anincandescence",
+                "display_url": "ngl.link/anincandescence"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "天鹅座X-1",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "1944465960406245490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947176726292725760/VAZ0WSeY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1174,
+          "following_count": 207,
+          "tweet_count": 3837,
+          "listed_count": 3,
+          "like_count": 10398,
+          "media_count": 768
+        },
+        "url": "https://t.co/MuEKSg4tIS",
+        "username": "AnIncandescence",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人",
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 709,
+          "tweet_count": 859,
+          "listed_count": 1,
+          "like_count": 2816,
+          "media_count": 56
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741993395910811648",
+        "conversation_id": "1964965228090945948",
+        "created_at": "2025-09-09T06:19:59.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2025-09-09T07:19:59.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1965299125462929428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 13,
+              "username": "RainduRhinns",
+              "id": "1811843582229381123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965299125462929428",
+        "in_reply_to_user_id": "1811843582229381123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1965291400872022134"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainduRhinns 其实这次并没有特别慌乱，知道是幻觉，以前倒是希望过见一次克系风格的trip（）算是应验了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1964965228090945948",
+        "created_at": "2025-09-09T05:49:17.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2025-09-09T06:49:17.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1965291400872022134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 16,
+              "username": "AnIncandescence",
+              "id": "1741993395910811648"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965291400872022134",
+        "in_reply_to_user_id": "1741993395910811648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1965283850378248573"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnIncandescence 阴间这一块（"
+      }
+    ]
+  },
+  "_pale_fire": {
+    "x_api_reply_chains": {
+      "1965283850378248573": {
+        "version": 1,
+        "fetched_at": "2026-04-18T00:58:35Z",
+        "max_depth": 63,
+        "posts": [
+          {
+            "id": "1965283850378248573",
+            "source": "local_json",
+            "payload": {
+              "data": {
+                "article": {},
+                "attachments": {},
+                "author_id": "1741993395910811648",
+                "conversation_id": "1964965228090945948",
+                "created_at": "2025-09-09T05:19:17.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2025-09-09T06:19:17.000Z"
+                },
+                "edit_history_tweet_ids": [
+                  "1965283850378248573"
+                ],
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 0,
+                      "end": 13,
+                      "username": "RainduRhinns",
+                      "id": "1811843582229381123"
+                    }
+                  ]
+                },
+                "geo": {},
+                "id": "1965283850378248573",
+                "in_reply_to_user_id": "1811843582229381123",
+                "lang": "zh",
+                "note_tweet": {
+                  "entities": {}
+                },
+                "possibly_sensitive": false,
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 0
+                },
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "1965273224113275235"
+                  }
+                ],
+                "reply_settings": "everyone",
+                "text": "@RainduRhinns 怎么你们看什么都像dpt（）"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "created_at": "2024-01-02T01:22:57.000Z",
+                    "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/MuEKSg4tIS",
+                            "expanded_url": "https://ngl.link/anincandescence",
+                            "display_url": "ngl.link/anincandescence"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1741993395910811648",
+                    "location": "天鹅座X-1",
+                    "name": "炽烈已极",
+                    "pinned_tweet_id": "1944465960406245490",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1947176726292725760/VAZ0WSeY_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 1174,
+                      "following_count": 207,
+                      "tweet_count": 3836,
+                      "listed_count": 3,
+                      "like_count": 10397,
+                      "media_count": 768
+                    },
+                    "url": "https://t.co/MuEKSg4tIS",
+                    "username": "AnIncandescence",
+                    "verified": false
+                  },
+                  {
+                    "created_at": "2024-07-12T19:22:45.000Z",
+                    "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人",
+                    "id": "1811843582229381123",
+                    "name": "Rhinnschneevall",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 217,
+                      "following_count": 709,
+                      "tweet_count": 858,
+                      "listed_count": 1,
+                      "like_count": 2816,
+                      "media_count": 56
+                    },
+                    "username": "RainduRhinns",
+                    "verified": false
+                  }
+                ],
+                "tweets": [
+                  {
+                    "article": {},
+                    "attachments": {},
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "1964965228090945948",
+                    "created_at": "2025-09-09T05:19:17.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2025-09-09T06:19:17.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "1965283850378248573"
+                    ],
+                    "entities": {
+                      "mentions": [
+                        {
+                          "start": 0,
+                          "end": 13,
+                          "username": "RainduRhinns",
+                          "id": "1811843582229381123"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "1965283850378248573",
+                    "in_reply_to_user_id": "1811843582229381123",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 0,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 0
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "1965273224113275235"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "@RainduRhinns 怎么你们看什么都像dpt（）"
+                  },
+                  {
+                    "article": {},
+                    "attachments": {},
+                    "author_id": "1811843582229381123",
+                    "conversation_id": "1964965228090945948",
+                    "created_at": "2025-09-09T04:37:04.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2025-09-09T05:37:04.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "1965273224113275235"
+                    ],
+                    "entities": {
+                      "mentions": [
+                        {
+                          "start": 0,
+                          "end": 16,
+                          "username": "AnIncandescence",
+                          "id": "1741993395910811648"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "1965273224113275235",
+                    "in_reply_to_user_id": "1741993395910811648",
+                    "lang": "ja",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 1,
+                      "like_count": 1,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 8
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "1964965228090945948"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "@AnIncandescence 像是DPT"
+                  }
+                ]
+              },
+              "_pale_fire": {
+                "x_api_reply_chains": {
+                  "1964965228090945948": {
+                    "version": 1,
+                    "fetched_at": "2026-04-18T00:58:35Z",
+                    "max_depth": 63,
+                    "posts": [
+                      {
+                        "id": "1964965228090945948",
+                        "source": "local_json",
+                        "payload": {
+                          "data": {
+                            "article": {},
+                            "attachments": {
+                              "media_keys": [
+                                "3_1964965216829206528",
+                                "3_1964965216850231296"
+                              ]
+                            },
+                            "author_id": "1741993395910811648",
+                            "conversation_id": "1964965228090945948",
+                            "created_at": "2025-09-08T08:13:12.000Z",
+                            "edit_controls": {
+                              "edits_remaining": 5,
+                              "is_edit_eligible": true,
+                              "editable_until": "2025-09-08T09:13:12.000Z"
+                            },
+                            "edit_history_tweet_ids": [
+                              "1964965228090945948"
+                            ],
+                            "entities": {
+                              "urls": [
+                                {
+                                  "start": 34,
+                                  "end": 57,
+                                  "url": "https://t.co/8YODLXG8j7",
+                                  "expanded_url": "https://x.com/AnIncandescence/status/1964965228090945948/photo/1",
+                                  "display_url": "pic.x.com/8YODLXG8j7",
+                                  "media_key": "3_1964965216829206528"
+                                },
+                                {
+                                  "start": 34,
+                                  "end": 57,
+                                  "url": "https://t.co/8YODLXG8j7",
+                                  "expanded_url": "https://x.com/AnIncandescence/status/1964965228090945948/photo/1",
+                                  "display_url": "pic.x.com/8YODLXG8j7",
+                                  "media_key": "3_1964965216850231296"
+                                }
+                              ]
+                            },
+                            "geo": {},
+                            "id": "1964965228090945948",
+                            "lang": "zh",
+                            "note_tweet": {
+                              "entities": {}
+                            },
+                            "possibly_sensitive": false,
+                            "public_metrics": {
+                              "retweet_count": 0,
+                              "reply_count": 0,
+                              "like_count": 0,
+                              "quote_count": 0,
+                              "bookmark_count": 0,
+                              "impression_count": 0
+                            },
+                            "reply_settings": "everyone",
+                            "text": "我本来想着胶囊用一半红色一半蓝色致敬一下黑客帝国会不会很有意思.. https://t.co/8YODLXG8j7"
+                          },
+                          "includes": {
+                            "media": [
+                              {
+                                "height": 4032,
+                                "media_key": "3_1964965216829206528",
+                                "public_metrics": {},
+                                "type": "photo",
+                                "url": "https://pbs.twimg.com/media/G0T1dDEacAApeCo.jpg",
+                                "width": 3024
+                              },
+                              {
+                                "height": 1885,
+                                "media_key": "3_1964965216850231296",
+                                "public_metrics": {},
+                                "type": "photo",
+                                "url": "https://pbs.twimg.com/media/G0T1dDJbQAAUg_J.jpg",
+                                "width": 1179
+                              }
+                            ],
+                            "users": [
+                              {
+                                "created_at": "2024-01-02T01:22:57.000Z",
+                                "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+                                "entities": {
+                                  "url": {
+                                    "urls": [
+                                      {
+                                        "start": 0,
+                                        "end": 23,
+                                        "url": "https://t.co/MuEKSg4tIS",
+                                        "expanded_url": "https://ngl.link/anincandescence",
+                                        "display_url": "ngl.link/anincandescence"
+                                      }
+                                    ]
+                                  }
+                                },
+                                "id": "1741993395910811648",
+                                "location": "天鹅座X-1",
+                                "name": "炽烈已极",
+                                "pinned_tweet_id": "1944465960406245490",
+                                "profile_image_url": "https://pbs.twimg.com/profile_images/1947176726292725760/VAZ0WSeY_normal.jpg",
+                                "protected": false,
+                                "public_metrics": {
+                                  "followers_count": 1174,
+                                  "following_count": 206,
+                                  "tweet_count": 3833,
+                                  "listed_count": 3,
+                                  "like_count": 10392,
+                                  "media_count": 768
+                                },
+                                "url": "https://t.co/MuEKSg4tIS",
+                                "username": "AnIncandescence",
+                                "verified": false
+                              }
+                            ],
+                            "tweets": [
+                              {
+                                "article": {},
+                                "attachments": {
+                                  "media_keys": [
+                                    "3_1964965216829206528",
+                                    "3_1964965216850231296"
+                                  ]
+                                },
+                                "author_id": "1741993395910811648",
+                                "conversation_id": "1964965228090945948",
+                                "created_at": "2025-09-08T08:13:12.000Z",
+                                "edit_controls": {
+                                  "edits_remaining": 5,
+                                  "is_edit_eligible": true,
+                                  "editable_until": "2025-09-08T09:13:12.000Z"
+                                },
+                                "edit_history_tweet_ids": [
+                                  "1964965228090945948"
+                                ],
+                                "entities": {
+                                  "urls": [
+                                    {
+                                      "start": 34,
+                                      "end": 57,
+                                      "url": "https://t.co/8YODLXG8j7",
+                                      "expanded_url": "https://x.com/AnIncandescence/status/1964965228090945948/photo/1",
+                                      "display_url": "pic.x.com/8YODLXG8j7",
+                                      "media_key": "3_1964965216829206528"
+                                    },
+                                    {
+                                      "start": 34,
+                                      "end": 57,
+                                      "url": "https://t.co/8YODLXG8j7",
+                                      "expanded_url": "https://x.com/AnIncandescence/status/1964965228090945948/photo/1",
+                                      "display_url": "pic.x.com/8YODLXG8j7",
+                                      "media_key": "3_1964965216850231296"
+                                    }
+                                  ]
+                                },
+                                "geo": {},
+                                "id": "1964965228090945948",
+                                "lang": "zh",
+                                "note_tweet": {
+                                  "entities": {}
+                                },
+                                "possibly_sensitive": false,
+                                "public_metrics": {
+                                  "retweet_count": 0,
+                                  "reply_count": 0,
+                                  "like_count": 0,
+                                  "quote_count": 0,
+                                  "bookmark_count": 0,
+                                  "impression_count": 0
+                                },
+                                "reply_settings": "everyone",
+                                "text": "我本来想着胶囊用一半红色一半蓝色致敬一下黑客帝国会不会很有意思.. https://t.co/8YODLXG8j7"
+                              }
+                            ]
+                          }
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          },
+          {
+            "id": "1965273224113275235",
+            "source": "local_json",
+            "payload": {
+              "data": {
+                "article": {},
+                "attachments": {},
+                "author_id": "1741993395910811648",
+                "conversation_id": "1964965228090945948",
+                "created_at": "2025-09-09T05:19:17.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2025-09-09T06:19:17.000Z"
+                },
+                "edit_history_tweet_ids": [
+                  "1965283850378248573"
+                ],
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 0,
+                      "end": 13,
+                      "username": "RainduRhinns",
+                      "id": "1811843582229381123"
+                    }
+                  ]
+                },
+                "geo": {},
+                "id": "1965283850378248573",
+                "in_reply_to_user_id": "1811843582229381123",
+                "lang": "zh",
+                "note_tweet": {
+                  "entities": {}
+                },
+                "possibly_sensitive": false,
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 0
+                },
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "1965273224113275235"
+                  }
+                ],
+                "reply_settings": "everyone",
+                "text": "@RainduRhinns 怎么你们看什么都像dpt（）"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "created_at": "2024-01-02T01:22:57.000Z",
+                    "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/MuEKSg4tIS",
+                            "expanded_url": "https://ngl.link/anincandescence",
+                            "display_url": "ngl.link/anincandescence"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1741993395910811648",
+                    "location": "天鹅座X-1",
+                    "name": "炽烈已极",
+                    "pinned_tweet_id": "1944465960406245490",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1947176726292725760/VAZ0WSeY_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 1174,
+                      "following_count": 207,
+                      "tweet_count": 3836,
+                      "listed_count": 3,
+                      "like_count": 10397,
+                      "media_count": 768
+                    },
+                    "url": "https://t.co/MuEKSg4tIS",
+                    "username": "AnIncandescence",
+                    "verified": false
+                  },
+                  {
+                    "created_at": "2024-07-12T19:22:45.000Z",
+                    "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人",
+                    "id": "1811843582229381123",
+                    "name": "Rhinnschneevall",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 217,
+                      "following_count": 709,
+                      "tweet_count": 858,
+                      "listed_count": 1,
+                      "like_count": 2816,
+                      "media_count": 56
+                    },
+                    "username": "RainduRhinns",
+                    "verified": false
+                  }
+                ],
+                "tweets": [
+                  {
+                    "article": {},
+                    "attachments": {},
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "1964965228090945948",
+                    "created_at": "2025-09-09T05:19:17.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2025-09-09T06:19:17.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "1965283850378248573"
+                    ],
+                    "entities": {
+                      "mentions": [
+                        {
+                          "start": 0,
+                          "end": 13,
+                          "username": "RainduRhinns",
+                          "id": "1811843582229381123"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "1965283850378248573",
+                    "in_reply_to_user_id": "1811843582229381123",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 0,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 0
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "1965273224113275235"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "@RainduRhinns 怎么你们看什么都像dpt（）"
+                  },
+                  {
+                    "article": {},
+                    "attachments": {},
+                    "author_id": "1811843582229381123",
+                    "conversation_id": "1964965228090945948",
+                    "created_at": "2025-09-09T04:37:04.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2025-09-09T05:37:04.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "1965273224113275235"
+                    ],
+                    "entities": {
+                      "mentions": [
+                        {
+                          "start": 0,
+                          "end": 16,
+                          "username": "AnIncandescence",
+                          "id": "1741993395910811648"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "1965273224113275235",
+                    "in_reply_to_user_id": "1741993395910811648",
+                    "lang": "ja",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 1,
+                      "like_count": 1,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 8
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "1964965228090945948"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "@AnIncandescence 像是DPT"
+                  }
+                ]
+              },
+              "_pale_fire": {
+                "x_api_reply_chains": {
+                  "1964965228090945948": {
+                    "version": 1,
+                    "fetched_at": "2026-04-18T00:58:35Z",
+                    "max_depth": 63,
+                    "posts": [
+                      {
+                        "id": "1964965228090945948",
+                        "source": "local_json",
+                        "payload": {
+                          "data": {
+                            "article": {},
+                            "attachments": {
+                              "media_keys": [
+                                "3_1964965216829206528",
+                                "3_1964965216850231296"
+                              ]
+                            },
+                            "author_id": "1741993395910811648",
+                            "conversation_id": "1964965228090945948",
+                            "created_at": "2025-09-08T08:13:12.000Z",
+                            "edit_controls": {
+                              "edits_remaining": 5,
+                              "is_edit_eligible": true,
+                              "editable_until": "2025-09-08T09:13:12.000Z"
+                            },
+                            "edit_history_tweet_ids": [
+                              "1964965228090945948"
+                            ],
+                            "entities": {
+                              "urls": [
+                                {
+                                  "start": 34,
+                                  "end": 57,
+                                  "url": "https://t.co/8YODLXG8j7",
+                                  "expanded_url": "https://x.com/AnIncandescence/status/1964965228090945948/photo/1",
+                                  "display_url": "pic.x.com/8YODLXG8j7",
+                                  "media_key": "3_1964965216829206528"
+                                },
+                                {
+                                  "start": 34,
+                                  "end": 57,
+                                  "url": "https://t.co/8YODLXG8j7",
+                                  "expanded_url": "https://x.com/AnIncandescence/status/1964965228090945948/photo/1",
+                                  "display_url": "pic.x.com/8YODLXG8j7",
+                                  "media_key": "3_1964965216850231296"
+                                }
+                              ]
+                            },
+                            "geo": {},
+                            "id": "1964965228090945948",
+                            "lang": "zh",
+                            "note_tweet": {
+                              "entities": {}
+                            },
+                            "possibly_sensitive": false,
+                            "public_metrics": {
+                              "retweet_count": 0,
+                              "reply_count": 0,
+                              "like_count": 0,
+                              "quote_count": 0,
+                              "bookmark_count": 0,
+                              "impression_count": 0
+                            },
+                            "reply_settings": "everyone",
+                            "text": "我本来想着胶囊用一半红色一半蓝色致敬一下黑客帝国会不会很有意思.. https://t.co/8YODLXG8j7"
+                          },
+                          "includes": {
+                            "media": [
+                              {
+                                "height": 4032,
+                                "media_key": "3_1964965216829206528",
+                                "public_metrics": {},
+                                "type": "photo",
+                                "url": "https://pbs.twimg.com/media/G0T1dDEacAApeCo.jpg",
+                                "width": 3024
+                              },
+                              {
+                                "height": 1885,
+                                "media_key": "3_1964965216850231296",
+                                "public_metrics": {},
+                                "type": "photo",
+                                "url": "https://pbs.twimg.com/media/G0T1dDJbQAAUg_J.jpg",
+                                "width": 1179
+                              }
+                            ],
+                            "users": [
+                              {
+                                "created_at": "2024-01-02T01:22:57.000Z",
+                                "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+                                "entities": {
+                                  "url": {
+                                    "urls": [
+                                      {
+                                        "start": 0,
+                                        "end": 23,
+                                        "url": "https://t.co/MuEKSg4tIS",
+                                        "expanded_url": "https://ngl.link/anincandescence",
+                                        "display_url": "ngl.link/anincandescence"
+                                      }
+                                    ]
+                                  }
+                                },
+                                "id": "1741993395910811648",
+                                "location": "天鹅座X-1",
+                                "name": "炽烈已极",
+                                "pinned_tweet_id": "1944465960406245490",
+                                "profile_image_url": "https://pbs.twimg.com/profile_images/1947176726292725760/VAZ0WSeY_normal.jpg",
+                                "protected": false,
+                                "public_metrics": {
+                                  "followers_count": 1174,
+                                  "following_count": 206,
+                                  "tweet_count": 3833,
+                                  "listed_count": 3,
+                                  "like_count": 10392,
+                                  "media_count": 768
+                                },
+                                "url": "https://t.co/MuEKSg4tIS",
+                                "username": "AnIncandescence",
+                                "verified": false
+                              }
+                            ],
+                            "tweets": [
+                              {
+                                "article": {},
+                                "attachments": {
+                                  "media_keys": [
+                                    "3_1964965216829206528",
+                                    "3_1964965216850231296"
+                                  ]
+                                },
+                                "author_id": "1741993395910811648",
+                                "conversation_id": "1964965228090945948",
+                                "created_at": "2025-09-08T08:13:12.000Z",
+                                "edit_controls": {
+                                  "edits_remaining": 5,
+                                  "is_edit_eligible": true,
+                                  "editable_until": "2025-09-08T09:13:12.000Z"
+                                },
+                                "edit_history_tweet_ids": [
+                                  "1964965228090945948"
+                                ],
+                                "entities": {
+                                  "urls": [
+                                    {
+                                      "start": 34,
+                                      "end": 57,
+                                      "url": "https://t.co/8YODLXG8j7",
+                                      "expanded_url": "https://x.com/AnIncandescence/status/1964965228090945948/photo/1",
+                                      "display_url": "pic.x.com/8YODLXG8j7",
+                                      "media_key": "3_1964965216829206528"
+                                    },
+                                    {
+                                      "start": 34,
+                                      "end": 57,
+                                      "url": "https://t.co/8YODLXG8j7",
+                                      "expanded_url": "https://x.com/AnIncandescence/status/1964965228090945948/photo/1",
+                                      "display_url": "pic.x.com/8YODLXG8j7",
+                                      "media_key": "3_1964965216850231296"
+                                    }
+                                  ]
+                                },
+                                "geo": {},
+                                "id": "1964965228090945948",
+                                "lang": "zh",
+                                "note_tweet": {
+                                  "entities": {}
+                                },
+                                "possibly_sensitive": false,
+                                "public_metrics": {
+                                  "retweet_count": 0,
+                                  "reply_count": 0,
+                                  "like_count": 0,
+                                  "quote_count": 0,
+                                  "bookmark_count": 0,
+                                  "impression_count": 0
+                                },
+                                "reply_settings": "everyone",
+                                "text": "我本来想着胶囊用一半红色一半蓝色致敬一下黑客帝国会不会很有意思.. https://t.co/8YODLXG8j7"
+                              }
+                            ]
+                          }
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

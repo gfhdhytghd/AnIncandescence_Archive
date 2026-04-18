@@ -1,1 +1,224 @@
-{"data":{"attachments":{},"author_id":"1741993395910811648","conversation_id":"1812177610484691152","created_at":"2024-07-13T18:48:30.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2024-07-13T19:48:30.000Z"},"edit_history_tweet_ids":["1812197428654653582"],"entities":{"mentions":[{"start":0,"end":14,"username":"Coccus_Swamer","id":"1552238688590958592"}]},"geo":{},"id":"1812197428654653582","in_reply_to_user_id":"1552238688590958592","lang":"zh","possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1812177610484691152"}],"reply_settings":"everyone","text":"@Coccus_Swamer 唑吡坦入睡困难，掉率极高"},"includes":{"users":[{"created_at":"2024-01-02T01:22:57.000Z","description":"猫，诗歌，精神动力学。艺术，C#，波粒二象性。回归曲线上的量子生物，无攻击性。","id":"1741993395910811648","location":"0°00′N 260°00′E Mars","name":"炽烈已极","pinned_tweet_id":"1809649123382948242","profile_image_url":"https://pbs.twimg.com/profile_images/1789433740277567488/d3KhwUX1_normal.jpg","protected":false,"public_metrics":{"followers_count":116,"following_count":88,"tweet_count":640,"listed_count":0,"like_count":1794},"username":"AnIncandescence","verified":false},{"created_at":"2022-07-27T10:25:26.000Z","description":"早餐一種。\n非二元性别\n休学中\n成分复杂，爱看血图，互关慎重。\n读书/药物/分享生活/日本語勉強中/Deutschlehrer/English also OK!","id":"1552238688590958592","name":"帝國粉色果醬配奶油麵包片","pinned_tweet_id":"1716744793404191029","profile_image_url":"https://pbs.twimg.com/profile_images/1811765872257855488/AXrKy4_u_normal.jpg","protected":true,"public_metrics":{"followers_count":130,"following_count":694,"tweet_count":1229,"listed_count":0,"like_count":3888},"username":"Coccus_Swamer","verified":false}],"tweets":[{"attachments":{},"author_id":"1741993395910811648","conversation_id":"1812177610484691152","created_at":"2024-07-13T18:48:30.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2024-07-13T19:48:30.000Z"},"edit_history_tweet_ids":["1812197428654653582"],"entities":{"mentions":[{"start":0,"end":14,"username":"Coccus_Swamer","id":"1552238688590958592"}]},"geo":{},"id":"1812197428654653582","in_reply_to_user_id":"1552238688590958592","lang":"zh","possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1812177610484691152"}],"reply_settings":"everyone","text":"@Coccus_Swamer 唑吡坦入睡困难，掉率极高"}]},"errors":[{"resource_id":"1812177610484691152","parameter":"referenced_tweets.id","resource_type":"tweet","section":"includes","title":"Authorization Error","value":"1812177610484691152","detail":"Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1812177610484691152].","type":"https://api.twitter.com/2/problems/not-authorized-for-resource"}]}
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1741993395910811648",
+    "conversation_id": "1812177610484691152",
+    "created_at": "2024-07-13T18:48:30.000Z",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-07-13T19:48:30.000Z"
+    },
+    "edit_history_tweet_ids": [
+      "1812197428654653582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "Coccus_Swamer",
+          "id": "1552238688590958592"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1812197428654653582",
+    "in_reply_to_user_id": "1552238688590958592",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1812177610484691152"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Coccus_Swamer 唑吡坦入睡困难，掉率极高"
+  },
+  "includes": {
+    "users": [
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，C#，波粒二象性。回归曲线上的量子生物，无攻击性。",
+        "id": "1741993395910811648",
+        "location": "0°00′N 260°00′E Mars",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "1809649123382948242",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789433740277567488/d3KhwUX1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 88,
+          "tweet_count": 640,
+          "listed_count": 0,
+          "like_count": 1794
+        },
+        "username": "AnIncandescence",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "早餐一種。\n非二元性别\n休学中\n成分复杂，爱看血图，互关慎重。\n读书/药物/分享生活/日本語勉強中/Deutschlehrer/English also OK!",
+        "id": "1552238688590958592",
+        "name": "帝國粉色果醬配奶油麵包片",
+        "pinned_tweet_id": "1716744793404191029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811765872257855488/AXrKy4_u_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 694,
+          "tweet_count": 1229,
+          "listed_count": 0,
+          "like_count": 3888
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1741993395910811648",
+        "conversation_id": "1812177610484691152",
+        "created_at": "2024-07-13T18:48:30.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2024-07-13T19:48:30.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1812197428654653582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 14,
+              "username": "Coccus_Swamer",
+              "id": "1552238688590958592"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812197428654653582",
+        "in_reply_to_user_id": "1552238688590958592",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1812177610484691152"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Coccus_Swamer 唑吡坦入睡困难，掉率极高"
+      }
+    ]
+  },
+  "errors": [
+    {
+      "resource_id": "1812177610484691152",
+      "parameter": "referenced_tweets.id",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "value": "1812177610484691152",
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1812177610484691152].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource"
+    }
+  ],
+  "_pale_fire": {
+    "x_api_reply_chains": {
+      "1812177610484691152": {
+        "version": 1,
+        "fetched_at": "2026-04-17T23:57:03Z",
+        "max_depth": 64,
+        "posts": [
+          {
+            "id": "1812177610484691152",
+            "source": "x_api",
+            "payload": {
+              "data": {
+                "created_at": "2024-07-13T17:29:45.000Z",
+                "reply_settings": "everyone",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": true,
+                  "editable_until": "2024-07-13T18:29:45.000Z"
+                },
+                "conversation_id": "1812177610484691152",
+                "id": "1812177610484691152",
+                "text": "早上要去见医生:）我应该说些什么能让我搞到点我想要的安眠药，我想要唑吡坦，，地西泮，，或者有什么好玩的东西？",
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 4,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 138
+                },
+                "lang": "zh",
+                "edit_history_tweet_ids": [
+                  "1812177610484691152"
+                ],
+                "possibly_sensitive": false,
+                "author_id": "1552238688590958592"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "created_at": "2022-07-27T10:25:26.000Z",
+                    "protected": false,
+                    "entities": {
+                      "description": {
+                        "mentions": [
+                          {
+                            "start": 105,
+                            "end": 120,
+                            "username": "Yesmynamehaer1"
+                          }
+                        ]
+                      }
+                    },
+                    "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/诗歌/日本語-Deutsch-Français-Español/互关慎重/爱人：@Yesmynamehaer1",
+                    "public_metrics": {
+                      "followers_count": 866,
+                      "following_count": 2478,
+                      "tweet_count": 3539,
+                      "listed_count": 0,
+                      "like_count": 9685,
+                      "media_count": 656
+                    },
+                    "username": "Coccus_Swamer",
+                    "verified": false,
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+                    "location": "Funabashi-shi, Chiba",
+                    "id": "1552238688590958592",
+                    "name": "焦糖蘋果醬配奶油麵包片 u･ω･u"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

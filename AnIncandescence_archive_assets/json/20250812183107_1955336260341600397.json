@@ -1,1 +1,236 @@
-{"data":{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1955332215271018945","created_at":"2025-08-12T18:31:07.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-08-12T19:31:07.000Z"},"edit_history_tweet_ids":["1955336260341600397"],"entities":{"mentions":[{"start":0,"end":16,"username":"dDguwkiRkZcCSrt","id":"1456231777224347651"}]},"geo":{},"id":"1955336260341600397","in_reply_to_user_id":"1456231777224347651","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1955332215271018945"}],"reply_settings":"everyone","text":"@dDguwkiRkZcCSrt 但确实是可以暗示和引导的，间接控制（？）"},"includes":{"users":[{"created_at":"2024-01-02T01:22:57.000Z","description":"猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/MuEKSg4tIS","expanded_url":"https://ngl.link/anincandescence","display_url":"ngl.link/anincandescence"}]}},"id":"1741993395910811648","location":"天鹅座X-1","name":"炽烈已极","pinned_tweet_id":"1944465960406245490","profile_image_url":"https://pbs.twimg.com/profile_images/1947176726292725760/VAZ0WSeY_normal.jpg","protected":false,"public_metrics":{"followers_count":1118,"following_count":198,"tweet_count":3619,"listed_count":2,"like_count":9899,"media_count":726},"url":"https://t.co/MuEKSg4tIS","username":"AnIncandescence","verified":false},{"created_at":"2021-11-04T12:08:26.000Z","description":"","id":"1456231777224347651","name":"无名","pinned_tweet_id":"1922871209764560922","profile_image_url":"https://pbs.twimg.com/profile_images/1932707072468217856/Yd5nKEM7_normal.jpg","protected":true,"public_metrics":{"followers_count":308,"following_count":56,"tweet_count":7753,"listed_count":0,"like_count":2836,"media_count":553},"username":"dDguwkiRkZcCSrt","verified":false}],"tweets":[{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1955332215271018945","created_at":"2025-08-12T18:31:07.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-08-12T19:31:07.000Z"},"edit_history_tweet_ids":["1955336260341600397"],"entities":{"mentions":[{"start":0,"end":16,"username":"dDguwkiRkZcCSrt","id":"1456231777224347651"}]},"geo":{},"id":"1955336260341600397","in_reply_to_user_id":"1456231777224347651","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1955332215271018945"}],"reply_settings":"everyone","text":"@dDguwkiRkZcCSrt 但确实是可以暗示和引导的，间接控制（？）"}]},"errors":[{"resource_id":"1955332215271018945","parameter":"referenced_tweets.id","resource_type":"tweet","section":"includes","title":"Authorization Error","value":"1955332215271018945","detail":"Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1955332215271018945].","type":"https://api.twitter.com/2/problems/not-authorized-for-resource"}]}
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741993395910811648",
+    "conversation_id": "1955332215271018945",
+    "created_at": "2025-08-12T18:31:07.000Z",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2025-08-12T19:31:07.000Z"
+    },
+    "edit_history_tweet_ids": [
+      "1955336260341600397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 16,
+          "username": "dDguwkiRkZcCSrt",
+          "id": "1456231777224347651"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955336260341600397",
+    "in_reply_to_user_id": "1456231777224347651",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1955332215271018945"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dDguwkiRkZcCSrt 但确实是可以暗示和引导的，间接控制（？）"
+  },
+  "includes": {
+    "users": [
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/MuEKSg4tIS",
+                "expanded_url": "https://ngl.link/anincandescence",
+                "display_url": "ngl.link/anincandescence"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "天鹅座X-1",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "1944465960406245490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947176726292725760/VAZ0WSeY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1118,
+          "following_count": 198,
+          "tweet_count": 3619,
+          "listed_count": 2,
+          "like_count": 9899,
+          "media_count": 726
+        },
+        "url": "https://t.co/MuEKSg4tIS",
+        "username": "AnIncandescence",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-04T12:08:26.000Z",
+        "description": "",
+        "id": "1456231777224347651",
+        "name": "无名",
+        "pinned_tweet_id": "1922871209764560922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932707072468217856/Yd5nKEM7_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 56,
+          "tweet_count": 7753,
+          "listed_count": 0,
+          "like_count": 2836,
+          "media_count": 553
+        },
+        "username": "dDguwkiRkZcCSrt",
+        "verified": false
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741993395910811648",
+        "conversation_id": "1955332215271018945",
+        "created_at": "2025-08-12T18:31:07.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2025-08-12T19:31:07.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1955336260341600397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 16,
+              "username": "dDguwkiRkZcCSrt",
+              "id": "1456231777224347651"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955336260341600397",
+        "in_reply_to_user_id": "1456231777224347651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1955332215271018945"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dDguwkiRkZcCSrt 但确实是可以暗示和引导的，间接控制（？）"
+      }
+    ]
+  },
+  "errors": [
+    {
+      "resource_id": "1955332215271018945",
+      "parameter": "referenced_tweets.id",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "value": "1955332215271018945",
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1955332215271018945].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource"
+    }
+  ],
+  "_pale_fire": {
+    "x_api_reply_chains": {
+      "1955332215271018945": {
+        "version": 1,
+        "fetched_at": "2026-04-18T00:54:07Z",
+        "max_depth": 64,
+        "posts": [
+          {
+            "id": "1955332215271018945",
+            "source": "x_api_oauth1",
+            "payload": {
+              "data": {
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": true,
+                  "editable_until": "2025-08-12T19:15:03.000Z"
+                },
+                "reply_settings": "everyone",
+                "id": "1955332215271018945",
+                "possibly_sensitive": false,
+                "author_id": "1456231777224347651",
+                "edit_history_tweet_ids": [
+                  "1955332215271018945"
+                ],
+                "text": "其实一开始还觉得bad好像很好玩。\n平时不是喜欢看bad报告嘛。\n然后就想过，为什么会那么想呢。自己的思维自己不能控制的吗？自己加以控制不就行了 \n后来经历了才发现自己的思维真的没法控制。好坏也完全不以自己主观意愿决定。焦虑就是焦虑，恐慌就是恐慌，不是自己告诉自己这样挺好的 就真能感觉到好",
+                "lang": "zh",
+                "conversation_id": "1955332215271018945",
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 3,
+                  "like_count": 8,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 208
+                },
+                "created_at": "2025-08-12T18:15:03.000Z"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "username": "dDguwkiRkZcCSrt",
+                    "id": "1456231777224347651",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1932707072468217856/Yd5nKEM7_normal.jpg",
+                    "name": "无名",
+                    "public_metrics": {
+                      "followers_count": 305,
+                      "following_count": 74,
+                      "tweet_count": 10910,
+                      "listed_count": 0,
+                      "like_count": 4072,
+                      "media_count": 778
+                    },
+                    "protected": true,
+                    "description": "江湖有缘再见",
+                    "created_at": "2021-11-04T12:08:26.000Z",
+                    "verified": false
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

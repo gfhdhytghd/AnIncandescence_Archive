@@ -1,1 +1,404 @@
-{"data":{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1943399948525146154","created_at":"2025-07-10T21:05:14.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-07-10T22:05:14.000Z"},"edit_history_tweet_ids":["1943416245262651769"],"entities":{"annotations":[{"start":16,"end":16,"probability":0.4188,"type":"Other","normalized_text":"-"}],"mentions":[{"start":0,"end":9,"username":"420puuib","id":"1913087280279072768"}]},"geo":{},"id":"1943416245262651769","in_reply_to_user_id":"1913087280279072768","lang":"en","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1943404184365318529"}],"reply_settings":"everyone","text":"@420puuib 1cp-al-lad"},"includes":{"users":[{"created_at":"2024-01-02T01:22:57.000Z","description":"猫，诗歌，精神动力学。艺术，C#，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158 | 不卖东西","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/MuEKSg4tIS","expanded_url":"https://ngl.link/anincandescence","display_url":"ngl.link/anincandescence"}]}},"id":"1741993395910811648","location":"天鹅座X-1","name":"炽烈已极","pinned_tweet_id":"1926637878257311824","profile_image_url":"https://pbs.twimg.com/profile_images/1930288376399155200/A42NAeD9_normal.jpg","protected":false,"public_metrics":{"followers_count":1039,"following_count":202,"tweet_count":3174,"listed_count":2,"like_count":8891,"media_count":649},"url":"https://t.co/MuEKSg4tIS","username":"AnIncandescence","verified":false},{"created_at":"2025-04-18T04:28:53.000Z","description":"心平能愈三千疾 心静可通万事理 永立不败之地\n\n                                认准puuib\n自营地区：上海 杭州 长沙 武汉 成都","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/dIgNVyMaXd","expanded_url":"https://t.me/asiadrug","display_url":"t.me/asiadrug"}]}},"id":"1913087280279072768","location":"Peace and love","name":"马赛克（420Dealer）","pinned_tweet_id":"1930321531261071648","profile_image_url":"https://pbs.twimg.com/profile_images/1940626832186875904/amlhWcqA_normal.jpg","protected":false,"public_metrics":{"followers_count":84,"following_count":215,"tweet_count":345,"listed_count":0,"like_count":1110,"media_count":25},"url":"https://t.co/dIgNVyMaXd","username":"420puuib","verified":false}],"tweets":[{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1943399948525146154","created_at":"2025-07-10T21:05:14.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-07-10T22:05:14.000Z"},"edit_history_tweet_ids":["1943416245262651769"],"entities":{"annotations":[{"start":16,"end":16,"probability":0.4188,"type":"Other","normalized_text":"-"}],"mentions":[{"start":0,"end":9,"username":"420puuib","id":"1913087280279072768"}]},"geo":{},"id":"1943416245262651769","in_reply_to_user_id":"1913087280279072768","lang":"en","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1943404184365318529"}],"reply_settings":"everyone","text":"@420puuib 1cp-al-lad"},{"article":{},"attachments":{},"author_id":"1913087280279072768","conversation_id":"1943399948525146154","created_at":"2025-07-10T20:17:18.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-07-10T21:17:18.000Z"},"edit_history_tweet_ids":["1943404184365318529"],"entities":{"mentions":[{"start":0,"end":16,"username":"AnIncandescence","id":"1741993395910811648"}]},"geo":{},"id":"1943404184365318529","in_reply_to_user_id":"1741993395910811648","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":1,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":18},"referenced_tweets":[{"type":"replied_to","id":"1943399948525146154"}],"reply_settings":"everyone","text":"@AnIncandescence LAD？ LSD的衍生物吗"}]}}
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741993395910811648",
+    "conversation_id": "1943399948525146154",
+    "created_at": "2025-07-10T21:05:14.000Z",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2025-07-10T22:05:14.000Z"
+    },
+    "edit_history_tweet_ids": [
+      "1943416245262651769"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "start": 16,
+          "end": 16,
+          "probability": 0.4188,
+          "type": "Other",
+          "normalized_text": "-"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 0,
+          "end": 9,
+          "username": "420puuib",
+          "id": "1913087280279072768"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943416245262651769",
+    "in_reply_to_user_id": "1913087280279072768",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1943404184365318529"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@420puuib 1cp-al-lad"
+  },
+  "includes": {
+    "users": [
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，C#，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158 | 不卖东西",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/MuEKSg4tIS",
+                "expanded_url": "https://ngl.link/anincandescence",
+                "display_url": "ngl.link/anincandescence"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "天鹅座X-1",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "1926637878257311824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930288376399155200/A42NAeD9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1039,
+          "following_count": 202,
+          "tweet_count": 3174,
+          "listed_count": 2,
+          "like_count": 8891,
+          "media_count": 649
+        },
+        "url": "https://t.co/MuEKSg4tIS",
+        "username": "AnIncandescence",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-18T04:28:53.000Z",
+        "description": "心平能愈三千疾 心静可通万事理 永立不败之地\n\n                                认准puuib\n自营地区：上海 杭州 长沙 武汉 成都",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/dIgNVyMaXd",
+                "expanded_url": "https://t.me/asiadrug",
+                "display_url": "t.me/asiadrug"
+              }
+            ]
+          }
+        },
+        "id": "1913087280279072768",
+        "location": "Peace and love",
+        "name": "马赛克（420Dealer）",
+        "pinned_tweet_id": "1930321531261071648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940626832186875904/amlhWcqA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 215,
+          "tweet_count": 345,
+          "listed_count": 0,
+          "like_count": 1110,
+          "media_count": 25
+        },
+        "url": "https://t.co/dIgNVyMaXd",
+        "username": "420puuib",
+        "verified": false
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741993395910811648",
+        "conversation_id": "1943399948525146154",
+        "created_at": "2025-07-10T21:05:14.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2025-07-10T22:05:14.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1943416245262651769"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "start": 16,
+              "end": 16,
+              "probability": 0.4188,
+              "type": "Other",
+              "normalized_text": "-"
+            }
+          ],
+          "mentions": [
+            {
+              "start": 0,
+              "end": 9,
+              "username": "420puuib",
+              "id": "1913087280279072768"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943416245262651769",
+        "in_reply_to_user_id": "1913087280279072768",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1943404184365318529"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@420puuib 1cp-al-lad"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913087280279072768",
+        "conversation_id": "1943399948525146154",
+        "created_at": "2025-07-10T20:17:18.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2025-07-10T21:17:18.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1943404184365318529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 16,
+              "username": "AnIncandescence",
+              "id": "1741993395910811648"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943404184365318529",
+        "in_reply_to_user_id": "1741993395910811648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1943399948525146154"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnIncandescence LAD？ LSD的衍生物吗"
+      }
+    ]
+  },
+  "_pale_fire": {
+    "x_api_reply_chains": {
+      "1943399948525146154": {
+        "version": 1,
+        "fetched_at": "2026-04-18T00:20:27Z",
+        "max_depth": 63,
+        "posts": [
+          {
+            "id": "1943399948525146154",
+            "source": "local_json",
+            "payload": {
+              "data": {
+                "article": {},
+                "attachments": {
+                  "media_keys": [
+                    "3_1943399936940220418"
+                  ]
+                },
+                "author_id": "1741993395910811648",
+                "conversation_id": "1943399948525146154",
+                "created_at": "2025-07-10T20:00:29.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": true,
+                  "editable_until": "2025-07-10T21:00:29.000Z"
+                },
+                "edit_history_tweet_ids": [
+                  "1943399948525146154"
+                ],
+                "entities": {
+                  "urls": [
+                    {
+                      "start": 11,
+                      "end": 34,
+                      "url": "https://t.co/8xcdQMVu7j",
+                      "expanded_url": "https://x.com/AnIncandescence/status/1943399948525146154/photo/1",
+                      "display_url": "pic.x.com/8xcdQMVu7j",
+                      "media_key": "3_1943399936940220418"
+                    }
+                  ]
+                },
+                "geo": {},
+                "id": "1943399948525146154",
+                "lang": "zh",
+                "note_tweet": {
+                  "entities": {}
+                },
+                "possibly_sensitive": false,
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 0
+                },
+                "reply_settings": "everyone",
+                "text": "：宁完全不睡觉的是吗 https://t.co/8xcdQMVu7j"
+              },
+              "includes": {
+                "media": [
+                  {
+                    "height": 4032,
+                    "media_key": "3_1943399936940220418",
+                    "public_metrics": {},
+                    "type": "photo",
+                    "url": "https://pbs.twimg.com/media/GvhX8jHWoAIWkPn.jpg",
+                    "width": 3024
+                  }
+                ],
+                "users": [
+                  {
+                    "created_at": "2024-01-02T01:22:57.000Z",
+                    "description": "猫，诗歌，精神动力学。艺术，C#，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158 | 不卖东西",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/MuEKSg4tIS",
+                            "expanded_url": "https://ngl.link/anincandescence",
+                            "display_url": "ngl.link/anincandescence"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1741993395910811648",
+                    "location": "天鹅座X-1",
+                    "name": "炽烈已极",
+                    "pinned_tweet_id": "1926637878257311824",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1930288376399155200/A42NAeD9_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 1038,
+                      "following_count": 202,
+                      "tweet_count": 3173,
+                      "listed_count": 2,
+                      "like_count": 8893,
+                      "media_count": 649
+                    },
+                    "url": "https://t.co/MuEKSg4tIS",
+                    "username": "AnIncandescence",
+                    "verified": false
+                  }
+                ],
+                "tweets": [
+                  {
+                    "article": {},
+                    "attachments": {
+                      "media_keys": [
+                        "3_1943399936940220418"
+                      ]
+                    },
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "1943399948525146154",
+                    "created_at": "2025-07-10T20:00:29.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": true,
+                      "editable_until": "2025-07-10T21:00:29.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "1943399948525146154"
+                    ],
+                    "entities": {
+                      "urls": [
+                        {
+                          "start": 11,
+                          "end": 34,
+                          "url": "https://t.co/8xcdQMVu7j",
+                          "expanded_url": "https://x.com/AnIncandescence/status/1943399948525146154/photo/1",
+                          "display_url": "pic.x.com/8xcdQMVu7j",
+                          "media_key": "3_1943399936940220418"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "1943399948525146154",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 0,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 0
+                    },
+                    "reply_settings": "everyone",
+                    "text": "：宁完全不睡觉的是吗 https://t.co/8xcdQMVu7j"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

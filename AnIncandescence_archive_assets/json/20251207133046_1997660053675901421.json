@@ -1,1 +1,248 @@
-{"data":{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1997593666416947482","created_at":"2025-12-07T13:30:46.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-12-07T14:30:46.000Z"},"edit_history_tweet_ids":["1997660053675901421"],"entities":{"mentions":[{"start":0,"end":8,"username":"fawpv25","id":"1900779126245769216"}]},"geo":{},"id":"1997660053675901421","in_reply_to_user_id":"1900779126245769216","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1997593666416947482"}],"reply_settings":"everyone","text":"@fawpv25 双歧杆菌三联活菌胶囊！"},"includes":{"users":[{"created_at":"2024-01-02T01:22:57.000Z","description":"猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/iO6MRJNm9j","expanded_url":"https://ngl.link/anincandescence1","display_url":"ngl.link/anincandescenc…"}]}},"id":"1741993395910811648","location":"天鹅座X-1","name":"炽烈已极","pinned_tweet_id":"1991299586002935866","profile_image_url":"https://pbs.twimg.com/profile_images/1967287311504465922/Z7d-hW5p_normal.jpg","protected":false,"public_metrics":{"followers_count":1321,"following_count":213,"tweet_count":4601,"listed_count":3,"like_count":11602,"media_count":883},"url":"https://t.co/iO6MRJNm9j","username":"AnIncandescence","verified":false},{"created_at":"2025-03-15T05:20:44.000Z","description":"如果你知道怎么变成一只乌鸦，请告诉我/匿名提问箱：https://t.co/k5wuyYitnx致力于成为你们的互联网好朋鸦/艺术就是生命/学习像人类一样地活下去。","entities":{"description":{"urls":[{"start":25,"end":48,"url":"https://t.co/k5wuyYitnx","expanded_url":"https://ngl.link/jiyujin1/","display_url":"ngl.link/jiyujin1/"}]}},"id":"1900779126245769216","name":"Anoko","profile_image_url":"https://pbs.twimg.com/profile_images/1957828191445479427/G6DedXhI_normal.jpg","protected":true,"public_metrics":{"followers_count":62,"following_count":195,"tweet_count":2202,"listed_count":0,"like_count":8873,"media_count":71},"username":"fawpv25","verified":false}],"tweets":[{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1997593666416947482","created_at":"2025-12-07T13:30:46.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-12-07T14:30:46.000Z"},"edit_history_tweet_ids":["1997660053675901421"],"entities":{"mentions":[{"start":0,"end":8,"username":"fawpv25","id":"1900779126245769216"}]},"geo":{},"id":"1997660053675901421","in_reply_to_user_id":"1900779126245769216","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1997593666416947482"}],"reply_settings":"everyone","text":"@fawpv25 双歧杆菌三联活菌胶囊！"}]},"errors":[{"resource_id":"1997593666416947482","parameter":"referenced_tweets.id","resource_type":"tweet","section":"includes","title":"Authorization Error","value":"1997593666416947482","detail":"Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1997593666416947482].","type":"https://api.twitter.com/2/problems/not-authorized-for-resource"}]}
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741993395910811648",
+    "conversation_id": "1997593666416947482",
+    "created_at": "2025-12-07T13:30:46.000Z",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2025-12-07T14:30:46.000Z"
+    },
+    "edit_history_tweet_ids": [
+      "1997660053675901421"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 8,
+          "username": "fawpv25",
+          "id": "1900779126245769216"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997660053675901421",
+    "in_reply_to_user_id": "1900779126245769216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1997593666416947482"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fawpv25 双歧杆菌三联活菌胶囊！"
+  },
+  "includes": {
+    "users": [
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/iO6MRJNm9j",
+                "expanded_url": "https://ngl.link/anincandescence1",
+                "display_url": "ngl.link/anincandescenc…"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "天鹅座X-1",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "1991299586002935866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967287311504465922/Z7d-hW5p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1321,
+          "following_count": 213,
+          "tweet_count": 4601,
+          "listed_count": 3,
+          "like_count": 11602,
+          "media_count": 883
+        },
+        "url": "https://t.co/iO6MRJNm9j",
+        "username": "AnIncandescence",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-15T05:20:44.000Z",
+        "description": "如果你知道怎么变成一只乌鸦，请告诉我/匿名提问箱：https://t.co/k5wuyYitnx致力于成为你们的互联网好朋鸦/艺术就是生命/学习像人类一样地活下去。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "start": 25,
+                "end": 48,
+                "url": "https://t.co/k5wuyYitnx",
+                "expanded_url": "https://ngl.link/jiyujin1/",
+                "display_url": "ngl.link/jiyujin1/"
+              }
+            ]
+          }
+        },
+        "id": "1900779126245769216",
+        "name": "Anoko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957828191445479427/G6DedXhI_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 195,
+          "tweet_count": 2202,
+          "listed_count": 0,
+          "like_count": 8873,
+          "media_count": 71
+        },
+        "username": "fawpv25",
+        "verified": false
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741993395910811648",
+        "conversation_id": "1997593666416947482",
+        "created_at": "2025-12-07T13:30:46.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2025-12-07T14:30:46.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1997660053675901421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 8,
+              "username": "fawpv25",
+              "id": "1900779126245769216"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997660053675901421",
+        "in_reply_to_user_id": "1900779126245769216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1997593666416947482"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fawpv25 双歧杆菌三联活菌胶囊！"
+      }
+    ]
+  },
+  "errors": [
+    {
+      "resource_id": "1997593666416947482",
+      "parameter": "referenced_tweets.id",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "value": "1997593666416947482",
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1997593666416947482].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource"
+    }
+  ],
+  "_pale_fire": {
+    "x_api_reply_chains": {
+      "1997593666416947482": {
+        "version": 1,
+        "fetched_at": "2026-04-18T01:12:23Z",
+        "max_depth": 64,
+        "posts": [
+          {
+            "id": "1997593666416947482",
+            "source": "x_api_oauth1",
+            "payload": {
+              "data": {
+                "created_at": "2025-12-07T09:06:58.000Z",
+                "possibly_sensitive": false,
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": true,
+                  "editable_until": "2025-12-07T10:06:58.000Z"
+                },
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 85
+                },
+                "id": "1997593666416947482",
+                "author_id": "1900779126245769216",
+                "edit_history_tweet_ids": [
+                  "1997593666416947482"
+                ],
+                "conversation_id": "1997593666416947482",
+                "text": "我好像是吃坏肚子了……好晕，肚子疼，然后……想吐。\n不应该过度节约然后把放很久的食物塞到胃里的……痛鼠了……窝比金木研还痛（物理上的痛…",
+                "reply_settings": "everyone",
+                "lang": "zh"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "created_at": "2025-03-15T05:20:44.000Z",
+                    "verified": false,
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2006613154210721792/8FPJv03i_normal.jpg",
+                    "name": "Anoko",
+                    "description": "如果你知道怎么变成一只乌鸦，请告诉我/致力于成为你们的互联网好朋鸦/艺术就是生命/我们的诞生不是为了被疼痛感束缚/学习像人类一样地活下去。",
+                    "id": "1900779126245769216",
+                    "username": "fawpv25",
+                    "public_metrics": {
+                      "followers_count": 81,
+                      "following_count": 245,
+                      "tweet_count": 4429,
+                      "listed_count": 0,
+                      "like_count": 15724,
+                      "media_count": 105
+                    },
+                    "protected": true
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

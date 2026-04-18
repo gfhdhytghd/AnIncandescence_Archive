@@ -1,1 +1,245 @@
-{"data":{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1962651769928065210","created_at":"2025-09-02T04:48:08.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-09-02T05:48:08.000Z"},"edit_history_tweet_ids":["1962739296601002479"],"entities":{"mentions":[{"start":0,"end":13,"username":"minami886886","id":"1650760116918943744"},{"start":14,"end":29,"username":"Futuristic2007","id":"1573863666000224256"}]},"geo":{},"id":"1962739296601002479","in_reply_to_user_id":"1650760116918943744","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1962695522030100785"}],"reply_settings":"everyone","text":"@minami886886 @Futuristic2007 一数....死去的回忆突然开始攻击我\n再也不想学数学了！😭"},"includes":{"users":[{"created_at":"2024-01-02T01:22:57.000Z","description":"猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/MuEKSg4tIS","expanded_url":"https://ngl.link/anincandescence","display_url":"ngl.link/anincandescence"}]}},"id":"1741993395910811648","location":"天鹅座X-1","name":"炽烈已极","pinned_tweet_id":"1944465960406245490","profile_image_url":"https://pbs.twimg.com/profile_images/1947176726292725760/VAZ0WSeY_normal.jpg","protected":false,"public_metrics":{"followers_count":1158,"following_count":203,"tweet_count":3785,"listed_count":3,"like_count":10298,"media_count":756},"url":"https://t.co/MuEKSg4tIS","username":"AnIncandescence","verified":false},{"created_at":"2023-04-25T07:14:30.000Z","description":"安卓人住安卓房间吃安卓早饭喝安卓饮料用安卓手机玩安卓电脑发安卓帖子","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/OXuM4vbTaK","expanded_url":"http://xnmoe.com","display_url":"xnmoe.com"}]}},"id":"1650760116918943744","location":"鼠鼠星","name":"🍀南南南南南南","profile_image_url":"https://pbs.twimg.com/profile_images/1930924029378252800/VEZez0fN_normal.jpg","protected":true,"public_metrics":{"followers_count":3598,"following_count":931,"tweet_count":11946,"listed_count":6,"like_count":56137,"media_count":557},"url":"https://t.co/OXuM4vbTaK","username":"minami886886","verified":false},{"created_at":"2022-09-25T02:36:14.000Z","description":"26届高三牲😭/dser/最近很幸福✨/希望大家也都可以找到自己热爱的事情并过上充实的生活哦❤️/永远是中推圈的过客🥹","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/cyq7oi76TX","expanded_url":"https://twitter.com/i/communities/1950931607126409236","display_url":"twitter.com/i/communities/…"}]}},"id":"1573863666000224256","location":"People's Republic of China","name":"过客·Futuristic History","pinned_tweet_id":"1950389833479684270","profile_image_url":"https://pbs.twimg.com/profile_images/1915598098606546945/Hm_FVz3k_normal.jpg","protected":false,"public_metrics":{"followers_count":1837,"following_count":629,"tweet_count":24133,"listed_count":4,"like_count":128171,"media_count":1059},"url":"https://t.co/cyq7oi76TX","username":"Futuristic2007","verified":true}],"tweets":[{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1962651769928065210","created_at":"2025-09-02T04:48:08.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-09-02T05:48:08.000Z"},"edit_history_tweet_ids":["1962739296601002479"],"entities":{"mentions":[{"start":0,"end":13,"username":"minami886886","id":"1650760116918943744"},{"start":14,"end":29,"username":"Futuristic2007","id":"1573863666000224256"}]},"geo":{},"id":"1962739296601002479","in_reply_to_user_id":"1650760116918943744","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1962695522030100785"}],"reply_settings":"everyone","text":"@minami886886 @Futuristic2007 一数....死去的回忆突然开始攻击我\n再也不想学数学了！😭"}]},"errors":[{"resource_id":"1962695522030100785","parameter":"referenced_tweets.id","resource_type":"tweet","section":"includes","title":"Authorization Error","value":"1962695522030100785","detail":"Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1962695522030100785].","type":"https://api.twitter.com/2/problems/not-authorized-for-resource"}]}
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741993395910811648",
+    "conversation_id": "1962651769928065210",
+    "created_at": "2025-09-02T04:48:08.000Z",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2025-09-02T05:48:08.000Z"
+    },
+    "edit_history_tweet_ids": [
+      "1962739296601002479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 13,
+          "username": "minami886886",
+          "id": "1650760116918943744"
+        },
+        {
+          "start": 14,
+          "end": 29,
+          "username": "Futuristic2007",
+          "id": "1573863666000224256"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962739296601002479",
+    "in_reply_to_user_id": "1650760116918943744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1962695522030100785"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@minami886886 @Futuristic2007 一数....死去的回忆突然开始攻击我\n再也不想学数学了！😭"
+  },
+  "includes": {
+    "users": [
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/MuEKSg4tIS",
+                "expanded_url": "https://ngl.link/anincandescence",
+                "display_url": "ngl.link/anincandescence"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "天鹅座X-1",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "1944465960406245490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947176726292725760/VAZ0WSeY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1158,
+          "following_count": 203,
+          "tweet_count": 3785,
+          "listed_count": 3,
+          "like_count": 10298,
+          "media_count": 756
+        },
+        "url": "https://t.co/MuEKSg4tIS",
+        "username": "AnIncandescence",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-25T07:14:30.000Z",
+        "description": "安卓人住安卓房间吃安卓早饭喝安卓饮料用安卓手机玩安卓电脑发安卓帖子",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/OXuM4vbTaK",
+                "expanded_url": "http://xnmoe.com",
+                "display_url": "xnmoe.com"
+              }
+            ]
+          }
+        },
+        "id": "1650760116918943744",
+        "location": "鼠鼠星",
+        "name": "🍀南南南南南南",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930924029378252800/VEZez0fN_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 3598,
+          "following_count": 931,
+          "tweet_count": 11946,
+          "listed_count": 6,
+          "like_count": 56137,
+          "media_count": 557
+        },
+        "url": "https://t.co/OXuM4vbTaK",
+        "username": "minami886886",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-25T02:36:14.000Z",
+        "description": "26届高三牲😭/dser/最近很幸福✨/希望大家也都可以找到自己热爱的事情并过上充实的生活哦❤️/永远是中推圈的过客🥹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/cyq7oi76TX",
+                "expanded_url": "https://twitter.com/i/communities/1950931607126409236",
+                "display_url": "twitter.com/i/communities/…"
+              }
+            ]
+          }
+        },
+        "id": "1573863666000224256",
+        "location": "People's Republic of China",
+        "name": "过客·Futuristic History",
+        "pinned_tweet_id": "1950389833479684270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915598098606546945/Hm_FVz3k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1837,
+          "following_count": 629,
+          "tweet_count": 24133,
+          "listed_count": 4,
+          "like_count": 128171,
+          "media_count": 1059
+        },
+        "url": "https://t.co/cyq7oi76TX",
+        "username": "Futuristic2007",
+        "verified": true
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741993395910811648",
+        "conversation_id": "1962651769928065210",
+        "created_at": "2025-09-02T04:48:08.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2025-09-02T05:48:08.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1962739296601002479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 13,
+              "username": "minami886886",
+              "id": "1650760116918943744"
+            },
+            {
+              "start": 14,
+              "end": 29,
+              "username": "Futuristic2007",
+              "id": "1573863666000224256"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962739296601002479",
+        "in_reply_to_user_id": "1650760116918943744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1962695522030100785"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@minami886886 @Futuristic2007 一数....死去的回忆突然开始攻击我\n再也不想学数学了！😭"
+      }
+    ]
+  },
+  "errors": [
+    {
+      "resource_id": "1962695522030100785",
+      "parameter": "referenced_tweets.id",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "value": "1962695522030100785",
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1962695522030100785].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource"
+    }
+  ],
+  "_pale_fire": {
+    "x_api_reply_chains": {
+      "1962695522030100785": {
+        "version": 1,
+        "fetched_at": "2026-04-18T02:16:01Z",
+        "max_depth": 64,
+        "posts": [],
+        "terminal_error": {
+          "id": "1962695522030100785",
+          "message": "Sorry, you are not authorized to see the Tweet with id: [1962695522030100785]. Wayback fallback: Wayback fallback did not find archived JSON for tweet id 1962695522030100785."
+        }
+      }
+    }
+  }
+}

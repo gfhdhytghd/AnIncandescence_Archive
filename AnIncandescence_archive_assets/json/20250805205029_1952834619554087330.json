@@ -1,0 +1,348 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741993395910811648",
+    "conversation_id": "1952363219127037969",
+    "created_at": "2025-08-05T20:50:29.000Z",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2025-08-05T21:50:29.000Z"
+    },
+    "edit_history_tweet_ids": [
+      "1952834619554087330"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 10,
+          "username": "Minokakay",
+          "id": "1597257668313260033"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952834619554087330",
+    "in_reply_to_user_id": "1597257668313260033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1952784267374710840"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Minokakay 年轻就是好倒头就睡（）"
+  },
+  "includes": {
+    "users": [
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/MuEKSg4tIS",
+                "expanded_url": "https://ngl.link/anincandescence",
+                "display_url": "ngl.link/anincandescence"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "天鹅座X-1",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "1944465960406245490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947176726292725760/VAZ0WSeY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1094,
+          "following_count": 195,
+          "tweet_count": 3528,
+          "listed_count": 1,
+          "like_count": 9740,
+          "media_count": 709
+        },
+        "url": "https://t.co/MuEKSg4tIS",
+        "username": "AnIncandescence",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX🏳️‍⚧️🏳️‍🌈买HRT补佳乐色普龙诺坤复比卡鲁胺/美白/减肥/促智/癌症靶向藥找 @ChosekiNoraneko，我在做客服兼代理店長 买电子烟找@weita2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "start": 96,
+                "end": 112,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "start": 129,
+                "end": 139,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1951463657336086693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8564,
+          "following_count": 915,
+          "tweet_count": 20074,
+          "listed_count": 33,
+          "like_count": 44522,
+          "media_count": 1360
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741993395910811648",
+        "conversation_id": "1952363219127037969",
+        "created_at": "2025-08-05T20:50:29.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2025-08-05T21:50:29.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1952834619554087330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 10,
+              "username": "Minokakay",
+              "id": "1597257668313260033"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952834619554087330",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1952784267374710840"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay 年轻就是好倒头就睡（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1952363219127037969",
+        "created_at": "2025-08-05T17:30:24.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2025-08-05T18:30:24.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1952784267374710840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 16,
+              "username": "AnIncandescence",
+              "id": "1741993395910811648"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952784267374710840",
+        "in_reply_to_user_id": "1741993395910811648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 53
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1952363219127037969"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnIncandescence 我吃专注达和安非他酮都会马上犯困然后睡着"
+      }
+    ]
+  },
+  "_pale_fire": {
+    "x_api_reply_chains": {
+      "1952363219127037969": {
+        "version": 1,
+        "fetched_at": "2026-04-18T00:50:43Z",
+        "max_depth": 63,
+        "posts": [
+          {
+            "id": "1952363219127037969",
+            "source": "local_json",
+            "payload": {
+              "data": {
+                "article": {},
+                "attachments": {},
+                "author_id": "1741993395910811648",
+                "conversation_id": "1952363219127037969",
+                "created_at": "2025-08-04T13:37:19.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": true,
+                  "editable_until": "2025-08-04T14:37:19.000Z"
+                },
+                "edit_history_tweet_ids": [
+                  "1952363219127037969"
+                ],
+                "entities": {},
+                "geo": {},
+                "id": "1952363219127037969",
+                "lang": "zh",
+                "note_tweet": {
+                  "entities": {}
+                },
+                "possibly_sensitive": false,
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 0
+                },
+                "reply_settings": "everyone",
+                "text": "吃丁螺环酮以后不做噩梦了，不会每天在绝望中醒过来，真神奇\n照理来讲不会这么快起效的才对，问医生说她观察到神经发育多样性的吃药就是会有奇奇怪怪的作用和副作用，比如有人吃专睡不醒的（）\n我吃托莫西汀也是，看到很多人都说是比较温和的药了，但是在我身上副作用巨大"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "created_at": "2024-01-02T01:22:57.000Z",
+                    "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/MuEKSg4tIS",
+                            "expanded_url": "https://ngl.link/anincandescence",
+                            "display_url": "ngl.link/anincandescence"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1741993395910811648",
+                    "location": "天鹅座X-1",
+                    "name": "炽烈已极",
+                    "pinned_tweet_id": "1944465960406245490",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1947176726292725760/VAZ0WSeY_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 1094,
+                      "following_count": 196,
+                      "tweet_count": 3506,
+                      "listed_count": 1,
+                      "like_count": 9692,
+                      "media_count": 704
+                    },
+                    "url": "https://t.co/MuEKSg4tIS",
+                    "username": "AnIncandescence",
+                    "verified": false
+                  }
+                ],
+                "tweets": [
+                  {
+                    "article": {},
+                    "attachments": {},
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "1952363219127037969",
+                    "created_at": "2025-08-04T13:37:19.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": true,
+                      "editable_until": "2025-08-04T14:37:19.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "1952363219127037969"
+                    ],
+                    "entities": {},
+                    "geo": {},
+                    "id": "1952363219127037969",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 0,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 0
+                    },
+                    "reply_settings": "everyone",
+                    "text": "吃丁螺环酮以后不做噩梦了，不会每天在绝望中醒过来，真神奇\n照理来讲不会这么快起效的才对，问医生说她观察到神经发育多样性的吃药就是会有奇奇怪怪的作用和副作用，比如有人吃专睡不醒的（）\n我吃托莫西汀也是，看到很多人都说是比较温和的药了，但是在我身上副作用巨大"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

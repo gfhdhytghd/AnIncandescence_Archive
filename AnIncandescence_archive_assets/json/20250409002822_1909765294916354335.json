@@ -1,1 +1,745 @@
-{"data":{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1909757231144616258","created_at":"2025-04-09T00:28:22.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-04-09T01:28:22.000Z"},"edit_history_tweet_ids":["1909765294916354335"],"entities":{"mentions":[{"start":0,"end":13,"username":"sharkuuuuuuu","id":"1529517197437112320"}]},"geo":{},"id":"1909765294916354335","in_reply_to_user_id":"1529517197437112320","lang":"ja","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1909762652190261252"}],"reply_settings":"everyone","text":"@sharkuuuuuuu 好哎！"},"includes":{"users":[{"created_at":"2024-01-02T01:22:57.000Z","description":"猫，诗歌，精神动力学。艺术，C#，波粒二象性。回归曲线上的量子生物，无攻击性。 | “我们彻夜飞旋，直至没入火焰。” | 小小炽 @TauCeti_10700 | 匿名提问箱👇 | 🚪88/158","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/MuEKSg4tIS","expanded_url":"https://ngl.link/anincandescence","display_url":"ngl.link/anincandescence"}]},"description":{"mentions":[{"start":65,"end":79,"username":"TauCeti_10700"}]}},"id":"1741993395910811648","location":"0°00′N 260°00′E Mars","name":"炽烈已极","pinned_tweet_id":"1905895186867400960","profile_image_url":"https://pbs.twimg.com/profile_images/1789433740277567488/d3KhwUX1_normal.jpg","protected":false,"public_metrics":{"followers_count":642,"following_count":193,"tweet_count":2228,"listed_count":1,"like_count":6117,"media_count":485},"url":"https://t.co/MuEKSg4tIS","username":"AnIncandescence","verified":false},{"created_at":"2022-05-25T17:38:19.000Z","description":"腐烂精神病人^","id":"1529517197437112320","location":"昏暗的房间","name":"七濑湘","pinned_tweet_id":"1831629437810401608","profile_image_url":"https://pbs.twimg.com/profile_images/1771167814923210752/ypW_ObkU_normal.jpg","protected":false,"public_metrics":{"followers_count":2160,"following_count":309,"tweet_count":4315,"listed_count":10,"like_count":7910,"media_count":410},"username":"sharkuuuuuuu","verified":false}],"tweets":[{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1909757231144616258","created_at":"2025-04-09T00:28:22.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-04-09T01:28:22.000Z"},"edit_history_tweet_ids":["1909765294916354335"],"entities":{"mentions":[{"start":0,"end":13,"username":"sharkuuuuuuu","id":"1529517197437112320"}]},"geo":{},"id":"1909765294916354335","in_reply_to_user_id":"1529517197437112320","lang":"ja","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1909762652190261252"}],"reply_settings":"everyone","text":"@sharkuuuuuuu 好哎！"},{"article":{},"attachments":{},"author_id":"1529517197437112320","conversation_id":"1909757231144616258","created_at":"2025-04-09T00:17:52.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-04-09T01:17:52.000Z"},"edit_history_tweet_ids":["1909762652190261252"],"entities":{"mentions":[{"start":0,"end":16,"username":"AnIncandescence","id":"1741993395910811648"}]},"geo":{},"id":"1909762652190261252","in_reply_to_user_id":"1741993395910811648","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":1,"like_count":1,"quote_count":0,"bookmark_count":0,"impression_count":4},"referenced_tweets":[{"type":"replied_to","id":"1909757973070856217"}],"reply_settings":"everyone","text":"@AnIncandescence 是九人安息//搜9rip應該能搜到\n很好劇情老師…"}]}}
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741993395910811648",
+    "conversation_id": "1909757231144616258",
+    "created_at": "2025-04-09T00:28:22.000Z",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2025-04-09T01:28:22.000Z"
+    },
+    "edit_history_tweet_ids": [
+      "1909765294916354335"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 13,
+          "username": "sharkuuuuuuu",
+          "id": "1529517197437112320"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909765294916354335",
+    "in_reply_to_user_id": "1529517197437112320",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1909762652190261252"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sharkuuuuuuu 好哎！"
+  },
+  "includes": {
+    "users": [
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，C#，波粒二象性。回归曲线上的量子生物，无攻击性。 | “我们彻夜飞旋，直至没入火焰。” | 小小炽 @TauCeti_10700 | 匿名提问箱👇 | 🚪88/158",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/MuEKSg4tIS",
+                "expanded_url": "https://ngl.link/anincandescence",
+                "display_url": "ngl.link/anincandescence"
+              }
+            ]
+          },
+          "description": {
+            "mentions": [
+              {
+                "start": 65,
+                "end": 79,
+                "username": "TauCeti_10700"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "0°00′N 260°00′E Mars",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "1905895186867400960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789433740277567488/d3KhwUX1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 642,
+          "following_count": 193,
+          "tweet_count": 2228,
+          "listed_count": 1,
+          "like_count": 6117,
+          "media_count": 485
+        },
+        "url": "https://t.co/MuEKSg4tIS",
+        "username": "AnIncandescence",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-25T17:38:19.000Z",
+        "description": "腐烂精神病人^",
+        "id": "1529517197437112320",
+        "location": "昏暗的房间",
+        "name": "七濑湘",
+        "pinned_tweet_id": "1831629437810401608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771167814923210752/ypW_ObkU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2160,
+          "following_count": 309,
+          "tweet_count": 4315,
+          "listed_count": 10,
+          "like_count": 7910,
+          "media_count": 410
+        },
+        "username": "sharkuuuuuuu",
+        "verified": false
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741993395910811648",
+        "conversation_id": "1909757231144616258",
+        "created_at": "2025-04-09T00:28:22.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2025-04-09T01:28:22.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1909765294916354335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 13,
+              "username": "sharkuuuuuuu",
+              "id": "1529517197437112320"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909765294916354335",
+        "in_reply_to_user_id": "1529517197437112320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1909762652190261252"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sharkuuuuuuu 好哎！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529517197437112320",
+        "conversation_id": "1909757231144616258",
+        "created_at": "2025-04-09T00:17:52.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2025-04-09T01:17:52.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1909762652190261252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 16,
+              "username": "AnIncandescence",
+              "id": "1741993395910811648"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909762652190261252",
+        "in_reply_to_user_id": "1741993395910811648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1909757973070856217"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnIncandescence 是九人安息//搜9rip應該能搜到\n很好劇情老師…"
+      }
+    ]
+  },
+  "_pale_fire": {
+    "x_api_reply_chains": {
+      "1909757973070856217": {
+        "version": 1,
+        "fetched_at": "2026-04-18T00:11:09Z",
+        "max_depth": 63,
+        "posts": [
+          {
+            "id": "1909757973070856217",
+            "source": "local_json",
+            "payload": {
+              "data": {
+                "article": {},
+                "attachments": {},
+                "author_id": "1741993395910811648",
+                "conversation_id": "1909757231144616258",
+                "created_at": "2025-04-08T23:59:17.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2025-04-09T00:59:17.000Z"
+                },
+                "edit_history_tweet_ids": [
+                  "1909757973070856217"
+                ],
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 0,
+                      "end": 13,
+                      "username": "sharkuuuuuuu",
+                      "id": "1529517197437112320"
+                    }
+                  ]
+                },
+                "geo": {},
+                "id": "1909757973070856217",
+                "in_reply_to_user_id": "1529517197437112320",
+                "lang": "zh",
+                "note_tweet": {
+                  "entities": {}
+                },
+                "possibly_sensitive": false,
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 0
+                },
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "1909757231144616258"
+                  }
+                ],
+                "reply_settings": "everyone",
+                "text": "@sharkuuuuuuu 什么游戏啊啊啊我也要玩"
+              },
+              "includes": {
+                "media": [
+                  {
+                    "height": 1084,
+                    "media_key": "3_1909757226207875073",
+                    "public_metrics": {},
+                    "type": "photo",
+                    "url": "https://pbs.twimg.com/media/GoDSFDNbEAEQn58.jpg",
+                    "width": 2102
+                  }
+                ],
+                "users": [
+                  {
+                    "created_at": "2024-01-02T01:22:57.000Z",
+                    "description": "猫，诗歌，精神动力学。艺术，C#，波粒二象性。回归曲线上的量子生物，无攻击性。 | “我们彻夜飞旋，直至没入火焰。” | 小小炽 @TauCeti_10700 | 匿名提问箱👇 | 🚪88/158",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/MuEKSg4tIS",
+                            "expanded_url": "https://ngl.link/anincandescence",
+                            "display_url": "ngl.link/anincandescence"
+                          }
+                        ]
+                      },
+                      "description": {
+                        "mentions": [
+                          {
+                            "start": 65,
+                            "end": 79,
+                            "username": "TauCeti_10700"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1741993395910811648",
+                    "location": "0°00′N 260°00′E Mars",
+                    "name": "炽烈已极",
+                    "pinned_tweet_id": "1905895186867400960",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1789433740277567488/d3KhwUX1_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 642,
+                      "following_count": 193,
+                      "tweet_count": 2227,
+                      "listed_count": 1,
+                      "like_count": 6116,
+                      "media_count": 485
+                    },
+                    "url": "https://t.co/MuEKSg4tIS",
+                    "username": "AnIncandescence",
+                    "verified": false
+                  },
+                  {
+                    "created_at": "2022-05-25T17:38:19.000Z",
+                    "description": "腐烂精神病人^",
+                    "id": "1529517197437112320",
+                    "location": "昏暗的房间",
+                    "name": "七濑湘",
+                    "pinned_tweet_id": "1831629437810401608",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1771167814923210752/ypW_ObkU_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 2160,
+                      "following_count": 309,
+                      "tweet_count": 4314,
+                      "listed_count": 10,
+                      "like_count": 7909,
+                      "media_count": 410
+                    },
+                    "username": "sharkuuuuuuu",
+                    "verified": false
+                  }
+                ],
+                "tweets": [
+                  {
+                    "article": {},
+                    "attachments": {},
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "1909757231144616258",
+                    "created_at": "2025-04-08T23:59:17.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2025-04-09T00:59:17.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "1909757973070856217"
+                    ],
+                    "entities": {
+                      "mentions": [
+                        {
+                          "start": 0,
+                          "end": 13,
+                          "username": "sharkuuuuuuu",
+                          "id": "1529517197437112320"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "1909757973070856217",
+                    "in_reply_to_user_id": "1529517197437112320",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 0,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 0
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "1909757231144616258"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "@sharkuuuuuuu 什么游戏啊啊啊我也要玩"
+                  },
+                  {
+                    "article": {},
+                    "attachments": {
+                      "media_keys": [
+                        "3_1909757226207875073"
+                      ]
+                    },
+                    "author_id": "1529517197437112320",
+                    "context_annotations": [
+                      {
+                        "domain": {
+                          "id": "46",
+                          "name": "Business Taxonomy",
+                          "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                        },
+                        "entity": {
+                          "id": "1557696940178935808",
+                          "name": "Gaming Business",
+                          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers"
+                        }
+                      }
+                    ],
+                    "conversation_id": "1909757231144616258",
+                    "created_at": "2025-04-08T23:56:20.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": true,
+                      "editable_until": "2025-04-09T00:56:20.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "1909757231144616258"
+                    ],
+                    "entities": {
+                      "urls": [
+                        {
+                          "start": 26,
+                          "end": 49,
+                          "url": "https://t.co/uoyYZaZMVx",
+                          "expanded_url": "https://x.com/sharkuuuuuuu/status/1909757231144616258/photo/1",
+                          "display_url": "pic.x.com/uoyYZaZMVx",
+                          "media_key": "3_1909757226207875073"
+                        },
+                        {
+                          "start": 50,
+                          "end": 73,
+                          "url": "https://t.co/hN9Ruy5xQd",
+                          "expanded_url": "https://twitter.com/hashiqi147138/status/1909636412938633711",
+                          "display_url": "x.com/hashiqi147138/…"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "1909757231144616258",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": true,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 1,
+                      "like_count": 1,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 7
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "quoted",
+                        "id": "1909636412938633711"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "主包沒什麼認識的人，但是主包能掐自己脖子掐到流鼻血 https://t.co/uoyYZaZMVx https://t.co/hN9Ruy5xQd"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "1909757231144616258",
+            "source": "local_json",
+            "payload": {
+              "data": {
+                "article": {},
+                "attachments": {},
+                "author_id": "1741993395910811648",
+                "conversation_id": "1909757231144616258",
+                "created_at": "2025-04-08T23:59:17.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2025-04-09T00:59:17.000Z"
+                },
+                "edit_history_tweet_ids": [
+                  "1909757973070856217"
+                ],
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 0,
+                      "end": 13,
+                      "username": "sharkuuuuuuu",
+                      "id": "1529517197437112320"
+                    }
+                  ]
+                },
+                "geo": {},
+                "id": "1909757973070856217",
+                "in_reply_to_user_id": "1529517197437112320",
+                "lang": "zh",
+                "note_tweet": {
+                  "entities": {}
+                },
+                "possibly_sensitive": false,
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 0
+                },
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "1909757231144616258"
+                  }
+                ],
+                "reply_settings": "everyone",
+                "text": "@sharkuuuuuuu 什么游戏啊啊啊我也要玩"
+              },
+              "includes": {
+                "media": [
+                  {
+                    "height": 1084,
+                    "media_key": "3_1909757226207875073",
+                    "public_metrics": {},
+                    "type": "photo",
+                    "url": "https://pbs.twimg.com/media/GoDSFDNbEAEQn58.jpg",
+                    "width": 2102
+                  }
+                ],
+                "users": [
+                  {
+                    "created_at": "2024-01-02T01:22:57.000Z",
+                    "description": "猫，诗歌，精神动力学。艺术，C#，波粒二象性。回归曲线上的量子生物，无攻击性。 | “我们彻夜飞旋，直至没入火焰。” | 小小炽 @TauCeti_10700 | 匿名提问箱👇 | 🚪88/158",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/MuEKSg4tIS",
+                            "expanded_url": "https://ngl.link/anincandescence",
+                            "display_url": "ngl.link/anincandescence"
+                          }
+                        ]
+                      },
+                      "description": {
+                        "mentions": [
+                          {
+                            "start": 65,
+                            "end": 79,
+                            "username": "TauCeti_10700"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1741993395910811648",
+                    "location": "0°00′N 260°00′E Mars",
+                    "name": "炽烈已极",
+                    "pinned_tweet_id": "1905895186867400960",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1789433740277567488/d3KhwUX1_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 642,
+                      "following_count": 193,
+                      "tweet_count": 2227,
+                      "listed_count": 1,
+                      "like_count": 6116,
+                      "media_count": 485
+                    },
+                    "url": "https://t.co/MuEKSg4tIS",
+                    "username": "AnIncandescence",
+                    "verified": false
+                  },
+                  {
+                    "created_at": "2022-05-25T17:38:19.000Z",
+                    "description": "腐烂精神病人^",
+                    "id": "1529517197437112320",
+                    "location": "昏暗的房间",
+                    "name": "七濑湘",
+                    "pinned_tweet_id": "1831629437810401608",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1771167814923210752/ypW_ObkU_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 2160,
+                      "following_count": 309,
+                      "tweet_count": 4314,
+                      "listed_count": 10,
+                      "like_count": 7909,
+                      "media_count": 410
+                    },
+                    "username": "sharkuuuuuuu",
+                    "verified": false
+                  }
+                ],
+                "tweets": [
+                  {
+                    "article": {},
+                    "attachments": {},
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "1909757231144616258",
+                    "created_at": "2025-04-08T23:59:17.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2025-04-09T00:59:17.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "1909757973070856217"
+                    ],
+                    "entities": {
+                      "mentions": [
+                        {
+                          "start": 0,
+                          "end": 13,
+                          "username": "sharkuuuuuuu",
+                          "id": "1529517197437112320"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "1909757973070856217",
+                    "in_reply_to_user_id": "1529517197437112320",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 0,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 0
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "1909757231144616258"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "@sharkuuuuuuu 什么游戏啊啊啊我也要玩"
+                  },
+                  {
+                    "article": {},
+                    "attachments": {
+                      "media_keys": [
+                        "3_1909757226207875073"
+                      ]
+                    },
+                    "author_id": "1529517197437112320",
+                    "context_annotations": [
+                      {
+                        "domain": {
+                          "id": "46",
+                          "name": "Business Taxonomy",
+                          "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                        },
+                        "entity": {
+                          "id": "1557696940178935808",
+                          "name": "Gaming Business",
+                          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers"
+                        }
+                      }
+                    ],
+                    "conversation_id": "1909757231144616258",
+                    "created_at": "2025-04-08T23:56:20.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": true,
+                      "editable_until": "2025-04-09T00:56:20.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "1909757231144616258"
+                    ],
+                    "entities": {
+                      "urls": [
+                        {
+                          "start": 26,
+                          "end": 49,
+                          "url": "https://t.co/uoyYZaZMVx",
+                          "expanded_url": "https://x.com/sharkuuuuuuu/status/1909757231144616258/photo/1",
+                          "display_url": "pic.x.com/uoyYZaZMVx",
+                          "media_key": "3_1909757226207875073"
+                        },
+                        {
+                          "start": 50,
+                          "end": 73,
+                          "url": "https://t.co/hN9Ruy5xQd",
+                          "expanded_url": "https://twitter.com/hashiqi147138/status/1909636412938633711",
+                          "display_url": "x.com/hashiqi147138/…"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "1909757231144616258",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": true,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 1,
+                      "like_count": 1,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 7
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "quoted",
+                        "id": "1909636412938633711"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "主包沒什麼認識的人，但是主包能掐自己脖子掐到流鼻血 https://t.co/uoyYZaZMVx https://t.co/hN9Ruy5xQd"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

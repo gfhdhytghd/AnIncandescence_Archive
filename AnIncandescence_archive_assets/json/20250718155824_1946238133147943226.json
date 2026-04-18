@@ -1,1 +1,262 @@
-{"data":{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1946135235974041960","created_at":"2025-07-18T15:58:24.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-07-18T16:58:24.000Z"},"edit_history_tweet_ids":["1946238133147943226"],"entities":{"mentions":[{"start":0,"end":16,"username":"dDguwkiRkZcCSrt","id":"1456231777224347651"}]},"geo":{},"id":"1946238133147943226","in_reply_to_user_id":"1456231777224347651","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1946135235974041960"}],"reply_settings":"everyone","text":"@dDguwkiRkZcCSrt 我私信也这样。。每天在垃圾堆中翻活人发的信息"},"includes":{"users":[{"created_at":"2024-01-02T01:22:57.000Z","description":"猫，诗歌，精神动力学。艺术，C#，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/MuEKSg4tIS","expanded_url":"https://ngl.link/anincandescence","display_url":"ngl.link/anincandescence"}]}},"id":"1741993395910811648","location":"天鹅座X-1","name":"炽烈已极","pinned_tweet_id":"1946071497279410611","profile_image_url":"https://pbs.twimg.com/profile_images/1930288376399155200/A42NAeD9_normal.jpg","protected":false,"public_metrics":{"followers_count":1066,"following_count":203,"tweet_count":3254,"listed_count":1,"like_count":9060,"media_count":664},"url":"https://t.co/MuEKSg4tIS","username":"AnIncandescence","verified":false},{"created_at":"2021-11-04T12:08:26.000Z","description":"","id":"1456231777224347651","name":"无名","pinned_tweet_id":"1922871209764560922","profile_image_url":"https://pbs.twimg.com/profile_images/1932707072468217856/Yd5nKEM7_normal.jpg","protected":true,"public_metrics":{"followers_count":309,"following_count":45,"tweet_count":7142,"listed_count":0,"like_count":2621,"media_count":532},"username":"dDguwkiRkZcCSrt","verified":false}],"tweets":[{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1946135235974041960","created_at":"2025-07-18T15:58:24.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-07-18T16:58:24.000Z"},"edit_history_tweet_ids":["1946238133147943226"],"entities":{"mentions":[{"start":0,"end":16,"username":"dDguwkiRkZcCSrt","id":"1456231777224347651"}]},"geo":{},"id":"1946238133147943226","in_reply_to_user_id":"1456231777224347651","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1946135235974041960"}],"reply_settings":"everyone","text":"@dDguwkiRkZcCSrt 我私信也这样。。每天在垃圾堆中翻活人发的信息"}]},"errors":[{"resource_id":"1946135235974041960","parameter":"referenced_tweets.id","resource_type":"tweet","section":"includes","title":"Authorization Error","value":"1946135235974041960","detail":"Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1946135235974041960].","type":"https://api.twitter.com/2/problems/not-authorized-for-resource"}]}
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741993395910811648",
+    "conversation_id": "1946135235974041960",
+    "created_at": "2025-07-18T15:58:24.000Z",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2025-07-18T16:58:24.000Z"
+    },
+    "edit_history_tweet_ids": [
+      "1946238133147943226"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 16,
+          "username": "dDguwkiRkZcCSrt",
+          "id": "1456231777224347651"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946238133147943226",
+    "in_reply_to_user_id": "1456231777224347651",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1946135235974041960"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dDguwkiRkZcCSrt 我私信也这样。。每天在垃圾堆中翻活人发的信息"
+  },
+  "includes": {
+    "users": [
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，C#，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/MuEKSg4tIS",
+                "expanded_url": "https://ngl.link/anincandescence",
+                "display_url": "ngl.link/anincandescence"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "天鹅座X-1",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "1946071497279410611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930288376399155200/A42NAeD9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1066,
+          "following_count": 203,
+          "tweet_count": 3254,
+          "listed_count": 1,
+          "like_count": 9060,
+          "media_count": 664
+        },
+        "url": "https://t.co/MuEKSg4tIS",
+        "username": "AnIncandescence",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-04T12:08:26.000Z",
+        "description": "",
+        "id": "1456231777224347651",
+        "name": "无名",
+        "pinned_tweet_id": "1922871209764560922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932707072468217856/Yd5nKEM7_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 45,
+          "tweet_count": 7142,
+          "listed_count": 0,
+          "like_count": 2621,
+          "media_count": 532
+        },
+        "username": "dDguwkiRkZcCSrt",
+        "verified": false
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741993395910811648",
+        "conversation_id": "1946135235974041960",
+        "created_at": "2025-07-18T15:58:24.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2025-07-18T16:58:24.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1946238133147943226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 16,
+              "username": "dDguwkiRkZcCSrt",
+              "id": "1456231777224347651"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946238133147943226",
+        "in_reply_to_user_id": "1456231777224347651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1946135235974041960"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dDguwkiRkZcCSrt 我私信也这样。。每天在垃圾堆中翻活人发的信息"
+      }
+    ]
+  },
+  "errors": [
+    {
+      "resource_id": "1946135235974041960",
+      "parameter": "referenced_tweets.id",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "value": "1946135235974041960",
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1946135235974041960].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource"
+    }
+  ],
+  "_pale_fire": {
+    "x_api_reply_chains": {
+      "1946135235974041960": {
+        "version": 1,
+        "fetched_at": "2026-04-18T00:46:47Z",
+        "max_depth": 64,
+        "posts": [
+          {
+            "id": "1946135235974041960",
+            "source": "x_api_oauth1",
+            "payload": {
+              "data": {
+                "author_id": "1456231777224347651",
+                "conversation_id": "1946135235974041960",
+                "created_at": "2025-07-18T09:09:32.000Z",
+                "lang": "zh",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": true,
+                  "editable_until": "2025-07-18T10:09:32.000Z"
+                },
+                "attachments": {
+                  "media_keys": [
+                    "3_1946135206735306752"
+                  ]
+                },
+                "id": "1946135235974041960",
+                "edit_history_tweet_ids": [
+                  "1946135235974041960"
+                ],
+                "text": "我这私信都没法看。什么玩意🙃 https://t.co/ViYBSzsW4C",
+                "possibly_sensitive": false,
+                "entities": {
+                  "urls": [
+                    {
+                      "start": 15,
+                      "end": 38,
+                      "url": "https://t.co/ViYBSzsW4C",
+                      "expanded_url": "https://x.com/dDguwkiRkZcCSrt/status/1946135235974041960/photo/1",
+                      "display_url": "pic.x.com/ViYBSzsW4C",
+                      "media_key": "3_1946135206735306752"
+                    }
+                  ]
+                },
+                "reply_settings": "everyone",
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 164
+                }
+              },
+              "includes": {
+                "media": [
+                  {
+                    "media_key": "3_1946135206735306752",
+                    "width": 922,
+                    "type": "photo",
+                    "url": "https://pbs.twimg.com/media/GwIPqNJW4AAb7NX.jpg",
+                    "height": 2048
+                  }
+                ],
+                "users": [
+                  {
+                    "id": "1456231777224347651",
+                    "description": "江湖有缘再见",
+                    "created_at": "2021-11-04T12:08:26.000Z",
+                    "verified": false,
+                    "username": "dDguwkiRkZcCSrt",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1932707072468217856/Yd5nKEM7_normal.jpg",
+                    "name": "无名",
+                    "public_metrics": {
+                      "followers_count": 305,
+                      "following_count": 74,
+                      "tweet_count": 10910,
+                      "listed_count": 0,
+                      "like_count": 4072,
+                      "media_count": 778
+                    },
+                    "protected": true
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

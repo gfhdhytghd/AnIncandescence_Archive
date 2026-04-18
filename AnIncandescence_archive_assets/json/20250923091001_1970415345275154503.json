@@ -1,1 +1,456 @@
-{"data":{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1969956943960875197","created_at":"2025-09-23T09:10:01.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-09-23T10:10:01.000Z"},"edit_history_tweet_ids":["1970415345275154503"],"entities":{"mentions":[{"start":0,"end":13,"username":"uni_ododriru","id":"1448881148541685760"}]},"geo":{},"id":"1970415345275154503","in_reply_to_user_id":"1448881148541685760","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1970136883645837475"}],"reply_settings":"everyone","text":"@uni_ododriru 如果幸福是那么简单的事情就好了..."},"includes":{"users":[{"created_at":"2024-01-02T01:22:57.000Z","description":"猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/MuEKSg4tIS","expanded_url":"https://ngl.link/anincandescence","display_url":"ngl.link/anincandescence"}]}},"id":"1741993395910811648","location":"天鹅座X-1","name":"炽烈已极","pinned_tweet_id":"1966906570224353588","profile_image_url":"https://pbs.twimg.com/profile_images/1967287311504465922/Z7d-hW5p_normal.jpg","protected":false,"public_metrics":{"followers_count":1193,"following_count":206,"tweet_count":3940,"listed_count":3,"like_count":10580,"media_count":786},"url":"https://t.co/MuEKSg4tIS","username":"AnIncandescence","verified":false},{"created_at":"2021-10-15T05:19:35.000Z","description":"主发OD/牢骚/es/p5x\n我推まふまふ 朱樱司 樱河琥珀","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/vCQdW8rMj4","expanded_url":"https://t.me/+bE2gu8h4dnkzMWRl","display_url":"t.me/+bE2gu8h4dnkzM…"}]}},"id":"1448881148541685760","location":"Japan","name":"山与屿","pinned_tweet_id":"1855825143269867562","profile_image_url":"https://pbs.twimg.com/profile_images/1967108828249681926/7r7pzfHQ_normal.jpg","protected":false,"public_metrics":{"followers_count":220,"following_count":397,"tweet_count":1623,"listed_count":0,"like_count":63502,"media_count":582},"url":"https://t.co/vCQdW8rMj4","username":"uni_ododriru","verified":false}],"tweets":[{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1969956943960875197","created_at":"2025-09-23T09:10:01.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-09-23T10:10:01.000Z"},"edit_history_tweet_ids":["1970415345275154503"],"entities":{"mentions":[{"start":0,"end":13,"username":"uni_ododriru","id":"1448881148541685760"}]},"geo":{},"id":"1970415345275154503","in_reply_to_user_id":"1448881148541685760","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1970136883645837475"}],"reply_settings":"everyone","text":"@uni_ododriru 如果幸福是那么简单的事情就好了..."},{"article":{},"attachments":{},"author_id":"1448881148541685760","conversation_id":"1969956943960875197","created_at":"2025-09-22T14:43:31.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-09-22T15:43:31.000Z"},"edit_history_tweet_ids":["1970136883645837475"],"entities":{"mentions":[{"start":0,"end":16,"username":"AnIncandescence","id":"1741993395910811648"}]},"geo":{},"id":"1970136883645837475","in_reply_to_user_id":"1741993395910811648","lang":"ja","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":1,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":25},"referenced_tweets":[{"type":"replied_to","id":"1969956943960875197"}],"reply_settings":"everyone","text":"@AnIncandescence 好幸福"}]}}
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741993395910811648",
+    "conversation_id": "1969956943960875197",
+    "created_at": "2025-09-23T09:10:01.000Z",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2025-09-23T10:10:01.000Z"
+    },
+    "edit_history_tweet_ids": [
+      "1970415345275154503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 13,
+          "username": "uni_ododriru",
+          "id": "1448881148541685760"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970415345275154503",
+    "in_reply_to_user_id": "1448881148541685760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1970136883645837475"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uni_ododriru 如果幸福是那么简单的事情就好了..."
+  },
+  "includes": {
+    "users": [
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/MuEKSg4tIS",
+                "expanded_url": "https://ngl.link/anincandescence",
+                "display_url": "ngl.link/anincandescence"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "天鹅座X-1",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "1966906570224353588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967287311504465922/Z7d-hW5p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1193,
+          "following_count": 206,
+          "tweet_count": 3940,
+          "listed_count": 3,
+          "like_count": 10580,
+          "media_count": 786
+        },
+        "url": "https://t.co/MuEKSg4tIS",
+        "username": "AnIncandescence",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-15T05:19:35.000Z",
+        "description": "主发OD/牢骚/es/p5x\n我推まふまふ 朱樱司 樱河琥珀",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/vCQdW8rMj4",
+                "expanded_url": "https://t.me/+bE2gu8h4dnkzMWRl",
+                "display_url": "t.me/+bE2gu8h4dnkzM…"
+              }
+            ]
+          }
+        },
+        "id": "1448881148541685760",
+        "location": "Japan",
+        "name": "山与屿",
+        "pinned_tweet_id": "1855825143269867562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967108828249681926/7r7pzfHQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 397,
+          "tweet_count": 1623,
+          "listed_count": 0,
+          "like_count": 63502,
+          "media_count": 582
+        },
+        "url": "https://t.co/vCQdW8rMj4",
+        "username": "uni_ododriru",
+        "verified": false
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741993395910811648",
+        "conversation_id": "1969956943960875197",
+        "created_at": "2025-09-23T09:10:01.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2025-09-23T10:10:01.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1970415345275154503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 13,
+              "username": "uni_ododriru",
+              "id": "1448881148541685760"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970415345275154503",
+        "in_reply_to_user_id": "1448881148541685760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1970136883645837475"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uni_ododriru 如果幸福是那么简单的事情就好了..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448881148541685760",
+        "conversation_id": "1969956943960875197",
+        "created_at": "2025-09-22T14:43:31.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2025-09-22T15:43:31.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1970136883645837475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 16,
+              "username": "AnIncandescence",
+              "id": "1741993395910811648"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970136883645837475",
+        "in_reply_to_user_id": "1741993395910811648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1969956943960875197"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnIncandescence 好幸福"
+      }
+    ]
+  },
+  "_pale_fire": {
+    "x_api_reply_chains": {
+      "1969956943960875197": {
+        "version": 1,
+        "fetched_at": "2026-04-18T01:04:42Z",
+        "max_depth": 63,
+        "posts": [
+          {
+            "id": "1969956943960875197",
+            "source": "local_json",
+            "payload": {
+              "data": {
+                "article": {},
+                "attachments": {
+                  "media_keys": [
+                    "3_1969957701800366080"
+                  ]
+                },
+                "author_id": "1741993395910811648",
+                "conversation_id": "1969956943960875197",
+                "created_at": "2025-09-22T02:51:34.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2025-09-22T03:51:34.000Z"
+                },
+                "edit_history_tweet_ids": [
+                  "1969957718262985064"
+                ],
+                "entities": {
+                  "urls": [
+                    {
+                      "start": 5,
+                      "end": 28,
+                      "url": "https://t.co/GiQXTnlAp5",
+                      "expanded_url": "https://x.com/AnIncandescence/status/1969957718262985064/photo/1",
+                      "display_url": "pic.x.com/GiQXTnlAp5",
+                      "media_key": "3_1969957701800366080"
+                    }
+                  ]
+                },
+                "geo": {},
+                "id": "1969957718262985064",
+                "in_reply_to_user_id": "1741993395910811648",
+                "lang": "und",
+                "note_tweet": {
+                  "entities": {}
+                },
+                "possibly_sensitive": false,
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 0
+                },
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "1969956943960875197"
+                  }
+                ],
+                "reply_settings": "everyone",
+                "text": ".zip https://t.co/GiQXTnlAp5"
+              },
+              "includes": {
+                "media": [
+                  {
+                    "height": 4032,
+                    "media_key": "3_1969957701800366080",
+                    "public_metrics": {},
+                    "type": "photo",
+                    "url": "https://pbs.twimg.com/media/G1ayF65bEAAHbgu.jpg",
+                    "width": 3024
+                  },
+                  {
+                    "height": 5712,
+                    "media_key": "3_1969956904370839552",
+                    "public_metrics": {},
+                    "type": "photo",
+                    "url": "https://pbs.twimg.com/media/G1axXgPaIAAznda.jpg",
+                    "width": 4284
+                  }
+                ],
+                "users": [
+                  {
+                    "created_at": "2024-01-02T01:22:57.000Z",
+                    "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/MuEKSg4tIS",
+                            "expanded_url": "https://ngl.link/anincandescence",
+                            "display_url": "ngl.link/anincandescence"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1741993395910811648",
+                    "location": "天鹅座X-1",
+                    "name": "炽烈已极",
+                    "pinned_tweet_id": "1966906570224353588",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1967287311504465922/Z7d-hW5p_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 1186,
+                      "following_count": 206,
+                      "tweet_count": 3923,
+                      "listed_count": 3,
+                      "like_count": 10595,
+                      "media_count": 783
+                    },
+                    "url": "https://t.co/MuEKSg4tIS",
+                    "username": "AnIncandescence",
+                    "verified": false
+                  }
+                ],
+                "tweets": [
+                  {
+                    "article": {},
+                    "attachments": {
+                      "media_keys": [
+                        "3_1969957701800366080"
+                      ]
+                    },
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "1969956943960875197",
+                    "created_at": "2025-09-22T02:51:34.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2025-09-22T03:51:34.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "1969957718262985064"
+                    ],
+                    "entities": {
+                      "urls": [
+                        {
+                          "start": 5,
+                          "end": 28,
+                          "url": "https://t.co/GiQXTnlAp5",
+                          "expanded_url": "https://x.com/AnIncandescence/status/1969957718262985064/photo/1",
+                          "display_url": "pic.x.com/GiQXTnlAp5",
+                          "media_key": "3_1969957701800366080"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "1969957718262985064",
+                    "in_reply_to_user_id": "1741993395910811648",
+                    "lang": "und",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 0,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 0
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "1969956943960875197"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": ".zip https://t.co/GiQXTnlAp5"
+                  },
+                  {
+                    "article": {},
+                    "attachments": {
+                      "media_keys": [
+                        "3_1969956904370839552"
+                      ]
+                    },
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "1969956943960875197",
+                    "created_at": "2025-09-22T02:48:30.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2025-09-22T03:48:30.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "1969956943960875197"
+                    ],
+                    "entities": {
+                      "urls": [
+                        {
+                          "start": 16,
+                          "end": 39,
+                          "url": "https://t.co/akJfcNrfKE",
+                          "expanded_url": "https://x.com/AnIncandescence/status/1969956943960875197/photo/1",
+                          "display_url": "pic.x.com/akJfcNrfKE",
+                          "media_key": "3_1969956904370839552"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "1969956943960875197",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 1,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 7
+                    },
+                    "reply_settings": "everyone",
+                    "text": "沉睡在那个很远的地方的小盒子里 https://t.co/akJfcNrfKE"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

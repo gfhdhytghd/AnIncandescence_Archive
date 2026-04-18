@@ -1,1 +1,363 @@
-{"data":{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1989245996761772053","created_at":"2025-11-14T12:27:19.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-11-14T13:27:19.000Z"},"edit_history_tweet_ids":["1989309164980416521"],"entities":{"mentions":[{"start":0,"end":11,"username":"AiYin16898","id":"1922573287533801472"}]},"geo":{},"id":"1989309164980416521","in_reply_to_user_id":"1922573287533801472","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1989305913354879189"}],"reply_settings":"everyone","text":"@AiYin16898 （愣住）\n这里是指蜂蜜还是猫猫呢...网络用语的误传赋予了这个词新的意义，人们似乎对这种情况早习以为常"},"includes":{"users":[{"created_at":"2024-01-02T01:22:57.000Z","description":"猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/iO6MRJNm9j","expanded_url":"https://ngl.link/anincandescence1","display_url":"ngl.link/anincandescenc…"}]}},"id":"1741993395910811648","location":"天鹅座X-1","name":"炽烈已极","pinned_tweet_id":"1976277813784457417","profile_image_url":"https://pbs.twimg.com/profile_images/1967287311504465922/Z7d-hW5p_normal.jpg","protected":false,"public_metrics":{"followers_count":1273,"following_count":213,"tweet_count":4350,"listed_count":3,"like_count":11300,"media_count":844},"url":"https://t.co/iO6MRJNm9j","username":"AnIncandescence","verified":false},{"created_at":"2025-05-14T08:43:05.000Z","description":"即使这是施加于我的诅咒，我也会将它当成祝福一样热爱！\n\n     睦小号，大号已死；@ai_yin16898\n朋友小然  @owO123qwe       鼠尾草教✝️：@SalviaSWC","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/Ou4N5NdAnP","expanded_url":"http://t.me/Mutsumi_never_cries","display_url":"t.me/Mutsumi_never_…"}]},"description":{"mentions":[{"start":42,"end":54,"username":"ai_yin16898"},{"start":61,"end":71,"username":"owO123qwe"},{"start":85,"end":95,"username":"SalviaSWC"}]}},"id":"1922573287533801472","name":"机巧睦头不会受伤","profile_image_url":"https://pbs.twimg.com/profile_images/1922574248272654336/NDqlOESB_normal.jpg","protected":false,"public_metrics":{"followers_count":141,"following_count":657,"tweet_count":361,"listed_count":0,"like_count":2935,"media_count":48},"url":"https://t.co/Ou4N5NdAnP","username":"AiYin16898","verified":false}],"tweets":[{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1989245996761772053","created_at":"2025-11-14T12:27:19.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-11-14T13:27:19.000Z"},"edit_history_tweet_ids":["1989309164980416521"],"entities":{"mentions":[{"start":0,"end":11,"username":"AiYin16898","id":"1922573287533801472"}]},"geo":{},"id":"1989309164980416521","in_reply_to_user_id":"1922573287533801472","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1989305913354879189"}],"reply_settings":"everyone","text":"@AiYin16898 （愣住）\n这里是指蜂蜜还是猫猫呢...网络用语的误传赋予了这个词新的意义，人们似乎对这种情况早习以为常"},{"article":{},"attachments":{},"author_id":"1922573287533801472","conversation_id":"1989245996761772053","created_at":"2025-11-14T12:14:23.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-11-14T13:14:23.000Z"},"edit_history_tweet_ids":["1989305913354879189"],"entities":{"mentions":[{"start":0,"end":16,"username":"AnIncandescence","id":"1741993395910811648"}]},"geo":{},"id":"1989305913354879189","in_reply_to_user_id":"1741993395910811648","lang":"ja","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":1,"like_count":1,"quote_count":0,"bookmark_count":0,"impression_count":12},"referenced_tweets":[{"type":"replied_to","id":"1989245996761772053"}],"reply_settings":"everyone","text":"@AnIncandescence 哈基米"}]}}
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741993395910811648",
+    "conversation_id": "1989245996761772053",
+    "created_at": "2025-11-14T12:27:19.000Z",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2025-11-14T13:27:19.000Z"
+    },
+    "edit_history_tweet_ids": [
+      "1989309164980416521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 11,
+          "username": "AiYin16898",
+          "id": "1922573287533801472"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989309164980416521",
+    "in_reply_to_user_id": "1922573287533801472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1989305913354879189"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AiYin16898 （愣住）\n这里是指蜂蜜还是猫猫呢...网络用语的误传赋予了这个词新的意义，人们似乎对这种情况早习以为常"
+  },
+  "includes": {
+    "users": [
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/iO6MRJNm9j",
+                "expanded_url": "https://ngl.link/anincandescence1",
+                "display_url": "ngl.link/anincandescenc…"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "天鹅座X-1",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "1976277813784457417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967287311504465922/Z7d-hW5p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1273,
+          "following_count": 213,
+          "tweet_count": 4350,
+          "listed_count": 3,
+          "like_count": 11300,
+          "media_count": 844
+        },
+        "url": "https://t.co/iO6MRJNm9j",
+        "username": "AnIncandescence",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-14T08:43:05.000Z",
+        "description": "即使这是施加于我的诅咒，我也会将它当成祝福一样热爱！\n\n     睦小号，大号已死；@ai_yin16898\n朋友小然  @owO123qwe       鼠尾草教✝️：@SalviaSWC",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/Ou4N5NdAnP",
+                "expanded_url": "http://t.me/Mutsumi_never_cries",
+                "display_url": "t.me/Mutsumi_never_…"
+              }
+            ]
+          },
+          "description": {
+            "mentions": [
+              {
+                "start": 42,
+                "end": 54,
+                "username": "ai_yin16898"
+              },
+              {
+                "start": 61,
+                "end": 71,
+                "username": "owO123qwe"
+              },
+              {
+                "start": 85,
+                "end": 95,
+                "username": "SalviaSWC"
+              }
+            ]
+          }
+        },
+        "id": "1922573287533801472",
+        "name": "机巧睦头不会受伤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922574248272654336/NDqlOESB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 657,
+          "tweet_count": 361,
+          "listed_count": 0,
+          "like_count": 2935,
+          "media_count": 48
+        },
+        "url": "https://t.co/Ou4N5NdAnP",
+        "username": "AiYin16898",
+        "verified": false
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741993395910811648",
+        "conversation_id": "1989245996761772053",
+        "created_at": "2025-11-14T12:27:19.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2025-11-14T13:27:19.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1989309164980416521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 11,
+              "username": "AiYin16898",
+              "id": "1922573287533801472"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989309164980416521",
+        "in_reply_to_user_id": "1922573287533801472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1989305913354879189"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AiYin16898 （愣住）\n这里是指蜂蜜还是猫猫呢...网络用语的误传赋予了这个词新的意义，人们似乎对这种情况早习以为常"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922573287533801472",
+        "conversation_id": "1989245996761772053",
+        "created_at": "2025-11-14T12:14:23.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2025-11-14T13:14:23.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1989305913354879189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 16,
+              "username": "AnIncandescence",
+              "id": "1741993395910811648"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989305913354879189",
+        "in_reply_to_user_id": "1741993395910811648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1989245996761772053"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnIncandescence 哈基米"
+      }
+    ]
+  },
+  "_pale_fire": {
+    "x_api_reply_chains": {
+      "1989245996761772053": {
+        "version": 1,
+        "fetched_at": "2026-04-18T01:09:46Z",
+        "max_depth": 63,
+        "posts": [
+          {
+            "id": "1989245996761772053",
+            "source": "local_json",
+            "payload": {
+              "data": {
+                "article": {},
+                "attachments": {},
+                "author_id": "1741993395910811648",
+                "conversation_id": "1989245996761772053",
+                "created_at": "2025-11-14T08:16:18.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": true,
+                  "editable_until": "2025-11-14T09:16:18.000Z"
+                },
+                "edit_history_tweet_ids": [
+                  "1989245996761772053"
+                ],
+                "entities": {},
+                "geo": {},
+                "id": "1989245996761772053",
+                "lang": "zh",
+                "note_tweet": {
+                  "entities": {}
+                },
+                "possibly_sensitive": false,
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 0
+                },
+                "reply_settings": "everyone",
+                "text": "评论一个词汇，随机掉落一段故事/文字。这里是思绪扭蛋机☺️"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "created_at": "2024-01-02T01:22:57.000Z",
+                    "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/iO6MRJNm9j",
+                            "expanded_url": "https://ngl.link/anincandescence1",
+                            "display_url": "ngl.link/anincandescenc…"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1741993395910811648",
+                    "location": "天鹅座X-1",
+                    "name": "炽烈已极",
+                    "pinned_tweet_id": "1976277813784457417",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1967287311504465922/Z7d-hW5p_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 1274,
+                      "following_count": 213,
+                      "tweet_count": 4332,
+                      "listed_count": 3,
+                      "like_count": 11267,
+                      "media_count": 844
+                    },
+                    "url": "https://t.co/iO6MRJNm9j",
+                    "username": "AnIncandescence",
+                    "verified": false
+                  }
+                ],
+                "tweets": [
+                  {
+                    "article": {},
+                    "attachments": {},
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "1989245996761772053",
+                    "created_at": "2025-11-14T08:16:18.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": true,
+                      "editable_until": "2025-11-14T09:16:18.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "1989245996761772053"
+                    ],
+                    "entities": {},
+                    "geo": {},
+                    "id": "1989245996761772053",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 0,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 0
+                    },
+                    "reply_settings": "everyone",
+                    "text": "评论一个词汇，随机掉落一段故事/文字。这里是思绪扭蛋机☺️"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,1 +1,629 @@
-{"data":{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"2024076888923365667","created_at":"2026-02-18T13:22:14.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2026-02-18T14:22:14.000Z"},"edit_history_tweet_ids":["2024112223480897951"],"entities":{"mentions":[{"start":0,"end":8,"username":"fawpv25","id":"1900779126245769216"}]},"geo":{},"id":"2024112223480897951","in_reply_to_user_id":"1900779126245769216","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"2024108579158888783"}],"reply_settings":"everyone","text":"@fawpv25 想要在数字画框里存活千年…"},"includes":{"users":[{"created_at":"2024-01-02T01:22:57.000Z","description":"猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | @TauCeti_10700 日常和碎碎念 | 🚪88/158","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/iO6MRJNTYR","expanded_url":"https://ngl.link/anincandescence1","display_url":"ngl.link/anincandescenc…"}]},"description":{"mentions":[{"start":70,"end":84,"username":"TauCeti_10700"}]}},"id":"1741993395910811648","location":"天鹅座X-1","name":"炽烈已极","pinned_tweet_id":"2024076888923365667","profile_image_url":"https://pbs.twimg.com/profile_images/2006317223414255617/jGT_GZyG_normal.jpg","protected":false,"public_metrics":{"followers_count":1714,"following_count":234,"tweet_count":5769,"listed_count":5,"like_count":13993,"media_count":1051},"url":"https://t.co/iO6MRJNTYR","username":"AnIncandescence","verified":false},{"created_at":"2025-03-15T05:20:44.000Z","description":"如果你知道怎么变成一只乌鸦，请告诉我/匿名提问箱：https://t.co/k5wuyYhVxZ致力于成为你们的互联网好朋鸦/艺术就是生命/我们的诞生不是为了被疼痛感束缚/学习像人类一样地活下去。","entities":{"description":{"urls":[{"start":25,"end":48,"url":"https://t.co/k5wuyYhVxZ","expanded_url":"https://ngl.link/jiyujin1/","display_url":"ngl.link/jiyujin1/"}]}},"id":"1900779126245769216","name":"Anoko","profile_image_url":"https://pbs.twimg.com/profile_images/2006613154210721792/8FPJv03i_normal.jpg","protected":true,"public_metrics":{"followers_count":74,"following_count":216,"tweet_count":3599,"listed_count":0,"like_count":13309,"media_count":108},"username":"fawpv25","verified":false}],"tweets":[{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"2024076888923365667","created_at":"2026-02-18T13:22:14.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2026-02-18T14:22:14.000Z"},"edit_history_tweet_ids":["2024112223480897951"],"entities":{"mentions":[{"start":0,"end":8,"username":"fawpv25","id":"1900779126245769216"}]},"geo":{},"id":"2024112223480897951","in_reply_to_user_id":"1900779126245769216","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"2024108579158888783"}],"reply_settings":"everyone","text":"@fawpv25 想要在数字画框里存活千年…"}]},"errors":[{"resource_id":"2024108579158888783","parameter":"referenced_tweets.id","resource_type":"tweet","section":"includes","title":"Authorization Error","value":"2024108579158888783","detail":"Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2024108579158888783].","type":"https://api.twitter.com/2/problems/not-authorized-for-resource"}]}
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741993395910811648",
+    "conversation_id": "2024076888923365667",
+    "created_at": "2026-02-18T13:22:14.000Z",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2026-02-18T14:22:14.000Z"
+    },
+    "edit_history_tweet_ids": [
+      "2024112223480897951"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 8,
+          "username": "fawpv25",
+          "id": "1900779126245769216"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024112223480897951",
+    "in_reply_to_user_id": "1900779126245769216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "2024108579158888783"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fawpv25 想要在数字画框里存活千年…"
+  },
+  "includes": {
+    "users": [
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | @TauCeti_10700 日常和碎碎念 | 🚪88/158",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/iO6MRJNTYR",
+                "expanded_url": "https://ngl.link/anincandescence1",
+                "display_url": "ngl.link/anincandescenc…"
+              }
+            ]
+          },
+          "description": {
+            "mentions": [
+              {
+                "start": 70,
+                "end": 84,
+                "username": "TauCeti_10700"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "天鹅座X-1",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "2024076888923365667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006317223414255617/jGT_GZyG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1714,
+          "following_count": 234,
+          "tweet_count": 5769,
+          "listed_count": 5,
+          "like_count": 13993,
+          "media_count": 1051
+        },
+        "url": "https://t.co/iO6MRJNTYR",
+        "username": "AnIncandescence",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-15T05:20:44.000Z",
+        "description": "如果你知道怎么变成一只乌鸦，请告诉我/匿名提问箱：https://t.co/k5wuyYhVxZ致力于成为你们的互联网好朋鸦/艺术就是生命/我们的诞生不是为了被疼痛感束缚/学习像人类一样地活下去。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "start": 25,
+                "end": 48,
+                "url": "https://t.co/k5wuyYhVxZ",
+                "expanded_url": "https://ngl.link/jiyujin1/",
+                "display_url": "ngl.link/jiyujin1/"
+              }
+            ]
+          }
+        },
+        "id": "1900779126245769216",
+        "name": "Anoko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006613154210721792/8FPJv03i_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 216,
+          "tweet_count": 3599,
+          "listed_count": 0,
+          "like_count": 13309,
+          "media_count": 108
+        },
+        "username": "fawpv25",
+        "verified": false
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741993395910811648",
+        "conversation_id": "2024076888923365667",
+        "created_at": "2026-02-18T13:22:14.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2026-02-18T14:22:14.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "2024112223480897951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 8,
+              "username": "fawpv25",
+              "id": "1900779126245769216"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024112223480897951",
+        "in_reply_to_user_id": "1900779126245769216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "2024108579158888783"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fawpv25 想要在数字画框里存活千年…"
+      }
+    ]
+  },
+  "errors": [
+    {
+      "resource_id": "2024108579158888783",
+      "parameter": "referenced_tweets.id",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "value": "2024108579158888783",
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2024108579158888783].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource"
+    }
+  ],
+  "_pale_fire": {
+    "x_api_reply_chains": {
+      "2024108579158888783": {
+        "version": 1,
+        "fetched_at": "2026-04-18T01:28:56Z",
+        "max_depth": 64,
+        "posts": [
+          {
+            "id": "2024108579158888783",
+            "source": "x_api_oauth1",
+            "payload": {
+              "data": {
+                "edit_history_tweet_ids": [
+                  "2024108579158888783"
+                ],
+                "context_annotations": [
+                  {
+                    "domain": {
+                      "id": "29",
+                      "name": "Events [Entity Service]",
+                      "description": "Real world events. "
+                    },
+                    "entity": {
+                      "id": "1319305164751163393",
+                      "name": "New Years Eve",
+                      "description": "This entity includes all conversations for New Years Eve for all years."
+                    }
+                  },
+                  {
+                    "domain": {
+                      "id": "29",
+                      "name": "Events [Entity Service]",
+                      "description": "Real world events. "
+                    },
+                    "entity": {
+                      "id": "1457786335108816904",
+                      "name": "New Year's day",
+                      "description": "This entity includes all conversations for the New Year's day for all years. "
+                    }
+                  },
+                  {
+                    "domain": {
+                      "id": "119",
+                      "name": "Holiday",
+                      "description": "Holidays like Christmas or Halloween"
+                    },
+                    "entity": {
+                      "id": "1319305164751163393",
+                      "name": "New Years Eve",
+                      "description": "This entity includes all conversations for New Years Eve for all years."
+                    }
+                  },
+                  {
+                    "domain": {
+                      "id": "119",
+                      "name": "Holiday",
+                      "description": "Holidays like Christmas or Halloween"
+                    },
+                    "entity": {
+                      "id": "1457786335108816904",
+                      "name": "New Year's day",
+                      "description": "This entity includes all conversations for the New Year's day for all years. "
+                    }
+                  },
+                  {
+                    "domain": {
+                      "id": "131",
+                      "name": "Unified Twitter Taxonomy",
+                      "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                      "id": "847548225712119808",
+                      "name": "Holidays",
+                      "description": "Holidays"
+                    }
+                  },
+                  {
+                    "domain": {
+                      "id": "131",
+                      "name": "Unified Twitter Taxonomy",
+                      "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                      "id": "1291095284756357120",
+                      "name": "Cultural events"
+                    }
+                  },
+                  {
+                    "domain": {
+                      "id": "131",
+                      "name": "Unified Twitter Taxonomy",
+                      "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                      "id": "1296381531510849536",
+                      "name": "New Years Eve\t"
+                    }
+                  },
+                  {
+                    "domain": {
+                      "id": "131",
+                      "name": "Unified Twitter Taxonomy",
+                      "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                      "id": "1436053202835689485",
+                      "name": "Events"
+                    }
+                  },
+                  {
+                    "domain": {
+                      "id": "131",
+                      "name": "Unified Twitter Taxonomy",
+                      "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                      "id": "1457786335108816904",
+                      "name": "New Year's day",
+                      "description": "This entity includes all conversations for the New Year's day for all years. "
+                    }
+                  }
+                ],
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 3,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 57
+                },
+                "lang": "zh",
+                "id": "2024108579158888783",
+                "reply_settings": "everyone",
+                "conversation_id": "2024076888923365667",
+                "possibly_sensitive": false,
+                "in_reply_to_user_id": "1741993395910811648",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2026-02-18T14:07:46.000Z"
+                },
+                "text": "@AnIncandescence 新年快乐，非常开心能够认识小炽，很喜欢你，请在互联网上一直一直停留，成为数字生命吧！",
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 0,
+                      "end": 16,
+                      "username": "AnIncandescence",
+                      "id": "1741993395910811648"
+                    }
+                  ]
+                },
+                "created_at": "2026-02-18T13:07:46.000Z",
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "2024076888923365667"
+                  }
+                ],
+                "author_id": "1900779126245769216"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "username": "fawpv25",
+                    "created_at": "2025-03-15T05:20:44.000Z",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2006613154210721792/8FPJv03i_normal.jpg",
+                    "description": "如果你知道怎么变成一只乌鸦，请告诉我/致力于成为你们的互联网好朋鸦/艺术就是生命/我们的诞生不是为了被疼痛感束缚/学习像人类一样地活下去。",
+                    "public_metrics": {
+                      "followers_count": 81,
+                      "following_count": 245,
+                      "tweet_count": 4429,
+                      "listed_count": 0,
+                      "like_count": 15724,
+                      "media_count": 105
+                    },
+                    "name": "Anoko",
+                    "verified": false,
+                    "protected": true,
+                    "id": "1900779126245769216"
+                  }
+                ]
+              },
+              "errors": [
+                {
+                  "parameter": "in_reply_to_user_id",
+                  "resource_id": "1741993395910811648",
+                  "value": "1741993395910811648",
+                  "detail": "User has been suspended: [1741993395910811648].",
+                  "title": "Forbidden",
+                  "resource_type": "user",
+                  "type": "https://api.twitter.com/2/problems/resource-not-found"
+                },
+                {
+                  "resource_id": "2024076888923365667",
+                  "parameter": "referenced_tweets.id",
+                  "resource_type": "tweet",
+                  "section": "includes",
+                  "title": "Authorization Error",
+                  "value": "2024076888923365667",
+                  "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2024076888923365667].",
+                  "type": "https://api.twitter.com/2/problems/not-authorized-for-resource"
+                }
+              ]
+            }
+          },
+          {
+            "id": "2024076888923365667",
+            "source": "local_json",
+            "payload": {
+              "data": {
+                "article": {},
+                "attachments": {},
+                "author_id": "1741993395910811648",
+                "conversation_id": "2024076888923365667",
+                "created_at": "2026-02-18T15:11:48.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2026-02-18T16:11:48.000Z"
+                },
+                "edit_history_tweet_ids": [
+                  "2024139794562142434"
+                ],
+                "entities": {},
+                "geo": {},
+                "id": "2024139794562142434",
+                "in_reply_to_user_id": "1741993395910811648",
+                "lang": "zh",
+                "note_tweet": {
+                  "entities": {}
+                },
+                "possibly_sensitive": false,
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 0
+                },
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "2024076888923365667"
+                  }
+                ],
+                "reply_settings": "everyone",
+                "text": "「从未冰冷，从未死寂，从未黯然失色的海 // 而你那些声嘶力竭的沉默，排列成文字的蔚蓝色哀恸，一定会被听到」"
+              },
+              "includes": {
+                "media": [
+                  {
+                    "height": 1949,
+                    "media_key": "3_2024076876717981696",
+                    "public_metrics": {},
+                    "type": "photo",
+                    "url": "https://pbs.twimg.com/media/HBb3MgLbgAAHx-5.jpg",
+                    "width": 1206
+                  },
+                  {
+                    "height": 1640,
+                    "media_key": "3_2024076876785086464",
+                    "public_metrics": {},
+                    "type": "photo",
+                    "url": "https://pbs.twimg.com/media/HBb3MgbbcAAEqSn.jpg",
+                    "width": 2360
+                  },
+                  {
+                    "height": 1024,
+                    "media_key": "3_2024076876680245250",
+                    "public_metrics": {},
+                    "type": "photo",
+                    "url": "https://pbs.twimg.com/media/HBb3MgCbsAIPJLv.jpg",
+                    "width": 1024
+                  }
+                ],
+                "users": [
+                  {
+                    "created_at": "2024-01-02T01:22:57.000Z",
+                    "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | @TauCeti_10700 日常和碎碎念 | 🚪88/158",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/iO6MRJNTYR",
+                            "expanded_url": "https://ngl.link/anincandescence1",
+                            "display_url": "ngl.link/anincandescenc…"
+                          }
+                        ]
+                      },
+                      "description": {
+                        "mentions": [
+                          {
+                            "start": 70,
+                            "end": 84,
+                            "username": "TauCeti_10700"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1741993395910811648",
+                    "location": "天鹅座X-1",
+                    "name": "炽烈已极",
+                    "pinned_tweet_id": "2024076888923365667",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2006317223414255617/jGT_GZyG_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 1715,
+                      "following_count": 234,
+                      "tweet_count": 5778,
+                      "listed_count": 5,
+                      "like_count": 14004,
+                      "media_count": 1052
+                    },
+                    "url": "https://t.co/iO6MRJNTYR",
+                    "username": "AnIncandescence",
+                    "verified": false
+                  }
+                ],
+                "tweets": [
+                  {
+                    "article": {},
+                    "attachments": {},
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "2024076888923365667",
+                    "created_at": "2026-02-18T15:11:48.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2026-02-18T16:11:48.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "2024139794562142434"
+                    ],
+                    "entities": {},
+                    "geo": {},
+                    "id": "2024139794562142434",
+                    "in_reply_to_user_id": "1741993395910811648",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 0,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 0
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "2024076888923365667"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "「从未冰冷，从未死寂，从未黯然失色的海 // 而你那些声嘶力竭的沉默，排列成文字的蔚蓝色哀恸，一定会被听到」"
+                  },
+                  {
+                    "article": {},
+                    "attachments": {
+                      "media_keys": [
+                        "3_2024076876717981696",
+                        "3_2024076876785086464",
+                        "3_2024076876680245250"
+                      ]
+                    },
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "2024076888923365667",
+                    "created_at": "2026-02-18T11:01:50.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2026-02-18T12:01:50.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "2024076888923365667"
+                    ],
+                    "entities": {
+                      "urls": [
+                        {
+                          "start": 96,
+                          "end": 119,
+                          "url": "https://t.co/tFfHgyoDve",
+                          "expanded_url": "https://x.com/AnIncandescence/status/2024076888923365667/photo/1",
+                          "display_url": "pic.x.com/tFfHgyoDve",
+                          "media_key": "3_2024076876717981696"
+                        },
+                        {
+                          "start": 96,
+                          "end": 119,
+                          "url": "https://t.co/tFfHgyoDve",
+                          "expanded_url": "https://x.com/AnIncandescence/status/2024076888923365667/photo/1",
+                          "display_url": "pic.x.com/tFfHgyoDve",
+                          "media_key": "3_2024076876785086464"
+                        },
+                        {
+                          "start": 96,
+                          "end": 119,
+                          "url": "https://t.co/tFfHgyoDve",
+                          "expanded_url": "https://x.com/AnIncandescence/status/2024076888923365667/photo/1",
+                          "display_url": "pic.x.com/tFfHgyoDve",
+                          "media_key": "3_2024076876680245250"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "2024076888923365667",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 4,
+                      "reply_count": 9,
+                      "like_count": 42,
+                      "quote_count": 0,
+                      "bookmark_count": 2,
+                      "impression_count": 589
+                    },
+                    "reply_settings": "everyone",
+                    "text": "谢谢你找到我，谢谢你愿意看我，谢谢你喜欢我。\n\n1k7fo了，认识大家很开心…\n互联网是现实的避难所，想要赛博飞升成为数字生命..！（）\n*感觉写自介是很麻烦的事情，因为我不知道怎么描述自己 https://t.co/tFfHgyoDve"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

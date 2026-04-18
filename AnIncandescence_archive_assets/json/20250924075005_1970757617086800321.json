@@ -1,1 +1,566 @@
-{"data":{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1970733299778949314","created_at":"2025-09-24T07:50:05.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-09-24T08:50:05.000Z"},"edit_history_tweet_ids":["1970757617086800321"],"entities":{"mentions":[{"start":0,"end":8,"username":"fawpv25","id":"1900779126245769216"}]},"geo":{},"id":"1970757617086800321","in_reply_to_user_id":"1900779126245769216","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1970755337935605877"}],"reply_settings":"everyone","text":"@fawpv25 那可超帅的😎"},"includes":{"users":[{"created_at":"2024-01-02T01:22:57.000Z","description":"猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/MuEKSg4tIS","expanded_url":"https://ngl.link/anincandescence","display_url":"ngl.link/anincandescence"}]}},"id":"1741993395910811648","location":"天鹅座X-1","name":"炽烈已极","pinned_tweet_id":"1966906570224353588","profile_image_url":"https://pbs.twimg.com/profile_images/1967287311504465922/Z7d-hW5p_normal.jpg","protected":false,"public_metrics":{"followers_count":1198,"following_count":208,"tweet_count":3961,"listed_count":3,"like_count":10622,"media_count":788},"url":"https://t.co/MuEKSg4tIS","username":"AnIncandescence","verified":false},{"created_at":"2025-03-15T05:20:44.000Z","description":"如果你知道怎么变成一只乌鸦，请告诉我","id":"1900779126245769216","name":"少女人形手枪","profile_image_url":"https://pbs.twimg.com/profile_images/1957828191445479427/G6DedXhI_normal.jpg","protected":true,"public_metrics":{"followers_count":49,"following_count":156,"tweet_count":769,"listed_count":1,"like_count":4424,"media_count":18},"username":"fawpv25","verified":false}],"tweets":[{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1970733299778949314","created_at":"2025-09-24T07:50:05.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-09-24T08:50:05.000Z"},"edit_history_tweet_ids":["1970757617086800321"],"entities":{"mentions":[{"start":0,"end":8,"username":"fawpv25","id":"1900779126245769216"}]},"geo":{},"id":"1970757617086800321","in_reply_to_user_id":"1900779126245769216","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1970755337935605877"}],"reply_settings":"everyone","text":"@fawpv25 那可超帅的😎"}]},"errors":[{"resource_id":"1970755337935605877","parameter":"referenced_tweets.id","resource_type":"tweet","section":"includes","title":"Authorization Error","value":"1970755337935605877","detail":"Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1970755337935605877].","type":"https://api.twitter.com/2/problems/not-authorized-for-resource"}]}
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741993395910811648",
+    "conversation_id": "1970733299778949314",
+    "created_at": "2025-09-24T07:50:05.000Z",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2025-09-24T08:50:05.000Z"
+    },
+    "edit_history_tweet_ids": [
+      "1970757617086800321"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 8,
+          "username": "fawpv25",
+          "id": "1900779126245769216"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970757617086800321",
+    "in_reply_to_user_id": "1900779126245769216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1970755337935605877"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fawpv25 那可超帅的😎"
+  },
+  "includes": {
+    "users": [
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/MuEKSg4tIS",
+                "expanded_url": "https://ngl.link/anincandescence",
+                "display_url": "ngl.link/anincandescence"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "天鹅座X-1",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "1966906570224353588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967287311504465922/Z7d-hW5p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1198,
+          "following_count": 208,
+          "tweet_count": 3961,
+          "listed_count": 3,
+          "like_count": 10622,
+          "media_count": 788
+        },
+        "url": "https://t.co/MuEKSg4tIS",
+        "username": "AnIncandescence",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-15T05:20:44.000Z",
+        "description": "如果你知道怎么变成一只乌鸦，请告诉我",
+        "id": "1900779126245769216",
+        "name": "少女人形手枪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957828191445479427/G6DedXhI_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 156,
+          "tweet_count": 769,
+          "listed_count": 1,
+          "like_count": 4424,
+          "media_count": 18
+        },
+        "username": "fawpv25",
+        "verified": false
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741993395910811648",
+        "conversation_id": "1970733299778949314",
+        "created_at": "2025-09-24T07:50:05.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2025-09-24T08:50:05.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1970757617086800321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 8,
+              "username": "fawpv25",
+              "id": "1900779126245769216"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970757617086800321",
+        "in_reply_to_user_id": "1900779126245769216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1970755337935605877"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fawpv25 那可超帅的😎"
+      }
+    ]
+  },
+  "errors": [
+    {
+      "resource_id": "1970755337935605877",
+      "parameter": "referenced_tweets.id",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "value": "1970755337935605877",
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1970755337935605877].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource"
+    }
+  ],
+  "_pale_fire": {
+    "x_api_reply_chains": {
+      "1970755337935605877": {
+        "version": 1,
+        "fetched_at": "2026-04-18T01:05:12Z",
+        "max_depth": 64,
+        "posts": [
+          {
+            "id": "1970755337935605877",
+            "source": "x_api_oauth1",
+            "payload": {
+              "data": {
+                "conversation_id": "1970733299778949314",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2025-09-24T08:41:02.000Z"
+                },
+                "text": "@AnIncandescence 每天骗自己去画画，告诉自己其实我在操作火箭（",
+                "edit_history_tweet_ids": [
+                  "1970755337935605877"
+                ],
+                "reply_settings": "everyone",
+                "created_at": "2025-09-24T07:41:02.000Z",
+                "author_id": "1900779126245769216",
+                "id": "1970755337935605877",
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 0,
+                      "end": 16,
+                      "username": "AnIncandescence",
+                      "id": "1741993395910811648"
+                    }
+                  ]
+                },
+                "possibly_sensitive": false,
+                "lang": "zh",
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "1970742180810735850"
+                  }
+                ],
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 16
+                },
+                "in_reply_to_user_id": "1741993395910811648"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2006613154210721792/8FPJv03i_normal.jpg",
+                    "description": "如果你知道怎么变成一只乌鸦，请告诉我/致力于成为你们的互联网好朋鸦/艺术就是生命/我们的诞生不是为了被疼痛感束缚/学习像人类一样地活下去。",
+                    "protected": true,
+                    "name": "Anoko",
+                    "public_metrics": {
+                      "followers_count": 81,
+                      "following_count": 245,
+                      "tweet_count": 4429,
+                      "listed_count": 0,
+                      "like_count": 15724,
+                      "media_count": 105
+                    },
+                    "id": "1900779126245769216",
+                    "username": "fawpv25",
+                    "created_at": "2025-03-15T05:20:44.000Z",
+                    "verified": false
+                  }
+                ]
+              },
+              "errors": [
+                {
+                  "parameter": "in_reply_to_user_id",
+                  "resource_id": "1741993395910811648",
+                  "value": "1741993395910811648",
+                  "detail": "User has been suspended: [1741993395910811648].",
+                  "title": "Forbidden",
+                  "resource_type": "user",
+                  "type": "https://api.twitter.com/2/problems/resource-not-found"
+                },
+                {
+                  "resource_id": "1970742180810735850",
+                  "parameter": "referenced_tweets.id",
+                  "resource_type": "tweet",
+                  "section": "includes",
+                  "title": "Authorization Error",
+                  "value": "1970742180810735850",
+                  "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1970742180810735850].",
+                  "type": "https://api.twitter.com/2/problems/not-authorized-for-resource"
+                }
+              ]
+            }
+          },
+          {
+            "id": "1970742180810735850",
+            "source": "local_json",
+            "payload": {
+              "data": {
+                "article": {},
+                "attachments": {},
+                "author_id": "1741993395910811648",
+                "conversation_id": "1970733299778949314",
+                "created_at": "2025-09-24T06:48:45.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2025-09-24T07:48:45.000Z"
+                },
+                "edit_history_tweet_ids": [
+                  "1970742180810735850"
+                ],
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 0,
+                      "end": 8,
+                      "username": "fawpv25",
+                      "id": "1900779126245769216"
+                    }
+                  ]
+                },
+                "geo": {},
+                "id": "1970742180810735850",
+                "in_reply_to_user_id": "1900779126245769216",
+                "lang": "zh",
+                "note_tweet": {
+                  "entities": {}
+                },
+                "possibly_sensitive": false,
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 0
+                },
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "1970733299778949314"
+                  }
+                ],
+                "reply_settings": "everyone",
+                "text": "@fawpv25 火箭操作界面，笑死了csp这是真的..."
+              },
+              "includes": {
+                "users": [
+                  {
+                    "created_at": "2024-01-02T01:22:57.000Z",
+                    "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/MuEKSg4tIS",
+                            "expanded_url": "https://ngl.link/anincandescence",
+                            "display_url": "ngl.link/anincandescence"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1741993395910811648",
+                    "location": "天鹅座X-1",
+                    "name": "炽烈已极",
+                    "pinned_tweet_id": "1966906570224353588",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1967287311504465922/Z7d-hW5p_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 1197,
+                      "following_count": 208,
+                      "tweet_count": 3959,
+                      "listed_count": 3,
+                      "like_count": 10615,
+                      "media_count": 788
+                    },
+                    "url": "https://t.co/MuEKSg4tIS",
+                    "username": "AnIncandescence",
+                    "verified": false
+                  },
+                  {
+                    "created_at": "2025-03-15T05:20:44.000Z",
+                    "description": "如果你知道怎么变成一只乌鸦，请告诉我",
+                    "id": "1900779126245769216",
+                    "name": "少女人形手枪",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1957828191445479427/G6DedXhI_normal.jpg",
+                    "protected": true,
+                    "public_metrics": {
+                      "followers_count": 49,
+                      "following_count": 156,
+                      "tweet_count": 768,
+                      "listed_count": 1,
+                      "like_count": 4425,
+                      "media_count": 18
+                    },
+                    "username": "fawpv25",
+                    "verified": false
+                  }
+                ],
+                "tweets": [
+                  {
+                    "article": {},
+                    "attachments": {},
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "1970733299778949314",
+                    "created_at": "2025-09-24T06:48:45.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2025-09-24T07:48:45.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "1970742180810735850"
+                    ],
+                    "entities": {
+                      "mentions": [
+                        {
+                          "start": 0,
+                          "end": 8,
+                          "username": "fawpv25",
+                          "id": "1900779126245769216"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "1970742180810735850",
+                    "in_reply_to_user_id": "1900779126245769216",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 0,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 0
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "1970733299778949314"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "@fawpv25 火箭操作界面，笑死了csp这是真的..."
+                  }
+                ]
+              },
+              "errors": [
+                {
+                  "resource_id": "1970733299778949314",
+                  "parameter": "referenced_tweets.id",
+                  "resource_type": "tweet",
+                  "section": "includes",
+                  "title": "Authorization Error",
+                  "value": "1970733299778949314",
+                  "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1970733299778949314].",
+                  "type": "https://api.twitter.com/2/problems/not-authorized-for-resource"
+                }
+              ],
+              "_pale_fire": {
+                "x_api_reply_chains": {
+                  "1970733299778949314": {
+                    "version": 1,
+                    "fetched_at": "2026-04-18T01:05:06Z",
+                    "max_depth": 64,
+                    "posts": [
+                      {
+                        "id": "1970733299778949314",
+                        "source": "x_api_oauth1",
+                        "payload": {
+                          "data": {
+                            "text": "看到有人说用sai画画换csp，感觉打开了火箭操作界面\n\n好好笑，是真的，sai简洁得像裸奔，每次都拿着几个基础笔刷手搓，而且sai的混色很爽！但是sai没有动画辅助，最近搞动画不得不跑路。\nprocreate其实也不错，功能不多不少，可以用平板这点很方便，不过带不动大的文件，动画界面也是很原始",
+                            "reply_settings": "everyone",
+                            "edit_history_tweet_ids": [
+                              "1970733299778949314"
+                            ],
+                            "public_metrics": {
+                              "retweet_count": 0,
+                              "reply_count": 2,
+                              "like_count": 1,
+                              "quote_count": 0,
+                              "bookmark_count": 0,
+                              "impression_count": 55
+                            },
+                            "created_at": "2025-09-24T06:13:27.000Z",
+                            "possibly_sensitive": false,
+                            "author_id": "1900779126245769216",
+                            "edit_controls": {
+                              "edits_remaining": 5,
+                              "is_edit_eligible": false,
+                              "editable_until": "2025-09-24T07:13:27.000Z"
+                            },
+                            "lang": "zh",
+                            "conversation_id": "1970733299778949314",
+                            "id": "1970733299778949314"
+                          },
+                          "includes": {
+                            "users": [
+                              {
+                                "name": "Anoko",
+                                "verified": false,
+                                "profile_image_url": "https://pbs.twimg.com/profile_images/2006613154210721792/8FPJv03i_normal.jpg",
+                                "username": "fawpv25",
+                                "protected": true,
+                                "created_at": "2025-03-15T05:20:44.000Z",
+                                "id": "1900779126245769216",
+                                "public_metrics": {
+                                  "followers_count": 81,
+                                  "following_count": 245,
+                                  "tweet_count": 4429,
+                                  "listed_count": 0,
+                                  "like_count": 15724,
+                                  "media_count": 105
+                                },
+                                "description": "如果你知道怎么变成一只乌鸦，请告诉我/致力于成为你们的互联网好朋鸦/艺术就是生命/我们的诞生不是为了被疼痛感束缚/学习像人类一样地活下去。"
+                              }
+                            ]
+                          }
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          },
+          {
+            "id": "1970733299778949314",
+            "source": "x_api_oauth1",
+            "payload": {
+              "data": {
+                "text": "看到有人说用sai画画换csp，感觉打开了火箭操作界面\n\n好好笑，是真的，sai简洁得像裸奔，每次都拿着几个基础笔刷手搓，而且sai的混色很爽！但是sai没有动画辅助，最近搞动画不得不跑路。\nprocreate其实也不错，功能不多不少，可以用平板这点很方便，不过带不动大的文件，动画界面也是很原始",
+                "reply_settings": "everyone",
+                "edit_history_tweet_ids": [
+                  "1970733299778949314"
+                ],
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 55
+                },
+                "created_at": "2025-09-24T06:13:27.000Z",
+                "possibly_sensitive": false,
+                "author_id": "1900779126245769216",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2025-09-24T07:13:27.000Z"
+                },
+                "lang": "zh",
+                "conversation_id": "1970733299778949314",
+                "id": "1970733299778949314"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "name": "Anoko",
+                    "verified": false,
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2006613154210721792/8FPJv03i_normal.jpg",
+                    "username": "fawpv25",
+                    "protected": true,
+                    "created_at": "2025-03-15T05:20:44.000Z",
+                    "id": "1900779126245769216",
+                    "public_metrics": {
+                      "followers_count": 81,
+                      "following_count": 245,
+                      "tweet_count": 4429,
+                      "listed_count": 0,
+                      "like_count": 15724,
+                      "media_count": 105
+                    },
+                    "description": "如果你知道怎么变成一只乌鸦，请告诉我/致力于成为你们的互联网好朋鸦/艺术就是生命/我们的诞生不是为了被疼痛感束缚/学习像人类一样地活下去。"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,1 +1,691 @@
-{"data":{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1911493457866346847","created_at":"2025-04-13T23:53:53.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-04-14T00:53:53.000Z"},"edit_history_tweet_ids":["1911568556808192197"],"entities":{"mentions":[{"start":0,"end":11,"username":"sikkmywife","id":"1176077981099446272"}]},"geo":{},"id":"1911568556808192197","in_reply_to_user_id":"1176077981099446272","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1911565275969044779"}],"reply_settings":"everyone","text":"@sikkmywife 对就是你...我一直在想解决办法👉👈"},"includes":{"users":[{"created_at":"2024-01-02T01:22:57.000Z","description":"猫，诗歌，精神动力学。艺术，C#，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 小小炽 @TauCeti_10700 | 匿名提问箱👇 | 🚪88/158","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/MuEKSg3VTk","expanded_url":"https://ngl.link/anincandescence","display_url":"ngl.link/anincandescence"}]},"description":{"mentions":[{"start":63,"end":77,"username":"TauCeti_10700"}]}},"id":"1741993395910811648","location":"0°00′N 260°00′E Mars","name":"炽烈已极","pinned_tweet_id":"1905895186867400960","profile_image_url":"https://pbs.twimg.com/profile_images/1789433740277567488/d3KhwUX1_normal.jpg","protected":false,"public_metrics":{"followers_count":767,"following_count":175,"tweet_count":2392,"listed_count":2,"like_count":6477,"media_count":504},"url":"https://t.co/MuEKSg3VTk","username":"AnIncandescence","verified":true},{"created_at":"2019-09-23T10:17:06.000Z","description":"你好，我是白鳥。\n此处只有我所能找到的我的碎片。\nFTX/@Dopppelaganger /Unitarian Universalists/Fyrir frelsi, fyrir mig, fyrir @Coccus_Swamer","entities":{"description":{"mentions":[{"start":29,"end":44,"username":"Dopppelaganger"},{"start":101,"end":115,"username":"Coccus_Swamer"}]}},"id":"1176077981099446272","location":"Seoul, Republic of Korea","name":"Hereditarystupidity","pinned_tweet_id":"1900007584125612457","profile_image_url":"https://pbs.twimg.com/profile_images/1910479994218049536/jNBlKnK8_normal.jpg","protected":false,"public_metrics":{"followers_count":155,"following_count":404,"tweet_count":1692,"listed_count":1,"like_count":16675,"media_count":44},"username":"sikkmywife","verified":false}],"tweets":[{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1911493457866346847","created_at":"2025-04-13T23:53:53.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-04-14T00:53:53.000Z"},"edit_history_tweet_ids":["1911568556808192197"],"entities":{"mentions":[{"start":0,"end":11,"username":"sikkmywife","id":"1176077981099446272"}]},"geo":{},"id":"1911568556808192197","in_reply_to_user_id":"1176077981099446272","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1911565275969044779"}],"reply_settings":"everyone","text":"@sikkmywife 对就是你...我一直在想解决办法👉👈"},{"article":{},"attachments":{},"author_id":"1176077981099446272","conversation_id":"1911493457866346847","created_at":"2025-04-13T23:40:51.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-04-14T00:40:51.000Z"},"edit_history_tweet_ids":["1911565275969044779"],"entities":{"mentions":[{"start":0,"end":16,"username":"AnIncandescence","id":"1741993395910811648"}]},"geo":{},"id":"1911565275969044779","in_reply_to_user_id":"1741993395910811648","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":1,"like_count":1,"quote_count":0,"bookmark_count":0,"impression_count":5},"referenced_tweets":[{"type":"replied_to","id":"1911510955466641508"}],"reply_settings":"everyone","text":"@AnIncandescence 嗨呀是我吗 (("}]}}
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741993395910811648",
+    "conversation_id": "1911493457866346847",
+    "created_at": "2025-04-13T23:53:53.000Z",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2025-04-14T00:53:53.000Z"
+    },
+    "edit_history_tweet_ids": [
+      "1911568556808192197"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 11,
+          "username": "sikkmywife",
+          "id": "1176077981099446272"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911568556808192197",
+    "in_reply_to_user_id": "1176077981099446272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1911565275969044779"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sikkmywife 对就是你...我一直在想解决办法👉👈"
+  },
+  "includes": {
+    "users": [
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，C#，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 小小炽 @TauCeti_10700 | 匿名提问箱👇 | 🚪88/158",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/MuEKSg3VTk",
+                "expanded_url": "https://ngl.link/anincandescence",
+                "display_url": "ngl.link/anincandescence"
+              }
+            ]
+          },
+          "description": {
+            "mentions": [
+              {
+                "start": 63,
+                "end": 77,
+                "username": "TauCeti_10700"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "0°00′N 260°00′E Mars",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "1905895186867400960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789433740277567488/d3KhwUX1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 767,
+          "following_count": 175,
+          "tweet_count": 2392,
+          "listed_count": 2,
+          "like_count": 6477,
+          "media_count": 504
+        },
+        "url": "https://t.co/MuEKSg3VTk",
+        "username": "AnIncandescence",
+        "verified": true
+      },
+      {
+        "created_at": "2019-09-23T10:17:06.000Z",
+        "description": "你好，我是白鳥。\n此处只有我所能找到的我的碎片。\nFTX/@Dopppelaganger /Unitarian Universalists/Fyrir frelsi, fyrir mig, fyrir @Coccus_Swamer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "start": 29,
+                "end": 44,
+                "username": "Dopppelaganger"
+              },
+              {
+                "start": 101,
+                "end": 115,
+                "username": "Coccus_Swamer"
+              }
+            ]
+          }
+        },
+        "id": "1176077981099446272",
+        "location": "Seoul, Republic of Korea",
+        "name": "Hereditarystupidity",
+        "pinned_tweet_id": "1900007584125612457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910479994218049536/jNBlKnK8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 404,
+          "tweet_count": 1692,
+          "listed_count": 1,
+          "like_count": 16675,
+          "media_count": 44
+        },
+        "username": "sikkmywife",
+        "verified": false
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741993395910811648",
+        "conversation_id": "1911493457866346847",
+        "created_at": "2025-04-13T23:53:53.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2025-04-14T00:53:53.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1911568556808192197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 11,
+              "username": "sikkmywife",
+              "id": "1176077981099446272"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911568556808192197",
+        "in_reply_to_user_id": "1176077981099446272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1911565275969044779"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sikkmywife 对就是你...我一直在想解决办法👉👈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176077981099446272",
+        "conversation_id": "1911493457866346847",
+        "created_at": "2025-04-13T23:40:51.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2025-04-14T00:40:51.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1911565275969044779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 16,
+              "username": "AnIncandescence",
+              "id": "1741993395910811648"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911565275969044779",
+        "in_reply_to_user_id": "1741993395910811648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1911510955466641508"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnIncandescence 嗨呀是我吗 (("
+      }
+    ]
+  },
+  "_pale_fire": {
+    "x_api_reply_chains": {
+      "1911510955466641508": {
+        "version": 1,
+        "fetched_at": "2026-04-18T00:12:52Z",
+        "max_depth": 63,
+        "posts": [
+          {
+            "id": "1911510955466641508",
+            "source": "local_json",
+            "payload": {
+              "data": {
+                "article": {},
+                "attachments": {},
+                "author_id": "1741993395910811648",
+                "conversation_id": "1911493457866346847",
+                "created_at": "2025-04-13T20:05:00.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2025-04-13T21:05:00.000Z"
+                },
+                "edit_history_tweet_ids": [
+                  "1911510955466641508"
+                ],
+                "entities": {},
+                "geo": {},
+                "id": "1911510955466641508",
+                "in_reply_to_user_id": "1741993395910811648",
+                "lang": "zh",
+                "note_tweet": {
+                  "entities": {}
+                },
+                "possibly_sensitive": false,
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 0
+                },
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "1911493457866346847"
+                  }
+                ],
+                "reply_settings": "everyone",
+                "text": "结合这次经历还有一些观察到的现象（某位经常坠机的推油），更想讲一些本来就想讲的东西了\n\n不仅是什么因素会导致bad trip，还有为什么一次坏旅行会增加未来坏旅行的概率.\n查找了神经学方面依据，判断最重要的部分一个是生物层面的突触可塑性，一个是心理层面的意义与语言的赋予\n\n感兴趣的话我细讲"
+              },
+              "includes": {
+                "media": [
+                  {
+                    "height": 4096,
+                    "media_key": "3_1911493443219591168",
+                    "public_metrics": {},
+                    "type": "photo",
+                    "url": "https://pbs.twimg.com/media/Gob9KLmXkAAawUt.jpg",
+                    "width": 3268
+                  },
+                  {
+                    "height": 4096,
+                    "media_key": "3_1911493441743183872",
+                    "public_metrics": {},
+                    "type": "photo",
+                    "url": "https://pbs.twimg.com/media/Gob9KGGXYAAWi6u.jpg",
+                    "width": 3044
+                  }
+                ],
+                "users": [
+                  {
+                    "created_at": "2024-01-02T01:22:57.000Z",
+                    "description": "猫，诗歌，精神动力学。艺术，C#，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 小小炽 @TauCeti_10700 | 匿名提问箱👇 | 🚪88/158",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/MuEKSg3VTk",
+                            "expanded_url": "https://ngl.link/anincandescence",
+                            "display_url": "ngl.link/anincandescence"
+                          }
+                        ]
+                      },
+                      "description": {
+                        "mentions": [
+                          {
+                            "start": 63,
+                            "end": 77,
+                            "username": "TauCeti_10700"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1741993395910811648",
+                    "location": "0°00′N 260°00′E Mars",
+                    "name": "炽烈已极",
+                    "pinned_tweet_id": "1905895186867400960",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1789433740277567488/d3KhwUX1_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 764,
+                      "following_count": 175,
+                      "tweet_count": 2387,
+                      "listed_count": 2,
+                      "like_count": 6466,
+                      "media_count": 504
+                    },
+                    "url": "https://t.co/MuEKSg3VTk",
+                    "username": "AnIncandescence",
+                    "verified": true
+                  }
+                ],
+                "tweets": [
+                  {
+                    "article": {},
+                    "attachments": {},
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "1911493457866346847",
+                    "created_at": "2025-04-13T20:05:00.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2025-04-13T21:05:00.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "1911510955466641508"
+                    ],
+                    "entities": {},
+                    "geo": {},
+                    "id": "1911510955466641508",
+                    "in_reply_to_user_id": "1741993395910811648",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 0,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 0
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "1911493457866346847"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "结合这次经历还有一些观察到的现象（某位经常坠机的推油），更想讲一些本来就想讲的东西了\n\n不仅是什么因素会导致bad trip，还有为什么一次坏旅行会增加未来坏旅行的概率.\n查找了神经学方面依据，判断最重要的部分一个是生物层面的突触可塑性，一个是心理层面的意义与语言的赋予\n\n感兴趣的话我细讲"
+                  },
+                  {
+                    "article": {},
+                    "attachments": {
+                      "media_keys": [
+                        "3_1911493443219591168",
+                        "3_1911493441743183872"
+                      ]
+                    },
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "1911493457866346847",
+                    "created_at": "2025-04-13T18:55:28.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": true,
+                      "editable_until": "2025-04-13T19:55:28.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "1911493457866346847"
+                    ],
+                    "entities": {
+                      "urls": [
+                        {
+                          "start": 23,
+                          "end": 46,
+                          "url": "https://t.co/ykMnaWl0Ks",
+                          "expanded_url": "https://x.com/AnIncandescence/status/1911493457866346847/photo/1",
+                          "display_url": "pic.x.com/ykMnaWl0Ks",
+                          "media_key": "3_1911493443219591168"
+                        },
+                        {
+                          "start": 23,
+                          "end": 46,
+                          "url": "https://t.co/ykMnaWl0Ks",
+                          "expanded_url": "https://x.com/AnIncandescence/status/1911493457866346847/photo/1",
+                          "display_url": "pic.x.com/ykMnaWl0Ks",
+                          "media_key": "3_1911493441743183872"
+                        },
+                        {
+                          "start": 47,
+                          "end": 70,
+                          "url": "https://t.co/1I2pM1odwb",
+                          "expanded_url": "https://twitter.com/anincandescence/status/1911114551271326187",
+                          "display_url": "x.com/anincandescenc…"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "1911493457866346847",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 2,
+                      "like_count": 4,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 144
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "quoted",
+                        "id": "1911114551271326187"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "带着武器进入梦境里\n把那里的样子带回来\n\n- https://t.co/ykMnaWl0Ks https://t.co/1I2pM1odwb"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "1911493457866346847",
+            "source": "local_json",
+            "payload": {
+              "data": {
+                "article": {},
+                "attachments": {},
+                "author_id": "1741993395910811648",
+                "conversation_id": "1911493457866346847",
+                "created_at": "2025-04-13T20:05:00.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2025-04-13T21:05:00.000Z"
+                },
+                "edit_history_tweet_ids": [
+                  "1911510955466641508"
+                ],
+                "entities": {},
+                "geo": {},
+                "id": "1911510955466641508",
+                "in_reply_to_user_id": "1741993395910811648",
+                "lang": "zh",
+                "note_tweet": {
+                  "entities": {}
+                },
+                "possibly_sensitive": false,
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 0
+                },
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "1911493457866346847"
+                  }
+                ],
+                "reply_settings": "everyone",
+                "text": "结合这次经历还有一些观察到的现象（某位经常坠机的推油），更想讲一些本来就想讲的东西了\n\n不仅是什么因素会导致bad trip，还有为什么一次坏旅行会增加未来坏旅行的概率.\n查找了神经学方面依据，判断最重要的部分一个是生物层面的突触可塑性，一个是心理层面的意义与语言的赋予\n\n感兴趣的话我细讲"
+              },
+              "includes": {
+                "media": [
+                  {
+                    "height": 4096,
+                    "media_key": "3_1911493443219591168",
+                    "public_metrics": {},
+                    "type": "photo",
+                    "url": "https://pbs.twimg.com/media/Gob9KLmXkAAawUt.jpg",
+                    "width": 3268
+                  },
+                  {
+                    "height": 4096,
+                    "media_key": "3_1911493441743183872",
+                    "public_metrics": {},
+                    "type": "photo",
+                    "url": "https://pbs.twimg.com/media/Gob9KGGXYAAWi6u.jpg",
+                    "width": 3044
+                  }
+                ],
+                "users": [
+                  {
+                    "created_at": "2024-01-02T01:22:57.000Z",
+                    "description": "猫，诗歌，精神动力学。艺术，C#，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 小小炽 @TauCeti_10700 | 匿名提问箱👇 | 🚪88/158",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/MuEKSg3VTk",
+                            "expanded_url": "https://ngl.link/anincandescence",
+                            "display_url": "ngl.link/anincandescence"
+                          }
+                        ]
+                      },
+                      "description": {
+                        "mentions": [
+                          {
+                            "start": 63,
+                            "end": 77,
+                            "username": "TauCeti_10700"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1741993395910811648",
+                    "location": "0°00′N 260°00′E Mars",
+                    "name": "炽烈已极",
+                    "pinned_tweet_id": "1905895186867400960",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1789433740277567488/d3KhwUX1_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 764,
+                      "following_count": 175,
+                      "tweet_count": 2387,
+                      "listed_count": 2,
+                      "like_count": 6466,
+                      "media_count": 504
+                    },
+                    "url": "https://t.co/MuEKSg3VTk",
+                    "username": "AnIncandescence",
+                    "verified": true
+                  }
+                ],
+                "tweets": [
+                  {
+                    "article": {},
+                    "attachments": {},
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "1911493457866346847",
+                    "created_at": "2025-04-13T20:05:00.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2025-04-13T21:05:00.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "1911510955466641508"
+                    ],
+                    "entities": {},
+                    "geo": {},
+                    "id": "1911510955466641508",
+                    "in_reply_to_user_id": "1741993395910811648",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 0,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 0
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "1911493457866346847"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "结合这次经历还有一些观察到的现象（某位经常坠机的推油），更想讲一些本来就想讲的东西了\n\n不仅是什么因素会导致bad trip，还有为什么一次坏旅行会增加未来坏旅行的概率.\n查找了神经学方面依据，判断最重要的部分一个是生物层面的突触可塑性，一个是心理层面的意义与语言的赋予\n\n感兴趣的话我细讲"
+                  },
+                  {
+                    "article": {},
+                    "attachments": {
+                      "media_keys": [
+                        "3_1911493443219591168",
+                        "3_1911493441743183872"
+                      ]
+                    },
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "1911493457866346847",
+                    "created_at": "2025-04-13T18:55:28.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": true,
+                      "editable_until": "2025-04-13T19:55:28.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "1911493457866346847"
+                    ],
+                    "entities": {
+                      "urls": [
+                        {
+                          "start": 23,
+                          "end": 46,
+                          "url": "https://t.co/ykMnaWl0Ks",
+                          "expanded_url": "https://x.com/AnIncandescence/status/1911493457866346847/photo/1",
+                          "display_url": "pic.x.com/ykMnaWl0Ks",
+                          "media_key": "3_1911493443219591168"
+                        },
+                        {
+                          "start": 23,
+                          "end": 46,
+                          "url": "https://t.co/ykMnaWl0Ks",
+                          "expanded_url": "https://x.com/AnIncandescence/status/1911493457866346847/photo/1",
+                          "display_url": "pic.x.com/ykMnaWl0Ks",
+                          "media_key": "3_1911493441743183872"
+                        },
+                        {
+                          "start": 47,
+                          "end": 70,
+                          "url": "https://t.co/1I2pM1odwb",
+                          "expanded_url": "https://twitter.com/anincandescence/status/1911114551271326187",
+                          "display_url": "x.com/anincandescenc…"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "1911493457866346847",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 2,
+                      "like_count": 4,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 144
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "quoted",
+                        "id": "1911114551271326187"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "带着武器进入梦境里\n把那里的样子带回来\n\n- https://t.co/ykMnaWl0Ks https://t.co/1I2pM1odwb"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

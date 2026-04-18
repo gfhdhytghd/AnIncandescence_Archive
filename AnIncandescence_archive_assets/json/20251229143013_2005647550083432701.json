@@ -1,1 +1,418 @@
-{"data":{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"2005632472055435665","created_at":"2025-12-29T14:30:13.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-12-29T15:30:13.000Z"},"edit_history_tweet_ids":["2005647550083432701"],"entities":{"mentions":[{"start":0,"end":8,"username":"fawpv25","id":"1900779126245769216"},{"start":9,"end":17,"username":"Numiouo","id":"1821560692140544000"}]},"geo":{},"id":"2005647550083432701","in_reply_to_user_id":"1900779126245769216","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"2005640438745854155"}],"reply_settings":"everyone","text":"@fawpv25 @Numiouo 把泥们的脑子给我开一下共享🥺🥺"},"includes":{"users":[{"created_at":"2024-01-02T01:22:57.000Z","description":"猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/iO6MRJNm9j","expanded_url":"https://ngl.link/anincandescence1","display_url":"ngl.link/anincandescenc…"}]}},"id":"1741993395910811648","location":"天鹅座X-1","name":"炽烈已极","pinned_tweet_id":"2003797672462086294","profile_image_url":"https://pbs.twimg.com/profile_images/2004230580381315072/3ibA22Du_normal.jpg","protected":false,"public_metrics":{"followers_count":1352,"following_count":225,"tweet_count":4851,"listed_count":4,"like_count":12111,"media_count":928},"url":"https://t.co/iO6MRJNm9j","username":"AnIncandescence","verified":true},{"created_at":"2025-03-15T05:20:44.000Z","description":"如果你知道怎么变成一只乌鸦，请告诉我/匿名提问箱：https://t.co/k5wuyYitnx致力于成为你们的互联网好朋鸦/艺术就是生命/学习像人类一样地活下去。","entities":{"description":{"urls":[{"start":25,"end":48,"url":"https://t.co/k5wuyYitnx","expanded_url":"https://ngl.link/jiyujin1/","display_url":"ngl.link/jiyujin1/"}]}},"id":"1900779126245769216","name":"Anoko","profile_image_url":"https://pbs.twimg.com/profile_images/1999783052382449664/79HFPsz2_normal.jpg","protected":true,"public_metrics":{"followers_count":64,"following_count":206,"tweet_count":2654,"listed_count":0,"like_count":10198,"media_count":83},"username":"fawpv25","verified":false},{"created_at":"2024-08-08T14:55:11.000Z","description":"糯米守护互关宝宝们(っ˘зʕ•̫͡•ʔ纯血神经精神病-同类回fo-点赞评论bot-讨厌私信请勿扰♡喜欢sex & drug♡不提供任何咨询解答♡non-binary友全部🏳️‍🌈🏳️‍⚧️","id":"1821560692140544000","name":"ᨳ 糯米糖纸ઉ ᖭིᖫྀ","pinned_tweet_id":"1988581028534059496","profile_image_url":"https://pbs.twimg.com/profile_images/1998372144540164096/6L5oLwea_normal.jpg","protected":false,"public_metrics":{"followers_count":1962,"following_count":1473,"tweet_count":4444,"listed_count":0,"like_count":4728,"media_count":48},"username":"Numiouo","verified":false}],"tweets":[{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"2005632472055435665","created_at":"2025-12-29T14:30:13.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-12-29T15:30:13.000Z"},"edit_history_tweet_ids":["2005647550083432701"],"entities":{"mentions":[{"start":0,"end":8,"username":"fawpv25","id":"1900779126245769216"},{"start":9,"end":17,"username":"Numiouo","id":"1821560692140544000"}]},"geo":{},"id":"2005647550083432701","in_reply_to_user_id":"1900779126245769216","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"2005640438745854155"}],"reply_settings":"everyone","text":"@fawpv25 @Numiouo 把泥们的脑子给我开一下共享🥺🥺"}]},"errors":[{"resource_id":"2005640438745854155","parameter":"referenced_tweets.id","resource_type":"tweet","section":"includes","title":"Authorization Error","value":"2005640438745854155","detail":"Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2005640438745854155].","type":"https://api.twitter.com/2/problems/not-authorized-for-resource"}]}
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741993395910811648",
+    "conversation_id": "2005632472055435665",
+    "created_at": "2025-12-29T14:30:13.000Z",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2025-12-29T15:30:13.000Z"
+    },
+    "edit_history_tweet_ids": [
+      "2005647550083432701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 8,
+          "username": "fawpv25",
+          "id": "1900779126245769216"
+        },
+        {
+          "start": 9,
+          "end": 17,
+          "username": "Numiouo",
+          "id": "1821560692140544000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005647550083432701",
+    "in_reply_to_user_id": "1900779126245769216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "2005640438745854155"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fawpv25 @Numiouo 把泥们的脑子给我开一下共享🥺🥺"
+  },
+  "includes": {
+    "users": [
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/iO6MRJNm9j",
+                "expanded_url": "https://ngl.link/anincandescence1",
+                "display_url": "ngl.link/anincandescenc…"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "天鹅座X-1",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "2003797672462086294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004230580381315072/3ibA22Du_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1352,
+          "following_count": 225,
+          "tweet_count": 4851,
+          "listed_count": 4,
+          "like_count": 12111,
+          "media_count": 928
+        },
+        "url": "https://t.co/iO6MRJNm9j",
+        "username": "AnIncandescence",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-15T05:20:44.000Z",
+        "description": "如果你知道怎么变成一只乌鸦，请告诉我/匿名提问箱：https://t.co/k5wuyYitnx致力于成为你们的互联网好朋鸦/艺术就是生命/学习像人类一样地活下去。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "start": 25,
+                "end": 48,
+                "url": "https://t.co/k5wuyYitnx",
+                "expanded_url": "https://ngl.link/jiyujin1/",
+                "display_url": "ngl.link/jiyujin1/"
+              }
+            ]
+          }
+        },
+        "id": "1900779126245769216",
+        "name": "Anoko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999783052382449664/79HFPsz2_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 206,
+          "tweet_count": 2654,
+          "listed_count": 0,
+          "like_count": 10198,
+          "media_count": 83
+        },
+        "username": "fawpv25",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-08T14:55:11.000Z",
+        "description": "糯米守护互关宝宝们(っ˘зʕ•̫͡•ʔ纯血神经精神病-同类回fo-点赞评论bot-讨厌私信请勿扰♡喜欢sex & drug♡不提供任何咨询解答♡non-binary友全部🏳️‍🌈🏳️‍⚧️",
+        "id": "1821560692140544000",
+        "name": "ᨳ 糯米糖纸ઉ ᖭིᖫྀ",
+        "pinned_tweet_id": "1988581028534059496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998372144540164096/6L5oLwea_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1962,
+          "following_count": 1473,
+          "tweet_count": 4444,
+          "listed_count": 0,
+          "like_count": 4728,
+          "media_count": 48
+        },
+        "username": "Numiouo",
+        "verified": false
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741993395910811648",
+        "conversation_id": "2005632472055435665",
+        "created_at": "2025-12-29T14:30:13.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2025-12-29T15:30:13.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "2005647550083432701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 8,
+              "username": "fawpv25",
+              "id": "1900779126245769216"
+            },
+            {
+              "start": 9,
+              "end": 17,
+              "username": "Numiouo",
+              "id": "1821560692140544000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005647550083432701",
+        "in_reply_to_user_id": "1900779126245769216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "2005640438745854155"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fawpv25 @Numiouo 把泥们的脑子给我开一下共享🥺🥺"
+      }
+    ]
+  },
+  "errors": [
+    {
+      "resource_id": "2005640438745854155",
+      "parameter": "referenced_tweets.id",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "value": "2005640438745854155",
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2005640438745854155].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource"
+    }
+  ],
+  "_pale_fire": {
+    "x_api_reply_chains": {
+      "2005640438745854155": {
+        "version": 1,
+        "fetched_at": "2026-04-18T01:18:06Z",
+        "max_depth": 64,
+        "posts": [
+          {
+            "id": "2005640438745854155",
+            "source": "x_api_oauth1",
+            "payload": {
+              "data": {
+                "author_id": "1900779126245769216",
+                "id": "2005640438745854155",
+                "possibly_sensitive": false,
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "2005632472055435665"
+                  }
+                ],
+                "edit_history_tweet_ids": [
+                  "2005640438745854155"
+                ],
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 0,
+                      "end": 8,
+                      "username": "Numiouo",
+                      "id": "1821560692140544000"
+                    }
+                  ]
+                },
+                "lang": "zh",
+                "conversation_id": "2005632472055435665",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2025-12-29T15:01:58.000Z"
+                },
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 54
+                },
+                "reply_settings": "everyone",
+                "created_at": "2025-12-29T14:01:58.000Z",
+                "in_reply_to_user_id": "1821560692140544000",
+                "text": "@Numiouo 躁期真的爽得要命，充满希望向上的狂喜啊……！！"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "public_metrics": {
+                      "followers_count": 81,
+                      "following_count": 245,
+                      "tweet_count": 4429,
+                      "listed_count": 0,
+                      "like_count": 15724,
+                      "media_count": 105
+                    },
+                    "description": "如果你知道怎么变成一只乌鸦，请告诉我/致力于成为你们的互联网好朋鸦/艺术就是生命/我们的诞生不是为了被疼痛感束缚/学习像人类一样地活下去。",
+                    "username": "fawpv25",
+                    "protected": true,
+                    "name": "Anoko",
+                    "verified": false,
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2006613154210721792/8FPJv03i_normal.jpg",
+                    "id": "1900779126245769216",
+                    "created_at": "2025-03-15T05:20:44.000Z"
+                  },
+                  {
+                    "public_metrics": {
+                      "followers_count": 3263,
+                      "following_count": 2255,
+                      "tweet_count": 8087,
+                      "listed_count": 2,
+                      "like_count": 9805,
+                      "media_count": 77
+                    },
+                    "description": "糯米守护互关们(っ˘зʕ•̫͡•ʔ纯血精神病-喜欢推文互动讨厌私信闲聊！评论/转发会查成分回fo！随缘查fo列成分回w♡喜欢sex & drug @Numiouo1备用♡除推文外 不提供咨询解答⚠️请勿私信⚠️♡non-binary友全部🏳️‍🌈🏳️‍⚧️",
+                    "username": "Numiouo",
+                    "protected": false,
+                    "name": "ᨳ 糯米糖纸ઉ ᖭིᖫྀ",
+                    "verified": false,
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1998372144540164096/6L5oLwea_normal.jpg",
+                    "id": "1821560692140544000",
+                    "created_at": "2024-08-08T14:55:11.000Z",
+                    "entities": {
+                      "description": {
+                        "mentions": [
+                          {
+                            "start": 73,
+                            "end": 82,
+                            "username": "Numiouo1"
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "tweets": [
+                  {
+                    "author_id": "1821560692140544000",
+                    "id": "2005632472055435665",
+                    "possibly_sensitive": false,
+                    "edit_history_tweet_ids": [
+                      "2005632472055435665"
+                    ],
+                    "lang": "zh",
+                    "conversation_id": "2005632472055435665",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2025-12-29T14:30:18.000Z"
+                    },
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 11,
+                      "like_count": 57,
+                      "quote_count": 1,
+                      "bookmark_count": 0,
+                      "impression_count": 2374
+                    },
+                    "reply_settings": "everyone",
+                    "created_at": "2025-12-29T13:30:18.000Z",
+                    "text": "好开心，这合理吗，我的精神病真的是牛逼不按常理出牌，我的精神病比什么药都牛逼，我现在欣快得就像吸了，脑袋晕乎乎的，我瞬间达到了狂喜，生命迸发出一股温暖的喜悦，仿佛坐在一辆驶向光明的列车上，希望的风声正呼呼作响"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "2005632472055435665",
+            "source": "x_api_oauth1",
+            "payload": {
+              "data": {
+                "created_at": "2025-12-29T13:30:18.000Z",
+                "id": "2005632472055435665",
+                "conversation_id": "2005632472055435665",
+                "reply_settings": "everyone",
+                "possibly_sensitive": false,
+                "author_id": "1821560692140544000",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2025-12-29T14:30:18.000Z"
+                },
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 11,
+                  "like_count": 57,
+                  "quote_count": 1,
+                  "bookmark_count": 0,
+                  "impression_count": 2374
+                },
+                "edit_history_tweet_ids": [
+                  "2005632472055435665"
+                ],
+                "lang": "zh",
+                "text": "好开心，这合理吗，我的精神病真的是牛逼不按常理出牌，我的精神病比什么药都牛逼，我现在欣快得就像吸了，脑袋晕乎乎的，我瞬间达到了狂喜，生命迸发出一股温暖的喜悦，仿佛坐在一辆驶向光明的列车上，希望的风声正呼呼作响"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "created_at": "2024-08-08T14:55:11.000Z",
+                    "username": "Numiouo",
+                    "name": "ᨳ 糯米糖纸ઉ ᖭིᖫྀ",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1998372144540164096/6L5oLwea_normal.jpg",
+                    "entities": {
+                      "description": {
+                        "mentions": [
+                          {
+                            "start": 73,
+                            "end": 82,
+                            "username": "Numiouo1"
+                          }
+                        ]
+                      }
+                    },
+                    "description": "糯米守护互关们(っ˘зʕ•̫͡•ʔ纯血精神病-喜欢推文互动讨厌私信闲聊！评论/转发会查成分回fo！随缘查fo列成分回w♡喜欢sex & drug @Numiouo1备用♡除推文外 不提供咨询解答⚠️请勿私信⚠️♡non-binary友全部🏳️‍🌈🏳️‍⚧️",
+                    "verified": false,
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 3263,
+                      "following_count": 2255,
+                      "tweet_count": 8087,
+                      "listed_count": 2,
+                      "like_count": 9805,
+                      "media_count": 77
+                    },
+                    "id": "1821560692140544000"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

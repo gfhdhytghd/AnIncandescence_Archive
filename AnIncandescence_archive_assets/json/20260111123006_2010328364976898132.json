@@ -1,1 +1,594 @@
-{"data":{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"2010294488699384064","created_at":"2026-01-11T12:30:06.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2026-01-11T13:30:06.000Z"},"edit_history_tweet_ids":["2010328364976898132"],"entities":{"mentions":[{"start":0,"end":14,"username":"Kumamushi2021","id":"1437034228768595977"}]},"geo":{},"id":"2010328364976898132","in_reply_to_user_id":"1437034228768595977","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":2,"quote_count":0,"bookmark_count":0,"impression_count":15},"referenced_tweets":[{"type":"replied_to","id":"2010326661523554453"}],"reply_settings":"everyone","text":"@Kumamushi2021 是的TT我真的感觉性别不需要！"},"includes":{"users":[{"created_at":"2024-01-02T01:22:57.000Z","description":"猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/iO6MRJNm9j","expanded_url":"https://ngl.link/anincandescence1","display_url":"ngl.link/anincandescenc…"}]}},"id":"1741993395910811648","location":"天鹅座X-1","name":"炽烈已极","pinned_tweet_id":"2009922698609414310","profile_image_url":"https://pbs.twimg.com/profile_images/2006317223414255617/jGT_GZyG_normal.jpg","protected":false,"public_metrics":{"followers_count":1503,"following_count":224,"tweet_count":5114,"listed_count":5,"like_count":12651,"media_count":972},"url":"https://t.co/iO6MRJNm9j","username":"AnIncandescence","verified":true},{"created_at":"2021-09-12T12:43:59.000Z","description":"欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/患有双相注意避雷/废话很多","id":"1437034228768595977","location":"你的身旁","name":"🥛💤","pinned_tweet_id":"1839611665257824656","profile_image_url":"https://pbs.twimg.com/profile_images/2008872173084229632/7RVhFGtF_normal.jpg","protected":true,"public_metrics":{"followers_count":112,"following_count":92,"tweet_count":1536,"listed_count":1,"like_count":3151,"media_count":159},"username":"Kumamushi2021","verified":false}],"tweets":[{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"2010294488699384064","created_at":"2026-01-11T12:30:06.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2026-01-11T13:30:06.000Z"},"edit_history_tweet_ids":["2010328364976898132"],"entities":{"mentions":[{"start":0,"end":14,"username":"Kumamushi2021","id":"1437034228768595977"}]},"geo":{},"id":"2010328364976898132","in_reply_to_user_id":"1437034228768595977","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":2,"quote_count":0,"bookmark_count":0,"impression_count":15},"referenced_tweets":[{"type":"replied_to","id":"2010326661523554453"}],"reply_settings":"everyone","text":"@Kumamushi2021 是的TT我真的感觉性别不需要！"}]},"errors":[{"resource_id":"2010326661523554453","parameter":"referenced_tweets.id","resource_type":"tweet","section":"includes","title":"Authorization Error","value":"2010326661523554453","detail":"Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2010326661523554453].","type":"https://api.twitter.com/2/problems/not-authorized-for-resource"}]}
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741993395910811648",
+    "conversation_id": "2010294488699384064",
+    "created_at": "2026-01-11T12:30:06.000Z",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2026-01-11T13:30:06.000Z"
+    },
+    "edit_history_tweet_ids": [
+      "2010328364976898132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "Kumamushi2021",
+          "id": "1437034228768595977"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010328364976898132",
+    "in_reply_to_user_id": "1437034228768595977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "2010326661523554453"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kumamushi2021 是的TT我真的感觉性别不需要！"
+  },
+  "includes": {
+    "users": [
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/iO6MRJNm9j",
+                "expanded_url": "https://ngl.link/anincandescence1",
+                "display_url": "ngl.link/anincandescenc…"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "天鹅座X-1",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "2009922698609414310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006317223414255617/jGT_GZyG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1503,
+          "following_count": 224,
+          "tweet_count": 5114,
+          "listed_count": 5,
+          "like_count": 12651,
+          "media_count": 972
+        },
+        "url": "https://t.co/iO6MRJNm9j",
+        "username": "AnIncandescence",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/患有双相注意避雷/废话很多",
+        "id": "1437034228768595977",
+        "location": "你的身旁",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008872173084229632/7RVhFGtF_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 92,
+          "tweet_count": 1536,
+          "listed_count": 1,
+          "like_count": 3151,
+          "media_count": 159
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741993395910811648",
+        "conversation_id": "2010294488699384064",
+        "created_at": "2026-01-11T12:30:06.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2026-01-11T13:30:06.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "2010328364976898132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 14,
+              "username": "Kumamushi2021",
+              "id": "1437034228768595977"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010328364976898132",
+        "in_reply_to_user_id": "1437034228768595977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 2,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "2010326661523554453"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kumamushi2021 是的TT我真的感觉性别不需要！"
+      }
+    ]
+  },
+  "errors": [
+    {
+      "resource_id": "2010326661523554453",
+      "parameter": "referenced_tweets.id",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "value": "2010326661523554453",
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2010326661523554453].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource"
+    }
+  ],
+  "_pale_fire": {
+    "x_api_reply_chains": {
+      "2010326661523554453": {
+        "version": 1,
+        "fetched_at": "2026-04-18T01:23:54Z",
+        "max_depth": 64,
+        "posts": [
+          {
+            "id": "2010326661523554453",
+            "source": "x_api_oauth1",
+            "payload": {
+              "data": {
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2026-01-11T13:23:20.000Z"
+                },
+                "reply_settings": "everyone",
+                "in_reply_to_user_id": "1741993395910811648",
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 3,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 53
+                },
+                "lang": "zh",
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "2010295863302848808"
+                  }
+                ],
+                "created_at": "2026-01-11T12:23:20.000Z",
+                "text": "@AnIncandescence 我和我一位朋友曾在认识了四年之后才互相知道性别ww我也觉得性别只是一种属性，不应该因为这种属性被额外的去带上什么词条\n但是有时候我会凭感觉到的气质去构建一个人的形象，这个形象可能会男性化/女性化",
+                "edit_history_tweet_ids": [
+                  "2010326661523554453"
+                ],
+                "conversation_id": "2010294488699384064",
+                "possibly_sensitive": false,
+                "author_id": "1437034228768595977",
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 0,
+                      "end": 16,
+                      "username": "AnIncandescence",
+                      "id": "1741993395910811648"
+                    }
+                  ]
+                },
+                "id": "2010326661523554453"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "location": "你的身旁",
+                    "public_metrics": {
+                      "followers_count": 200,
+                      "following_count": 104,
+                      "tweet_count": 2051,
+                      "listed_count": 4,
+                      "like_count": 3885,
+                      "media_count": 207
+                    },
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2008872173084229632/7RVhFGtF_normal.jpg",
+                    "protected": false,
+                    "name": "🥛💤",
+                    "verified": false,
+                    "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/患有双相注意避雷/废话很多",
+                    "created_at": "2021-09-12T12:43:59.000Z",
+                    "id": "1437034228768595977",
+                    "username": "Kumamushi2021"
+                  }
+                ]
+              },
+              "errors": [
+                {
+                  "parameter": "in_reply_to_user_id",
+                  "resource_id": "1741993395910811648",
+                  "value": "1741993395910811648",
+                  "detail": "User has been suspended: [1741993395910811648].",
+                  "title": "Forbidden",
+                  "resource_type": "user",
+                  "type": "https://api.twitter.com/2/problems/resource-not-found"
+                },
+                {
+                  "resource_id": "2010295863302848808",
+                  "parameter": "referenced_tweets.id",
+                  "resource_type": "tweet",
+                  "section": "includes",
+                  "title": "Authorization Error",
+                  "value": "2010295863302848808",
+                  "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2010295863302848808].",
+                  "type": "https://api.twitter.com/2/problems/not-authorized-for-resource"
+                }
+              ]
+            }
+          },
+          {
+            "id": "2010295863302848808",
+            "source": "local_json",
+            "payload": {
+              "data": {
+                "article": {},
+                "attachments": {},
+                "author_id": "1741993395910811648",
+                "conversation_id": "2010294488699384064",
+                "created_at": "2026-01-11T10:20:57.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2026-01-11T11:20:57.000Z"
+                },
+                "edit_history_tweet_ids": [
+                  "2010295863302848808"
+                ],
+                "entities": {},
+                "geo": {},
+                "id": "2010295863302848808",
+                "in_reply_to_user_id": "1741993395910811648",
+                "lang": "zh",
+                "note_tweet": {
+                  "entities": {}
+                },
+                "possibly_sensitive": false,
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 3,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 65
+                },
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "2010294488699384064"
+                  }
+                ],
+                "reply_settings": "everyone",
+                "text": "以及...其实我没有什么性别认同感，很多时候我希望真的有无性别这个选项，不用总是被带滤镜或刻板印象看待。\n并且我在网络上和对面交流也丝毫不会考虑对方的性别..但是不知道为什么在和其他人提到我和xx（某个推友）的故事时都会被问起性别，于是愣愣地回答 我不道啊"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "created_at": "2024-01-02T01:22:57.000Z",
+                    "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/iO6MRJNm9j",
+                            "expanded_url": "https://ngl.link/anincandescence1",
+                            "display_url": "ngl.link/anincandescenc…"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1741993395910811648",
+                    "location": "天鹅座X-1",
+                    "name": "炽烈已极",
+                    "pinned_tweet_id": "2009922698609414310",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2006317223414255617/jGT_GZyG_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 1502,
+                      "following_count": 224,
+                      "tweet_count": 5113,
+                      "listed_count": 5,
+                      "like_count": 12646,
+                      "media_count": 972
+                    },
+                    "url": "https://t.co/iO6MRJNm9j",
+                    "username": "AnIncandescence",
+                    "verified": true
+                  }
+                ],
+                "tweets": [
+                  {
+                    "article": {},
+                    "attachments": {},
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "2010294488699384064",
+                    "created_at": "2026-01-11T10:20:57.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2026-01-11T11:20:57.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "2010295863302848808"
+                    ],
+                    "entities": {},
+                    "geo": {},
+                    "id": "2010295863302848808",
+                    "in_reply_to_user_id": "1741993395910811648",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 0,
+                      "like_count": 3,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 65
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "2010294488699384064"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "以及...其实我没有什么性别认同感，很多时候我希望真的有无性别这个选项，不用总是被带滤镜或刻板印象看待。\n并且我在网络上和对面交流也丝毫不会考虑对方的性别..但是不知道为什么在和其他人提到我和xx（某个推友）的故事时都会被问起性别，于是愣愣地回答 我不道啊"
+                  },
+                  {
+                    "article": {},
+                    "attachments": {},
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "2010294488699384064",
+                    "created_at": "2026-01-11T10:15:30.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2026-01-11T11:15:30.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "2010294488699384064"
+                    ],
+                    "entities": {},
+                    "geo": {},
+                    "id": "2010294488699384064",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 2,
+                      "like_count": 3,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 92
+                    },
+                    "reply_settings": "everyone",
+                    "text": "之前有人说以为我是男性还觉得挺惊讶的（）于是我很好奇在大家眼中我的性别年龄专业是什么ww"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "2010294488699384064",
+            "source": "local_json",
+            "payload": {
+              "data": {
+                "article": {},
+                "attachments": {},
+                "author_id": "1741993395910811648",
+                "conversation_id": "2010294488699384064",
+                "created_at": "2026-01-11T14:01:23.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2026-01-11T15:01:23.000Z"
+                },
+                "edit_history_tweet_ids": [
+                  "2010351333661114618"
+                ],
+                "entities": {},
+                "geo": {},
+                "id": "2010351333661114618",
+                "in_reply_to_user_id": "1741993395910811648",
+                "lang": "zh",
+                "note_tweet": {
+                  "entities": {}
+                },
+                "possibly_sensitive": false,
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 0
+                },
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "2010294488699384064"
+                  }
+                ],
+                "reply_settings": "everyone",
+                "text": "没有人说话..！"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "created_at": "2024-01-02T01:22:57.000Z",
+                    "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/iO6MRJNm9j",
+                            "expanded_url": "https://ngl.link/anincandescence1",
+                            "display_url": "ngl.link/anincandescenc…"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1741993395910811648",
+                    "location": "天鹅座X-1",
+                    "name": "炽烈已极",
+                    "pinned_tweet_id": "2009922698609414310",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2006317223414255617/jGT_GZyG_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 1503,
+                      "following_count": 224,
+                      "tweet_count": 5115,
+                      "listed_count": 5,
+                      "like_count": 12652,
+                      "media_count": 972
+                    },
+                    "url": "https://t.co/iO6MRJNm9j",
+                    "username": "AnIncandescence",
+                    "verified": true
+                  }
+                ],
+                "tweets": [
+                  {
+                    "article": {},
+                    "attachments": {},
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "2010294488699384064",
+                    "created_at": "2026-01-11T14:01:23.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2026-01-11T15:01:23.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "2010351333661114618"
+                    ],
+                    "entities": {},
+                    "geo": {},
+                    "id": "2010351333661114618",
+                    "in_reply_to_user_id": "1741993395910811648",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 0,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 0
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "2010294488699384064"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "没有人说话..！"
+                  },
+                  {
+                    "article": {},
+                    "attachments": {},
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "2010294488699384064",
+                    "created_at": "2026-01-11T10:15:30.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2026-01-11T11:15:30.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "2010294488699384064"
+                    ],
+                    "entities": {},
+                    "geo": {},
+                    "id": "2010294488699384064",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 3,
+                      "like_count": 15,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 478
+                    },
+                    "reply_settings": "everyone",
+                    "text": "之前有人说以为我是男性还觉得挺惊讶的（）于是我很好奇在大家眼中我的性别年龄专业是什么ww"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

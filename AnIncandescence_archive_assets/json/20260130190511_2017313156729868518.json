@@ -1,1 +1,482 @@
-{"data":{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"2017284857525899637","created_at":"2026-01-30T19:05:11.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2026-01-30T20:05:11.000Z"},"edit_history_tweet_ids":["2017313156729868518"],"entities":{"mentions":[{"start":0,"end":16,"username":"dDguwkiRkZcCSrt","id":"1456231777224347651"}]},"geo":{},"id":"2017313156729868518","in_reply_to_user_id":"1456231777224347651","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"2017311296816091300"}],"reply_settings":"everyone","text":"@dDguwkiRkZcCSrt 是b6不是b族吗"},"includes":{"users":[{"created_at":"2024-01-02T01:22:57.000Z","description":"猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | @TauCeti_10700 日常和碎碎念 | 🚪88/158","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/iO6MRJNTYR","expanded_url":"https://ngl.link/anincandescence1","display_url":"ngl.link/anincandescenc…"}]},"description":{"mentions":[{"start":70,"end":84,"username":"TauCeti_10700"}]}},"id":"1741993395910811648","location":"天鹅座X-1","name":"炽烈已极","pinned_tweet_id":"2010452086539145687","profile_image_url":"https://pbs.twimg.com/profile_images/2006317223414255617/jGT_GZyG_normal.jpg","protected":false,"public_metrics":{"followers_count":1549,"following_count":224,"tweet_count":5391,"listed_count":6,"like_count":13253,"media_count":1015},"url":"https://t.co/iO6MRJNTYR","username":"AnIncandescence","verified":false},{"created_at":"2021-11-04T12:08:26.000Z","description":"江湖有缘再见","id":"1456231777224347651","name":"无名","pinned_tweet_id":"1971865828070248539","profile_image_url":"https://pbs.twimg.com/profile_images/1932707072468217856/Yd5nKEM7_normal.jpg","protected":true,"public_metrics":{"followers_count":315,"following_count":73,"tweet_count":10007,"listed_count":0,"like_count":3735,"media_count":724},"username":"dDguwkiRkZcCSrt","verified":false}],"tweets":[{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"2017284857525899637","created_at":"2026-01-30T19:05:11.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2026-01-30T20:05:11.000Z"},"edit_history_tweet_ids":["2017313156729868518"],"entities":{"mentions":[{"start":0,"end":16,"username":"dDguwkiRkZcCSrt","id":"1456231777224347651"}]},"geo":{},"id":"2017313156729868518","in_reply_to_user_id":"1456231777224347651","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"2017311296816091300"}],"reply_settings":"everyone","text":"@dDguwkiRkZcCSrt 是b6不是b族吗"}]},"errors":[{"resource_id":"2017311296816091300","parameter":"referenced_tweets.id","resource_type":"tweet","section":"includes","title":"Authorization Error","value":"2017311296816091300","detail":"Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2017311296816091300].","type":"https://api.twitter.com/2/problems/not-authorized-for-resource"}]}
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741993395910811648",
+    "conversation_id": "2017284857525899637",
+    "created_at": "2026-01-30T19:05:11.000Z",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2026-01-30T20:05:11.000Z"
+    },
+    "edit_history_tweet_ids": [
+      "2017313156729868518"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 16,
+          "username": "dDguwkiRkZcCSrt",
+          "id": "1456231777224347651"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017313156729868518",
+    "in_reply_to_user_id": "1456231777224347651",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "2017311296816091300"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dDguwkiRkZcCSrt 是b6不是b族吗"
+  },
+  "includes": {
+    "users": [
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | @TauCeti_10700 日常和碎碎念 | 🚪88/158",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/iO6MRJNTYR",
+                "expanded_url": "https://ngl.link/anincandescence1",
+                "display_url": "ngl.link/anincandescenc…"
+              }
+            ]
+          },
+          "description": {
+            "mentions": [
+              {
+                "start": 70,
+                "end": 84,
+                "username": "TauCeti_10700"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "天鹅座X-1",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "2010452086539145687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006317223414255617/jGT_GZyG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1549,
+          "following_count": 224,
+          "tweet_count": 5391,
+          "listed_count": 6,
+          "like_count": 13253,
+          "media_count": 1015
+        },
+        "url": "https://t.co/iO6MRJNTYR",
+        "username": "AnIncandescence",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-04T12:08:26.000Z",
+        "description": "江湖有缘再见",
+        "id": "1456231777224347651",
+        "name": "无名",
+        "pinned_tweet_id": "1971865828070248539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932707072468217856/Yd5nKEM7_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 73,
+          "tweet_count": 10007,
+          "listed_count": 0,
+          "like_count": 3735,
+          "media_count": 724
+        },
+        "username": "dDguwkiRkZcCSrt",
+        "verified": false
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741993395910811648",
+        "conversation_id": "2017284857525899637",
+        "created_at": "2026-01-30T19:05:11.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2026-01-30T20:05:11.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "2017313156729868518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 16,
+              "username": "dDguwkiRkZcCSrt",
+              "id": "1456231777224347651"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017313156729868518",
+        "in_reply_to_user_id": "1456231777224347651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "2017311296816091300"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dDguwkiRkZcCSrt 是b6不是b族吗"
+      }
+    ]
+  },
+  "errors": [
+    {
+      "resource_id": "2017311296816091300",
+      "parameter": "referenced_tweets.id",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "value": "2017311296816091300",
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2017311296816091300].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource"
+    }
+  ],
+  "_pale_fire": {
+    "x_api_reply_chains": {
+      "2017311296816091300": {
+        "version": 1,
+        "fetched_at": "2026-04-18T02:36:52Z",
+        "max_depth": 64,
+        "posts": [
+          {
+            "id": "2017311296816091300",
+            "source": "local_json",
+            "payload": {
+              "data": {
+                "article": {},
+                "attachments": {},
+                "author_id": "1741993395910811648",
+                "conversation_id": "2017284857525899637",
+                "created_at": "2026-01-30T19:05:11.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2026-01-30T20:05:11.000Z"
+                },
+                "edit_history_tweet_ids": [
+                  "2017313156729868518"
+                ],
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 0,
+                      "end": 16,
+                      "username": "dDguwkiRkZcCSrt",
+                      "id": "1456231777224347651"
+                    }
+                  ]
+                },
+                "geo": {},
+                "id": "2017313156729868518",
+                "in_reply_to_user_id": "1456231777224347651",
+                "lang": "zh",
+                "note_tweet": {
+                  "entities": {}
+                },
+                "possibly_sensitive": false,
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 0
+                },
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "2017311296816091300"
+                  }
+                ],
+                "reply_settings": "everyone",
+                "text": "@dDguwkiRkZcCSrt 是b6不是b族吗"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "created_at": "2024-01-02T01:22:57.000Z",
+                    "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | @TauCeti_10700 日常和碎碎念 | 🚪88/158",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/iO6MRJNTYR",
+                            "expanded_url": "https://ngl.link/anincandescence1",
+                            "display_url": "ngl.link/anincandescenc…"
+                          }
+                        ]
+                      },
+                      "description": {
+                        "mentions": [
+                          {
+                            "start": 70,
+                            "end": 84,
+                            "username": "TauCeti_10700"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1741993395910811648",
+                    "location": "天鹅座X-1",
+                    "name": "炽烈已极",
+                    "pinned_tweet_id": "2010452086539145687",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2006317223414255617/jGT_GZyG_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 1549,
+                      "following_count": 224,
+                      "tweet_count": 5391,
+                      "listed_count": 6,
+                      "like_count": 13253,
+                      "media_count": 1015
+                    },
+                    "url": "https://t.co/iO6MRJNTYR",
+                    "username": "AnIncandescence",
+                    "verified": false
+                  },
+                  {
+                    "created_at": "2021-11-04T12:08:26.000Z",
+                    "description": "江湖有缘再见",
+                    "id": "1456231777224347651",
+                    "name": "无名",
+                    "pinned_tweet_id": "1971865828070248539",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1932707072468217856/Yd5nKEM7_normal.jpg",
+                    "protected": true,
+                    "public_metrics": {
+                      "followers_count": 315,
+                      "following_count": 73,
+                      "tweet_count": 10007,
+                      "listed_count": 0,
+                      "like_count": 3735,
+                      "media_count": 724
+                    },
+                    "username": "dDguwkiRkZcCSrt",
+                    "verified": false
+                  }
+                ],
+                "tweets": [
+                  {
+                    "article": {},
+                    "attachments": {},
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "2017284857525899637",
+                    "created_at": "2026-01-30T19:05:11.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2026-01-30T20:05:11.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "2017313156729868518"
+                    ],
+                    "entities": {
+                      "mentions": [
+                        {
+                          "start": 0,
+                          "end": 16,
+                          "username": "dDguwkiRkZcCSrt",
+                          "id": "1456231777224347651"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "2017313156729868518",
+                    "in_reply_to_user_id": "1456231777224347651",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 0,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 0
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "2017311296816091300"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "@dDguwkiRkZcCSrt 是b6不是b族吗"
+                  }
+                ]
+              },
+              "errors": [
+                {
+                  "resource_id": "2017311296816091300",
+                  "parameter": "referenced_tweets.id",
+                  "resource_type": "tweet",
+                  "section": "includes",
+                  "title": "Authorization Error",
+                  "value": "2017311296816091300",
+                  "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2017311296816091300].",
+                  "type": "https://api.twitter.com/2/problems/not-authorized-for-resource"
+                }
+              ],
+              "_pale_fire": {
+                "x_api_reply_chains": {
+                  "2017311296816091300": {
+                    "version": 1,
+                    "fetched_at": "2026-04-18T01:28:23Z",
+                    "max_depth": 64,
+                    "posts": [
+                      {
+                        "id": "2017311296816091300",
+                        "source": "x_api_oauth1",
+                        "payload": {
+                          "data": {
+                            "created_at": "2026-01-30T18:57:47.000Z",
+                            "possibly_sensitive": false,
+                            "id": "2017311296816091300",
+                            "conversation_id": "2017284857525899637",
+                            "edit_history_tweet_ids": [
+                              "2017311296816091300"
+                            ],
+                            "in_reply_to_user_id": "1741993395910811648",
+                            "referenced_tweets": [
+                              {
+                                "type": "replied_to",
+                                "id": "2017310578965156315"
+                              }
+                            ],
+                            "edit_controls": {
+                              "edits_remaining": 5,
+                              "is_edit_eligible": false,
+                              "editable_until": "2026-01-30T19:57:47.000Z"
+                            },
+                            "entities": {
+                              "mentions": [
+                                {
+                                  "start": 0,
+                                  "end": 16,
+                                  "username": "AnIncandescence",
+                                  "id": "1741993395910811648"
+                                }
+                              ]
+                            },
+                            "reply_settings": "everyone",
+                            "lang": "zh",
+                            "text": "@AnIncandescence 我吃的是life extension的。胶囊没味。但是一个胶囊有50mg的vb6。我想拆开吃，但试了一次就放弃了。太难吃了😰",
+                            "public_metrics": {
+                              "retweet_count": 0,
+                              "reply_count": 1,
+                              "like_count": 0,
+                              "quote_count": 0,
+                              "bookmark_count": 0,
+                              "impression_count": 13
+                            },
+                            "author_id": "1456231777224347651"
+                          },
+                          "includes": {
+                            "users": [
+                              {
+                                "protected": true,
+                                "verified": false,
+                                "name": "无名",
+                                "created_at": "2021-11-04T12:08:26.000Z",
+                                "public_metrics": {
+                                  "followers_count": 305,
+                                  "following_count": 74,
+                                  "tweet_count": 10910,
+                                  "listed_count": 0,
+                                  "like_count": 4072,
+                                  "media_count": 778
+                                },
+                                "profile_image_url": "https://pbs.twimg.com/profile_images/1932707072468217856/Yd5nKEM7_normal.jpg",
+                                "id": "1456231777224347651",
+                                "description": "江湖有缘再见",
+                                "username": "dDguwkiRkZcCSrt"
+                              }
+                            ]
+                          },
+                          "errors": [
+                            {
+                              "parameter": "in_reply_to_user_id",
+                              "resource_id": "1741993395910811648",
+                              "value": "1741993395910811648",
+                              "detail": "User has been suspended: [1741993395910811648].",
+                              "title": "Forbidden",
+                              "resource_type": "user",
+                              "type": "https://api.twitter.com/2/problems/resource-not-found"
+                            },
+                            {
+                              "resource_id": "2017310578965156315",
+                              "parameter": "referenced_tweets.id",
+                              "resource_type": "tweet",
+                              "section": "includes",
+                              "title": "Authorization Error",
+                              "value": "2017310578965156315",
+                              "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2017310578965156315].",
+                              "type": "https://api.twitter.com/2/problems/not-authorized-for-resource"
+                            }
+                          ]
+                        }
+                      }
+                    ],
+                    "terminal_error": {
+                      "id": "2017310578965156315",
+                      "message": "Sorry, you are not authorized to see the Tweet with id: [2017310578965156315]. Wayback fallback: Wayback fallback did not find archived JSON for tweet id 2017310578965156315."
+                    }
+                  }
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

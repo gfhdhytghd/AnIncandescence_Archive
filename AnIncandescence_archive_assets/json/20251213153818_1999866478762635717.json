@@ -1,1 +1,383 @@
-{"data":{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1999858611015860440","created_at":"2025-12-13T15:38:18.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-12-13T16:38:18.000Z"},"edit_history_tweet_ids":["1999866478762635717"],"entities":{"mentions":[{"start":0,"end":11,"username":"Namida8964","id":"1597151240110030848"}]},"geo":{},"id":"1999866478762635717","in_reply_to_user_id":"1597151240110030848","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1999861391310934332"}],"reply_settings":"everyone","text":"@Namida8964 还在发光发热🙏"},"includes":{"users":[{"created_at":"2024-01-02T01:22:57.000Z","description":"猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/iO6MRJNm9j","expanded_url":"https://ngl.link/anincandescence1","display_url":"ngl.link/anincandescenc…"}]}},"id":"1741993395910811648","location":"天鹅座X-1","name":"炽烈已极","pinned_tweet_id":"1991299586002935866","profile_image_url":"https://pbs.twimg.com/profile_images/1999154150693797888/7aGBwxD0_normal.jpg","protected":false,"public_metrics":{"followers_count":1330,"following_count":220,"tweet_count":4699,"listed_count":4,"like_count":11728,"media_count":899},"url":"https://t.co/iO6MRJNm9j","username":"AnIncandescence","verified":false},{"created_at":"2022-11-28T08:51:56.000Z","description":"周临｜drugtwt｜互fo欢迎｜us @lancoini","entities":{"description":{"mentions":[{"start":20,"end":29,"username":"lancoini"}]}},"id":"1597151240110030848","location":"Manchester, England","name":"愛言葉","pinned_tweet_id":"1999161691821764616","profile_image_url":"https://pbs.twimg.com/profile_images/1994998048343072768/pm-SIgK3_normal.jpg","protected":false,"public_metrics":{"followers_count":32,"following_count":439,"tweet_count":251,"listed_count":1,"like_count":91,"media_count":30},"username":"Namida8964","verified":false}],"tweets":[{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1999858611015860440","created_at":"2025-12-13T15:38:18.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-12-13T16:38:18.000Z"},"edit_history_tweet_ids":["1999866478762635717"],"entities":{"mentions":[{"start":0,"end":11,"username":"Namida8964","id":"1597151240110030848"}]},"geo":{},"id":"1999866478762635717","in_reply_to_user_id":"1597151240110030848","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1999861391310934332"}],"reply_settings":"everyone","text":"@Namida8964 还在发光发热🙏"},{"article":{},"attachments":{},"author_id":"1597151240110030848","conversation_id":"1999858611015860440","created_at":"2025-12-13T15:18:05.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-12-13T16:18:05.000Z"},"edit_history_tweet_ids":["1999861391310934332"],"entities":{"mentions":[{"start":0,"end":16,"username":"AnIncandescence","id":"1741993395910811648"}]},"geo":{},"id":"1999861391310934332","in_reply_to_user_id":"1741993395910811648","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":1,"like_count":1,"quote_count":0,"bookmark_count":0,"impression_count":5},"referenced_tweets":[{"type":"replied_to","id":"1999858611015860440"}],"reply_settings":"everyone","text":"@AnIncandescence 我用了后藤的身份证 直接一下子就开到了🥹"}]}}
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741993395910811648",
+    "conversation_id": "1999858611015860440",
+    "created_at": "2025-12-13T15:38:18.000Z",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2025-12-13T16:38:18.000Z"
+    },
+    "edit_history_tweet_ids": [
+      "1999866478762635717"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 11,
+          "username": "Namida8964",
+          "id": "1597151240110030848"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999866478762635717",
+    "in_reply_to_user_id": "1597151240110030848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1999861391310934332"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Namida8964 还在发光发热🙏"
+  },
+  "includes": {
+    "users": [
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/iO6MRJNm9j",
+                "expanded_url": "https://ngl.link/anincandescence1",
+                "display_url": "ngl.link/anincandescenc…"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "天鹅座X-1",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "1991299586002935866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999154150693797888/7aGBwxD0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1330,
+          "following_count": 220,
+          "tweet_count": 4699,
+          "listed_count": 4,
+          "like_count": 11728,
+          "media_count": 899
+        },
+        "url": "https://t.co/iO6MRJNm9j",
+        "username": "AnIncandescence",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T08:51:56.000Z",
+        "description": "周临｜drugtwt｜互fo欢迎｜us @lancoini",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "start": 20,
+                "end": 29,
+                "username": "lancoini"
+              }
+            ]
+          }
+        },
+        "id": "1597151240110030848",
+        "location": "Manchester, England",
+        "name": "愛言葉",
+        "pinned_tweet_id": "1999161691821764616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994998048343072768/pm-SIgK3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 439,
+          "tweet_count": 251,
+          "listed_count": 1,
+          "like_count": 91,
+          "media_count": 30
+        },
+        "username": "Namida8964",
+        "verified": false
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741993395910811648",
+        "conversation_id": "1999858611015860440",
+        "created_at": "2025-12-13T15:38:18.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2025-12-13T16:38:18.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1999866478762635717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 11,
+              "username": "Namida8964",
+              "id": "1597151240110030848"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999866478762635717",
+        "in_reply_to_user_id": "1597151240110030848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1999861391310934332"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Namida8964 还在发光发热🙏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597151240110030848",
+        "conversation_id": "1999858611015860440",
+        "created_at": "2025-12-13T15:18:05.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2025-12-13T16:18:05.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1999861391310934332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 16,
+              "username": "AnIncandescence",
+              "id": "1741993395910811648"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999861391310934332",
+        "in_reply_to_user_id": "1741993395910811648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1999858611015860440"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnIncandescence 我用了后藤的身份证 直接一下子就开到了🥹"
+      }
+    ]
+  },
+  "_pale_fire": {
+    "x_api_reply_chains": {
+      "1999858611015860440": {
+        "version": 1,
+        "fetched_at": "2026-04-18T01:15:15Z",
+        "max_depth": 63,
+        "posts": [
+          {
+            "id": "1999858611015860440",
+            "source": "local_json",
+            "payload": {
+              "data": {
+                "article": {},
+                "attachments": {
+                  "media_keys": [
+                    "3_1999858606091698176"
+                  ]
+                },
+                "author_id": "1741993395910811648",
+                "conversation_id": "1999858611015860440",
+                "created_at": "2025-12-13T15:07:03.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": true,
+                  "editable_until": "2025-12-13T16:07:03.000Z"
+                },
+                "edit_history_tweet_ids": [
+                  "1999858611015860440"
+                ],
+                "entities": {
+                  "urls": [
+                    {
+                      "start": 22,
+                      "end": 45,
+                      "url": "https://t.co/l3Tu1l9hPJ",
+                      "expanded_url": "https://x.com/AnIncandescence/status/1999858611015860440/photo/1",
+                      "display_url": "pic.x.com/l3Tu1l9hPJ",
+                      "media_key": "3_1999858606091698176"
+                    }
+                  ]
+                },
+                "geo": {},
+                "id": "1999858611015860440",
+                "lang": "zh",
+                "note_tweet": {
+                  "entities": {}
+                },
+                "possibly_sensitive": false,
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 0
+                },
+                "reply_settings": "everyone",
+                "text": "草😾上传了处方单也不给我开，突然的怎么回事 https://t.co/l3Tu1l9hPJ"
+              },
+              "includes": {
+                "media": [
+                  {
+                    "height": 2464,
+                    "media_key": "3_1999858606091698176",
+                    "public_metrics": {},
+                    "type": "photo",
+                    "url": "https://pbs.twimg.com/media/G8DsznkagAAhnqW.jpg",
+                    "width": 1058
+                  }
+                ],
+                "users": [
+                  {
+                    "created_at": "2024-01-02T01:22:57.000Z",
+                    "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/iO6MRJNm9j",
+                            "expanded_url": "https://ngl.link/anincandescence1",
+                            "display_url": "ngl.link/anincandescenc…"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1741993395910811648",
+                    "location": "天鹅座X-1",
+                    "name": "炽烈已极",
+                    "pinned_tweet_id": "1991299586002935866",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1999154150693797888/7aGBwxD0_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 1330,
+                      "following_count": 220,
+                      "tweet_count": 4695,
+                      "listed_count": 4,
+                      "like_count": 11721,
+                      "media_count": 899
+                    },
+                    "url": "https://t.co/iO6MRJNm9j",
+                    "username": "AnIncandescence",
+                    "verified": false
+                  }
+                ],
+                "tweets": [
+                  {
+                    "article": {},
+                    "attachments": {
+                      "media_keys": [
+                        "3_1999858606091698176"
+                      ]
+                    },
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "1999858611015860440",
+                    "created_at": "2025-12-13T15:07:03.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": true,
+                      "editable_until": "2025-12-13T16:07:03.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "1999858611015860440"
+                    ],
+                    "entities": {
+                      "urls": [
+                        {
+                          "start": 22,
+                          "end": 45,
+                          "url": "https://t.co/l3Tu1l9hPJ",
+                          "expanded_url": "https://x.com/AnIncandescence/status/1999858611015860440/photo/1",
+                          "display_url": "pic.x.com/l3Tu1l9hPJ",
+                          "media_key": "3_1999858606091698176"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "1999858611015860440",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 0,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 0
+                    },
+                    "reply_settings": "everyone",
+                    "text": "草😾上传了处方单也不给我开，突然的怎么回事 https://t.co/l3Tu1l9hPJ"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

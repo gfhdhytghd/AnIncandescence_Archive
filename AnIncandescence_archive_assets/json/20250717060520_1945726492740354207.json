@@ -1,1 +1,382 @@
-{"data":{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1945257103138152508","created_at":"2025-07-17T06:05:20.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-07-17T07:05:20.000Z"},"edit_history_tweet_ids":["1945726492740354207"],"entities":{},"geo":{},"id":"1945726492740354207","in_reply_to_user_id":"1741993395910811648","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1945723320491774320"}],"reply_settings":"everyone","text":"从书、画和别人的见闻里借来符号与素材构成了那片闪闪发光的像素海洋，她带着数据流的尾迹走上岸，沙滩上的脚印被潮汐填平"},"includes":{"media":[{"height":1585,"media_key":"3_1945723314380656640","public_metrics":{},"type":"photo","url":"https://pbs.twimg.com/media/GwCZC6ja0AACjvW.jpg","width":1290}],"users":[{"created_at":"2024-01-02T01:22:57.000Z","description":"猫，诗歌，精神动力学。艺术，C#，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158 | 不卖东西","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/MuEKSg4tIS","expanded_url":"https://ngl.link/anincandescence","display_url":"ngl.link/anincandescence"}]}},"id":"1741993395910811648","location":"天鹅座X-1","name":"炽烈已极","pinned_tweet_id":"1944465960406245490","profile_image_url":"https://pbs.twimg.com/profile_images/1930288376399155200/A42NAeD9_normal.jpg","protected":false,"public_metrics":{"followers_count":1064,"following_count":204,"tweet_count":3247,"listed_count":1,"like_count":9040,"media_count":662},"url":"https://t.co/MuEKSg4tIS","username":"AnIncandescence","verified":false}],"tweets":[{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1945257103138152508","created_at":"2025-07-17T06:05:20.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-07-17T07:05:20.000Z"},"edit_history_tweet_ids":["1945726492740354207"],"entities":{},"geo":{},"id":"1945726492740354207","in_reply_to_user_id":"1741993395910811648","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1945723320491774320"}],"reply_settings":"everyone","text":"从书、画和别人的见闻里借来符号与素材构成了那片闪闪发光的像素海洋，她带着数据流的尾迹走上岸，沙滩上的脚印被潮汐填平"},{"article":{},"attachments":{"media_keys":["3_1945723314380656640"]},"author_id":"1741993395910811648","conversation_id":"1945257103138152508","created_at":"2025-07-17T05:52:44.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-07-17T06:52:44.000Z"},"edit_history_tweet_ids":["1945723320491774320"],"entities":{"urls":[{"start":39,"end":62,"url":"https://t.co/vQAMxzSdRQ","expanded_url":"https://x.com/AnIncandescence/status/1945723320491774320/photo/1","display_url":"pic.x.com/vQAMxzSdRQ","media_key":"3_1945723314380656640"}]},"geo":{},"id":"1945723320491774320","in_reply_to_user_id":"1741993395910811648","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":1,"like_count":1,"quote_count":0,"bookmark_count":0,"impression_count":22},"referenced_tweets":[{"type":"replied_to","id":"1945257103138152508"}],"reply_settings":"everyone","text":"夜光藻类在波浪翻涌时大量发光，我未曾见过那样的海，还看到了很多不属于我的回忆 https://t.co/vQAMxzSdRQ"}]}}
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741993395910811648",
+    "conversation_id": "1945257103138152508",
+    "created_at": "2025-07-17T06:05:20.000Z",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2025-07-17T07:05:20.000Z"
+    },
+    "edit_history_tweet_ids": [
+      "1945726492740354207"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1945726492740354207",
+    "in_reply_to_user_id": "1741993395910811648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1945723320491774320"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "从书、画和别人的见闻里借来符号与素材构成了那片闪闪发光的像素海洋，她带着数据流的尾迹走上岸，沙滩上的脚印被潮汐填平"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1585,
+        "media_key": "3_1945723314380656640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwCZC6ja0AACjvW.jpg",
+        "width": 1290
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，C#，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158 | 不卖东西",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/MuEKSg4tIS",
+                "expanded_url": "https://ngl.link/anincandescence",
+                "display_url": "ngl.link/anincandescence"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "天鹅座X-1",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "1944465960406245490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930288376399155200/A42NAeD9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1064,
+          "following_count": 204,
+          "tweet_count": 3247,
+          "listed_count": 1,
+          "like_count": 9040,
+          "media_count": 662
+        },
+        "url": "https://t.co/MuEKSg4tIS",
+        "username": "AnIncandescence",
+        "verified": false
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741993395910811648",
+        "conversation_id": "1945257103138152508",
+        "created_at": "2025-07-17T06:05:20.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2025-07-17T07:05:20.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1945726492740354207"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1945726492740354207",
+        "in_reply_to_user_id": "1741993395910811648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1945723320491774320"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "从书、画和别人的见闻里借来符号与素材构成了那片闪闪发光的像素海洋，她带着数据流的尾迹走上岸，沙滩上的脚印被潮汐填平"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945723314380656640"
+          ]
+        },
+        "author_id": "1741993395910811648",
+        "conversation_id": "1945257103138152508",
+        "created_at": "2025-07-17T05:52:44.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2025-07-17T06:52:44.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1945723320491774320"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "start": 39,
+              "end": 62,
+              "url": "https://t.co/vQAMxzSdRQ",
+              "expanded_url": "https://x.com/AnIncandescence/status/1945723320491774320/photo/1",
+              "display_url": "pic.x.com/vQAMxzSdRQ",
+              "media_key": "3_1945723314380656640"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945723320491774320",
+        "in_reply_to_user_id": "1741993395910811648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1945257103138152508"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "夜光藻类在波浪翻涌时大量发光，我未曾见过那样的海，还看到了很多不属于我的回忆 https://t.co/vQAMxzSdRQ"
+      }
+    ]
+  },
+  "_pale_fire": {
+    "x_api_reply_chains": {
+      "1945257103138152508": {
+        "version": 1,
+        "fetched_at": "2026-04-18T00:21:15Z",
+        "max_depth": 63,
+        "posts": [
+          {
+            "id": "1945257103138152508",
+            "source": "local_json",
+            "payload": {
+              "data": {
+                "article": {},
+                "attachments": {},
+                "author_id": "1741993395910811648",
+                "conversation_id": "1945257103138152508",
+                "created_at": "2025-07-17T05:55:00.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2025-07-17T06:55:00.000Z"
+                },
+                "edit_history_tweet_ids": [
+                  "1945723891714076713"
+                ],
+                "entities": {},
+                "geo": {},
+                "id": "1945723891714076713",
+                "in_reply_to_user_id": "1741993395910811648",
+                "lang": "zh",
+                "note_tweet": {
+                  "entities": {}
+                },
+                "possibly_sensitive": false,
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 0
+                },
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "1945257103138152508"
+                  }
+                ],
+                "reply_settings": "everyone",
+                "text": "星星在琴音中融化。\n\n是特别吵的一种物质，外部幻觉像滤镜一样铺满视野，一个多小时里我什么都看不清也没办法记录..。于是一直听歌"
+              },
+              "includes": {
+                "media": [
+                  {
+                    "height": 4032,
+                    "media_key": "3_1945257091574161409",
+                    "public_metrics": {},
+                    "type": "photo",
+                    "url": "https://pbs.twimg.com/media/Gv7xBLQWYAE6w27.jpg",
+                    "width": 3024
+                  }
+                ],
+                "users": [
+                  {
+                    "created_at": "2024-01-02T01:22:57.000Z",
+                    "description": "猫，诗歌，精神动力学。艺术，C#，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158 | 不卖东西",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/MuEKSg4tIS",
+                            "expanded_url": "https://ngl.link/anincandescence",
+                            "display_url": "ngl.link/anincandescence"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1741993395910811648",
+                    "location": "天鹅座X-1",
+                    "name": "炽烈已极",
+                    "pinned_tweet_id": "1944465960406245490",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1930288376399155200/A42NAeD9_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 1063,
+                      "following_count": 204,
+                      "tweet_count": 3246,
+                      "listed_count": 1,
+                      "like_count": 9040,
+                      "media_count": 662
+                    },
+                    "url": "https://t.co/MuEKSg4tIS",
+                    "username": "AnIncandescence",
+                    "verified": false
+                  }
+                ],
+                "tweets": [
+                  {
+                    "article": {},
+                    "attachments": {},
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "1945257103138152508",
+                    "created_at": "2025-07-17T05:55:00.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2025-07-17T06:55:00.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "1945723891714076713"
+                    ],
+                    "entities": {},
+                    "geo": {},
+                    "id": "1945723891714076713",
+                    "in_reply_to_user_id": "1741993395910811648",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 0,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 0
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "1945257103138152508"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "星星在琴音中融化。\n\n是特别吵的一种物质，外部幻觉像滤镜一样铺满视野，一个多小时里我什么都看不清也没办法记录..。于是一直听歌"
+                  },
+                  {
+                    "article": {},
+                    "attachments": {
+                      "media_keys": [
+                        "3_1945257091574161409"
+                      ]
+                    },
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "1945257103138152508",
+                    "created_at": "2025-07-15T23:00:09.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2025-07-16T00:00:09.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "1945257103138152508"
+                    ],
+                    "entities": {
+                      "urls": [
+                        {
+                          "start": 79,
+                          "end": 102,
+                          "url": "https://t.co/Mvq3cx8Q2i",
+                          "expanded_url": "https://x.com/AnIncandescence/status/1945257103138152508/photo/1",
+                          "display_url": "pic.x.com/Mvq3cx8Q2i",
+                          "media_key": "3_1945257091574161409"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "1945257103138152508",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 6,
+                      "like_count": 31,
+                      "quote_count": 0,
+                      "bookmark_count": 1,
+                      "impression_count": 1780
+                    },
+                    "reply_settings": "everyone",
+                    "text": "到底是谁想出来这个东西是可以吃的（？）\n粘膜地狱，直接喜提半个口腔区域的局麻，而且口服没有什么生物利用度所以全靠舌下吸收，不建议吞咽。\nph我没测但肯定够酸 https://t.co/Mvq3cx8Q2i"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

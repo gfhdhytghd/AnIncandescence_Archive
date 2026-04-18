@@ -1,1 +1,246 @@
-{"data":{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1997548475903607175","created_at":"2025-12-07T12:57:29.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-12-07T13:57:29.000Z"},"edit_history_tweet_ids":["1997651680158953740"],"entities":{"mentions":[{"start":0,"end":16,"username":"PaitangOfficial","id":"1272405078683430913"}]},"geo":{},"id":"1997651680158953740","in_reply_to_user_id":"1272405078683430913","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1997645868883722612"}],"reply_settings":"everyone","text":"@PaitangOfficial 怎么炸🤔？你说什么"},"includes":{"users":[{"created_at":"2024-01-02T01:22:57.000Z","description":"猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/iO6MRJNm9j","expanded_url":"https://ngl.link/anincandescence1","display_url":"ngl.link/anincandescenc…"}]}},"id":"1741993395910811648","location":"天鹅座X-1","name":"炽烈已极","pinned_tweet_id":"1991299586002935866","profile_image_url":"https://pbs.twimg.com/profile_images/1967287311504465922/Z7d-hW5p_normal.jpg","protected":false,"public_metrics":{"followers_count":1321,"following_count":213,"tweet_count":4598,"listed_count":3,"like_count":11602,"media_count":883},"url":"https://t.co/iO6MRJNm9j","username":"AnIncandescence","verified":false},{"created_at":"2020-06-15T05:46:41.000Z","description":"Biohacker/认知提升剂 （nootropics）X/ADHD 专注商品/推特第二大促智商 “本研究化合物仅供实验室研究使用，严禁用于人体和动物” \n\n客服 @paipaipaitang ⚠️TG客服已死 不要联系⚠️","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/r6ojtqNEYk","expanded_url":"https://t.me/paitangcuzhi","display_url":"t.me/paitangcuzhi"}]},"description":{"mentions":[{"start":82,"end":96,"username":"paipaipaitang"}]}},"id":"1272405078683430913","location":"下ネタ〇 |病み垢|不登校|","name":"☯️🧬無極 利他林和专注达","pinned_tweet_id":"1903330051837530420","profile_image_url":"https://pbs.twimg.com/profile_images/1985270408904376320/SHUUETVl_normal.jpg","protected":false,"public_metrics":{"followers_count":10059,"following_count":539,"tweet_count":14007,"listed_count":26,"like_count":8361,"media_count":1668},"url":"https://t.co/r6ojtqNEYk","username":"PaitangOfficial","verified":false}],"tweets":[{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1997548475903607175","created_at":"2025-12-07T12:57:29.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-12-07T13:57:29.000Z"},"edit_history_tweet_ids":["1997651680158953740"],"entities":{"mentions":[{"start":0,"end":16,"username":"PaitangOfficial","id":"1272405078683430913"}]},"geo":{},"id":"1997651680158953740","in_reply_to_user_id":"1272405078683430913","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1997645868883722612"}],"reply_settings":"everyone","text":"@PaitangOfficial 怎么炸🤔？你说什么"},{"article":{},"attachments":{},"author_id":"1272405078683430913","conversation_id":"1997548475903607175","created_at":"2025-12-07T12:34:24.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-12-07T13:34:24.000Z"},"edit_history_tweet_ids":["1997645868883722612"],"entities":{"mentions":[{"start":0,"end":16,"username":"AnIncandescence","id":"1741993395910811648"}]},"geo":{},"id":"1997645868883722612","in_reply_to_user_id":"1741993395910811648","lang":"ja","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":1,"like_count":1,"quote_count":0,"bookmark_count":0,"impression_count":17},"referenced_tweets":[{"type":"replied_to","id":"1997548475903607175"}],"reply_settings":"everyone","text":"@AnIncandescence 你血压不得炸啊？"}]}}
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741993395910811648",
+    "conversation_id": "1997548475903607175",
+    "created_at": "2025-12-07T12:57:29.000Z",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2025-12-07T13:57:29.000Z"
+    },
+    "edit_history_tweet_ids": [
+      "1997651680158953740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 16,
+          "username": "PaitangOfficial",
+          "id": "1272405078683430913"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997651680158953740",
+    "in_reply_to_user_id": "1272405078683430913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1997645868883722612"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PaitangOfficial 怎么炸🤔？你说什么"
+  },
+  "includes": {
+    "users": [
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/iO6MRJNm9j",
+                "expanded_url": "https://ngl.link/anincandescence1",
+                "display_url": "ngl.link/anincandescenc…"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "天鹅座X-1",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "1991299586002935866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967287311504465922/Z7d-hW5p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1321,
+          "following_count": 213,
+          "tweet_count": 4598,
+          "listed_count": 3,
+          "like_count": 11602,
+          "media_count": 883
+        },
+        "url": "https://t.co/iO6MRJNm9j",
+        "username": "AnIncandescence",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-15T05:46:41.000Z",
+        "description": "Biohacker/认知提升剂 （nootropics）X/ADHD 专注商品/推特第二大促智商 “本研究化合物仅供实验室研究使用，严禁用于人体和动物” \n\n客服 @paipaipaitang ⚠️TG客服已死 不要联系⚠️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/r6ojtqNEYk",
+                "expanded_url": "https://t.me/paitangcuzhi",
+                "display_url": "t.me/paitangcuzhi"
+              }
+            ]
+          },
+          "description": {
+            "mentions": [
+              {
+                "start": 82,
+                "end": 96,
+                "username": "paipaipaitang"
+              }
+            ]
+          }
+        },
+        "id": "1272405078683430913",
+        "location": "下ネタ〇 |病み垢|不登校|",
+        "name": "☯️🧬無極 利他林和专注达",
+        "pinned_tweet_id": "1903330051837530420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985270408904376320/SHUUETVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10059,
+          "following_count": 539,
+          "tweet_count": 14007,
+          "listed_count": 26,
+          "like_count": 8361,
+          "media_count": 1668
+        },
+        "url": "https://t.co/r6ojtqNEYk",
+        "username": "PaitangOfficial",
+        "verified": false
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741993395910811648",
+        "conversation_id": "1997548475903607175",
+        "created_at": "2025-12-07T12:57:29.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2025-12-07T13:57:29.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1997651680158953740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 16,
+              "username": "PaitangOfficial",
+              "id": "1272405078683430913"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997651680158953740",
+        "in_reply_to_user_id": "1272405078683430913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1997645868883722612"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PaitangOfficial 怎么炸🤔？你说什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1272405078683430913",
+        "conversation_id": "1997548475903607175",
+        "created_at": "2025-12-07T12:34:24.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2025-12-07T13:34:24.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1997645868883722612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 16,
+              "username": "AnIncandescence",
+              "id": "1741993395910811648"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997645868883722612",
+        "in_reply_to_user_id": "1741993395910811648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1997548475903607175"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnIncandescence 你血压不得炸啊？"
+      }
+    ]
+  },
+  "_pale_fire": {
+    "x_api_reply_chains": {
+      "1997548475903607175": {
+        "version": 1,
+        "fetched_at": "2026-04-18T02:26:25Z",
+        "max_depth": 63,
+        "posts": [],
+        "terminal_error": {
+          "id": "1997548475903607175",
+          "message": "Sorry, you are not authorized to see the Tweet with id: [1997548475903607175]. Wayback fallback: Wayback fallback did not find archived JSON for tweet id 1997548475903607175."
+        }
+      }
+    }
+  }
+}

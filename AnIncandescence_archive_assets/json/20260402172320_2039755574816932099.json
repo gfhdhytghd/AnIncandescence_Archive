@@ -1,1 +1,605 @@
-{"data":{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"2039333803249021405","created_at":"2026-04-02T17:23:20.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2026-04-02T18:23:20.000Z"},"edit_history_tweet_ids":["2039755574816932099"],"entities":{"mentions":[{"start":0,"end":11,"username":"CMcforland","id":"1987917851395842048"},{"start":12,"end":23,"username":"huang44757","id":"1852007579721043972"}]},"geo":{},"id":"2039755574816932099","in_reply_to_user_id":"1987917851395842048","lang":"ja","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"2039730307063250986"}],"reply_settings":"everyone","text":"@CMcforland @huang44757 。。滚"},"includes":{"users":[{"created_at":"2024-01-02T01:22:57.000Z","description":"猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 倒影@TauCeti_10700 计划这个号机的浓度更高一些 | 🚪88/158","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/iO6MRJNTYR","expanded_url":"https://ngl.link/anincandescence1","display_url":"ngl.link/anincandescenc…"}]},"description":{"mentions":[{"start":62,"end":76,"username":"TauCeti_10700"}]}},"id":"1741993395910811648","location":"天鹅座X-1 //⬇️ 匿名提问箱","name":"炽烈已极","pinned_tweet_id":"2024076888923365667","profile_image_url":"https://pbs.twimg.com/profile_images/2034869645342076928/m2LinKe5_normal.jpg","protected":false,"public_metrics":{"followers_count":1998,"following_count":248,"tweet_count":6794,"listed_count":5,"like_count":15983,"media_count":1210},"url":"https://t.co/iO6MRJNTYR","username":"AnIncandescence","verified":false},{"created_at":"2025-11-10T16:18:54.000Z","description":"","id":"1987917851395842048","name":"Cora mcforland","profile_image_url":"https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png","protected":false,"public_metrics":{"followers_count":0,"following_count":25,"tweet_count":7,"listed_count":0,"like_count":19,"media_count":0},"username":"CMcforland","verified":false},{"created_at":"2024-10-31T15:20:26.000Z","description":"高中生 小男孩mtf 男娘改造中  08Y 58kg 172cm 40M🏳️‍⚧️🍬🍭","id":"1852007579721043972","location":"Eastern District, Hong Kong","name":"嘤嘤鼠🏳️‍⚧️💊","profile_image_url":"https://pbs.twimg.com/profile_images/2039154604085219328/ph-r3ExP_normal.jpg","protected":false,"public_metrics":{"followers_count":319,"following_count":438,"tweet_count":84,"listed_count":0,"like_count":19,"media_count":7},"username":"huang44757","verified":false}],"tweets":[{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"2039333803249021405","created_at":"2026-04-02T17:23:20.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2026-04-02T18:23:20.000Z"},"edit_history_tweet_ids":["2039755574816932099"],"entities":{"mentions":[{"start":0,"end":11,"username":"CMcforland","id":"1987917851395842048"},{"start":12,"end":23,"username":"huang44757","id":"1852007579721043972"}]},"geo":{},"id":"2039755574816932099","in_reply_to_user_id":"1987917851395842048","lang":"ja","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"2039730307063250986"}],"reply_settings":"everyone","text":"@CMcforland @huang44757 。。滚"},{"article":{},"attachments":{},"author_id":"1987917851395842048","conversation_id":"2039333803249021405","created_at":"2026-04-02T15:42:56.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2026-04-02T16:42:56.000Z"},"edit_history_tweet_ids":["2039730307063250986"],"entities":{"mentions":[{"start":0,"end":11,"username":"huang44757","id":"1852007579721043972"},{"start":12,"end":28,"username":"AnIncandescence","id":"1741993395910811648"}]},"geo":{},"id":"2039730307063250986","in_reply_to_user_id":"1852007579721043972","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":1,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":7},"referenced_tweets":[{"type":"replied_to","id":"2039724112684498949"}],"reply_settings":"everyone","text":"@huang44757 @AnIncandescence 如果您想购买，请私信我的微信ID：nembutaloral"}]}}
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741993395910811648",
+    "conversation_id": "2039333803249021405",
+    "created_at": "2026-04-02T17:23:20.000Z",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2026-04-02T18:23:20.000Z"
+    },
+    "edit_history_tweet_ids": [
+      "2039755574816932099"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 11,
+          "username": "CMcforland",
+          "id": "1987917851395842048"
+        },
+        {
+          "start": 12,
+          "end": 23,
+          "username": "huang44757",
+          "id": "1852007579721043972"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039755574816932099",
+    "in_reply_to_user_id": "1987917851395842048",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "2039730307063250986"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CMcforland @huang44757 。。滚"
+  },
+  "includes": {
+    "users": [
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 倒影@TauCeti_10700 计划这个号机的浓度更高一些 | 🚪88/158",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/iO6MRJNTYR",
+                "expanded_url": "https://ngl.link/anincandescence1",
+                "display_url": "ngl.link/anincandescenc…"
+              }
+            ]
+          },
+          "description": {
+            "mentions": [
+              {
+                "start": 62,
+                "end": 76,
+                "username": "TauCeti_10700"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "天鹅座X-1 //⬇️ 匿名提问箱",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "2024076888923365667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034869645342076928/m2LinKe5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1998,
+          "following_count": 248,
+          "tweet_count": 6794,
+          "listed_count": 5,
+          "like_count": 15983,
+          "media_count": 1210
+        },
+        "url": "https://t.co/iO6MRJNTYR",
+        "username": "AnIncandescence",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-10T16:18:54.000Z",
+        "description": "",
+        "id": "1987917851395842048",
+        "name": "Cora mcforland",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 25,
+          "tweet_count": 7,
+          "listed_count": 0,
+          "like_count": 19,
+          "media_count": 0
+        },
+        "username": "CMcforland",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-31T15:20:26.000Z",
+        "description": "高中生 小男孩mtf 男娘改造中  08Y 58kg 172cm 40M🏳️‍⚧️🍬🍭",
+        "id": "1852007579721043972",
+        "location": "Eastern District, Hong Kong",
+        "name": "嘤嘤鼠🏳️‍⚧️💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039154604085219328/ph-r3ExP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 438,
+          "tweet_count": 84,
+          "listed_count": 0,
+          "like_count": 19,
+          "media_count": 7
+        },
+        "username": "huang44757",
+        "verified": false
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741993395910811648",
+        "conversation_id": "2039333803249021405",
+        "created_at": "2026-04-02T17:23:20.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2026-04-02T18:23:20.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "2039755574816932099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 11,
+              "username": "CMcforland",
+              "id": "1987917851395842048"
+            },
+            {
+              "start": 12,
+              "end": 23,
+              "username": "huang44757",
+              "id": "1852007579721043972"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039755574816932099",
+        "in_reply_to_user_id": "1987917851395842048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "2039730307063250986"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CMcforland @huang44757 。。滚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987917851395842048",
+        "conversation_id": "2039333803249021405",
+        "created_at": "2026-04-02T15:42:56.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2026-04-02T16:42:56.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "2039730307063250986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 11,
+              "username": "huang44757",
+              "id": "1852007579721043972"
+            },
+            {
+              "start": 12,
+              "end": 28,
+              "username": "AnIncandescence",
+              "id": "1741993395910811648"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039730307063250986",
+        "in_reply_to_user_id": "1852007579721043972",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "2039724112684498949"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huang44757 @AnIncandescence 如果您想购买，请私信我的微信ID：nembutaloral"
+      }
+    ]
+  },
+  "_pale_fire": {
+    "x_api_reply_chains": {
+      "2039724112684498949": {
+        "version": 1,
+        "fetched_at": "2026-04-18T01:36:33Z",
+        "max_depth": 63,
+        "posts": [
+          {
+            "id": "2039724112684498949",
+            "source": "x_api_oauth1",
+            "payload": {
+              "data": {
+                "id": "2039724112684498949",
+                "edit_history_tweet_ids": [
+                  "2039724112684498949"
+                ],
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 176
+                },
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 0,
+                      "end": 16,
+                      "username": "AnIncandescence",
+                      "id": "1741993395910811648"
+                    }
+                  ]
+                },
+                "author_id": "1852007579721043972",
+                "text": "@AnIncandescence 我朋友也想要用亚硝酸钠自杀不过给我劝回来了，哎，难受",
+                "lang": "zh",
+                "reply_settings": "everyone",
+                "possibly_sensitive": false,
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2026-04-02T16:18:19.000Z"
+                },
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "2039333803249021405"
+                  }
+                ],
+                "in_reply_to_user_id": "1741993395910811648",
+                "created_at": "2026-04-02T15:18:19.000Z",
+                "conversation_id": "2039333803249021405"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2039154604085219328/ph-r3ExP_normal.jpg",
+                    "verified": false,
+                    "public_metrics": {
+                      "followers_count": 311,
+                      "following_count": 447,
+                      "tweet_count": 83,
+                      "listed_count": 0,
+                      "like_count": 20,
+                      "media_count": 7
+                    },
+                    "location": "Eastern District, Hong Kong",
+                    "id": "1852007579721043972",
+                    "name": "嘤嘤鼠🏳️‍⚧️💊",
+                    "created_at": "2024-10-31T15:20:26.000Z",
+                    "username": "huang44757",
+                    "description": "高中生 小男孩mtf 男娘改造中  08Y 58kg 172cm 40M🏳️‍⚧️🍬🍭",
+                    "protected": false
+                  }
+                ]
+              },
+              "errors": [
+                {
+                  "parameter": "in_reply_to_user_id",
+                  "resource_id": "1741993395910811648",
+                  "value": "1741993395910811648",
+                  "detail": "User has been suspended: [1741993395910811648].",
+                  "title": "Forbidden",
+                  "resource_type": "user",
+                  "type": "https://api.twitter.com/2/problems/resource-not-found"
+                },
+                {
+                  "resource_id": "2039333803249021405",
+                  "parameter": "referenced_tweets.id",
+                  "resource_type": "tweet",
+                  "section": "includes",
+                  "title": "Authorization Error",
+                  "value": "2039333803249021405",
+                  "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2039333803249021405].",
+                  "type": "https://api.twitter.com/2/problems/not-authorized-for-resource"
+                }
+              ]
+            }
+          },
+          {
+            "id": "2039333803249021405",
+            "source": "local_json",
+            "payload": {
+              "data": {
+                "article": {},
+                "attachments": {
+                  "media_keys": [
+                    "3_2039646824374652928"
+                  ]
+                },
+                "author_id": "1741993395910811648",
+                "conversation_id": "2039333803249021405",
+                "created_at": "2026-04-02T10:11:15.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2026-04-02T11:11:15.000Z"
+                },
+                "edit_history_tweet_ids": [
+                  "2039646836122619973"
+                ],
+                "entities": {
+                  "urls": [
+                    {
+                      "start": 96,
+                      "end": 119,
+                      "url": "https://t.co/jzkLbc6AOx",
+                      "expanded_url": "https://x.com/AnIncandescence/status/2039646836122619973/photo/1",
+                      "display_url": "pic.x.com/jzkLbc6AOx",
+                      "media_key": "3_2039646824374652928"
+                    }
+                  ]
+                },
+                "geo": {},
+                "id": "2039646836122619973",
+                "in_reply_to_user_id": "1741993395910811648",
+                "lang": "zh",
+                "note_tweet": {
+                  "entities": {}
+                },
+                "possibly_sensitive": false,
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 0
+                },
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "2039333803249021405"
+                  }
+                ],
+                "reply_settings": "everyone",
+                "text": "消毒的时候这么痛我才看清底下那里不是胶带留的胶而是伤痕。。这里医生感觉操作好不规范啊，而且从我醒了之后就在说我左腿膝盖以下没知觉到出院也没管我没做任何检查，胸痛也没管就说痒痒，嗯没死就行是吧 https://t.co/jzkLbc6AOx"
+              },
+              "includes": {
+                "media": [
+                  {
+                    "height": 1774,
+                    "media_key": "3_2039646824374652928",
+                    "public_metrics": {},
+                    "type": "photo",
+                    "url": "https://pbs.twimg.com/media/HE5H-vIa0AA5Ip1.jpg",
+                    "width": 1330
+                  },
+                  {
+                    "height": 1922,
+                    "media_key": "3_2039333794952683520",
+                    "public_metrics": {},
+                    "type": "photo",
+                    "url": "https://pbs.twimg.com/media/HE0rSBqaoAAU8JQ.jpg",
+                    "width": 2562
+                  },
+                  {
+                    "height": 2165,
+                    "media_key": "3_2039333794948542464",
+                    "public_metrics": {},
+                    "type": "photo",
+                    "url": "https://pbs.twimg.com/media/HE0rSBpbcAAXcwy.jpg",
+                    "width": 1624
+                  }
+                ],
+                "users": [
+                  {
+                    "created_at": "2024-01-02T01:22:57.000Z",
+                    "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 倒影@TauCeti_10700 计划这个号机的浓度更高一些 | 🚪88/158",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/iO6MRJNTYR",
+                            "expanded_url": "https://ngl.link/anincandescence1",
+                            "display_url": "ngl.link/anincandescenc…"
+                          }
+                        ]
+                      },
+                      "description": {
+                        "mentions": [
+                          {
+                            "start": 62,
+                            "end": 76,
+                            "username": "TauCeti_10700"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1741993395910811648",
+                    "location": "天鹅座X-1 //⬇️ 匿名提问箱",
+                    "name": "炽烈已极",
+                    "pinned_tweet_id": "2024076888923365667",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2034869645342076928/m2LinKe5_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 1997,
+                      "following_count": 248,
+                      "tweet_count": 6790,
+                      "listed_count": 5,
+                      "like_count": 15977,
+                      "media_count": 1210
+                    },
+                    "url": "https://t.co/iO6MRJNTYR",
+                    "username": "AnIncandescence",
+                    "verified": false
+                  }
+                ],
+                "tweets": [
+                  {
+                    "article": {},
+                    "attachments": {
+                      "media_keys": [
+                        "3_2039646824374652928"
+                      ]
+                    },
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "2039333803249021405",
+                    "created_at": "2026-04-02T10:11:15.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2026-04-02T11:11:15.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "2039646836122619973"
+                    ],
+                    "entities": {
+                      "urls": [
+                        {
+                          "start": 96,
+                          "end": 119,
+                          "url": "https://t.co/jzkLbc6AOx",
+                          "expanded_url": "https://x.com/AnIncandescence/status/2039646836122619973/photo/1",
+                          "display_url": "pic.x.com/jzkLbc6AOx",
+                          "media_key": "3_2039646824374652928"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "2039646836122619973",
+                    "in_reply_to_user_id": "1741993395910811648",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 0,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 0
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "2039333803249021405"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "消毒的时候这么痛我才看清底下那里不是胶带留的胶而是伤痕。。这里医生感觉操作好不规范啊，而且从我醒了之后就在说我左腿膝盖以下没知觉到出院也没管我没做任何检查，胸痛也没管就说痒痒，嗯没死就行是吧 https://t.co/jzkLbc6AOx"
+                  },
+                  {
+                    "article": {},
+                    "attachments": {
+                      "media_keys": [
+                        "3_2039333794952683520",
+                        "3_2039333794948542464"
+                      ]
+                    },
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "2039333803249021405",
+                    "created_at": "2026-04-01T13:27:22.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2026-04-01T14:27:22.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "2039333803249021405"
+                    ],
+                    "entities": {
+                      "urls": [
+                        {
+                          "start": 132,
+                          "end": 155,
+                          "url": "https://t.co/6ZTBuBOWJe",
+                          "expanded_url": "https://x.com/AnIncandescence/status/2039333803249021405/photo/1",
+                          "display_url": "pic.x.com/6ZTBuBOWJe",
+                          "media_key": "3_2039333794952683520"
+                        },
+                        {
+                          "start": 132,
+                          "end": 155,
+                          "url": "https://t.co/6ZTBuBOWJe",
+                          "expanded_url": "https://x.com/AnIncandescence/status/2039333803249021405/photo/1",
+                          "display_url": "pic.x.com/6ZTBuBOWJe",
+                          "media_key": "3_2039333794948542464"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "2039333803249021405",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 1,
+                      "reply_count": 9,
+                      "like_count": 46,
+                      "quote_count": 0,
+                      "bookmark_count": 6,
+                      "impression_count": 2328
+                    },
+                    "reply_settings": "everyone",
+                    "text": "中心静脉置管留下了一片可观的淤青……而且主要分布在固定的小翅膀那里（？）\n拔管的时候拆线包里的剪刀太粗了，总之一通我看不到的操作然后有一股拉扯力和剧痛和我的一声惨叫。。不知道和这有没有关系。\n最后摇人拿来了手术刀片在我脖子上比划比划，然后看到拿出一根很长的管子x https://t.co/6ZTBuBOWJe"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

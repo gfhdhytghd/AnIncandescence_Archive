@@ -1,1 +1,414 @@
-{"data":{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"2025837988211757505","created_at":"2026-02-23T15:09:19.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2026-02-23T16:09:19.000Z"},"edit_history_tweet_ids":["2025951108670062904"],"entities":{"mentions":[{"start":0,"end":13,"username":"linli2755273","id":"1931724313033617408"}]},"geo":{},"id":"2025951108670062904","in_reply_to_user_id":"1931724313033617408","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"2025936251795485105"}],"reply_settings":"everyone","text":"@linli2755273 肘戒断反应和延缓耐受形成"},"includes":{"users":[{"created_at":"2024-01-02T01:22:57.000Z","description":"猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 倒影@TauCeti_10700 计划这个号机的浓度更高一些 | 🚪88/158","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/iO6MRJNTYR","expanded_url":"https://ngl.link/anincandescence1","display_url":"ngl.link/anincandescenc…"}]},"description":{"mentions":[{"start":62,"end":76,"username":"TauCeti_10700"}]}},"id":"1741993395910811648","location":"天鹅座X-1 //⬇️ 匿名提问箱","name":"炽烈已极","pinned_tweet_id":"2024076888923365667","profile_image_url":"https://pbs.twimg.com/profile_images/2006317223414255617/jGT_GZyG_normal.jpg","protected":false,"public_metrics":{"followers_count":1731,"following_count":235,"tweet_count":5940,"listed_count":5,"like_count":14340,"media_count":1070},"url":"https://t.co/iO6MRJNTYR","username":"AnIncandescence","verified":false},{"created_at":"2025-06-08T14:45:53.000Z","description":"想要一之被爱❤️ISFP-T｜男娘｜📍居住在梦和现实交界的地方 🩷 自己的身体是我的画布，每一寸都是温柔的表达 门槛30，50加V｜订阅即得心动信件 🍬 日常是软软糯糯的心情碎片，也有小情绪，需要小抱抱和陪伴 🍓 oder可聊｜认真的共鸣，不只是角色扮演 🫧 喜欢花、喜欢香味、喜欢柔光落在身上的傍晚 🖤","id":"1931724313033617408","name":"lin","profile_image_url":"https://pbs.twimg.com/profile_images/1935233151380709376/u56KW4lP_normal.jpg","protected":false,"public_metrics":{"followers_count":26,"following_count":51,"tweet_count":185,"listed_count":0,"like_count":53,"media_count":29},"username":"linli2755273","verified":false}],"tweets":[{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"2025837988211757505","created_at":"2026-02-23T15:09:19.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2026-02-23T16:09:19.000Z"},"edit_history_tweet_ids":["2025951108670062904"],"entities":{"mentions":[{"start":0,"end":13,"username":"linli2755273","id":"1931724313033617408"}]},"geo":{},"id":"2025951108670062904","in_reply_to_user_id":"1931724313033617408","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"2025936251795485105"}],"reply_settings":"everyone","text":"@linli2755273 肘戒断反应和延缓耐受形成"},{"article":{},"attachments":{},"author_id":"1931724313033617408","conversation_id":"2025837988211757505","created_at":"2026-02-23T14:10:17.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2026-02-23T15:10:17.000Z"},"edit_history_tweet_ids":["2025936251795485105"],"entities":{"mentions":[{"start":0,"end":16,"username":"AnIncandescence","id":"1741993395910811648"}]},"geo":{},"id":"2025936251795485105","in_reply_to_user_id":"1741993395910811648","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":1,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":12},"referenced_tweets":[{"type":"replied_to","id":"2025837988211757505"}],"reply_settings":"everyone","text":"@AnIncandescence ？什么效果"}]}}
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741993395910811648",
+    "conversation_id": "2025837988211757505",
+    "created_at": "2026-02-23T15:09:19.000Z",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2026-02-23T16:09:19.000Z"
+    },
+    "edit_history_tweet_ids": [
+      "2025951108670062904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 13,
+          "username": "linli2755273",
+          "id": "1931724313033617408"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025951108670062904",
+    "in_reply_to_user_id": "1931724313033617408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "2025936251795485105"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linli2755273 肘戒断反应和延缓耐受形成"
+  },
+  "includes": {
+    "users": [
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 倒影@TauCeti_10700 计划这个号机的浓度更高一些 | 🚪88/158",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/iO6MRJNTYR",
+                "expanded_url": "https://ngl.link/anincandescence1",
+                "display_url": "ngl.link/anincandescenc…"
+              }
+            ]
+          },
+          "description": {
+            "mentions": [
+              {
+                "start": 62,
+                "end": 76,
+                "username": "TauCeti_10700"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "天鹅座X-1 //⬇️ 匿名提问箱",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "2024076888923365667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006317223414255617/jGT_GZyG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1731,
+          "following_count": 235,
+          "tweet_count": 5940,
+          "listed_count": 5,
+          "like_count": 14340,
+          "media_count": 1070
+        },
+        "url": "https://t.co/iO6MRJNTYR",
+        "username": "AnIncandescence",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-08T14:45:53.000Z",
+        "description": "想要一之被爱❤️ISFP-T｜男娘｜📍居住在梦和现实交界的地方 🩷 自己的身体是我的画布，每一寸都是温柔的表达 门槛30，50加V｜订阅即得心动信件 🍬 日常是软软糯糯的心情碎片，也有小情绪，需要小抱抱和陪伴 🍓 oder可聊｜认真的共鸣，不只是角色扮演 🫧 喜欢花、喜欢香味、喜欢柔光落在身上的傍晚 🖤",
+        "id": "1931724313033617408",
+        "name": "lin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935233151380709376/u56KW4lP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 51,
+          "tweet_count": 185,
+          "listed_count": 0,
+          "like_count": 53,
+          "media_count": 29
+        },
+        "username": "linli2755273",
+        "verified": false
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741993395910811648",
+        "conversation_id": "2025837988211757505",
+        "created_at": "2026-02-23T15:09:19.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2026-02-23T16:09:19.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "2025951108670062904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 13,
+              "username": "linli2755273",
+              "id": "1931724313033617408"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025951108670062904",
+        "in_reply_to_user_id": "1931724313033617408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "2025936251795485105"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linli2755273 肘戒断反应和延缓耐受形成"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1931724313033617408",
+        "conversation_id": "2025837988211757505",
+        "created_at": "2026-02-23T14:10:17.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2026-02-23T15:10:17.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "2025936251795485105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 16,
+              "username": "AnIncandescence",
+              "id": "1741993395910811648"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025936251795485105",
+        "in_reply_to_user_id": "1741993395910811648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "2025837988211757505"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnIncandescence ？什么效果"
+      }
+    ]
+  },
+  "_pale_fire": {
+    "x_api_reply_chains": {
+      "2025837988211757505": {
+        "version": 1,
+        "fetched_at": "2026-04-18T01:30:53Z",
+        "max_depth": 63,
+        "posts": [
+          {
+            "id": "2025837988211757505",
+            "source": "local_json",
+            "payload": {
+              "data": {
+                "article": {},
+                "attachments": {
+                  "media_keys": [
+                    "3_2025837967462567936",
+                    "3_2025837967416377344"
+                  ]
+                },
+                "author_id": "1741993395910811648",
+                "conversation_id": "2025837988211757505",
+                "created_at": "2026-02-23T07:39:49.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": true,
+                  "editable_until": "2026-02-23T08:39:49.000Z"
+                },
+                "edit_history_tweet_ids": [
+                  "2025837988211757505"
+                ],
+                "entities": {
+                  "urls": [
+                    {
+                      "start": 102,
+                      "end": 125,
+                      "url": "https://t.co/cX7ZfH3ok0",
+                      "expanded_url": "https://x.com/AnIncandescence/status/2025837988211757505/photo/1",
+                      "display_url": "pic.x.com/cX7ZfH3ok0",
+                      "media_key": "3_2025837967462567936"
+                    },
+                    {
+                      "start": 102,
+                      "end": 125,
+                      "url": "https://t.co/cX7ZfH3ok0",
+                      "expanded_url": "https://x.com/AnIncandescence/status/2025837988211757505/photo/1",
+                      "display_url": "pic.x.com/cX7ZfH3ok0",
+                      "media_key": "3_2025837967416377344"
+                    }
+                  ]
+                },
+                "geo": {},
+                "id": "2025837988211757505",
+                "lang": "zh",
+                "note_tweet": {
+                  "entities": {}
+                },
+                "possibly_sensitive": false,
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 0
+                },
+                "reply_settings": "everyone",
+                "text": "嗯配好了…7.5%乙醇防腐，1ml=10ug纳曲酮，是约1mg溶解在10ml医用酒精再加入90ml生理盐水稀释。常温保存应该就没问题了\n\n因为拔不开p2的塞子所以被迫用注射器配药（）不过也好至少这样无菌 https://t.co/cX7ZfH3ok0"
+              },
+              "includes": {
+                "media": [
+                  {
+                    "height": 4032,
+                    "media_key": "3_2025837967462567936",
+                    "public_metrics": {},
+                    "type": "photo",
+                    "url": "https://pbs.twimg.com/media/HB045ecbEAAIl0d.jpg",
+                    "width": 3024
+                  },
+                  {
+                    "height": 4032,
+                    "media_key": "3_2025837967416377344",
+                    "public_metrics": {},
+                    "type": "photo",
+                    "url": "https://pbs.twimg.com/media/HB045eRaQAA3sby.jpg",
+                    "width": 3024
+                  }
+                ],
+                "users": [
+                  {
+                    "created_at": "2024-01-02T01:22:57.000Z",
+                    "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 倒影@TauCeti_10700 计划这个号机的浓度更高一些 | 🚪88/158",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/iO6MRJNTYR",
+                            "expanded_url": "https://ngl.link/anincandescence1",
+                            "display_url": "ngl.link/anincandescenc…"
+                          }
+                        ]
+                      },
+                      "description": {
+                        "mentions": [
+                          {
+                            "start": 62,
+                            "end": 76,
+                            "username": "TauCeti_10700"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1741993395910811648",
+                    "location": "天鹅座X-1 //⬇️ 匿名提问箱",
+                    "name": "炽烈已极",
+                    "pinned_tweet_id": "2024076888923365667",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2006317223414255617/jGT_GZyG_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 1726,
+                      "following_count": 235,
+                      "tweet_count": 5924,
+                      "listed_count": 5,
+                      "like_count": 14292,
+                      "media_count": 1068
+                    },
+                    "url": "https://t.co/iO6MRJNTYR",
+                    "username": "AnIncandescence",
+                    "verified": false
+                  }
+                ],
+                "tweets": [
+                  {
+                    "article": {},
+                    "attachments": {
+                      "media_keys": [
+                        "3_2025837967462567936",
+                        "3_2025837967416377344"
+                      ]
+                    },
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "2025837988211757505",
+                    "created_at": "2026-02-23T07:39:49.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": true,
+                      "editable_until": "2026-02-23T08:39:49.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "2025837988211757505"
+                    ],
+                    "entities": {
+                      "urls": [
+                        {
+                          "start": 102,
+                          "end": 125,
+                          "url": "https://t.co/cX7ZfH3ok0",
+                          "expanded_url": "https://x.com/AnIncandescence/status/2025837988211757505/photo/1",
+                          "display_url": "pic.x.com/cX7ZfH3ok0",
+                          "media_key": "3_2025837967462567936"
+                        },
+                        {
+                          "start": 102,
+                          "end": 125,
+                          "url": "https://t.co/cX7ZfH3ok0",
+                          "expanded_url": "https://x.com/AnIncandescence/status/2025837988211757505/photo/1",
+                          "display_url": "pic.x.com/cX7ZfH3ok0",
+                          "media_key": "3_2025837967416377344"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "2025837988211757505",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 0,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 0
+                    },
+                    "reply_settings": "everyone",
+                    "text": "嗯配好了…7.5%乙醇防腐，1ml=10ug纳曲酮，是约1mg溶解在10ml医用酒精再加入90ml生理盐水稀释。常温保存应该就没问题了\n\n因为拔不开p2的塞子所以被迫用注射器配药（）不过也好至少这样无菌 https://t.co/cX7ZfH3ok0"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

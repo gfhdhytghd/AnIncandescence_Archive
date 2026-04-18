@@ -1,1 +1,369 @@
-{"data":{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1923089145770999984","created_at":"2025-05-15T21:47:51.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-05-15T22:47:51.000Z"},"edit_history_tweet_ids":["1923133249548648736"],"entities":{"mentions":[{"start":0,"end":10,"username":"misakixyg","id":"1870442976377503744"}]},"geo":{},"id":"1923133249548648736","in_reply_to_user_id":"1870442976377503744","lang":"ja","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1923112589053018224"}],"reply_settings":"everyone","text":"@misakixyg 就是喝的那瓶，百香果味的"},"includes":{"users":[{"created_at":"2024-01-02T01:22:57.000Z","description":"猫，诗歌，精神动力学。艺术，C#，波粒二象性。不断寻找着广播塔的星际候鸟。 | 求式性 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158 | ⚠️目前没有售卖的商品","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/MuEKSg4tIS","expanded_url":"https://ngl.link/anincandescence","display_url":"ngl.link/anincandescence"}]}},"id":"1741993395910811648","location":"夜航忒修斯","name":"炽烈已极","profile_image_url":"https://pbs.twimg.com/profile_images/1789433740277567488/d3KhwUX1_normal.jpg","protected":false,"public_metrics":{"followers_count":940,"following_count":197,"tweet_count":2755,"listed_count":1,"like_count":7743,"media_count":560},"url":"https://t.co/MuEKSg4tIS","username":"AnIncandescence","verified":false},{"created_at":"2024-12-21T12:15:41.000Z","description":"三崎在极度奔溃中创建的第三个账号，大半夜把自己笑活","id":"1870442976377503744","name":"三崎三世（","pinned_tweet_id":"1905939160793493825","profile_image_url":"https://pbs.twimg.com/profile_images/1883156061550747648/iNlSdsvH_normal.jpg","protected":false,"public_metrics":{"followers_count":1936,"following_count":796,"tweet_count":2282,"listed_count":2,"like_count":7997,"media_count":98},"username":"misakixyg","verified":false}],"tweets":[{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1923089145770999984","created_at":"2025-05-15T21:47:51.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-05-15T22:47:51.000Z"},"edit_history_tweet_ids":["1923133249548648736"],"entities":{"mentions":[{"start":0,"end":10,"username":"misakixyg","id":"1870442976377503744"}]},"geo":{},"id":"1923133249548648736","in_reply_to_user_id":"1870442976377503744","lang":"ja","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1923112589053018224"}],"reply_settings":"everyone","text":"@misakixyg 就是喝的那瓶，百香果味的"},{"article":{},"attachments":{},"author_id":"1870442976377503744","conversation_id":"1923089145770999984","created_at":"2025-05-15T20:25:45.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-05-15T21:25:45.000Z"},"edit_history_tweet_ids":["1923112589053018224"],"entities":{"mentions":[{"start":0,"end":16,"username":"AnIncandescence","id":"1741993395910811648"}]},"geo":{},"id":"1923112589053018224","in_reply_to_user_id":"1741993395910811648","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":1,"like_count":1,"quote_count":0,"bookmark_count":0,"impression_count":12},"referenced_tweets":[{"type":"replied_to","id":"1923089145770999984"}],"reply_settings":"everyone","text":"@AnIncandescence 旁边那瓶看起来挺好喝"}]}}
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741993395910811648",
+    "conversation_id": "1923089145770999984",
+    "created_at": "2025-05-15T21:47:51.000Z",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2025-05-15T22:47:51.000Z"
+    },
+    "edit_history_tweet_ids": [
+      "1923133249548648736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 10,
+          "username": "misakixyg",
+          "id": "1870442976377503744"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923133249548648736",
+    "in_reply_to_user_id": "1870442976377503744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1923112589053018224"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@misakixyg 就是喝的那瓶，百香果味的"
+  },
+  "includes": {
+    "users": [
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，C#，波粒二象性。不断寻找着广播塔的星际候鸟。 | 求式性 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158 | ⚠️目前没有售卖的商品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/MuEKSg4tIS",
+                "expanded_url": "https://ngl.link/anincandescence",
+                "display_url": "ngl.link/anincandescence"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "夜航忒修斯",
+        "name": "炽烈已极",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789433740277567488/d3KhwUX1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 940,
+          "following_count": 197,
+          "tweet_count": 2755,
+          "listed_count": 1,
+          "like_count": 7743,
+          "media_count": 560
+        },
+        "url": "https://t.co/MuEKSg4tIS",
+        "username": "AnIncandescence",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-21T12:15:41.000Z",
+        "description": "三崎在极度奔溃中创建的第三个账号，大半夜把自己笑活",
+        "id": "1870442976377503744",
+        "name": "三崎三世（",
+        "pinned_tweet_id": "1905939160793493825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883156061550747648/iNlSdsvH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1936,
+          "following_count": 796,
+          "tweet_count": 2282,
+          "listed_count": 2,
+          "like_count": 7997,
+          "media_count": 98
+        },
+        "username": "misakixyg",
+        "verified": false
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741993395910811648",
+        "conversation_id": "1923089145770999984",
+        "created_at": "2025-05-15T21:47:51.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2025-05-15T22:47:51.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1923133249548648736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 10,
+              "username": "misakixyg",
+              "id": "1870442976377503744"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923133249548648736",
+        "in_reply_to_user_id": "1870442976377503744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1923112589053018224"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misakixyg 就是喝的那瓶，百香果味的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870442976377503744",
+        "conversation_id": "1923089145770999984",
+        "created_at": "2025-05-15T20:25:45.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2025-05-15T21:25:45.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1923112589053018224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 16,
+              "username": "AnIncandescence",
+              "id": "1741993395910811648"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923112589053018224",
+        "in_reply_to_user_id": "1741993395910811648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1923089145770999984"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnIncandescence 旁边那瓶看起来挺好喝"
+      }
+    ]
+  },
+  "_pale_fire": {
+    "x_api_reply_chains": {
+      "1923089145770999984": {
+        "version": 1,
+        "fetched_at": "2026-04-18T00:15:20Z",
+        "max_depth": 63,
+        "posts": [
+          {
+            "id": "1923089145770999984",
+            "source": "local_json",
+            "payload": {
+              "data": {
+                "article": {},
+                "attachments": {
+                  "media_keys": [
+                    "3_1923089135289479168"
+                  ]
+                },
+                "author_id": "1741993395910811648",
+                "conversation_id": "1923089145770999984",
+                "created_at": "2025-05-15T18:52:36.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": true,
+                  "editable_until": "2025-05-15T19:52:36.000Z"
+                },
+                "edit_history_tweet_ids": [
+                  "1923089145770999984"
+                ],
+                "entities": {
+                  "urls": [
+                    {
+                      "start": 48,
+                      "end": 71,
+                      "url": "https://t.co/HnGHz0jQ2C",
+                      "expanded_url": "https://x.com/AnIncandescence/status/1923089145770999984/photo/1",
+                      "display_url": "pic.x.com/HnGHz0jQ2C",
+                      "media_key": "3_1923089135289479168"
+                    }
+                  ]
+                },
+                "geo": {},
+                "id": "1923089145770999984",
+                "lang": "zh",
+                "note_tweet": {
+                  "entities": {}
+                },
+                "possibly_sensitive": false,
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 0
+                },
+                "reply_settings": "everyone",
+                "text": "在超市看到了粉色的红牛（？）\n\n忙得能量饮料当饭。。好累\n这两天没心思回药物咨询我已经快似了🥲 https://t.co/HnGHz0jQ2C"
+              },
+              "includes": {
+                "media": [
+                  {
+                    "height": 4032,
+                    "media_key": "3_1923089135289479168",
+                    "public_metrics": {},
+                    "type": "photo",
+                    "url": "https://pbs.twimg.com/media/GrAvYSxXsAAuBh2.jpg",
+                    "width": 3024
+                  }
+                ],
+                "users": [
+                  {
+                    "created_at": "2024-01-02T01:22:57.000Z",
+                    "description": "猫，诗歌，精神动力学。艺术，C#，波粒二象性。不断寻找着广播塔的星际候鸟。 | 求式性 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158 | ⚠️目前没有售卖的商品",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/MuEKSg4tIS",
+                            "expanded_url": "https://ngl.link/anincandescence",
+                            "display_url": "ngl.link/anincandescence"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1741993395910811648",
+                    "location": "夜航忒修斯",
+                    "name": "炽烈已极",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1789433740277567488/d3KhwUX1_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 940,
+                      "following_count": 197,
+                      "tweet_count": 2753,
+                      "listed_count": 1,
+                      "like_count": 7741,
+                      "media_count": 560
+                    },
+                    "url": "https://t.co/MuEKSg4tIS",
+                    "username": "AnIncandescence",
+                    "verified": false
+                  }
+                ],
+                "tweets": [
+                  {
+                    "article": {},
+                    "attachments": {
+                      "media_keys": [
+                        "3_1923089135289479168"
+                      ]
+                    },
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "1923089145770999984",
+                    "created_at": "2025-05-15T18:52:36.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": true,
+                      "editable_until": "2025-05-15T19:52:36.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "1923089145770999984"
+                    ],
+                    "entities": {
+                      "urls": [
+                        {
+                          "start": 48,
+                          "end": 71,
+                          "url": "https://t.co/HnGHz0jQ2C",
+                          "expanded_url": "https://x.com/AnIncandescence/status/1923089145770999984/photo/1",
+                          "display_url": "pic.x.com/HnGHz0jQ2C",
+                          "media_key": "3_1923089135289479168"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "1923089145770999984",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 0,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 0
+                    },
+                    "reply_settings": "everyone",
+                    "text": "在超市看到了粉色的红牛（？）\n\n忙得能量饮料当饭。。好累\n这两天没心思回药物咨询我已经快似了🥲 https://t.co/HnGHz0jQ2C"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

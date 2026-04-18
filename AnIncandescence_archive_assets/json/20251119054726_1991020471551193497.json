@@ -1,1 +1,364 @@
-{"data":{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1991015880508002766","created_at":"2025-11-19T05:47:26.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-11-19T06:47:26.000Z"},"edit_history_tweet_ids":["1991020471551193497"],"entities":{"mentions":[{"start":0,"end":14,"username":"Kumamushi2021","id":"1437034228768595977"}]},"geo":{},"id":"1991020471551193497","in_reply_to_user_id":"1437034228768595977","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1991019061464179007"}],"reply_settings":"everyone","text":"@Kumamushi2021 w其实这是针.割成这样的话可以想象预后会让我非常痛苦..."},"includes":{"users":[{"created_at":"2024-01-02T01:22:57.000Z","description":"猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/iO6MRJNm9j","expanded_url":"https://ngl.link/anincandescence1","display_url":"ngl.link/anincandescenc…"}]}},"id":"1741993395910811648","location":"天鹅座X-1","name":"炽烈已极","pinned_tweet_id":"1976277813784457417","profile_image_url":"https://pbs.twimg.com/profile_images/1967287311504465922/Z7d-hW5p_normal.jpg","protected":false,"public_metrics":{"followers_count":1289,"following_count":212,"tweet_count":4383,"listed_count":3,"like_count":11369,"media_count":853},"url":"https://t.co/iO6MRJNm9j","username":"AnIncandescence","verified":false},{"created_at":"2021-09-12T12:43:59.000Z","description":"欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/害怕人群/废话很多","id":"1437034228768595977","location":"你的身旁","name":"🥛💤","pinned_tweet_id":"1839611665257824656","profile_image_url":"https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg","protected":false,"public_metrics":{"followers_count":72,"following_count":80,"tweet_count":1363,"listed_count":1,"like_count":2543,"media_count":118},"username":"Kumamushi2021","verified":false}],"tweets":[{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1991015880508002766","created_at":"2025-11-19T05:47:26.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-11-19T06:47:26.000Z"},"edit_history_tweet_ids":["1991020471551193497"],"entities":{"mentions":[{"start":0,"end":14,"username":"Kumamushi2021","id":"1437034228768595977"}]},"geo":{},"id":"1991020471551193497","in_reply_to_user_id":"1437034228768595977","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1991019061464179007"}],"reply_settings":"everyone","text":"@Kumamushi2021 w其实这是针.割成这样的话可以想象预后会让我非常痛苦..."},{"article":{},"attachments":{},"author_id":"1437034228768595977","conversation_id":"1991015880508002766","created_at":"2025-11-19T05:41:50.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-11-19T06:41:50.000Z"},"edit_history_tweet_ids":["1991019061464179007"],"entities":{"mentions":[{"start":0,"end":16,"username":"AnIncandescence","id":"1741993395910811648"}]},"geo":{},"id":"1991019061464179007","in_reply_to_user_id":"1741993395910811648","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":1,"like_count":1,"quote_count":0,"bookmark_count":0,"impression_count":7},"referenced_tweets":[{"type":"replied_to","id":"1991015880508002766"}],"reply_settings":"everyone","text":"@AnIncandescence 炽老师好像最近很频繁地划开手臂…注意消毒喔🥺"}]}}
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741993395910811648",
+    "conversation_id": "1991015880508002766",
+    "created_at": "2025-11-19T05:47:26.000Z",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2025-11-19T06:47:26.000Z"
+    },
+    "edit_history_tweet_ids": [
+      "1991020471551193497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "Kumamushi2021",
+          "id": "1437034228768595977"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991020471551193497",
+    "in_reply_to_user_id": "1437034228768595977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1991019061464179007"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kumamushi2021 w其实这是针.割成这样的话可以想象预后会让我非常痛苦..."
+  },
+  "includes": {
+    "users": [
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/iO6MRJNm9j",
+                "expanded_url": "https://ngl.link/anincandescence1",
+                "display_url": "ngl.link/anincandescenc…"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "天鹅座X-1",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "1976277813784457417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967287311504465922/Z7d-hW5p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1289,
+          "following_count": 212,
+          "tweet_count": 4383,
+          "listed_count": 3,
+          "like_count": 11369,
+          "media_count": 853
+        },
+        "url": "https://t.co/iO6MRJNm9j",
+        "username": "AnIncandescence",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/害怕人群/废话很多",
+        "id": "1437034228768595977",
+        "location": "你的身旁",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 80,
+          "tweet_count": 1363,
+          "listed_count": 1,
+          "like_count": 2543,
+          "media_count": 118
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741993395910811648",
+        "conversation_id": "1991015880508002766",
+        "created_at": "2025-11-19T05:47:26.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2025-11-19T06:47:26.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1991020471551193497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 14,
+              "username": "Kumamushi2021",
+              "id": "1437034228768595977"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991020471551193497",
+        "in_reply_to_user_id": "1437034228768595977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1991019061464179007"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kumamushi2021 w其实这是针.割成这样的话可以想象预后会让我非常痛苦..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "1991015880508002766",
+        "created_at": "2025-11-19T05:41:50.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2025-11-19T06:41:50.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1991019061464179007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 16,
+              "username": "AnIncandescence",
+              "id": "1741993395910811648"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991019061464179007",
+        "in_reply_to_user_id": "1741993395910811648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1991015880508002766"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnIncandescence 炽老师好像最近很频繁地划开手臂…注意消毒喔🥺"
+      }
+    ]
+  },
+  "_pale_fire": {
+    "x_api_reply_chains": {
+      "1991015880508002766": {
+        "version": 1,
+        "fetched_at": "2026-04-18T01:09:54Z",
+        "max_depth": 63,
+        "posts": [
+          {
+            "id": "1991015880508002766",
+            "source": "local_json",
+            "payload": {
+              "data": {
+                "article": {},
+                "attachments": {
+                  "media_keys": [
+                    "3_1991015875088928769",
+                    "3_1991015875097362432"
+                  ]
+                },
+                "author_id": "1741993395910811648",
+                "context_annotations": [
+                  {
+                    "domain": {
+                      "id": "46",
+                      "name": "Business Taxonomy",
+                      "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                      "id": "1557696888568045569",
+                      "name": "Food & Beverage Business",
+                      "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers."
+                    }
+                  }
+                ],
+                "conversation_id": "1991015880508002766",
+                "created_at": "2025-11-19T05:29:11.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": true,
+                  "editable_until": "2025-11-19T06:29:11.000Z"
+                },
+                "edit_history_tweet_ids": [
+                  "1991015880508002766"
+                ],
+                "entities": {
+                  "urls": [
+                    {
+                      "start": 22,
+                      "end": 45,
+                      "url": "https://t.co/yqOeIRtDVZ",
+                      "expanded_url": "https://x.com/AnIncandescence/status/1991015880508002766/photo/1",
+                      "display_url": "pic.x.com/yqOeIRtDVZ",
+                      "media_key": "3_1991015875088928769"
+                    },
+                    {
+                      "start": 22,
+                      "end": 45,
+                      "url": "https://t.co/yqOeIRtDVZ",
+                      "expanded_url": "https://x.com/AnIncandescence/status/1991015880508002766/photo/1",
+                      "display_url": "pic.x.com/yqOeIRtDVZ",
+                      "media_key": "3_1991015875097362432"
+                    }
+                  ]
+                },
+                "geo": {},
+                "id": "1991015880508002766",
+                "lang": "zh",
+                "note_tweet": {
+                  "entities": {}
+                },
+                "possibly_sensitive": false,
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 0
+                },
+                "reply_settings": "everyone",
+                "text": "前几天的图 觉得p1分层的纹理有点好看.. https://t.co/yqOeIRtDVZ"
+              },
+              "includes": {
+                "media": [
+                  {
+                    "height": 2048,
+                    "media_key": "3_1991015875088928769",
+                    "public_metrics": {},
+                    "type": "photo",
+                    "url": "https://pbs.twimg.com/media/G6GCY7jW0AEBwd-.jpg",
+                    "width": 1536
+                  },
+                  {
+                    "height": 2048,
+                    "media_key": "3_1991015875097362432",
+                    "public_metrics": {},
+                    "type": "photo",
+                    "url": "https://pbs.twimg.com/media/G6GCY7lXgAAU5dw.jpg",
+                    "width": 1446
+                  }
+                ],
+                "users": [
+                  {
+                    "created_at": "2024-01-02T01:22:57.000Z",
+                    "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/iO6MRJNm9j",
+                            "expanded_url": "https://ngl.link/anincandescence1",
+                            "display_url": "ngl.link/anincandescenc…"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1741993395910811648",
+                    "location": "天鹅座X-1",
+                    "name": "炽烈已极",
+                    "pinned_tweet_id": "1976277813784457417",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1967287311504465922/Z7d-hW5p_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 1289,
+                      "following_count": 212,
+                      "tweet_count": 4381,
+                      "listed_count": 3,
+                      "like_count": 11364,
+                      "media_count": 852
+                    },
+                    "url": "https://t.co/iO6MRJNm9j",
+                    "username": "AnIncandescence",
+                    "verified": false
+                  }
+                ]
+              },
+              "errors": [
+                {
+                  "value": "1991015880508002766",
+                  "detail": "Could not find tweet with edit_history_tweet_ids: [1991015880508002766].",
+                  "title": "Not Found Error",
+                  "resource_type": "tweet",
+                  "parameter": "edit_history_tweet_ids",
+                  "resource_id": "1991015880508002766",
+                  "type": "https://api.twitter.com/2/problems/resource-not-found"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  }
+}

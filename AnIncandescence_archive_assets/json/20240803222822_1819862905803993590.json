@@ -1,1 +1,1030 @@
-{"data":{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1819463214587171119","created_at":"2024-08-03T22:28:22.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2024-08-03T23:28:22.000Z"},"edit_history_tweet_ids":["1819862905803993590"],"entities":{"mentions":[{"start":0,"end":16,"username":"6xocxRPFdjF84Vo","id":"1442077789155299334"}]},"geo":{},"id":"1819862905803993590","in_reply_to_user_id":"1442077789155299334","lang":"zh","possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1819854852413182142"}],"reply_settings":"everyone","text":"@6xocxRPFdjF84Vo 碳酸锂...想想就很难吃，摸摸"},"includes":{"users":[{"created_at":"2024-01-02T01:22:57.000Z","description":"互fo欢迎！ 猫，诗歌，精神动力学。艺术，C#，波粒二象性。回归曲线上的量子生物，无攻击性。提问箱👇","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/MuEKSg3VTk","expanded_url":"https://ngl.link/anincandescence","display_url":"ngl.link/anincandescence"}]}},"id":"1741993395910811648","location":"0°00′N 260°00′E Mars","name":"炽烈已极","pinned_tweet_id":"1817246358148989434","profile_image_url":"https://pbs.twimg.com/profile_images/1789433740277567488/d3KhwUX1_normal.jpg","protected":false,"public_metrics":{"followers_count":194,"following_count":136,"tweet_count":913,"listed_count":0,"like_count":2952},"url":"https://t.co/MuEKSg3VTk","username":"AnIncandescence","verified":false},{"created_at":"2021-09-26T10:45:23.000Z","description":"甜品重度爱好者/喜欢做饭喜欢美食/偶尔情绪不稳定/励志向甜品的顶峰前进","id":"1442077789155299334","location":"北大六院","name":"呱呱呱","profile_image_url":"https://pbs.twimg.com/profile_images/1446392440626106369/S9NGgJUJ_normal.jpg","protected":false,"public_metrics":{"followers_count":42,"following_count":117,"tweet_count":379,"listed_count":0,"like_count":351},"username":"6xocxRPFdjF84Vo","verified":false}],"tweets":[{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1819463214587171119","created_at":"2024-08-03T22:28:22.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2024-08-03T23:28:22.000Z"},"edit_history_tweet_ids":["1819862905803993590"],"entities":{"mentions":[{"start":0,"end":16,"username":"6xocxRPFdjF84Vo","id":"1442077789155299334"}]},"geo":{},"id":"1819862905803993590","in_reply_to_user_id":"1442077789155299334","lang":"zh","possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1819854852413182142"}],"reply_settings":"everyone","text":"@6xocxRPFdjF84Vo 碳酸锂...想想就很难吃，摸摸"},{"article":{},"attachments":{},"author_id":"1442077789155299334","conversation_id":"1819463214587171119","created_at":"2024-08-03T21:56:22.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2024-08-03T22:56:22.000Z"},"edit_history_tweet_ids":["1819854852413182142"],"entities":{"mentions":[{"start":0,"end":16,"username":"AnIncandescence","id":"1741993395910811648"}]},"geo":{},"id":"1819854852413182142","in_reply_to_user_id":"1741993395910811648","lang":"zh","possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":1,"like_count":1,"quote_count":0,"bookmark_count":0,"impression_count":9},"referenced_tweets":[{"type":"replied_to","id":"1819728850894336378"}],"reply_settings":"everyone","text":"@AnIncandescence 啊啊啊我现在看见药片就想吐🤮，可能因为我之前把50片碳酸锂含化了的那个味道终生难忘"}]}}
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741993395910811648",
+    "conversation_id": "1819463214587171119",
+    "created_at": "2024-08-03T22:28:22.000Z",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2024-08-03T23:28:22.000Z"
+    },
+    "edit_history_tweet_ids": [
+      "1819862905803993590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 16,
+          "username": "6xocxRPFdjF84Vo",
+          "id": "1442077789155299334"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1819862905803993590",
+    "in_reply_to_user_id": "1442077789155299334",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1819854852413182142"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@6xocxRPFdjF84Vo 碳酸锂...想想就很难吃，摸摸"
+  },
+  "includes": {
+    "users": [
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "互fo欢迎！ 猫，诗歌，精神动力学。艺术，C#，波粒二象性。回归曲线上的量子生物，无攻击性。提问箱👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/MuEKSg3VTk",
+                "expanded_url": "https://ngl.link/anincandescence",
+                "display_url": "ngl.link/anincandescence"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "0°00′N 260°00′E Mars",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "1817246358148989434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789433740277567488/d3KhwUX1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 136,
+          "tweet_count": 913,
+          "listed_count": 0,
+          "like_count": 2952
+        },
+        "url": "https://t.co/MuEKSg3VTk",
+        "username": "AnIncandescence",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-26T10:45:23.000Z",
+        "description": "甜品重度爱好者/喜欢做饭喜欢美食/偶尔情绪不稳定/励志向甜品的顶峰前进",
+        "id": "1442077789155299334",
+        "location": "北大六院",
+        "name": "呱呱呱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1446392440626106369/S9NGgJUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 117,
+          "tweet_count": 379,
+          "listed_count": 0,
+          "like_count": 351
+        },
+        "username": "6xocxRPFdjF84Vo",
+        "verified": false
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741993395910811648",
+        "conversation_id": "1819463214587171119",
+        "created_at": "2024-08-03T22:28:22.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2024-08-03T23:28:22.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1819862905803993590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 16,
+              "username": "6xocxRPFdjF84Vo",
+              "id": "1442077789155299334"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819862905803993590",
+        "in_reply_to_user_id": "1442077789155299334",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1819854852413182142"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@6xocxRPFdjF84Vo 碳酸锂...想想就很难吃，摸摸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442077789155299334",
+        "conversation_id": "1819463214587171119",
+        "created_at": "2024-08-03T21:56:22.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2024-08-03T22:56:22.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1819854852413182142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 16,
+              "username": "AnIncandescence",
+              "id": "1741993395910811648"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819854852413182142",
+        "in_reply_to_user_id": "1741993395910811648",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1819728850894336378"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnIncandescence 啊啊啊我现在看见药片就想吐🤮，可能因为我之前把50片碳酸锂含化了的那个味道终生难忘"
+      }
+    ]
+  },
+  "_pale_fire": {
+    "x_api_reply_chains": {
+      "1819728850894336378": {
+        "version": 1,
+        "fetched_at": "2026-04-17T23:58:56Z",
+        "max_depth": 63,
+        "posts": [
+          {
+            "id": "1819728850894336378",
+            "source": "local_json",
+            "payload": {
+              "data": {
+                "article": {},
+                "attachments": {},
+                "author_id": "1741993395910811648",
+                "conversation_id": "1819463214587171119",
+                "created_at": "2024-08-03T13:35:41.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2024-08-03T14:35:41.000Z"
+                },
+                "edit_history_tweet_ids": [
+                  "1819728850894336378"
+                ],
+                "entities": {},
+                "geo": {},
+                "id": "1819728850894336378",
+                "in_reply_to_user_id": "1741993395910811648",
+                "lang": "zh",
+                "possibly_sensitive": false,
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 0
+                },
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "1819468463456620646"
+                  }
+                ],
+                "reply_settings": "everyone",
+                "text": "已知阿普唑仑对伴有恶心呕吐症状的过量有额外作用，它本身有联用其他药物治疗化疗引起的恶心的用途。"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "created_at": "2024-01-02T01:22:57.000Z",
+                    "description": "互fo欢迎！ 猫，诗歌，精神动力学。艺术，C#，波粒二象性。回归曲线上的量子生物，无攻击性。提问箱👇",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/MuEKSg3VTk",
+                            "expanded_url": "https://ngl.link/anincandescence",
+                            "display_url": "ngl.link/anincandescence"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1741993395910811648",
+                    "location": "0°00′N 260°00′E Mars",
+                    "name": "炽烈已极",
+                    "pinned_tweet_id": "1817246358148989434",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1789433740277567488/d3KhwUX1_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 192,
+                      "following_count": 135,
+                      "tweet_count": 906,
+                      "listed_count": 0,
+                      "like_count": 2902
+                    },
+                    "url": "https://t.co/MuEKSg3VTk",
+                    "username": "AnIncandescence",
+                    "verified": false
+                  }
+                ],
+                "tweets": [
+                  {
+                    "article": {},
+                    "attachments": {},
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "1819463214587171119",
+                    "created_at": "2024-08-03T13:35:41.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2024-08-03T14:35:41.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "1819728850894336378"
+                    ],
+                    "entities": {},
+                    "geo": {},
+                    "id": "1819728850894336378",
+                    "in_reply_to_user_id": "1741993395910811648",
+                    "lang": "zh",
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 0,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 0
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "1819468463456620646"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "已知阿普唑仑对伴有恶心呕吐症状的过量有额外作用，它本身有联用其他药物治疗化疗引起的恶心的用途。"
+                  },
+                  {
+                    "article": {},
+                    "attachments": {
+                      "media_keys": [
+                        "3_1819468458871930880"
+                      ]
+                    },
+                    "author_id": "1741993395910811648",
+                    "context_annotations": [
+                      {
+                        "domain": {
+                          "id": "131",
+                          "name": "Unified Twitter Taxonomy",
+                          "description": "A taxonomy of user interests. "
+                        },
+                        "entity": {
+                          "id": "854692455005921281",
+                          "name": "Science",
+                          "description": "Science"
+                        }
+                      }
+                    ],
+                    "conversation_id": "1819463214587171119",
+                    "created_at": "2024-08-02T20:21:00.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2024-08-02T21:21:00.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "1819468463456620646"
+                    ],
+                    "entities": {
+                      "urls": [
+                        {
+                          "start": 47,
+                          "end": 70,
+                          "url": "https://t.co/Z1mc5JJGrg",
+                          "expanded_url": "https://twitter.com/AnIncandescence/status/1819468463456620646/photo/1",
+                          "display_url": "pic.twitter.com/Z1mc5JJGrg",
+                          "media_key": "3_1819468458871930880"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "1819468463456620646",
+                    "in_reply_to_user_id": "1741993395910811648",
+                    "lang": "zh",
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 1,
+                      "like_count": 2,
+                      "quote_count": 0,
+                      "bookmark_count": 1,
+                      "impression_count": 128
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "1819463214587171119"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "苯二氮卓类药物：镇静作用。bzd通过提高内源性化学物质GABA的有效性来降低神经元的兴奋性。 https://t.co/Z1mc5JJGrg"
+                  }
+                ]
+              },
+              "_pale_fire": {
+                "x_api_reply_chains": {
+                  "1819463214587171119": {
+                    "version": 1,
+                    "fetched_at": "2026-04-17T23:58:56Z",
+                    "max_depth": 63,
+                    "posts": [
+                      {
+                        "id": "1819463214587171119",
+                        "source": "local_json",
+                        "payload": {
+                          "data": {
+                            "article": {},
+                            "attachments": {},
+                            "author_id": "1741993395910811648",
+                            "conversation_id": "1819463214587171119",
+                            "created_at": "2024-08-03T13:24:32.000Z",
+                            "edit_controls": {
+                              "edits_remaining": 5,
+                              "is_edit_eligible": false,
+                              "editable_until": "2024-08-03T14:24:32.000Z"
+                            },
+                            "edit_history_tweet_ids": [
+                              "1819726045848769000"
+                            ],
+                            "entities": {},
+                            "geo": {},
+                            "id": "1819726045848769000",
+                            "in_reply_to_user_id": "1741993395910811648",
+                            "lang": "zh",
+                            "possibly_sensitive": false,
+                            "public_metrics": {
+                              "retweet_count": 0,
+                              "reply_count": 0,
+                              "like_count": 0,
+                              "quote_count": 0,
+                              "bookmark_count": 0,
+                              "impression_count": 0
+                            },
+                            "referenced_tweets": [
+                              {
+                                "type": "replied_to",
+                                "id": "1819463214587171119"
+                              }
+                            ],
+                            "reply_settings": "everyone",
+                            "text": "阿托品：抗胆碱能药物（副交感神经阻断药），类似的还有东莨菪碱，苯海拉明，吩噻嗪类抗精神病药等。\n可用于反制胆碱能药物过量（如多奈哌齐，石杉碱甲）"
+                          },
+                          "includes": {
+                            "users": [
+                              {
+                                "created_at": "2024-01-02T01:22:57.000Z",
+                                "description": "互fo欢迎！ 猫，诗歌，精神动力学。艺术，C#，波粒二象性。回归曲线上的量子生物，无攻击性。提问箱👇",
+                                "entities": {
+                                  "url": {
+                                    "urls": [
+                                      {
+                                        "start": 0,
+                                        "end": 23,
+                                        "url": "https://t.co/MuEKSg3VTk",
+                                        "expanded_url": "https://ngl.link/anincandescence",
+                                        "display_url": "ngl.link/anincandescence"
+                                      }
+                                    ]
+                                  }
+                                },
+                                "id": "1741993395910811648",
+                                "location": "0°00′N 260°00′E Mars",
+                                "name": "炽烈已极",
+                                "pinned_tweet_id": "1817246358148989434",
+                                "profile_image_url": "https://pbs.twimg.com/profile_images/1789433740277567488/d3KhwUX1_normal.jpg",
+                                "protected": false,
+                                "public_metrics": {
+                                  "followers_count": 192,
+                                  "following_count": 135,
+                                  "tweet_count": 905,
+                                  "listed_count": 0,
+                                  "like_count": 2902
+                                },
+                                "url": "https://t.co/MuEKSg3VTk",
+                                "username": "AnIncandescence",
+                                "verified": false
+                              }
+                            ],
+                            "tweets": [
+                              {
+                                "article": {},
+                                "attachments": {},
+                                "author_id": "1741993395910811648",
+                                "conversation_id": "1819463214587171119",
+                                "created_at": "2024-08-03T13:24:32.000Z",
+                                "edit_controls": {
+                                  "edits_remaining": 5,
+                                  "is_edit_eligible": false,
+                                  "editable_until": "2024-08-03T14:24:32.000Z"
+                                },
+                                "edit_history_tweet_ids": [
+                                  "1819726045848769000"
+                                ],
+                                "entities": {},
+                                "geo": {},
+                                "id": "1819726045848769000",
+                                "in_reply_to_user_id": "1741993395910811648",
+                                "lang": "zh",
+                                "possibly_sensitive": false,
+                                "public_metrics": {
+                                  "retweet_count": 0,
+                                  "reply_count": 0,
+                                  "like_count": 0,
+                                  "quote_count": 0,
+                                  "bookmark_count": 0,
+                                  "impression_count": 0
+                                },
+                                "referenced_tweets": [
+                                  {
+                                    "type": "replied_to",
+                                    "id": "1819463214587171119"
+                                  }
+                                ],
+                                "reply_settings": "everyone",
+                                "text": "阿托品：抗胆碱能药物（副交感神经阻断药），类似的还有东莨菪碱，苯海拉明，吩噻嗪类抗精神病药等。\n可用于反制胆碱能药物过量（如多奈哌齐，石杉碱甲）"
+                              },
+                              {
+                                "article": {},
+                                "attachments": {
+                                  "media_keys": [
+                                    "3_1819463209226584064",
+                                    "3_1819463209251713024",
+                                    "3_1819463209226551296",
+                                    "3_1819463209297833984"
+                                  ]
+                                },
+                                "author_id": "1741993395910811648",
+                                "context_annotations": [
+                                  {
+                                    "domain": {
+                                      "id": "123",
+                                      "name": "Ongoing News Story",
+                                      "description": "Ongoing News Stories like 'Brexit'"
+                                    },
+                                    "entity": {
+                                      "id": "1220701888179359745",
+                                      "name": "COVID-19"
+                                    }
+                                  },
+                                  {
+                                    "domain": {
+                                      "id": "131",
+                                      "name": "Unified Twitter Taxonomy",
+                                      "description": "A taxonomy of user interests. "
+                                    },
+                                    "entity": {
+                                      "id": "1220701888179359745",
+                                      "name": "COVID-19"
+                                    }
+                                  }
+                                ],
+                                "conversation_id": "1819463214587171119",
+                                "created_at": "2024-08-02T20:00:09.000Z",
+                                "edit_controls": {
+                                  "edits_remaining": 5,
+                                  "is_edit_eligible": false,
+                                  "editable_until": "2024-08-02T21:00:09.000Z"
+                                },
+                                "edit_history_tweet_ids": [
+                                  "1819463214587171119"
+                                ],
+                                "entities": {
+                                  "urls": [
+                                    {
+                                      "start": 143,
+                                      "end": 166,
+                                      "url": "https://t.co/7S4tGVDEM5",
+                                      "expanded_url": "https://twitter.com/AnIncandescence/status/1819463214587171119/photo/1",
+                                      "display_url": "pic.twitter.com/7S4tGVDEM5",
+                                      "media_key": "3_1819463209226584064"
+                                    },
+                                    {
+                                      "start": 143,
+                                      "end": 166,
+                                      "url": "https://t.co/7S4tGVDEM5",
+                                      "expanded_url": "https://twitter.com/AnIncandescence/status/1819463214587171119/photo/1",
+                                      "display_url": "pic.twitter.com/7S4tGVDEM5",
+                                      "media_key": "3_1819463209251713024"
+                                    },
+                                    {
+                                      "start": 143,
+                                      "end": 166,
+                                      "url": "https://t.co/7S4tGVDEM5",
+                                      "expanded_url": "https://twitter.com/AnIncandescence/status/1819463214587171119/photo/1",
+                                      "display_url": "pic.twitter.com/7S4tGVDEM5",
+                                      "media_key": "3_1819463209226551296"
+                                    },
+                                    {
+                                      "start": 143,
+                                      "end": 166,
+                                      "url": "https://t.co/7S4tGVDEM5",
+                                      "expanded_url": "https://twitter.com/AnIncandescence/status/1819463214587171119/photo/1",
+                                      "display_url": "pic.twitter.com/7S4tGVDEM5",
+                                      "media_key": "3_1819463209297833984"
+                                    }
+                                  ]
+                                },
+                                "geo": {},
+                                "id": "1819463214587171119",
+                                "lang": "zh",
+                                "possibly_sensitive": false,
+                                "public_metrics": {
+                                  "retweet_count": 0,
+                                  "reply_count": 7,
+                                  "like_count": 11,
+                                  "quote_count": 0,
+                                  "bookmark_count": 2,
+                                  "impression_count": 398
+                                },
+                                "reply_settings": "everyone",
+                                "text": "对于药物过量引起的中枢神经系统副作用，有一些不常见或常见的药物来控制症状。\n\n罗通定：拮抗多巴胺\n赛庚啶：血清素综合症\n异丙嗪：在低剂量下没有抗精神病作用，和其他所有抗组胺药一样可以缓解过敏。止吐\n喹硫平：不清楚是什么引起的症状就干脆谁都别玩了吧（）似乎很万能的急救\n\n评论区欢迎补充 https://t.co/7S4tGVDEM5"
+                              }
+                            ]
+                          }
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          },
+          {
+            "id": "1819468463456620646",
+            "source": "local_json",
+            "payload": {
+              "data": {
+                "article": {},
+                "attachments": {},
+                "author_id": "1741993395910811648",
+                "conversation_id": "1819463214587171119",
+                "created_at": "2024-08-03T13:35:41.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2024-08-03T14:35:41.000Z"
+                },
+                "edit_history_tweet_ids": [
+                  "1819728850894336378"
+                ],
+                "entities": {},
+                "geo": {},
+                "id": "1819728850894336378",
+                "in_reply_to_user_id": "1741993395910811648",
+                "lang": "zh",
+                "possibly_sensitive": false,
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 0
+                },
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "1819468463456620646"
+                  }
+                ],
+                "reply_settings": "everyone",
+                "text": "已知阿普唑仑对伴有恶心呕吐症状的过量有额外作用，它本身有联用其他药物治疗化疗引起的恶心的用途。"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "created_at": "2024-01-02T01:22:57.000Z",
+                    "description": "互fo欢迎！ 猫，诗歌，精神动力学。艺术，C#，波粒二象性。回归曲线上的量子生物，无攻击性。提问箱👇",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/MuEKSg3VTk",
+                            "expanded_url": "https://ngl.link/anincandescence",
+                            "display_url": "ngl.link/anincandescence"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1741993395910811648",
+                    "location": "0°00′N 260°00′E Mars",
+                    "name": "炽烈已极",
+                    "pinned_tweet_id": "1817246358148989434",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1789433740277567488/d3KhwUX1_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 192,
+                      "following_count": 135,
+                      "tweet_count": 906,
+                      "listed_count": 0,
+                      "like_count": 2902
+                    },
+                    "url": "https://t.co/MuEKSg3VTk",
+                    "username": "AnIncandescence",
+                    "verified": false
+                  }
+                ],
+                "tweets": [
+                  {
+                    "article": {},
+                    "attachments": {},
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "1819463214587171119",
+                    "created_at": "2024-08-03T13:35:41.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2024-08-03T14:35:41.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "1819728850894336378"
+                    ],
+                    "entities": {},
+                    "geo": {},
+                    "id": "1819728850894336378",
+                    "in_reply_to_user_id": "1741993395910811648",
+                    "lang": "zh",
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 0,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 0
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "1819468463456620646"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "已知阿普唑仑对伴有恶心呕吐症状的过量有额外作用，它本身有联用其他药物治疗化疗引起的恶心的用途。"
+                  },
+                  {
+                    "article": {},
+                    "attachments": {
+                      "media_keys": [
+                        "3_1819468458871930880"
+                      ]
+                    },
+                    "author_id": "1741993395910811648",
+                    "context_annotations": [
+                      {
+                        "domain": {
+                          "id": "131",
+                          "name": "Unified Twitter Taxonomy",
+                          "description": "A taxonomy of user interests. "
+                        },
+                        "entity": {
+                          "id": "854692455005921281",
+                          "name": "Science",
+                          "description": "Science"
+                        }
+                      }
+                    ],
+                    "conversation_id": "1819463214587171119",
+                    "created_at": "2024-08-02T20:21:00.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2024-08-02T21:21:00.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "1819468463456620646"
+                    ],
+                    "entities": {
+                      "urls": [
+                        {
+                          "start": 47,
+                          "end": 70,
+                          "url": "https://t.co/Z1mc5JJGrg",
+                          "expanded_url": "https://twitter.com/AnIncandescence/status/1819468463456620646/photo/1",
+                          "display_url": "pic.twitter.com/Z1mc5JJGrg",
+                          "media_key": "3_1819468458871930880"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "1819468463456620646",
+                    "in_reply_to_user_id": "1741993395910811648",
+                    "lang": "zh",
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 1,
+                      "like_count": 2,
+                      "quote_count": 0,
+                      "bookmark_count": 1,
+                      "impression_count": 128
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "1819463214587171119"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "苯二氮卓类药物：镇静作用。bzd通过提高内源性化学物质GABA的有效性来降低神经元的兴奋性。 https://t.co/Z1mc5JJGrg"
+                  }
+                ]
+              },
+              "_pale_fire": {
+                "x_api_reply_chains": {
+                  "1819463214587171119": {
+                    "version": 1,
+                    "fetched_at": "2026-04-17T23:58:56Z",
+                    "max_depth": 63,
+                    "posts": [
+                      {
+                        "id": "1819463214587171119",
+                        "source": "local_json",
+                        "payload": {
+                          "data": {
+                            "article": {},
+                            "attachments": {},
+                            "author_id": "1741993395910811648",
+                            "conversation_id": "1819463214587171119",
+                            "created_at": "2024-08-03T13:24:32.000Z",
+                            "edit_controls": {
+                              "edits_remaining": 5,
+                              "is_edit_eligible": false,
+                              "editable_until": "2024-08-03T14:24:32.000Z"
+                            },
+                            "edit_history_tweet_ids": [
+                              "1819726045848769000"
+                            ],
+                            "entities": {},
+                            "geo": {},
+                            "id": "1819726045848769000",
+                            "in_reply_to_user_id": "1741993395910811648",
+                            "lang": "zh",
+                            "possibly_sensitive": false,
+                            "public_metrics": {
+                              "retweet_count": 0,
+                              "reply_count": 0,
+                              "like_count": 0,
+                              "quote_count": 0,
+                              "bookmark_count": 0,
+                              "impression_count": 0
+                            },
+                            "referenced_tweets": [
+                              {
+                                "type": "replied_to",
+                                "id": "1819463214587171119"
+                              }
+                            ],
+                            "reply_settings": "everyone",
+                            "text": "阿托品：抗胆碱能药物（副交感神经阻断药），类似的还有东莨菪碱，苯海拉明，吩噻嗪类抗精神病药等。\n可用于反制胆碱能药物过量（如多奈哌齐，石杉碱甲）"
+                          },
+                          "includes": {
+                            "users": [
+                              {
+                                "created_at": "2024-01-02T01:22:57.000Z",
+                                "description": "互fo欢迎！ 猫，诗歌，精神动力学。艺术，C#，波粒二象性。回归曲线上的量子生物，无攻击性。提问箱👇",
+                                "entities": {
+                                  "url": {
+                                    "urls": [
+                                      {
+                                        "start": 0,
+                                        "end": 23,
+                                        "url": "https://t.co/MuEKSg3VTk",
+                                        "expanded_url": "https://ngl.link/anincandescence",
+                                        "display_url": "ngl.link/anincandescence"
+                                      }
+                                    ]
+                                  }
+                                },
+                                "id": "1741993395910811648",
+                                "location": "0°00′N 260°00′E Mars",
+                                "name": "炽烈已极",
+                                "pinned_tweet_id": "1817246358148989434",
+                                "profile_image_url": "https://pbs.twimg.com/profile_images/1789433740277567488/d3KhwUX1_normal.jpg",
+                                "protected": false,
+                                "public_metrics": {
+                                  "followers_count": 192,
+                                  "following_count": 135,
+                                  "tweet_count": 905,
+                                  "listed_count": 0,
+                                  "like_count": 2902
+                                },
+                                "url": "https://t.co/MuEKSg3VTk",
+                                "username": "AnIncandescence",
+                                "verified": false
+                              }
+                            ],
+                            "tweets": [
+                              {
+                                "article": {},
+                                "attachments": {},
+                                "author_id": "1741993395910811648",
+                                "conversation_id": "1819463214587171119",
+                                "created_at": "2024-08-03T13:24:32.000Z",
+                                "edit_controls": {
+                                  "edits_remaining": 5,
+                                  "is_edit_eligible": false,
+                                  "editable_until": "2024-08-03T14:24:32.000Z"
+                                },
+                                "edit_history_tweet_ids": [
+                                  "1819726045848769000"
+                                ],
+                                "entities": {},
+                                "geo": {},
+                                "id": "1819726045848769000",
+                                "in_reply_to_user_id": "1741993395910811648",
+                                "lang": "zh",
+                                "possibly_sensitive": false,
+                                "public_metrics": {
+                                  "retweet_count": 0,
+                                  "reply_count": 0,
+                                  "like_count": 0,
+                                  "quote_count": 0,
+                                  "bookmark_count": 0,
+                                  "impression_count": 0
+                                },
+                                "referenced_tweets": [
+                                  {
+                                    "type": "replied_to",
+                                    "id": "1819463214587171119"
+                                  }
+                                ],
+                                "reply_settings": "everyone",
+                                "text": "阿托品：抗胆碱能药物（副交感神经阻断药），类似的还有东莨菪碱，苯海拉明，吩噻嗪类抗精神病药等。\n可用于反制胆碱能药物过量（如多奈哌齐，石杉碱甲）"
+                              },
+                              {
+                                "article": {},
+                                "attachments": {
+                                  "media_keys": [
+                                    "3_1819463209226584064",
+                                    "3_1819463209251713024",
+                                    "3_1819463209226551296",
+                                    "3_1819463209297833984"
+                                  ]
+                                },
+                                "author_id": "1741993395910811648",
+                                "context_annotations": [
+                                  {
+                                    "domain": {
+                                      "id": "123",
+                                      "name": "Ongoing News Story",
+                                      "description": "Ongoing News Stories like 'Brexit'"
+                                    },
+                                    "entity": {
+                                      "id": "1220701888179359745",
+                                      "name": "COVID-19"
+                                    }
+                                  },
+                                  {
+                                    "domain": {
+                                      "id": "131",
+                                      "name": "Unified Twitter Taxonomy",
+                                      "description": "A taxonomy of user interests. "
+                                    },
+                                    "entity": {
+                                      "id": "1220701888179359745",
+                                      "name": "COVID-19"
+                                    }
+                                  }
+                                ],
+                                "conversation_id": "1819463214587171119",
+                                "created_at": "2024-08-02T20:00:09.000Z",
+                                "edit_controls": {
+                                  "edits_remaining": 5,
+                                  "is_edit_eligible": false,
+                                  "editable_until": "2024-08-02T21:00:09.000Z"
+                                },
+                                "edit_history_tweet_ids": [
+                                  "1819463214587171119"
+                                ],
+                                "entities": {
+                                  "urls": [
+                                    {
+                                      "start": 143,
+                                      "end": 166,
+                                      "url": "https://t.co/7S4tGVDEM5",
+                                      "expanded_url": "https://twitter.com/AnIncandescence/status/1819463214587171119/photo/1",
+                                      "display_url": "pic.twitter.com/7S4tGVDEM5",
+                                      "media_key": "3_1819463209226584064"
+                                    },
+                                    {
+                                      "start": 143,
+                                      "end": 166,
+                                      "url": "https://t.co/7S4tGVDEM5",
+                                      "expanded_url": "https://twitter.com/AnIncandescence/status/1819463214587171119/photo/1",
+                                      "display_url": "pic.twitter.com/7S4tGVDEM5",
+                                      "media_key": "3_1819463209251713024"
+                                    },
+                                    {
+                                      "start": 143,
+                                      "end": 166,
+                                      "url": "https://t.co/7S4tGVDEM5",
+                                      "expanded_url": "https://twitter.com/AnIncandescence/status/1819463214587171119/photo/1",
+                                      "display_url": "pic.twitter.com/7S4tGVDEM5",
+                                      "media_key": "3_1819463209226551296"
+                                    },
+                                    {
+                                      "start": 143,
+                                      "end": 166,
+                                      "url": "https://t.co/7S4tGVDEM5",
+                                      "expanded_url": "https://twitter.com/AnIncandescence/status/1819463214587171119/photo/1",
+                                      "display_url": "pic.twitter.com/7S4tGVDEM5",
+                                      "media_key": "3_1819463209297833984"
+                                    }
+                                  ]
+                                },
+                                "geo": {},
+                                "id": "1819463214587171119",
+                                "lang": "zh",
+                                "possibly_sensitive": false,
+                                "public_metrics": {
+                                  "retweet_count": 0,
+                                  "reply_count": 7,
+                                  "like_count": 11,
+                                  "quote_count": 0,
+                                  "bookmark_count": 2,
+                                  "impression_count": 398
+                                },
+                                "reply_settings": "everyone",
+                                "text": "对于药物过量引起的中枢神经系统副作用，有一些不常见或常见的药物来控制症状。\n\n罗通定：拮抗多巴胺\n赛庚啶：血清素综合症\n异丙嗪：在低剂量下没有抗精神病作用，和其他所有抗组胺药一样可以缓解过敏。止吐\n喹硫平：不清楚是什么引起的症状就干脆谁都别玩了吧（）似乎很万能的急救\n\n评论区欢迎补充 https://t.co/7S4tGVDEM5"
+                              }
+                            ]
+                          }
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

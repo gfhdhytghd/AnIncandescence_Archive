@@ -1,1 +1,442 @@
-{"data":{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1952760093042409698","created_at":"2025-08-06T10:57:37.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-08-06T11:57:37.000Z"},"edit_history_tweet_ids":["1953047807666872551"],"entities":{"mentions":[{"start":0,"end":15,"username":"Orangefish0902","id":"1467340813763964931"}]},"geo":{},"id":"1953047807666872551","in_reply_to_user_id":"1467340813763964931","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1953043501815640155"}],"reply_settings":"everyone","text":"@Orangefish0902 评论区发过了（）"},"includes":{"users":[{"created_at":"2024-01-02T01:22:57.000Z","description":"猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/MuEKSg4tIS","expanded_url":"https://ngl.link/anincandescence","display_url":"ngl.link/anincandescence"}]}},"id":"1741993395910811648","location":"天鹅座X-1","name":"炽烈已极","pinned_tweet_id":"1944465960406245490","profile_image_url":"https://pbs.twimg.com/profile_images/1947176726292725760/VAZ0WSeY_normal.jpg","protected":false,"public_metrics":{"followers_count":1097,"following_count":195,"tweet_count":3539,"listed_count":1,"like_count":9780,"media_count":711},"url":"https://t.co/MuEKSg4tIS","username":"AnIncandescence","verified":false},{"created_at":"2021-12-05T03:51:38.000Z","description":"还是希望不要被熟人发现好了♪──────────♪ ⚠️含微量od&drug相关推文🚨🚨‼️_(´ཀ`」 ∠)_🫧🫧","id":"1467340813763964931","location":"🛏️💤","name":"別に🍧","pinned_tweet_id":"1857366716659257820","profile_image_url":"https://pbs.twimg.com/profile_images/1857367371725623296/o_7kVQxN_normal.jpg","protected":false,"public_metrics":{"followers_count":131,"following_count":346,"tweet_count":3233,"listed_count":4,"like_count":10974,"media_count":80},"username":"Orangefish0902","verified":false}],"tweets":[{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1952760093042409698","created_at":"2025-08-06T10:57:37.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-08-06T11:57:37.000Z"},"edit_history_tweet_ids":["1953047807666872551"],"entities":{"mentions":[{"start":0,"end":15,"username":"Orangefish0902","id":"1467340813763964931"}]},"geo":{},"id":"1953047807666872551","in_reply_to_user_id":"1467340813763964931","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1953043501815640155"}],"reply_settings":"everyone","text":"@Orangefish0902 评论区发过了（）"},{"article":{},"attachments":{},"author_id":"1467340813763964931","conversation_id":"1952760093042409698","created_at":"2025-08-06T10:40:31.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-08-06T11:40:31.000Z"},"edit_history_tweet_ids":["1953043501815640155"],"entities":{"mentions":[{"start":0,"end":16,"username":"AnIncandescence","id":"1741993395910811648"}]},"geo":{},"id":"1953043501815640155","in_reply_to_user_id":"1741993395910811648","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":1,"like_count":1,"quote_count":0,"bookmark_count":0,"impression_count":8},"referenced_tweets":[{"type":"replied_to","id":"1952760093042409698"}],"reply_settings":"everyone","text":"@AnIncandescence 蹲蹲\n这是啥"}]}}
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741993395910811648",
+    "conversation_id": "1952760093042409698",
+    "created_at": "2025-08-06T10:57:37.000Z",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2025-08-06T11:57:37.000Z"
+    },
+    "edit_history_tweet_ids": [
+      "1953047807666872551"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 15,
+          "username": "Orangefish0902",
+          "id": "1467340813763964931"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953047807666872551",
+    "in_reply_to_user_id": "1467340813763964931",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1953043501815640155"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Orangefish0902 评论区发过了（）"
+  },
+  "includes": {
+    "users": [
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/MuEKSg4tIS",
+                "expanded_url": "https://ngl.link/anincandescence",
+                "display_url": "ngl.link/anincandescence"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "天鹅座X-1",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "1944465960406245490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947176726292725760/VAZ0WSeY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1097,
+          "following_count": 195,
+          "tweet_count": 3539,
+          "listed_count": 1,
+          "like_count": 9780,
+          "media_count": 711
+        },
+        "url": "https://t.co/MuEKSg4tIS",
+        "username": "AnIncandescence",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-05T03:51:38.000Z",
+        "description": "还是希望不要被熟人发现好了♪──────────♪ ⚠️含微量od&drug相关推文🚨🚨‼️_(´ཀ`」 ∠)_🫧🫧",
+        "id": "1467340813763964931",
+        "location": "🛏️💤",
+        "name": "別に🍧",
+        "pinned_tweet_id": "1857366716659257820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857367371725623296/o_7kVQxN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 346,
+          "tweet_count": 3233,
+          "listed_count": 4,
+          "like_count": 10974,
+          "media_count": 80
+        },
+        "username": "Orangefish0902",
+        "verified": false
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741993395910811648",
+        "conversation_id": "1952760093042409698",
+        "created_at": "2025-08-06T10:57:37.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2025-08-06T11:57:37.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1953047807666872551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 15,
+              "username": "Orangefish0902",
+              "id": "1467340813763964931"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953047807666872551",
+        "in_reply_to_user_id": "1467340813763964931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1953043501815640155"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Orangefish0902 评论区发过了（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467340813763964931",
+        "conversation_id": "1952760093042409698",
+        "created_at": "2025-08-06T10:40:31.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2025-08-06T11:40:31.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1953043501815640155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 16,
+              "username": "AnIncandescence",
+              "id": "1741993395910811648"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953043501815640155",
+        "in_reply_to_user_id": "1741993395910811648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1952760093042409698"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnIncandescence 蹲蹲\n这是啥"
+      }
+    ]
+  },
+  "_pale_fire": {
+    "x_api_reply_chains": {
+      "1952760093042409698": {
+        "version": 1,
+        "fetched_at": "2026-04-18T00:51:03Z",
+        "max_depth": 63,
+        "posts": [
+          {
+            "id": "1952760093042409698",
+            "source": "local_json",
+            "payload": {
+              "data": {
+                "article": {},
+                "attachments": {
+                  "media_keys": [
+                    "3_1952962741217705984"
+                  ]
+                },
+                "author_id": "1741993395910811648",
+                "conversation_id": "1952760093042409698",
+                "created_at": "2025-08-06T05:19:37.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2025-08-06T06:19:37.000Z"
+                },
+                "edit_history_tweet_ids": [
+                  "1952962746921926810"
+                ],
+                "entities": {
+                  "urls": [
+                    {
+                      "start": 17,
+                      "end": 40,
+                      "url": "https://t.co/sxQvKWoaB0",
+                      "expanded_url": "https://x.com/AnIncandescence/status/1952962746921926810/photo/1",
+                      "display_url": "pic.x.com/sxQvKWoaB0",
+                      "media_key": "3_1952962741217705984"
+                    }
+                  ]
+                },
+                "geo": {},
+                "id": "1952962746921926810",
+                "in_reply_to_user_id": "1741993395910811648",
+                "lang": "zh",
+                "note_tweet": {
+                  "entities": {}
+                },
+                "possibly_sensitive": false,
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 0
+                },
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "1952760093042409698"
+                  }
+                ],
+                "reply_settings": "everyone",
+                "text": "🌿一下子多了一页，也是全程覆盖了 https://t.co/sxQvKWoaB0"
+              },
+              "includes": {
+                "media": [
+                  {
+                    "height": 2556,
+                    "media_key": "3_1952962741217705984",
+                    "public_metrics": {},
+                    "type": "photo",
+                    "url": "https://pbs.twimg.com/media/GxpRRBHawAAcKin.jpg",
+                    "width": 1179
+                  },
+                  {
+                    "height": 3024,
+                    "media_key": "3_1952760053674680320",
+                    "public_metrics": {},
+                    "type": "photo",
+                    "url": "https://pbs.twimg.com/media/GxmY7DLaIAApOYb.jpg",
+                    "width": 4032
+                  }
+                ],
+                "users": [
+                  {
+                    "created_at": "2024-01-02T01:22:57.000Z",
+                    "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/MuEKSg4tIS",
+                            "expanded_url": "https://ngl.link/anincandescence",
+                            "display_url": "ngl.link/anincandescence"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1741993395910811648",
+                    "location": "天鹅座X-1",
+                    "name": "炽烈已极",
+                    "pinned_tweet_id": "1944465960406245490",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1947176726292725760/VAZ0WSeY_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 1097,
+                      "following_count": 195,
+                      "tweet_count": 3535,
+                      "listed_count": 1,
+                      "like_count": 9763,
+                      "media_count": 711
+                    },
+                    "url": "https://t.co/MuEKSg4tIS",
+                    "username": "AnIncandescence",
+                    "verified": false
+                  }
+                ],
+                "tweets": [
+                  {
+                    "article": {},
+                    "attachments": {
+                      "media_keys": [
+                        "3_1952962741217705984"
+                      ]
+                    },
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "1952760093042409698",
+                    "created_at": "2025-08-06T05:19:37.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2025-08-06T06:19:37.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "1952962746921926810"
+                    ],
+                    "entities": {
+                      "urls": [
+                        {
+                          "start": 17,
+                          "end": 40,
+                          "url": "https://t.co/sxQvKWoaB0",
+                          "expanded_url": "https://x.com/AnIncandescence/status/1952962746921926810/photo/1",
+                          "display_url": "pic.x.com/sxQvKWoaB0",
+                          "media_key": "3_1952962741217705984"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "1952962746921926810",
+                    "in_reply_to_user_id": "1741993395910811648",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 0,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 0
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "1952760093042409698"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "🌿一下子多了一页，也是全程覆盖了 https://t.co/sxQvKWoaB0"
+                  },
+                  {
+                    "article": {},
+                    "attachments": {
+                      "media_keys": [
+                        "3_1952760053674680320"
+                      ]
+                    },
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "1952760093042409698",
+                    "created_at": "2025-08-05T15:54:21.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2025-08-05T16:54:21.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "1952760093042409698"
+                    ],
+                    "entities": {
+                      "urls": [
+                        {
+                          "start": 53,
+                          "end": 76,
+                          "url": "https://t.co/KaTaqa01zp",
+                          "expanded_url": "https://x.com/AnIncandescence/status/1952760093042409698/photo/1",
+                          "display_url": "pic.x.com/KaTaqa01zp",
+                          "media_key": "3_1952760053674680320"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "1952760093042409698",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 6,
+                      "like_count": 14,
+                      "quote_count": 0,
+                      "bookmark_count": 2,
+                      "impression_count": 819
+                    },
+                    "reply_settings": "everyone",
+                    "text": "吃一片少一片的东西不知道为什么我炫了一整片进去，只好寄希望于rc快点上架新的了😭它对于我来说真的意义非凡 https://t.co/KaTaqa01zp"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

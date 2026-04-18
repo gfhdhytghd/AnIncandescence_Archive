@@ -1,1 +1,3490 @@
-{"data":{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"2012151614837342331","created_at":"2026-01-16T20:31:34.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2026-01-16T21:31:34.000Z"},"edit_history_tweet_ids":["2012261466716635452"],"entities":{"mentions":[{"start":0,"end":15,"username":"jiaoyanboluooo","id":"1704469304077611008"}]},"geo":{},"id":"2012261466716635452","in_reply_to_user_id":"1704469304077611008","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"2012260295796793526"}],"reply_settings":"everyone","text":"@jiaoyanboluooo 可以的，少吃点🥺"},"includes":{"users":[{"created_at":"2024-01-02T01:22:57.000Z","description":"猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/iO6MRJNm9j","expanded_url":"https://ngl.link/anincandescence1","display_url":"ngl.link/anincandescenc…"}]}},"id":"1741993395910811648","location":"天鹅座X-1","name":"炽烈已极","pinned_tweet_id":"2010452086539145687","profile_image_url":"https://pbs.twimg.com/profile_images/2006317223414255617/jGT_GZyG_normal.jpg","protected":false,"public_metrics":{"followers_count":1525,"following_count":225,"tweet_count":5204,"listed_count":5,"like_count":12864,"media_count":985},"url":"https://t.co/iO6MRJNm9j","username":"AnIncandescence","verified":true},{"created_at":"2023-09-20T12:15:32.000Z","description":"ISFP/mtf/生产日期7.24/od/双相喵/臭蝈蝻/🏳️‍⚧️/steam好友码：1737257608/究极无敌大抖m 或sub？/无证含糖/已出柜/不知道什么党/不要靠近我，我只会让你伤心/主人： @Amour761","entities":{"description":{"mentions":[{"start":103,"end":112,"username":"Amour761"}]}},"id":"1704469304077611008","location":"狗笼里","name":"椒盐菠萝🍥","profile_image_url":"https://pbs.twimg.com/profile_images/2009379005779333121/NgNbuIP0_normal.jpg","protected":false,"public_metrics":{"followers_count":3832,"following_count":2942,"tweet_count":3871,"listed_count":10,"like_count":18964,"media_count":1111},"username":"jiaoyanboluooo","verified":false}],"tweets":[{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"2012151614837342331","created_at":"2026-01-16T20:31:34.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2026-01-16T21:31:34.000Z"},"edit_history_tweet_ids":["2012261466716635452"],"entities":{"mentions":[{"start":0,"end":15,"username":"jiaoyanboluooo","id":"1704469304077611008"}]},"geo":{},"id":"2012261466716635452","in_reply_to_user_id":"1704469304077611008","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"2012260295796793526"}],"reply_settings":"everyone","text":"@jiaoyanboluooo 可以的，少吃点🥺"},{"article":{},"attachments":{},"author_id":"1704469304077611008","conversation_id":"2012151614837342331","created_at":"2026-01-16T20:26:55.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2026-01-16T21:26:55.000Z"},"edit_history_tweet_ids":["2012260295796793526"],"entities":{"mentions":[{"start":0,"end":16,"username":"AnIncandescence","id":"1741993395910811648"}]},"geo":{},"id":"2012260295796793526","in_reply_to_user_id":"1741993395910811648","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":1,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":2},"referenced_tweets":[{"type":"replied_to","id":"2012259900957905033"}],"reply_settings":"everyone","text":"@AnIncandescence 3天行吗😿"}]}}
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741993395910811648",
+    "conversation_id": "2012151614837342331",
+    "created_at": "2026-01-16T20:31:34.000Z",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2026-01-16T21:31:34.000Z"
+    },
+    "edit_history_tweet_ids": [
+      "2012261466716635452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 15,
+          "username": "jiaoyanboluooo",
+          "id": "1704469304077611008"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012261466716635452",
+    "in_reply_to_user_id": "1704469304077611008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "2012260295796793526"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiaoyanboluooo 可以的，少吃点🥺"
+  },
+  "includes": {
+    "users": [
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/iO6MRJNm9j",
+                "expanded_url": "https://ngl.link/anincandescence1",
+                "display_url": "ngl.link/anincandescenc…"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "天鹅座X-1",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "2010452086539145687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006317223414255617/jGT_GZyG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1525,
+          "following_count": 225,
+          "tweet_count": 5204,
+          "listed_count": 5,
+          "like_count": 12864,
+          "media_count": 985
+        },
+        "url": "https://t.co/iO6MRJNm9j",
+        "username": "AnIncandescence",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-20T12:15:32.000Z",
+        "description": "ISFP/mtf/生产日期7.24/od/双相喵/臭蝈蝻/🏳️‍⚧️/steam好友码：1737257608/究极无敌大抖m 或sub？/无证含糖/已出柜/不知道什么党/不要靠近我，我只会让你伤心/主人： @Amour761",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "start": 103,
+                "end": 112,
+                "username": "Amour761"
+              }
+            ]
+          }
+        },
+        "id": "1704469304077611008",
+        "location": "狗笼里",
+        "name": "椒盐菠萝🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009379005779333121/NgNbuIP0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3832,
+          "following_count": 2942,
+          "tweet_count": 3871,
+          "listed_count": 10,
+          "like_count": 18964,
+          "media_count": 1111
+        },
+        "username": "jiaoyanboluooo",
+        "verified": false
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741993395910811648",
+        "conversation_id": "2012151614837342331",
+        "created_at": "2026-01-16T20:31:34.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2026-01-16T21:31:34.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "2012261466716635452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 15,
+              "username": "jiaoyanboluooo",
+              "id": "1704469304077611008"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012261466716635452",
+        "in_reply_to_user_id": "1704469304077611008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "2012260295796793526"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiaoyanboluooo 可以的，少吃点🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1704469304077611008",
+        "conversation_id": "2012151614837342331",
+        "created_at": "2026-01-16T20:26:55.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2026-01-16T21:26:55.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "2012260295796793526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 16,
+              "username": "AnIncandescence",
+              "id": "1741993395910811648"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012260295796793526",
+        "in_reply_to_user_id": "1741993395910811648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "2012259900957905033"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnIncandescence 3天行吗😿"
+      }
+    ]
+  },
+  "_pale_fire": {
+    "x_api_reply_chains": {
+      "2012259900957905033": {
+        "version": 1,
+        "fetched_at": "2026-04-18T01:24:31Z",
+        "max_depth": 63,
+        "posts": [
+          {
+            "id": "2012259900957905033",
+            "source": "local_json",
+            "payload": {
+              "data": {
+                "article": {},
+                "attachments": {},
+                "author_id": "1741993395910811648",
+                "conversation_id": "2012151614837342331",
+                "created_at": "2026-01-16T20:25:21.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2026-01-16T21:25:21.000Z"
+                },
+                "edit_history_tweet_ids": [
+                  "2012259900957905033"
+                ],
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 0,
+                      "end": 15,
+                      "username": "jiaoyanboluooo",
+                      "id": "1704469304077611008"
+                    }
+                  ]
+                },
+                "geo": {},
+                "id": "2012259900957905033",
+                "in_reply_to_user_id": "1704469304077611008",
+                "lang": "ja",
+                "note_tweet": {
+                  "entities": {}
+                },
+                "possibly_sensitive": false,
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 0
+                },
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "2012258881809129959"
+                  }
+                ],
+                "reply_settings": "everyone",
+                "text": "@jiaoyanboluooo 越久越好"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "created_at": "2024-01-02T01:22:57.000Z",
+                    "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/iO6MRJNm9j",
+                            "expanded_url": "https://ngl.link/anincandescence1",
+                            "display_url": "ngl.link/anincandescenc…"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1741993395910811648",
+                    "location": "天鹅座X-1",
+                    "name": "炽烈已极",
+                    "pinned_tweet_id": "2010452086539145687",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2006317223414255617/jGT_GZyG_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 1525,
+                      "following_count": 225,
+                      "tweet_count": 5203,
+                      "listed_count": 5,
+                      "like_count": 12864,
+                      "media_count": 985
+                    },
+                    "url": "https://t.co/iO6MRJNm9j",
+                    "username": "AnIncandescence",
+                    "verified": true
+                  },
+                  {
+                    "created_at": "2023-09-20T12:15:32.000Z",
+                    "description": "ISFP/mtf/生产日期7.24/od/双相喵/臭蝈蝻/🏳️‍⚧️/steam好友码：1737257608/究极无敌大抖m 或sub？/无证含糖/已出柜/不知道什么党/不要靠近我，我只会让你伤心/主人： @Amour761",
+                    "entities": {
+                      "description": {
+                        "mentions": [
+                          {
+                            "start": 103,
+                            "end": 112,
+                            "username": "Amour761"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1704469304077611008",
+                    "location": "狗笼里",
+                    "name": "椒盐菠萝🍥",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2009379005779333121/NgNbuIP0_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 3832,
+                      "following_count": 2942,
+                      "tweet_count": 3870,
+                      "listed_count": 10,
+                      "like_count": 18963,
+                      "media_count": 1111
+                    },
+                    "username": "jiaoyanboluooo",
+                    "verified": false
+                  }
+                ],
+                "tweets": [
+                  {
+                    "article": {},
+                    "attachments": {},
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "2012151614837342331",
+                    "created_at": "2026-01-16T20:25:21.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2026-01-16T21:25:21.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "2012259900957905033"
+                    ],
+                    "entities": {
+                      "mentions": [
+                        {
+                          "start": 0,
+                          "end": 15,
+                          "username": "jiaoyanboluooo",
+                          "id": "1704469304077611008"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "2012259900957905033",
+                    "in_reply_to_user_id": "1704469304077611008",
+                    "lang": "ja",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 0,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 0
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "2012258881809129959"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "@jiaoyanboluooo 越久越好"
+                  },
+                  {
+                    "article": {},
+                    "attachments": {},
+                    "author_id": "1704469304077611008",
+                    "conversation_id": "2012151614837342331",
+                    "created_at": "2026-01-16T20:21:18.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2026-01-16T21:21:18.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "2012258881809129959"
+                    ],
+                    "entities": {
+                      "mentions": [
+                        {
+                          "start": 0,
+                          "end": 16,
+                          "username": "AnIncandescence",
+                          "id": "1741993395910811648"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "2012258881809129959",
+                    "in_reply_to_user_id": "1741993395910811648",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 1,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 9
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "2012235689971056891"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "@AnIncandescence 这样来看我还是吃晚安吧😿\n所以这两个隔多久才能安全点😿"
+                  }
+                ]
+              },
+              "_pale_fire": {
+                "x_api_reply_chains": {
+                  "2012235689971056891": {
+                    "version": 1,
+                    "fetched_at": "2026-04-18T01:24:31Z",
+                    "max_depth": 63,
+                    "posts": [
+                      {
+                        "id": "2012235689971056891",
+                        "source": "local_json",
+                        "payload": {
+                          "data": {
+                            "article": {},
+                            "attachments": {},
+                            "author_id": "1741993395910811648",
+                            "conversation_id": "2012151614837342331",
+                            "created_at": "2026-01-16T18:49:08.000Z",
+                            "edit_controls": {
+                              "edits_remaining": 5,
+                              "is_edit_eligible": false,
+                              "editable_until": "2026-01-16T19:49:08.000Z"
+                            },
+                            "edit_history_tweet_ids": [
+                              "2012235689971056891"
+                            ],
+                            "entities": {
+                              "mentions": [
+                                {
+                                  "start": 0,
+                                  "end": 15,
+                                  "username": "jiaoyanboluooo",
+                                  "id": "1704469304077611008"
+                                }
+                              ]
+                            },
+                            "geo": {},
+                            "id": "2012235689971056891",
+                            "in_reply_to_user_id": "1704469304077611008",
+                            "lang": "zh",
+                            "note_tweet": {
+                              "entities": {}
+                            },
+                            "possibly_sensitive": false,
+                            "public_metrics": {
+                              "retweet_count": 0,
+                              "reply_count": 0,
+                              "like_count": 0,
+                              "quote_count": 0,
+                              "bookmark_count": 0,
+                              "impression_count": 0
+                            },
+                            "referenced_tweets": [
+                              {
+                                "type": "replied_to",
+                                "id": "2012232842806272173"
+                              }
+                            ],
+                            "reply_settings": "everyone",
+                            "text": "@jiaoyanboluooo 吃玉米片也比这个好呀...\n减少食欲我第一个想到的是专注达（）但是可能不便宜...也不好获取\n抗抑郁药，嗯，正常剂量（强调）下的ssri/snri对一部分人也是抑制食欲的"
+                          },
+                          "includes": {
+                            "users": [
+                              {
+                                "created_at": "2024-01-02T01:22:57.000Z",
+                                "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+                                "entities": {
+                                  "url": {
+                                    "urls": [
+                                      {
+                                        "start": 0,
+                                        "end": 23,
+                                        "url": "https://t.co/iO6MRJNm9j",
+                                        "expanded_url": "https://ngl.link/anincandescence1",
+                                        "display_url": "ngl.link/anincandescenc…"
+                                      }
+                                    ]
+                                  }
+                                },
+                                "id": "1741993395910811648",
+                                "location": "天鹅座X-1",
+                                "name": "炽烈已极",
+                                "pinned_tweet_id": "2010452086539145687",
+                                "profile_image_url": "https://pbs.twimg.com/profile_images/2006317223414255617/jGT_GZyG_normal.jpg",
+                                "protected": false,
+                                "public_metrics": {
+                                  "followers_count": 1525,
+                                  "following_count": 225,
+                                  "tweet_count": 5199,
+                                  "listed_count": 5,
+                                  "like_count": 12862,
+                                  "media_count": 984
+                                },
+                                "url": "https://t.co/iO6MRJNm9j",
+                                "username": "AnIncandescence",
+                                "verified": true
+                              },
+                              {
+                                "created_at": "2023-09-20T12:15:32.000Z",
+                                "description": "ISFP/mtf/生产日期7.24/od/双相喵/臭蝈蝻/🏳️‍⚧️/steam好友码：1737257608/究极无敌大抖m 或sub？/无证含糖/已出柜/不知道什么党/不要靠近我，我只会让你伤心/主人： @Amour761",
+                                "entities": {
+                                  "description": {
+                                    "mentions": [
+                                      {
+                                        "start": 103,
+                                        "end": 112,
+                                        "username": "Amour761"
+                                      }
+                                    ]
+                                  }
+                                },
+                                "id": "1704469304077611008",
+                                "location": "狗笼里",
+                                "name": "椒盐菠萝🍥",
+                                "profile_image_url": "https://pbs.twimg.com/profile_images/2009379005779333121/NgNbuIP0_normal.jpg",
+                                "protected": false,
+                                "public_metrics": {
+                                  "followers_count": 3831,
+                                  "following_count": 2938,
+                                  "tweet_count": 3866,
+                                  "listed_count": 10,
+                                  "like_count": 18948,
+                                  "media_count": 1111
+                                },
+                                "username": "jiaoyanboluooo",
+                                "verified": false
+                              }
+                            ],
+                            "tweets": [
+                              {
+                                "article": {},
+                                "attachments": {},
+                                "author_id": "1741993395910811648",
+                                "conversation_id": "2012151614837342331",
+                                "created_at": "2026-01-16T18:49:08.000Z",
+                                "edit_controls": {
+                                  "edits_remaining": 5,
+                                  "is_edit_eligible": false,
+                                  "editable_until": "2026-01-16T19:49:08.000Z"
+                                },
+                                "edit_history_tweet_ids": [
+                                  "2012235689971056891"
+                                ],
+                                "entities": {
+                                  "mentions": [
+                                    {
+                                      "start": 0,
+                                      "end": 15,
+                                      "username": "jiaoyanboluooo",
+                                      "id": "1704469304077611008"
+                                    }
+                                  ]
+                                },
+                                "geo": {},
+                                "id": "2012235689971056891",
+                                "in_reply_to_user_id": "1704469304077611008",
+                                "lang": "zh",
+                                "note_tweet": {
+                                  "entities": {}
+                                },
+                                "possibly_sensitive": false,
+                                "public_metrics": {
+                                  "retweet_count": 0,
+                                  "reply_count": 0,
+                                  "like_count": 0,
+                                  "quote_count": 0,
+                                  "bookmark_count": 0,
+                                  "impression_count": 0
+                                },
+                                "referenced_tweets": [
+                                  {
+                                    "type": "replied_to",
+                                    "id": "2012232842806272173"
+                                  }
+                                ],
+                                "reply_settings": "everyone",
+                                "text": "@jiaoyanboluooo 吃玉米片也比这个好呀...\n减少食欲我第一个想到的是专注达（）但是可能不便宜...也不好获取\n抗抑郁药，嗯，正常剂量（强调）下的ssri/snri对一部分人也是抑制食欲的"
+                              },
+                              {
+                                "article": {},
+                                "attachments": {},
+                                "author_id": "1704469304077611008",
+                                "conversation_id": "2012151614837342331",
+                                "created_at": "2026-01-16T18:37:49.000Z",
+                                "edit_controls": {
+                                  "edits_remaining": 5,
+                                  "is_edit_eligible": false,
+                                  "editable_until": "2026-01-16T19:37:49.000Z"
+                                },
+                                "edit_history_tweet_ids": [
+                                  "2012232842806272173"
+                                ],
+                                "entities": {
+                                  "mentions": [
+                                    {
+                                      "start": 0,
+                                      "end": 16,
+                                      "username": "AnIncandescence",
+                                      "id": "1741993395910811648"
+                                    }
+                                  ]
+                                },
+                                "geo": {},
+                                "id": "2012232842806272173",
+                                "in_reply_to_user_id": "1741993395910811648",
+                                "lang": "zh",
+                                "note_tweet": {
+                                  "entities": {}
+                                },
+                                "possibly_sensitive": false,
+                                "public_metrics": {
+                                  "retweet_count": 0,
+                                  "reply_count": 1,
+                                  "like_count": 0,
+                                  "quote_count": 0,
+                                  "bookmark_count": 0,
+                                  "impression_count": 5
+                                },
+                                "referenced_tweets": [
+                                  {
+                                    "type": "replied_to",
+                                    "id": "2012218967041978603"
+                                  }
+                                ],
+                                "reply_settings": "everyone",
+                                "text": "@AnIncandescence 那还有什么药便宜能减少很多食欲😿"
+                              }
+                            ]
+                          },
+                          "_pale_fire": {
+                            "x_api_reply_chains": {
+                              "2012218967041978603": {
+                                "version": 1,
+                                "fetched_at": "2026-04-18T01:24:31Z",
+                                "max_depth": 63,
+                                "posts": [
+                                  {
+                                    "id": "2012218967041978603",
+                                    "source": "local_json",
+                                    "payload": {
+                                      "data": {
+                                        "article": {},
+                                        "attachments": {},
+                                        "author_id": "1741993395910811648",
+                                        "conversation_id": "2012151614837342331",
+                                        "created_at": "2026-01-16T17:42:41.000Z",
+                                        "edit_controls": {
+                                          "edits_remaining": 5,
+                                          "is_edit_eligible": false,
+                                          "editable_until": "2026-01-16T18:42:41.000Z"
+                                        },
+                                        "edit_history_tweet_ids": [
+                                          "2012218967041978603"
+                                        ],
+                                        "entities": {
+                                          "mentions": [
+                                            {
+                                              "start": 0,
+                                              "end": 15,
+                                              "username": "jiaoyanboluooo",
+                                              "id": "1704469304077611008"
+                                            }
+                                          ]
+                                        },
+                                        "geo": {},
+                                        "id": "2012218967041978603",
+                                        "in_reply_to_user_id": "1704469304077611008",
+                                        "lang": "zh",
+                                        "note_tweet": {
+                                          "entities": {}
+                                        },
+                                        "possibly_sensitive": false,
+                                        "public_metrics": {
+                                          "retweet_count": 0,
+                                          "reply_count": 0,
+                                          "like_count": 0,
+                                          "quote_count": 0,
+                                          "bookmark_count": 0,
+                                          "impression_count": 0
+                                        },
+                                        "referenced_tweets": [
+                                          {
+                                            "type": "replied_to",
+                                            "id": "2012151614837342331"
+                                          }
+                                        ],
+                                        "reply_settings": "everyone",
+                                        "text": "@jiaoyanboluooo 能不能别o金刚烷胺😢"
+                                      },
+                                      "includes": {
+                                        "media": [
+                                          {
+                                            "height": 2048,
+                                            "media_key": "3_2012151601583271936",
+                                            "public_metrics": {},
+                                            "type": "photo",
+                                            "url": "https://pbs.twimg.com/media/G-yZOIaasAA3bk6.jpg",
+                                            "width": 1542
+                                          }
+                                        ],
+                                        "users": [
+                                          {
+                                            "created_at": "2024-01-02T01:22:57.000Z",
+                                            "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+                                            "entities": {
+                                              "url": {
+                                                "urls": [
+                                                  {
+                                                    "start": 0,
+                                                    "end": 23,
+                                                    "url": "https://t.co/iO6MRJNm9j",
+                                                    "expanded_url": "https://ngl.link/anincandescence1",
+                                                    "display_url": "ngl.link/anincandescenc…"
+                                                  }
+                                                ]
+                                              }
+                                            },
+                                            "id": "1741993395910811648",
+                                            "location": "天鹅座X-1",
+                                            "name": "炽烈已极",
+                                            "pinned_tweet_id": "2010452086539145687",
+                                            "profile_image_url": "https://pbs.twimg.com/profile_images/2006317223414255617/jGT_GZyG_normal.jpg",
+                                            "protected": false,
+                                            "public_metrics": {
+                                              "followers_count": 1525,
+                                              "following_count": 225,
+                                              "tweet_count": 5197,
+                                              "listed_count": 5,
+                                              "like_count": 12862,
+                                              "media_count": 984
+                                            },
+                                            "url": "https://t.co/iO6MRJNm9j",
+                                            "username": "AnIncandescence",
+                                            "verified": true
+                                          },
+                                          {
+                                            "created_at": "2023-09-20T12:15:32.000Z",
+                                            "description": "ISFP/mtf/生产日期7.24/od/双相喵/臭蝈蝻/🏳️‍⚧️/steam好友码：1737257608/究极无敌大抖m 或sub？/无证含糖/已出柜/不知道什么党/不要靠近我，我只会让你伤心/主人： @Amour761",
+                                            "entities": {
+                                              "description": {
+                                                "mentions": [
+                                                  {
+                                                    "start": 103,
+                                                    "end": 112,
+                                                    "username": "Amour761"
+                                                  }
+                                                ]
+                                              }
+                                            },
+                                            "id": "1704469304077611008",
+                                            "location": "狗笼里",
+                                            "name": "椒盐菠萝🍥",
+                                            "profile_image_url": "https://pbs.twimg.com/profile_images/2009379005779333121/NgNbuIP0_normal.jpg",
+                                            "protected": false,
+                                            "public_metrics": {
+                                              "followers_count": 3831,
+                                              "following_count": 2937,
+                                              "tweet_count": 3864,
+                                              "listed_count": 10,
+                                              "like_count": 18944,
+                                              "media_count": 1111
+                                            },
+                                            "username": "jiaoyanboluooo",
+                                            "verified": false
+                                          }
+                                        ],
+                                        "tweets": [
+                                          {
+                                            "article": {},
+                                            "attachments": {},
+                                            "author_id": "1741993395910811648",
+                                            "conversation_id": "2012151614837342331",
+                                            "created_at": "2026-01-16T17:42:41.000Z",
+                                            "edit_controls": {
+                                              "edits_remaining": 5,
+                                              "is_edit_eligible": false,
+                                              "editable_until": "2026-01-16T18:42:41.000Z"
+                                            },
+                                            "edit_history_tweet_ids": [
+                                              "2012218967041978603"
+                                            ],
+                                            "entities": {
+                                              "mentions": [
+                                                {
+                                                  "start": 0,
+                                                  "end": 15,
+                                                  "username": "jiaoyanboluooo",
+                                                  "id": "1704469304077611008"
+                                                }
+                                              ]
+                                            },
+                                            "geo": {},
+                                            "id": "2012218967041978603",
+                                            "in_reply_to_user_id": "1704469304077611008",
+                                            "lang": "zh",
+                                            "note_tweet": {
+                                              "entities": {}
+                                            },
+                                            "possibly_sensitive": false,
+                                            "public_metrics": {
+                                              "retweet_count": 0,
+                                              "reply_count": 0,
+                                              "like_count": 0,
+                                              "quote_count": 0,
+                                              "bookmark_count": 0,
+                                              "impression_count": 0
+                                            },
+                                            "referenced_tweets": [
+                                              {
+                                                "type": "replied_to",
+                                                "id": "2012151614837342331"
+                                              }
+                                            ],
+                                            "reply_settings": "everyone",
+                                            "text": "@jiaoyanboluooo 能不能别o金刚烷胺😢"
+                                          },
+                                          {
+                                            "article": {},
+                                            "attachments": {
+                                              "media_keys": [
+                                                "3_2012151601583271936"
+                                              ]
+                                            },
+                                            "author_id": "1704469304077611008",
+                                            "conversation_id": "2012151614837342331",
+                                            "created_at": "2026-01-16T13:15:03.000Z",
+                                            "edit_controls": {
+                                              "edits_remaining": 5,
+                                              "is_edit_eligible": true,
+                                              "editable_until": "2026-01-16T14:15:03.000Z"
+                                            },
+                                            "edit_history_tweet_ids": [
+                                              "2012151614837342331"
+                                            ],
+                                            "entities": {
+                                              "urls": [
+                                                {
+                                                  "start": 47,
+                                                  "end": 70,
+                                                  "url": "https://t.co/un2zrgzfK3",
+                                                  "expanded_url": "https://x.com/jiaoyanboluooo/status/2012151614837342331/photo/1",
+                                                  "display_url": "pic.x.com/un2zrgzfK3",
+                                                  "media_key": "3_2012151601583271936"
+                                                }
+                                              ]
+                                            },
+                                            "geo": {},
+                                            "id": "2012151614837342331",
+                                            "lang": "zh",
+                                            "note_tweet": {
+                                              "entities": {}
+                                            },
+                                            "possibly_sensitive": false,
+                                            "public_metrics": {
+                                              "retweet_count": 0,
+                                              "reply_count": 2,
+                                              "like_count": 5,
+                                              "quote_count": 0,
+                                              "bookmark_count": 0,
+                                              "impression_count": 250
+                                            },
+                                            "reply_settings": "everyone",
+                                            "text": "o了pr80后多久才能o金刚烷胺😿\n还有o金刚烷胺后多久才能oPr80😿\n我很需要这个答案🥺 https://t.co/un2zrgzfK3"
+                                          }
+                                        ]
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "id": "2012151614837342331",
+                                    "source": "local_json",
+                                    "payload": {
+                                      "data": {
+                                        "article": {},
+                                        "attachments": {},
+                                        "author_id": "1741993395910811648",
+                                        "conversation_id": "2012151614837342331",
+                                        "created_at": "2026-01-16T17:42:41.000Z",
+                                        "edit_controls": {
+                                          "edits_remaining": 5,
+                                          "is_edit_eligible": false,
+                                          "editable_until": "2026-01-16T18:42:41.000Z"
+                                        },
+                                        "edit_history_tweet_ids": [
+                                          "2012218967041978603"
+                                        ],
+                                        "entities": {
+                                          "mentions": [
+                                            {
+                                              "start": 0,
+                                              "end": 15,
+                                              "username": "jiaoyanboluooo",
+                                              "id": "1704469304077611008"
+                                            }
+                                          ]
+                                        },
+                                        "geo": {},
+                                        "id": "2012218967041978603",
+                                        "in_reply_to_user_id": "1704469304077611008",
+                                        "lang": "zh",
+                                        "note_tweet": {
+                                          "entities": {}
+                                        },
+                                        "possibly_sensitive": false,
+                                        "public_metrics": {
+                                          "retweet_count": 0,
+                                          "reply_count": 0,
+                                          "like_count": 0,
+                                          "quote_count": 0,
+                                          "bookmark_count": 0,
+                                          "impression_count": 0
+                                        },
+                                        "referenced_tweets": [
+                                          {
+                                            "type": "replied_to",
+                                            "id": "2012151614837342331"
+                                          }
+                                        ],
+                                        "reply_settings": "everyone",
+                                        "text": "@jiaoyanboluooo 能不能别o金刚烷胺😢"
+                                      },
+                                      "includes": {
+                                        "media": [
+                                          {
+                                            "height": 2048,
+                                            "media_key": "3_2012151601583271936",
+                                            "public_metrics": {},
+                                            "type": "photo",
+                                            "url": "https://pbs.twimg.com/media/G-yZOIaasAA3bk6.jpg",
+                                            "width": 1542
+                                          }
+                                        ],
+                                        "users": [
+                                          {
+                                            "created_at": "2024-01-02T01:22:57.000Z",
+                                            "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+                                            "entities": {
+                                              "url": {
+                                                "urls": [
+                                                  {
+                                                    "start": 0,
+                                                    "end": 23,
+                                                    "url": "https://t.co/iO6MRJNm9j",
+                                                    "expanded_url": "https://ngl.link/anincandescence1",
+                                                    "display_url": "ngl.link/anincandescenc…"
+                                                  }
+                                                ]
+                                              }
+                                            },
+                                            "id": "1741993395910811648",
+                                            "location": "天鹅座X-1",
+                                            "name": "炽烈已极",
+                                            "pinned_tweet_id": "2010452086539145687",
+                                            "profile_image_url": "https://pbs.twimg.com/profile_images/2006317223414255617/jGT_GZyG_normal.jpg",
+                                            "protected": false,
+                                            "public_metrics": {
+                                              "followers_count": 1525,
+                                              "following_count": 225,
+                                              "tweet_count": 5197,
+                                              "listed_count": 5,
+                                              "like_count": 12862,
+                                              "media_count": 984
+                                            },
+                                            "url": "https://t.co/iO6MRJNm9j",
+                                            "username": "AnIncandescence",
+                                            "verified": true
+                                          },
+                                          {
+                                            "created_at": "2023-09-20T12:15:32.000Z",
+                                            "description": "ISFP/mtf/生产日期7.24/od/双相喵/臭蝈蝻/🏳️‍⚧️/steam好友码：1737257608/究极无敌大抖m 或sub？/无证含糖/已出柜/不知道什么党/不要靠近我，我只会让你伤心/主人： @Amour761",
+                                            "entities": {
+                                              "description": {
+                                                "mentions": [
+                                                  {
+                                                    "start": 103,
+                                                    "end": 112,
+                                                    "username": "Amour761"
+                                                  }
+                                                ]
+                                              }
+                                            },
+                                            "id": "1704469304077611008",
+                                            "location": "狗笼里",
+                                            "name": "椒盐菠萝🍥",
+                                            "profile_image_url": "https://pbs.twimg.com/profile_images/2009379005779333121/NgNbuIP0_normal.jpg",
+                                            "protected": false,
+                                            "public_metrics": {
+                                              "followers_count": 3831,
+                                              "following_count": 2937,
+                                              "tweet_count": 3864,
+                                              "listed_count": 10,
+                                              "like_count": 18944,
+                                              "media_count": 1111
+                                            },
+                                            "username": "jiaoyanboluooo",
+                                            "verified": false
+                                          }
+                                        ],
+                                        "tweets": [
+                                          {
+                                            "article": {},
+                                            "attachments": {},
+                                            "author_id": "1741993395910811648",
+                                            "conversation_id": "2012151614837342331",
+                                            "created_at": "2026-01-16T17:42:41.000Z",
+                                            "edit_controls": {
+                                              "edits_remaining": 5,
+                                              "is_edit_eligible": false,
+                                              "editable_until": "2026-01-16T18:42:41.000Z"
+                                            },
+                                            "edit_history_tweet_ids": [
+                                              "2012218967041978603"
+                                            ],
+                                            "entities": {
+                                              "mentions": [
+                                                {
+                                                  "start": 0,
+                                                  "end": 15,
+                                                  "username": "jiaoyanboluooo",
+                                                  "id": "1704469304077611008"
+                                                }
+                                              ]
+                                            },
+                                            "geo": {},
+                                            "id": "2012218967041978603",
+                                            "in_reply_to_user_id": "1704469304077611008",
+                                            "lang": "zh",
+                                            "note_tweet": {
+                                              "entities": {}
+                                            },
+                                            "possibly_sensitive": false,
+                                            "public_metrics": {
+                                              "retweet_count": 0,
+                                              "reply_count": 0,
+                                              "like_count": 0,
+                                              "quote_count": 0,
+                                              "bookmark_count": 0,
+                                              "impression_count": 0
+                                            },
+                                            "referenced_tweets": [
+                                              {
+                                                "type": "replied_to",
+                                                "id": "2012151614837342331"
+                                              }
+                                            ],
+                                            "reply_settings": "everyone",
+                                            "text": "@jiaoyanboluooo 能不能别o金刚烷胺😢"
+                                          },
+                                          {
+                                            "article": {},
+                                            "attachments": {
+                                              "media_keys": [
+                                                "3_2012151601583271936"
+                                              ]
+                                            },
+                                            "author_id": "1704469304077611008",
+                                            "conversation_id": "2012151614837342331",
+                                            "created_at": "2026-01-16T13:15:03.000Z",
+                                            "edit_controls": {
+                                              "edits_remaining": 5,
+                                              "is_edit_eligible": true,
+                                              "editable_until": "2026-01-16T14:15:03.000Z"
+                                            },
+                                            "edit_history_tweet_ids": [
+                                              "2012151614837342331"
+                                            ],
+                                            "entities": {
+                                              "urls": [
+                                                {
+                                                  "start": 47,
+                                                  "end": 70,
+                                                  "url": "https://t.co/un2zrgzfK3",
+                                                  "expanded_url": "https://x.com/jiaoyanboluooo/status/2012151614837342331/photo/1",
+                                                  "display_url": "pic.x.com/un2zrgzfK3",
+                                                  "media_key": "3_2012151601583271936"
+                                                }
+                                              ]
+                                            },
+                                            "geo": {},
+                                            "id": "2012151614837342331",
+                                            "lang": "zh",
+                                            "note_tweet": {
+                                              "entities": {}
+                                            },
+                                            "possibly_sensitive": false,
+                                            "public_metrics": {
+                                              "retweet_count": 0,
+                                              "reply_count": 2,
+                                              "like_count": 5,
+                                              "quote_count": 0,
+                                              "bookmark_count": 0,
+                                              "impression_count": 250
+                                            },
+                                            "reply_settings": "everyone",
+                                            "text": "o了pr80后多久才能o金刚烷胺😿\n还有o金刚烷胺后多久才能oPr80😿\n我很需要这个答案🥺 https://t.co/un2zrgzfK3"
+                                          }
+                                        ]
+                                      }
+                                    }
+                                  }
+                                ]
+                              }
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "id": "2012232842806272173",
+                        "source": "local_json",
+                        "payload": {
+                          "data": {
+                            "article": {},
+                            "attachments": {},
+                            "author_id": "1741993395910811648",
+                            "conversation_id": "2012151614837342331",
+                            "created_at": "2026-01-16T18:49:08.000Z",
+                            "edit_controls": {
+                              "edits_remaining": 5,
+                              "is_edit_eligible": false,
+                              "editable_until": "2026-01-16T19:49:08.000Z"
+                            },
+                            "edit_history_tweet_ids": [
+                              "2012235689971056891"
+                            ],
+                            "entities": {
+                              "mentions": [
+                                {
+                                  "start": 0,
+                                  "end": 15,
+                                  "username": "jiaoyanboluooo",
+                                  "id": "1704469304077611008"
+                                }
+                              ]
+                            },
+                            "geo": {},
+                            "id": "2012235689971056891",
+                            "in_reply_to_user_id": "1704469304077611008",
+                            "lang": "zh",
+                            "note_tweet": {
+                              "entities": {}
+                            },
+                            "possibly_sensitive": false,
+                            "public_metrics": {
+                              "retweet_count": 0,
+                              "reply_count": 0,
+                              "like_count": 0,
+                              "quote_count": 0,
+                              "bookmark_count": 0,
+                              "impression_count": 0
+                            },
+                            "referenced_tweets": [
+                              {
+                                "type": "replied_to",
+                                "id": "2012232842806272173"
+                              }
+                            ],
+                            "reply_settings": "everyone",
+                            "text": "@jiaoyanboluooo 吃玉米片也比这个好呀...\n减少食欲我第一个想到的是专注达（）但是可能不便宜...也不好获取\n抗抑郁药，嗯，正常剂量（强调）下的ssri/snri对一部分人也是抑制食欲的"
+                          },
+                          "includes": {
+                            "users": [
+                              {
+                                "created_at": "2024-01-02T01:22:57.000Z",
+                                "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+                                "entities": {
+                                  "url": {
+                                    "urls": [
+                                      {
+                                        "start": 0,
+                                        "end": 23,
+                                        "url": "https://t.co/iO6MRJNm9j",
+                                        "expanded_url": "https://ngl.link/anincandescence1",
+                                        "display_url": "ngl.link/anincandescenc…"
+                                      }
+                                    ]
+                                  }
+                                },
+                                "id": "1741993395910811648",
+                                "location": "天鹅座X-1",
+                                "name": "炽烈已极",
+                                "pinned_tweet_id": "2010452086539145687",
+                                "profile_image_url": "https://pbs.twimg.com/profile_images/2006317223414255617/jGT_GZyG_normal.jpg",
+                                "protected": false,
+                                "public_metrics": {
+                                  "followers_count": 1525,
+                                  "following_count": 225,
+                                  "tweet_count": 5199,
+                                  "listed_count": 5,
+                                  "like_count": 12862,
+                                  "media_count": 984
+                                },
+                                "url": "https://t.co/iO6MRJNm9j",
+                                "username": "AnIncandescence",
+                                "verified": true
+                              },
+                              {
+                                "created_at": "2023-09-20T12:15:32.000Z",
+                                "description": "ISFP/mtf/生产日期7.24/od/双相喵/臭蝈蝻/🏳️‍⚧️/steam好友码：1737257608/究极无敌大抖m 或sub？/无证含糖/已出柜/不知道什么党/不要靠近我，我只会让你伤心/主人： @Amour761",
+                                "entities": {
+                                  "description": {
+                                    "mentions": [
+                                      {
+                                        "start": 103,
+                                        "end": 112,
+                                        "username": "Amour761"
+                                      }
+                                    ]
+                                  }
+                                },
+                                "id": "1704469304077611008",
+                                "location": "狗笼里",
+                                "name": "椒盐菠萝🍥",
+                                "profile_image_url": "https://pbs.twimg.com/profile_images/2009379005779333121/NgNbuIP0_normal.jpg",
+                                "protected": false,
+                                "public_metrics": {
+                                  "followers_count": 3831,
+                                  "following_count": 2938,
+                                  "tweet_count": 3866,
+                                  "listed_count": 10,
+                                  "like_count": 18948,
+                                  "media_count": 1111
+                                },
+                                "username": "jiaoyanboluooo",
+                                "verified": false
+                              }
+                            ],
+                            "tweets": [
+                              {
+                                "article": {},
+                                "attachments": {},
+                                "author_id": "1741993395910811648",
+                                "conversation_id": "2012151614837342331",
+                                "created_at": "2026-01-16T18:49:08.000Z",
+                                "edit_controls": {
+                                  "edits_remaining": 5,
+                                  "is_edit_eligible": false,
+                                  "editable_until": "2026-01-16T19:49:08.000Z"
+                                },
+                                "edit_history_tweet_ids": [
+                                  "2012235689971056891"
+                                ],
+                                "entities": {
+                                  "mentions": [
+                                    {
+                                      "start": 0,
+                                      "end": 15,
+                                      "username": "jiaoyanboluooo",
+                                      "id": "1704469304077611008"
+                                    }
+                                  ]
+                                },
+                                "geo": {},
+                                "id": "2012235689971056891",
+                                "in_reply_to_user_id": "1704469304077611008",
+                                "lang": "zh",
+                                "note_tweet": {
+                                  "entities": {}
+                                },
+                                "possibly_sensitive": false,
+                                "public_metrics": {
+                                  "retweet_count": 0,
+                                  "reply_count": 0,
+                                  "like_count": 0,
+                                  "quote_count": 0,
+                                  "bookmark_count": 0,
+                                  "impression_count": 0
+                                },
+                                "referenced_tweets": [
+                                  {
+                                    "type": "replied_to",
+                                    "id": "2012232842806272173"
+                                  }
+                                ],
+                                "reply_settings": "everyone",
+                                "text": "@jiaoyanboluooo 吃玉米片也比这个好呀...\n减少食欲我第一个想到的是专注达（）但是可能不便宜...也不好获取\n抗抑郁药，嗯，正常剂量（强调）下的ssri/snri对一部分人也是抑制食欲的"
+                              },
+                              {
+                                "article": {},
+                                "attachments": {},
+                                "author_id": "1704469304077611008",
+                                "conversation_id": "2012151614837342331",
+                                "created_at": "2026-01-16T18:37:49.000Z",
+                                "edit_controls": {
+                                  "edits_remaining": 5,
+                                  "is_edit_eligible": false,
+                                  "editable_until": "2026-01-16T19:37:49.000Z"
+                                },
+                                "edit_history_tweet_ids": [
+                                  "2012232842806272173"
+                                ],
+                                "entities": {
+                                  "mentions": [
+                                    {
+                                      "start": 0,
+                                      "end": 16,
+                                      "username": "AnIncandescence",
+                                      "id": "1741993395910811648"
+                                    }
+                                  ]
+                                },
+                                "geo": {},
+                                "id": "2012232842806272173",
+                                "in_reply_to_user_id": "1741993395910811648",
+                                "lang": "zh",
+                                "note_tweet": {
+                                  "entities": {}
+                                },
+                                "possibly_sensitive": false,
+                                "public_metrics": {
+                                  "retweet_count": 0,
+                                  "reply_count": 1,
+                                  "like_count": 0,
+                                  "quote_count": 0,
+                                  "bookmark_count": 0,
+                                  "impression_count": 5
+                                },
+                                "referenced_tweets": [
+                                  {
+                                    "type": "replied_to",
+                                    "id": "2012218967041978603"
+                                  }
+                                ],
+                                "reply_settings": "everyone",
+                                "text": "@AnIncandescence 那还有什么药便宜能减少很多食欲😿"
+                              }
+                            ]
+                          },
+                          "_pale_fire": {
+                            "x_api_reply_chains": {
+                              "2012218967041978603": {
+                                "version": 1,
+                                "fetched_at": "2026-04-18T01:24:31Z",
+                                "max_depth": 63,
+                                "posts": [
+                                  {
+                                    "id": "2012218967041978603",
+                                    "source": "local_json",
+                                    "payload": {
+                                      "data": {
+                                        "article": {},
+                                        "attachments": {},
+                                        "author_id": "1741993395910811648",
+                                        "conversation_id": "2012151614837342331",
+                                        "created_at": "2026-01-16T17:42:41.000Z",
+                                        "edit_controls": {
+                                          "edits_remaining": 5,
+                                          "is_edit_eligible": false,
+                                          "editable_until": "2026-01-16T18:42:41.000Z"
+                                        },
+                                        "edit_history_tweet_ids": [
+                                          "2012218967041978603"
+                                        ],
+                                        "entities": {
+                                          "mentions": [
+                                            {
+                                              "start": 0,
+                                              "end": 15,
+                                              "username": "jiaoyanboluooo",
+                                              "id": "1704469304077611008"
+                                            }
+                                          ]
+                                        },
+                                        "geo": {},
+                                        "id": "2012218967041978603",
+                                        "in_reply_to_user_id": "1704469304077611008",
+                                        "lang": "zh",
+                                        "note_tweet": {
+                                          "entities": {}
+                                        },
+                                        "possibly_sensitive": false,
+                                        "public_metrics": {
+                                          "retweet_count": 0,
+                                          "reply_count": 0,
+                                          "like_count": 0,
+                                          "quote_count": 0,
+                                          "bookmark_count": 0,
+                                          "impression_count": 0
+                                        },
+                                        "referenced_tweets": [
+                                          {
+                                            "type": "replied_to",
+                                            "id": "2012151614837342331"
+                                          }
+                                        ],
+                                        "reply_settings": "everyone",
+                                        "text": "@jiaoyanboluooo 能不能别o金刚烷胺😢"
+                                      },
+                                      "includes": {
+                                        "media": [
+                                          {
+                                            "height": 2048,
+                                            "media_key": "3_2012151601583271936",
+                                            "public_metrics": {},
+                                            "type": "photo",
+                                            "url": "https://pbs.twimg.com/media/G-yZOIaasAA3bk6.jpg",
+                                            "width": 1542
+                                          }
+                                        ],
+                                        "users": [
+                                          {
+                                            "created_at": "2024-01-02T01:22:57.000Z",
+                                            "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+                                            "entities": {
+                                              "url": {
+                                                "urls": [
+                                                  {
+                                                    "start": 0,
+                                                    "end": 23,
+                                                    "url": "https://t.co/iO6MRJNm9j",
+                                                    "expanded_url": "https://ngl.link/anincandescence1",
+                                                    "display_url": "ngl.link/anincandescenc…"
+                                                  }
+                                                ]
+                                              }
+                                            },
+                                            "id": "1741993395910811648",
+                                            "location": "天鹅座X-1",
+                                            "name": "炽烈已极",
+                                            "pinned_tweet_id": "2010452086539145687",
+                                            "profile_image_url": "https://pbs.twimg.com/profile_images/2006317223414255617/jGT_GZyG_normal.jpg",
+                                            "protected": false,
+                                            "public_metrics": {
+                                              "followers_count": 1525,
+                                              "following_count": 225,
+                                              "tweet_count": 5197,
+                                              "listed_count": 5,
+                                              "like_count": 12862,
+                                              "media_count": 984
+                                            },
+                                            "url": "https://t.co/iO6MRJNm9j",
+                                            "username": "AnIncandescence",
+                                            "verified": true
+                                          },
+                                          {
+                                            "created_at": "2023-09-20T12:15:32.000Z",
+                                            "description": "ISFP/mtf/生产日期7.24/od/双相喵/臭蝈蝻/🏳️‍⚧️/steam好友码：1737257608/究极无敌大抖m 或sub？/无证含糖/已出柜/不知道什么党/不要靠近我，我只会让你伤心/主人： @Amour761",
+                                            "entities": {
+                                              "description": {
+                                                "mentions": [
+                                                  {
+                                                    "start": 103,
+                                                    "end": 112,
+                                                    "username": "Amour761"
+                                                  }
+                                                ]
+                                              }
+                                            },
+                                            "id": "1704469304077611008",
+                                            "location": "狗笼里",
+                                            "name": "椒盐菠萝🍥",
+                                            "profile_image_url": "https://pbs.twimg.com/profile_images/2009379005779333121/NgNbuIP0_normal.jpg",
+                                            "protected": false,
+                                            "public_metrics": {
+                                              "followers_count": 3831,
+                                              "following_count": 2937,
+                                              "tweet_count": 3864,
+                                              "listed_count": 10,
+                                              "like_count": 18944,
+                                              "media_count": 1111
+                                            },
+                                            "username": "jiaoyanboluooo",
+                                            "verified": false
+                                          }
+                                        ],
+                                        "tweets": [
+                                          {
+                                            "article": {},
+                                            "attachments": {},
+                                            "author_id": "1741993395910811648",
+                                            "conversation_id": "2012151614837342331",
+                                            "created_at": "2026-01-16T17:42:41.000Z",
+                                            "edit_controls": {
+                                              "edits_remaining": 5,
+                                              "is_edit_eligible": false,
+                                              "editable_until": "2026-01-16T18:42:41.000Z"
+                                            },
+                                            "edit_history_tweet_ids": [
+                                              "2012218967041978603"
+                                            ],
+                                            "entities": {
+                                              "mentions": [
+                                                {
+                                                  "start": 0,
+                                                  "end": 15,
+                                                  "username": "jiaoyanboluooo",
+                                                  "id": "1704469304077611008"
+                                                }
+                                              ]
+                                            },
+                                            "geo": {},
+                                            "id": "2012218967041978603",
+                                            "in_reply_to_user_id": "1704469304077611008",
+                                            "lang": "zh",
+                                            "note_tweet": {
+                                              "entities": {}
+                                            },
+                                            "possibly_sensitive": false,
+                                            "public_metrics": {
+                                              "retweet_count": 0,
+                                              "reply_count": 0,
+                                              "like_count": 0,
+                                              "quote_count": 0,
+                                              "bookmark_count": 0,
+                                              "impression_count": 0
+                                            },
+                                            "referenced_tweets": [
+                                              {
+                                                "type": "replied_to",
+                                                "id": "2012151614837342331"
+                                              }
+                                            ],
+                                            "reply_settings": "everyone",
+                                            "text": "@jiaoyanboluooo 能不能别o金刚烷胺😢"
+                                          },
+                                          {
+                                            "article": {},
+                                            "attachments": {
+                                              "media_keys": [
+                                                "3_2012151601583271936"
+                                              ]
+                                            },
+                                            "author_id": "1704469304077611008",
+                                            "conversation_id": "2012151614837342331",
+                                            "created_at": "2026-01-16T13:15:03.000Z",
+                                            "edit_controls": {
+                                              "edits_remaining": 5,
+                                              "is_edit_eligible": true,
+                                              "editable_until": "2026-01-16T14:15:03.000Z"
+                                            },
+                                            "edit_history_tweet_ids": [
+                                              "2012151614837342331"
+                                            ],
+                                            "entities": {
+                                              "urls": [
+                                                {
+                                                  "start": 47,
+                                                  "end": 70,
+                                                  "url": "https://t.co/un2zrgzfK3",
+                                                  "expanded_url": "https://x.com/jiaoyanboluooo/status/2012151614837342331/photo/1",
+                                                  "display_url": "pic.x.com/un2zrgzfK3",
+                                                  "media_key": "3_2012151601583271936"
+                                                }
+                                              ]
+                                            },
+                                            "geo": {},
+                                            "id": "2012151614837342331",
+                                            "lang": "zh",
+                                            "note_tweet": {
+                                              "entities": {}
+                                            },
+                                            "possibly_sensitive": false,
+                                            "public_metrics": {
+                                              "retweet_count": 0,
+                                              "reply_count": 2,
+                                              "like_count": 5,
+                                              "quote_count": 0,
+                                              "bookmark_count": 0,
+                                              "impression_count": 250
+                                            },
+                                            "reply_settings": "everyone",
+                                            "text": "o了pr80后多久才能o金刚烷胺😿\n还有o金刚烷胺后多久才能oPr80😿\n我很需要这个答案🥺 https://t.co/un2zrgzfK3"
+                                          }
+                                        ]
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "id": "2012151614837342331",
+                                    "source": "local_json",
+                                    "payload": {
+                                      "data": {
+                                        "article": {},
+                                        "attachments": {},
+                                        "author_id": "1741993395910811648",
+                                        "conversation_id": "2012151614837342331",
+                                        "created_at": "2026-01-16T17:42:41.000Z",
+                                        "edit_controls": {
+                                          "edits_remaining": 5,
+                                          "is_edit_eligible": false,
+                                          "editable_until": "2026-01-16T18:42:41.000Z"
+                                        },
+                                        "edit_history_tweet_ids": [
+                                          "2012218967041978603"
+                                        ],
+                                        "entities": {
+                                          "mentions": [
+                                            {
+                                              "start": 0,
+                                              "end": 15,
+                                              "username": "jiaoyanboluooo",
+                                              "id": "1704469304077611008"
+                                            }
+                                          ]
+                                        },
+                                        "geo": {},
+                                        "id": "2012218967041978603",
+                                        "in_reply_to_user_id": "1704469304077611008",
+                                        "lang": "zh",
+                                        "note_tweet": {
+                                          "entities": {}
+                                        },
+                                        "possibly_sensitive": false,
+                                        "public_metrics": {
+                                          "retweet_count": 0,
+                                          "reply_count": 0,
+                                          "like_count": 0,
+                                          "quote_count": 0,
+                                          "bookmark_count": 0,
+                                          "impression_count": 0
+                                        },
+                                        "referenced_tweets": [
+                                          {
+                                            "type": "replied_to",
+                                            "id": "2012151614837342331"
+                                          }
+                                        ],
+                                        "reply_settings": "everyone",
+                                        "text": "@jiaoyanboluooo 能不能别o金刚烷胺😢"
+                                      },
+                                      "includes": {
+                                        "media": [
+                                          {
+                                            "height": 2048,
+                                            "media_key": "3_2012151601583271936",
+                                            "public_metrics": {},
+                                            "type": "photo",
+                                            "url": "https://pbs.twimg.com/media/G-yZOIaasAA3bk6.jpg",
+                                            "width": 1542
+                                          }
+                                        ],
+                                        "users": [
+                                          {
+                                            "created_at": "2024-01-02T01:22:57.000Z",
+                                            "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+                                            "entities": {
+                                              "url": {
+                                                "urls": [
+                                                  {
+                                                    "start": 0,
+                                                    "end": 23,
+                                                    "url": "https://t.co/iO6MRJNm9j",
+                                                    "expanded_url": "https://ngl.link/anincandescence1",
+                                                    "display_url": "ngl.link/anincandescenc…"
+                                                  }
+                                                ]
+                                              }
+                                            },
+                                            "id": "1741993395910811648",
+                                            "location": "天鹅座X-1",
+                                            "name": "炽烈已极",
+                                            "pinned_tweet_id": "2010452086539145687",
+                                            "profile_image_url": "https://pbs.twimg.com/profile_images/2006317223414255617/jGT_GZyG_normal.jpg",
+                                            "protected": false,
+                                            "public_metrics": {
+                                              "followers_count": 1525,
+                                              "following_count": 225,
+                                              "tweet_count": 5197,
+                                              "listed_count": 5,
+                                              "like_count": 12862,
+                                              "media_count": 984
+                                            },
+                                            "url": "https://t.co/iO6MRJNm9j",
+                                            "username": "AnIncandescence",
+                                            "verified": true
+                                          },
+                                          {
+                                            "created_at": "2023-09-20T12:15:32.000Z",
+                                            "description": "ISFP/mtf/生产日期7.24/od/双相喵/臭蝈蝻/🏳️‍⚧️/steam好友码：1737257608/究极无敌大抖m 或sub？/无证含糖/已出柜/不知道什么党/不要靠近我，我只会让你伤心/主人： @Amour761",
+                                            "entities": {
+                                              "description": {
+                                                "mentions": [
+                                                  {
+                                                    "start": 103,
+                                                    "end": 112,
+                                                    "username": "Amour761"
+                                                  }
+                                                ]
+                                              }
+                                            },
+                                            "id": "1704469304077611008",
+                                            "location": "狗笼里",
+                                            "name": "椒盐菠萝🍥",
+                                            "profile_image_url": "https://pbs.twimg.com/profile_images/2009379005779333121/NgNbuIP0_normal.jpg",
+                                            "protected": false,
+                                            "public_metrics": {
+                                              "followers_count": 3831,
+                                              "following_count": 2937,
+                                              "tweet_count": 3864,
+                                              "listed_count": 10,
+                                              "like_count": 18944,
+                                              "media_count": 1111
+                                            },
+                                            "username": "jiaoyanboluooo",
+                                            "verified": false
+                                          }
+                                        ],
+                                        "tweets": [
+                                          {
+                                            "article": {},
+                                            "attachments": {},
+                                            "author_id": "1741993395910811648",
+                                            "conversation_id": "2012151614837342331",
+                                            "created_at": "2026-01-16T17:42:41.000Z",
+                                            "edit_controls": {
+                                              "edits_remaining": 5,
+                                              "is_edit_eligible": false,
+                                              "editable_until": "2026-01-16T18:42:41.000Z"
+                                            },
+                                            "edit_history_tweet_ids": [
+                                              "2012218967041978603"
+                                            ],
+                                            "entities": {
+                                              "mentions": [
+                                                {
+                                                  "start": 0,
+                                                  "end": 15,
+                                                  "username": "jiaoyanboluooo",
+                                                  "id": "1704469304077611008"
+                                                }
+                                              ]
+                                            },
+                                            "geo": {},
+                                            "id": "2012218967041978603",
+                                            "in_reply_to_user_id": "1704469304077611008",
+                                            "lang": "zh",
+                                            "note_tweet": {
+                                              "entities": {}
+                                            },
+                                            "possibly_sensitive": false,
+                                            "public_metrics": {
+                                              "retweet_count": 0,
+                                              "reply_count": 0,
+                                              "like_count": 0,
+                                              "quote_count": 0,
+                                              "bookmark_count": 0,
+                                              "impression_count": 0
+                                            },
+                                            "referenced_tweets": [
+                                              {
+                                                "type": "replied_to",
+                                                "id": "2012151614837342331"
+                                              }
+                                            ],
+                                            "reply_settings": "everyone",
+                                            "text": "@jiaoyanboluooo 能不能别o金刚烷胺😢"
+                                          },
+                                          {
+                                            "article": {},
+                                            "attachments": {
+                                              "media_keys": [
+                                                "3_2012151601583271936"
+                                              ]
+                                            },
+                                            "author_id": "1704469304077611008",
+                                            "conversation_id": "2012151614837342331",
+                                            "created_at": "2026-01-16T13:15:03.000Z",
+                                            "edit_controls": {
+                                              "edits_remaining": 5,
+                                              "is_edit_eligible": true,
+                                              "editable_until": "2026-01-16T14:15:03.000Z"
+                                            },
+                                            "edit_history_tweet_ids": [
+                                              "2012151614837342331"
+                                            ],
+                                            "entities": {
+                                              "urls": [
+                                                {
+                                                  "start": 47,
+                                                  "end": 70,
+                                                  "url": "https://t.co/un2zrgzfK3",
+                                                  "expanded_url": "https://x.com/jiaoyanboluooo/status/2012151614837342331/photo/1",
+                                                  "display_url": "pic.x.com/un2zrgzfK3",
+                                                  "media_key": "3_2012151601583271936"
+                                                }
+                                              ]
+                                            },
+                                            "geo": {},
+                                            "id": "2012151614837342331",
+                                            "lang": "zh",
+                                            "note_tweet": {
+                                              "entities": {}
+                                            },
+                                            "possibly_sensitive": false,
+                                            "public_metrics": {
+                                              "retweet_count": 0,
+                                              "reply_count": 2,
+                                              "like_count": 5,
+                                              "quote_count": 0,
+                                              "bookmark_count": 0,
+                                              "impression_count": 250
+                                            },
+                                            "reply_settings": "everyone",
+                                            "text": "o了pr80后多久才能o金刚烷胺😿\n还有o金刚烷胺后多久才能oPr80😿\n我很需要这个答案🥺 https://t.co/un2zrgzfK3"
+                                          }
+                                        ]
+                                      }
+                                    }
+                                  }
+                                ]
+                              }
+                            }
+                          }
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          },
+          {
+            "id": "2012258881809129959",
+            "source": "local_json",
+            "payload": {
+              "data": {
+                "article": {},
+                "attachments": {},
+                "author_id": "1741993395910811648",
+                "conversation_id": "2012151614837342331",
+                "created_at": "2026-01-16T20:25:21.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2026-01-16T21:25:21.000Z"
+                },
+                "edit_history_tweet_ids": [
+                  "2012259900957905033"
+                ],
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 0,
+                      "end": 15,
+                      "username": "jiaoyanboluooo",
+                      "id": "1704469304077611008"
+                    }
+                  ]
+                },
+                "geo": {},
+                "id": "2012259900957905033",
+                "in_reply_to_user_id": "1704469304077611008",
+                "lang": "ja",
+                "note_tweet": {
+                  "entities": {}
+                },
+                "possibly_sensitive": false,
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 0
+                },
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "2012258881809129959"
+                  }
+                ],
+                "reply_settings": "everyone",
+                "text": "@jiaoyanboluooo 越久越好"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "created_at": "2024-01-02T01:22:57.000Z",
+                    "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/iO6MRJNm9j",
+                            "expanded_url": "https://ngl.link/anincandescence1",
+                            "display_url": "ngl.link/anincandescenc…"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1741993395910811648",
+                    "location": "天鹅座X-1",
+                    "name": "炽烈已极",
+                    "pinned_tweet_id": "2010452086539145687",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2006317223414255617/jGT_GZyG_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 1525,
+                      "following_count": 225,
+                      "tweet_count": 5203,
+                      "listed_count": 5,
+                      "like_count": 12864,
+                      "media_count": 985
+                    },
+                    "url": "https://t.co/iO6MRJNm9j",
+                    "username": "AnIncandescence",
+                    "verified": true
+                  },
+                  {
+                    "created_at": "2023-09-20T12:15:32.000Z",
+                    "description": "ISFP/mtf/生产日期7.24/od/双相喵/臭蝈蝻/🏳️‍⚧️/steam好友码：1737257608/究极无敌大抖m 或sub？/无证含糖/已出柜/不知道什么党/不要靠近我，我只会让你伤心/主人： @Amour761",
+                    "entities": {
+                      "description": {
+                        "mentions": [
+                          {
+                            "start": 103,
+                            "end": 112,
+                            "username": "Amour761"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1704469304077611008",
+                    "location": "狗笼里",
+                    "name": "椒盐菠萝🍥",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2009379005779333121/NgNbuIP0_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 3832,
+                      "following_count": 2942,
+                      "tweet_count": 3870,
+                      "listed_count": 10,
+                      "like_count": 18963,
+                      "media_count": 1111
+                    },
+                    "username": "jiaoyanboluooo",
+                    "verified": false
+                  }
+                ],
+                "tweets": [
+                  {
+                    "article": {},
+                    "attachments": {},
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "2012151614837342331",
+                    "created_at": "2026-01-16T20:25:21.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2026-01-16T21:25:21.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "2012259900957905033"
+                    ],
+                    "entities": {
+                      "mentions": [
+                        {
+                          "start": 0,
+                          "end": 15,
+                          "username": "jiaoyanboluooo",
+                          "id": "1704469304077611008"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "2012259900957905033",
+                    "in_reply_to_user_id": "1704469304077611008",
+                    "lang": "ja",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 0,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 0
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "2012258881809129959"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "@jiaoyanboluooo 越久越好"
+                  },
+                  {
+                    "article": {},
+                    "attachments": {},
+                    "author_id": "1704469304077611008",
+                    "conversation_id": "2012151614837342331",
+                    "created_at": "2026-01-16T20:21:18.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2026-01-16T21:21:18.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "2012258881809129959"
+                    ],
+                    "entities": {
+                      "mentions": [
+                        {
+                          "start": 0,
+                          "end": 16,
+                          "username": "AnIncandescence",
+                          "id": "1741993395910811648"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "2012258881809129959",
+                    "in_reply_to_user_id": "1741993395910811648",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 1,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 9
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "2012235689971056891"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "@AnIncandescence 这样来看我还是吃晚安吧😿\n所以这两个隔多久才能安全点😿"
+                  }
+                ]
+              },
+              "_pale_fire": {
+                "x_api_reply_chains": {
+                  "2012235689971056891": {
+                    "version": 1,
+                    "fetched_at": "2026-04-18T01:24:31Z",
+                    "max_depth": 63,
+                    "posts": [
+                      {
+                        "id": "2012235689971056891",
+                        "source": "local_json",
+                        "payload": {
+                          "data": {
+                            "article": {},
+                            "attachments": {},
+                            "author_id": "1741993395910811648",
+                            "conversation_id": "2012151614837342331",
+                            "created_at": "2026-01-16T18:49:08.000Z",
+                            "edit_controls": {
+                              "edits_remaining": 5,
+                              "is_edit_eligible": false,
+                              "editable_until": "2026-01-16T19:49:08.000Z"
+                            },
+                            "edit_history_tweet_ids": [
+                              "2012235689971056891"
+                            ],
+                            "entities": {
+                              "mentions": [
+                                {
+                                  "start": 0,
+                                  "end": 15,
+                                  "username": "jiaoyanboluooo",
+                                  "id": "1704469304077611008"
+                                }
+                              ]
+                            },
+                            "geo": {},
+                            "id": "2012235689971056891",
+                            "in_reply_to_user_id": "1704469304077611008",
+                            "lang": "zh",
+                            "note_tweet": {
+                              "entities": {}
+                            },
+                            "possibly_sensitive": false,
+                            "public_metrics": {
+                              "retweet_count": 0,
+                              "reply_count": 0,
+                              "like_count": 0,
+                              "quote_count": 0,
+                              "bookmark_count": 0,
+                              "impression_count": 0
+                            },
+                            "referenced_tweets": [
+                              {
+                                "type": "replied_to",
+                                "id": "2012232842806272173"
+                              }
+                            ],
+                            "reply_settings": "everyone",
+                            "text": "@jiaoyanboluooo 吃玉米片也比这个好呀...\n减少食欲我第一个想到的是专注达（）但是可能不便宜...也不好获取\n抗抑郁药，嗯，正常剂量（强调）下的ssri/snri对一部分人也是抑制食欲的"
+                          },
+                          "includes": {
+                            "users": [
+                              {
+                                "created_at": "2024-01-02T01:22:57.000Z",
+                                "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+                                "entities": {
+                                  "url": {
+                                    "urls": [
+                                      {
+                                        "start": 0,
+                                        "end": 23,
+                                        "url": "https://t.co/iO6MRJNm9j",
+                                        "expanded_url": "https://ngl.link/anincandescence1",
+                                        "display_url": "ngl.link/anincandescenc…"
+                                      }
+                                    ]
+                                  }
+                                },
+                                "id": "1741993395910811648",
+                                "location": "天鹅座X-1",
+                                "name": "炽烈已极",
+                                "pinned_tweet_id": "2010452086539145687",
+                                "profile_image_url": "https://pbs.twimg.com/profile_images/2006317223414255617/jGT_GZyG_normal.jpg",
+                                "protected": false,
+                                "public_metrics": {
+                                  "followers_count": 1525,
+                                  "following_count": 225,
+                                  "tweet_count": 5199,
+                                  "listed_count": 5,
+                                  "like_count": 12862,
+                                  "media_count": 984
+                                },
+                                "url": "https://t.co/iO6MRJNm9j",
+                                "username": "AnIncandescence",
+                                "verified": true
+                              },
+                              {
+                                "created_at": "2023-09-20T12:15:32.000Z",
+                                "description": "ISFP/mtf/生产日期7.24/od/双相喵/臭蝈蝻/🏳️‍⚧️/steam好友码：1737257608/究极无敌大抖m 或sub？/无证含糖/已出柜/不知道什么党/不要靠近我，我只会让你伤心/主人： @Amour761",
+                                "entities": {
+                                  "description": {
+                                    "mentions": [
+                                      {
+                                        "start": 103,
+                                        "end": 112,
+                                        "username": "Amour761"
+                                      }
+                                    ]
+                                  }
+                                },
+                                "id": "1704469304077611008",
+                                "location": "狗笼里",
+                                "name": "椒盐菠萝🍥",
+                                "profile_image_url": "https://pbs.twimg.com/profile_images/2009379005779333121/NgNbuIP0_normal.jpg",
+                                "protected": false,
+                                "public_metrics": {
+                                  "followers_count": 3831,
+                                  "following_count": 2938,
+                                  "tweet_count": 3866,
+                                  "listed_count": 10,
+                                  "like_count": 18948,
+                                  "media_count": 1111
+                                },
+                                "username": "jiaoyanboluooo",
+                                "verified": false
+                              }
+                            ],
+                            "tweets": [
+                              {
+                                "article": {},
+                                "attachments": {},
+                                "author_id": "1741993395910811648",
+                                "conversation_id": "2012151614837342331",
+                                "created_at": "2026-01-16T18:49:08.000Z",
+                                "edit_controls": {
+                                  "edits_remaining": 5,
+                                  "is_edit_eligible": false,
+                                  "editable_until": "2026-01-16T19:49:08.000Z"
+                                },
+                                "edit_history_tweet_ids": [
+                                  "2012235689971056891"
+                                ],
+                                "entities": {
+                                  "mentions": [
+                                    {
+                                      "start": 0,
+                                      "end": 15,
+                                      "username": "jiaoyanboluooo",
+                                      "id": "1704469304077611008"
+                                    }
+                                  ]
+                                },
+                                "geo": {},
+                                "id": "2012235689971056891",
+                                "in_reply_to_user_id": "1704469304077611008",
+                                "lang": "zh",
+                                "note_tweet": {
+                                  "entities": {}
+                                },
+                                "possibly_sensitive": false,
+                                "public_metrics": {
+                                  "retweet_count": 0,
+                                  "reply_count": 0,
+                                  "like_count": 0,
+                                  "quote_count": 0,
+                                  "bookmark_count": 0,
+                                  "impression_count": 0
+                                },
+                                "referenced_tweets": [
+                                  {
+                                    "type": "replied_to",
+                                    "id": "2012232842806272173"
+                                  }
+                                ],
+                                "reply_settings": "everyone",
+                                "text": "@jiaoyanboluooo 吃玉米片也比这个好呀...\n减少食欲我第一个想到的是专注达（）但是可能不便宜...也不好获取\n抗抑郁药，嗯，正常剂量（强调）下的ssri/snri对一部分人也是抑制食欲的"
+                              },
+                              {
+                                "article": {},
+                                "attachments": {},
+                                "author_id": "1704469304077611008",
+                                "conversation_id": "2012151614837342331",
+                                "created_at": "2026-01-16T18:37:49.000Z",
+                                "edit_controls": {
+                                  "edits_remaining": 5,
+                                  "is_edit_eligible": false,
+                                  "editable_until": "2026-01-16T19:37:49.000Z"
+                                },
+                                "edit_history_tweet_ids": [
+                                  "2012232842806272173"
+                                ],
+                                "entities": {
+                                  "mentions": [
+                                    {
+                                      "start": 0,
+                                      "end": 16,
+                                      "username": "AnIncandescence",
+                                      "id": "1741993395910811648"
+                                    }
+                                  ]
+                                },
+                                "geo": {},
+                                "id": "2012232842806272173",
+                                "in_reply_to_user_id": "1741993395910811648",
+                                "lang": "zh",
+                                "note_tweet": {
+                                  "entities": {}
+                                },
+                                "possibly_sensitive": false,
+                                "public_metrics": {
+                                  "retweet_count": 0,
+                                  "reply_count": 1,
+                                  "like_count": 0,
+                                  "quote_count": 0,
+                                  "bookmark_count": 0,
+                                  "impression_count": 5
+                                },
+                                "referenced_tweets": [
+                                  {
+                                    "type": "replied_to",
+                                    "id": "2012218967041978603"
+                                  }
+                                ],
+                                "reply_settings": "everyone",
+                                "text": "@AnIncandescence 那还有什么药便宜能减少很多食欲😿"
+                              }
+                            ]
+                          },
+                          "_pale_fire": {
+                            "x_api_reply_chains": {
+                              "2012218967041978603": {
+                                "version": 1,
+                                "fetched_at": "2026-04-18T01:24:31Z",
+                                "max_depth": 63,
+                                "posts": [
+                                  {
+                                    "id": "2012218967041978603",
+                                    "source": "local_json",
+                                    "payload": {
+                                      "data": {
+                                        "article": {},
+                                        "attachments": {},
+                                        "author_id": "1741993395910811648",
+                                        "conversation_id": "2012151614837342331",
+                                        "created_at": "2026-01-16T17:42:41.000Z",
+                                        "edit_controls": {
+                                          "edits_remaining": 5,
+                                          "is_edit_eligible": false,
+                                          "editable_until": "2026-01-16T18:42:41.000Z"
+                                        },
+                                        "edit_history_tweet_ids": [
+                                          "2012218967041978603"
+                                        ],
+                                        "entities": {
+                                          "mentions": [
+                                            {
+                                              "start": 0,
+                                              "end": 15,
+                                              "username": "jiaoyanboluooo",
+                                              "id": "1704469304077611008"
+                                            }
+                                          ]
+                                        },
+                                        "geo": {},
+                                        "id": "2012218967041978603",
+                                        "in_reply_to_user_id": "1704469304077611008",
+                                        "lang": "zh",
+                                        "note_tweet": {
+                                          "entities": {}
+                                        },
+                                        "possibly_sensitive": false,
+                                        "public_metrics": {
+                                          "retweet_count": 0,
+                                          "reply_count": 0,
+                                          "like_count": 0,
+                                          "quote_count": 0,
+                                          "bookmark_count": 0,
+                                          "impression_count": 0
+                                        },
+                                        "referenced_tweets": [
+                                          {
+                                            "type": "replied_to",
+                                            "id": "2012151614837342331"
+                                          }
+                                        ],
+                                        "reply_settings": "everyone",
+                                        "text": "@jiaoyanboluooo 能不能别o金刚烷胺😢"
+                                      },
+                                      "includes": {
+                                        "media": [
+                                          {
+                                            "height": 2048,
+                                            "media_key": "3_2012151601583271936",
+                                            "public_metrics": {},
+                                            "type": "photo",
+                                            "url": "https://pbs.twimg.com/media/G-yZOIaasAA3bk6.jpg",
+                                            "width": 1542
+                                          }
+                                        ],
+                                        "users": [
+                                          {
+                                            "created_at": "2024-01-02T01:22:57.000Z",
+                                            "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+                                            "entities": {
+                                              "url": {
+                                                "urls": [
+                                                  {
+                                                    "start": 0,
+                                                    "end": 23,
+                                                    "url": "https://t.co/iO6MRJNm9j",
+                                                    "expanded_url": "https://ngl.link/anincandescence1",
+                                                    "display_url": "ngl.link/anincandescenc…"
+                                                  }
+                                                ]
+                                              }
+                                            },
+                                            "id": "1741993395910811648",
+                                            "location": "天鹅座X-1",
+                                            "name": "炽烈已极",
+                                            "pinned_tweet_id": "2010452086539145687",
+                                            "profile_image_url": "https://pbs.twimg.com/profile_images/2006317223414255617/jGT_GZyG_normal.jpg",
+                                            "protected": false,
+                                            "public_metrics": {
+                                              "followers_count": 1525,
+                                              "following_count": 225,
+                                              "tweet_count": 5197,
+                                              "listed_count": 5,
+                                              "like_count": 12862,
+                                              "media_count": 984
+                                            },
+                                            "url": "https://t.co/iO6MRJNm9j",
+                                            "username": "AnIncandescence",
+                                            "verified": true
+                                          },
+                                          {
+                                            "created_at": "2023-09-20T12:15:32.000Z",
+                                            "description": "ISFP/mtf/生产日期7.24/od/双相喵/臭蝈蝻/🏳️‍⚧️/steam好友码：1737257608/究极无敌大抖m 或sub？/无证含糖/已出柜/不知道什么党/不要靠近我，我只会让你伤心/主人： @Amour761",
+                                            "entities": {
+                                              "description": {
+                                                "mentions": [
+                                                  {
+                                                    "start": 103,
+                                                    "end": 112,
+                                                    "username": "Amour761"
+                                                  }
+                                                ]
+                                              }
+                                            },
+                                            "id": "1704469304077611008",
+                                            "location": "狗笼里",
+                                            "name": "椒盐菠萝🍥",
+                                            "profile_image_url": "https://pbs.twimg.com/profile_images/2009379005779333121/NgNbuIP0_normal.jpg",
+                                            "protected": false,
+                                            "public_metrics": {
+                                              "followers_count": 3831,
+                                              "following_count": 2937,
+                                              "tweet_count": 3864,
+                                              "listed_count": 10,
+                                              "like_count": 18944,
+                                              "media_count": 1111
+                                            },
+                                            "username": "jiaoyanboluooo",
+                                            "verified": false
+                                          }
+                                        ],
+                                        "tweets": [
+                                          {
+                                            "article": {},
+                                            "attachments": {},
+                                            "author_id": "1741993395910811648",
+                                            "conversation_id": "2012151614837342331",
+                                            "created_at": "2026-01-16T17:42:41.000Z",
+                                            "edit_controls": {
+                                              "edits_remaining": 5,
+                                              "is_edit_eligible": false,
+                                              "editable_until": "2026-01-16T18:42:41.000Z"
+                                            },
+                                            "edit_history_tweet_ids": [
+                                              "2012218967041978603"
+                                            ],
+                                            "entities": {
+                                              "mentions": [
+                                                {
+                                                  "start": 0,
+                                                  "end": 15,
+                                                  "username": "jiaoyanboluooo",
+                                                  "id": "1704469304077611008"
+                                                }
+                                              ]
+                                            },
+                                            "geo": {},
+                                            "id": "2012218967041978603",
+                                            "in_reply_to_user_id": "1704469304077611008",
+                                            "lang": "zh",
+                                            "note_tweet": {
+                                              "entities": {}
+                                            },
+                                            "possibly_sensitive": false,
+                                            "public_metrics": {
+                                              "retweet_count": 0,
+                                              "reply_count": 0,
+                                              "like_count": 0,
+                                              "quote_count": 0,
+                                              "bookmark_count": 0,
+                                              "impression_count": 0
+                                            },
+                                            "referenced_tweets": [
+                                              {
+                                                "type": "replied_to",
+                                                "id": "2012151614837342331"
+                                              }
+                                            ],
+                                            "reply_settings": "everyone",
+                                            "text": "@jiaoyanboluooo 能不能别o金刚烷胺😢"
+                                          },
+                                          {
+                                            "article": {},
+                                            "attachments": {
+                                              "media_keys": [
+                                                "3_2012151601583271936"
+                                              ]
+                                            },
+                                            "author_id": "1704469304077611008",
+                                            "conversation_id": "2012151614837342331",
+                                            "created_at": "2026-01-16T13:15:03.000Z",
+                                            "edit_controls": {
+                                              "edits_remaining": 5,
+                                              "is_edit_eligible": true,
+                                              "editable_until": "2026-01-16T14:15:03.000Z"
+                                            },
+                                            "edit_history_tweet_ids": [
+                                              "2012151614837342331"
+                                            ],
+                                            "entities": {
+                                              "urls": [
+                                                {
+                                                  "start": 47,
+                                                  "end": 70,
+                                                  "url": "https://t.co/un2zrgzfK3",
+                                                  "expanded_url": "https://x.com/jiaoyanboluooo/status/2012151614837342331/photo/1",
+                                                  "display_url": "pic.x.com/un2zrgzfK3",
+                                                  "media_key": "3_2012151601583271936"
+                                                }
+                                              ]
+                                            },
+                                            "geo": {},
+                                            "id": "2012151614837342331",
+                                            "lang": "zh",
+                                            "note_tweet": {
+                                              "entities": {}
+                                            },
+                                            "possibly_sensitive": false,
+                                            "public_metrics": {
+                                              "retweet_count": 0,
+                                              "reply_count": 2,
+                                              "like_count": 5,
+                                              "quote_count": 0,
+                                              "bookmark_count": 0,
+                                              "impression_count": 250
+                                            },
+                                            "reply_settings": "everyone",
+                                            "text": "o了pr80后多久才能o金刚烷胺😿\n还有o金刚烷胺后多久才能oPr80😿\n我很需要这个答案🥺 https://t.co/un2zrgzfK3"
+                                          }
+                                        ]
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "id": "2012151614837342331",
+                                    "source": "local_json",
+                                    "payload": {
+                                      "data": {
+                                        "article": {},
+                                        "attachments": {},
+                                        "author_id": "1741993395910811648",
+                                        "conversation_id": "2012151614837342331",
+                                        "created_at": "2026-01-16T17:42:41.000Z",
+                                        "edit_controls": {
+                                          "edits_remaining": 5,
+                                          "is_edit_eligible": false,
+                                          "editable_until": "2026-01-16T18:42:41.000Z"
+                                        },
+                                        "edit_history_tweet_ids": [
+                                          "2012218967041978603"
+                                        ],
+                                        "entities": {
+                                          "mentions": [
+                                            {
+                                              "start": 0,
+                                              "end": 15,
+                                              "username": "jiaoyanboluooo",
+                                              "id": "1704469304077611008"
+                                            }
+                                          ]
+                                        },
+                                        "geo": {},
+                                        "id": "2012218967041978603",
+                                        "in_reply_to_user_id": "1704469304077611008",
+                                        "lang": "zh",
+                                        "note_tweet": {
+                                          "entities": {}
+                                        },
+                                        "possibly_sensitive": false,
+                                        "public_metrics": {
+                                          "retweet_count": 0,
+                                          "reply_count": 0,
+                                          "like_count": 0,
+                                          "quote_count": 0,
+                                          "bookmark_count": 0,
+                                          "impression_count": 0
+                                        },
+                                        "referenced_tweets": [
+                                          {
+                                            "type": "replied_to",
+                                            "id": "2012151614837342331"
+                                          }
+                                        ],
+                                        "reply_settings": "everyone",
+                                        "text": "@jiaoyanboluooo 能不能别o金刚烷胺😢"
+                                      },
+                                      "includes": {
+                                        "media": [
+                                          {
+                                            "height": 2048,
+                                            "media_key": "3_2012151601583271936",
+                                            "public_metrics": {},
+                                            "type": "photo",
+                                            "url": "https://pbs.twimg.com/media/G-yZOIaasAA3bk6.jpg",
+                                            "width": 1542
+                                          }
+                                        ],
+                                        "users": [
+                                          {
+                                            "created_at": "2024-01-02T01:22:57.000Z",
+                                            "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+                                            "entities": {
+                                              "url": {
+                                                "urls": [
+                                                  {
+                                                    "start": 0,
+                                                    "end": 23,
+                                                    "url": "https://t.co/iO6MRJNm9j",
+                                                    "expanded_url": "https://ngl.link/anincandescence1",
+                                                    "display_url": "ngl.link/anincandescenc…"
+                                                  }
+                                                ]
+                                              }
+                                            },
+                                            "id": "1741993395910811648",
+                                            "location": "天鹅座X-1",
+                                            "name": "炽烈已极",
+                                            "pinned_tweet_id": "2010452086539145687",
+                                            "profile_image_url": "https://pbs.twimg.com/profile_images/2006317223414255617/jGT_GZyG_normal.jpg",
+                                            "protected": false,
+                                            "public_metrics": {
+                                              "followers_count": 1525,
+                                              "following_count": 225,
+                                              "tweet_count": 5197,
+                                              "listed_count": 5,
+                                              "like_count": 12862,
+                                              "media_count": 984
+                                            },
+                                            "url": "https://t.co/iO6MRJNm9j",
+                                            "username": "AnIncandescence",
+                                            "verified": true
+                                          },
+                                          {
+                                            "created_at": "2023-09-20T12:15:32.000Z",
+                                            "description": "ISFP/mtf/生产日期7.24/od/双相喵/臭蝈蝻/🏳️‍⚧️/steam好友码：1737257608/究极无敌大抖m 或sub？/无证含糖/已出柜/不知道什么党/不要靠近我，我只会让你伤心/主人： @Amour761",
+                                            "entities": {
+                                              "description": {
+                                                "mentions": [
+                                                  {
+                                                    "start": 103,
+                                                    "end": 112,
+                                                    "username": "Amour761"
+                                                  }
+                                                ]
+                                              }
+                                            },
+                                            "id": "1704469304077611008",
+                                            "location": "狗笼里",
+                                            "name": "椒盐菠萝🍥",
+                                            "profile_image_url": "https://pbs.twimg.com/profile_images/2009379005779333121/NgNbuIP0_normal.jpg",
+                                            "protected": false,
+                                            "public_metrics": {
+                                              "followers_count": 3831,
+                                              "following_count": 2937,
+                                              "tweet_count": 3864,
+                                              "listed_count": 10,
+                                              "like_count": 18944,
+                                              "media_count": 1111
+                                            },
+                                            "username": "jiaoyanboluooo",
+                                            "verified": false
+                                          }
+                                        ],
+                                        "tweets": [
+                                          {
+                                            "article": {},
+                                            "attachments": {},
+                                            "author_id": "1741993395910811648",
+                                            "conversation_id": "2012151614837342331",
+                                            "created_at": "2026-01-16T17:42:41.000Z",
+                                            "edit_controls": {
+                                              "edits_remaining": 5,
+                                              "is_edit_eligible": false,
+                                              "editable_until": "2026-01-16T18:42:41.000Z"
+                                            },
+                                            "edit_history_tweet_ids": [
+                                              "2012218967041978603"
+                                            ],
+                                            "entities": {
+                                              "mentions": [
+                                                {
+                                                  "start": 0,
+                                                  "end": 15,
+                                                  "username": "jiaoyanboluooo",
+                                                  "id": "1704469304077611008"
+                                                }
+                                              ]
+                                            },
+                                            "geo": {},
+                                            "id": "2012218967041978603",
+                                            "in_reply_to_user_id": "1704469304077611008",
+                                            "lang": "zh",
+                                            "note_tweet": {
+                                              "entities": {}
+                                            },
+                                            "possibly_sensitive": false,
+                                            "public_metrics": {
+                                              "retweet_count": 0,
+                                              "reply_count": 0,
+                                              "like_count": 0,
+                                              "quote_count": 0,
+                                              "bookmark_count": 0,
+                                              "impression_count": 0
+                                            },
+                                            "referenced_tweets": [
+                                              {
+                                                "type": "replied_to",
+                                                "id": "2012151614837342331"
+                                              }
+                                            ],
+                                            "reply_settings": "everyone",
+                                            "text": "@jiaoyanboluooo 能不能别o金刚烷胺😢"
+                                          },
+                                          {
+                                            "article": {},
+                                            "attachments": {
+                                              "media_keys": [
+                                                "3_2012151601583271936"
+                                              ]
+                                            },
+                                            "author_id": "1704469304077611008",
+                                            "conversation_id": "2012151614837342331",
+                                            "created_at": "2026-01-16T13:15:03.000Z",
+                                            "edit_controls": {
+                                              "edits_remaining": 5,
+                                              "is_edit_eligible": true,
+                                              "editable_until": "2026-01-16T14:15:03.000Z"
+                                            },
+                                            "edit_history_tweet_ids": [
+                                              "2012151614837342331"
+                                            ],
+                                            "entities": {
+                                              "urls": [
+                                                {
+                                                  "start": 47,
+                                                  "end": 70,
+                                                  "url": "https://t.co/un2zrgzfK3",
+                                                  "expanded_url": "https://x.com/jiaoyanboluooo/status/2012151614837342331/photo/1",
+                                                  "display_url": "pic.x.com/un2zrgzfK3",
+                                                  "media_key": "3_2012151601583271936"
+                                                }
+                                              ]
+                                            },
+                                            "geo": {},
+                                            "id": "2012151614837342331",
+                                            "lang": "zh",
+                                            "note_tweet": {
+                                              "entities": {}
+                                            },
+                                            "possibly_sensitive": false,
+                                            "public_metrics": {
+                                              "retweet_count": 0,
+                                              "reply_count": 2,
+                                              "like_count": 5,
+                                              "quote_count": 0,
+                                              "bookmark_count": 0,
+                                              "impression_count": 250
+                                            },
+                                            "reply_settings": "everyone",
+                                            "text": "o了pr80后多久才能o金刚烷胺😿\n还有o金刚烷胺后多久才能oPr80😿\n我很需要这个答案🥺 https://t.co/un2zrgzfK3"
+                                          }
+                                        ]
+                                      }
+                                    }
+                                  }
+                                ]
+                              }
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "id": "2012232842806272173",
+                        "source": "local_json",
+                        "payload": {
+                          "data": {
+                            "article": {},
+                            "attachments": {},
+                            "author_id": "1741993395910811648",
+                            "conversation_id": "2012151614837342331",
+                            "created_at": "2026-01-16T18:49:08.000Z",
+                            "edit_controls": {
+                              "edits_remaining": 5,
+                              "is_edit_eligible": false,
+                              "editable_until": "2026-01-16T19:49:08.000Z"
+                            },
+                            "edit_history_tweet_ids": [
+                              "2012235689971056891"
+                            ],
+                            "entities": {
+                              "mentions": [
+                                {
+                                  "start": 0,
+                                  "end": 15,
+                                  "username": "jiaoyanboluooo",
+                                  "id": "1704469304077611008"
+                                }
+                              ]
+                            },
+                            "geo": {},
+                            "id": "2012235689971056891",
+                            "in_reply_to_user_id": "1704469304077611008",
+                            "lang": "zh",
+                            "note_tweet": {
+                              "entities": {}
+                            },
+                            "possibly_sensitive": false,
+                            "public_metrics": {
+                              "retweet_count": 0,
+                              "reply_count": 0,
+                              "like_count": 0,
+                              "quote_count": 0,
+                              "bookmark_count": 0,
+                              "impression_count": 0
+                            },
+                            "referenced_tweets": [
+                              {
+                                "type": "replied_to",
+                                "id": "2012232842806272173"
+                              }
+                            ],
+                            "reply_settings": "everyone",
+                            "text": "@jiaoyanboluooo 吃玉米片也比这个好呀...\n减少食欲我第一个想到的是专注达（）但是可能不便宜...也不好获取\n抗抑郁药，嗯，正常剂量（强调）下的ssri/snri对一部分人也是抑制食欲的"
+                          },
+                          "includes": {
+                            "users": [
+                              {
+                                "created_at": "2024-01-02T01:22:57.000Z",
+                                "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+                                "entities": {
+                                  "url": {
+                                    "urls": [
+                                      {
+                                        "start": 0,
+                                        "end": 23,
+                                        "url": "https://t.co/iO6MRJNm9j",
+                                        "expanded_url": "https://ngl.link/anincandescence1",
+                                        "display_url": "ngl.link/anincandescenc…"
+                                      }
+                                    ]
+                                  }
+                                },
+                                "id": "1741993395910811648",
+                                "location": "天鹅座X-1",
+                                "name": "炽烈已极",
+                                "pinned_tweet_id": "2010452086539145687",
+                                "profile_image_url": "https://pbs.twimg.com/profile_images/2006317223414255617/jGT_GZyG_normal.jpg",
+                                "protected": false,
+                                "public_metrics": {
+                                  "followers_count": 1525,
+                                  "following_count": 225,
+                                  "tweet_count": 5199,
+                                  "listed_count": 5,
+                                  "like_count": 12862,
+                                  "media_count": 984
+                                },
+                                "url": "https://t.co/iO6MRJNm9j",
+                                "username": "AnIncandescence",
+                                "verified": true
+                              },
+                              {
+                                "created_at": "2023-09-20T12:15:32.000Z",
+                                "description": "ISFP/mtf/生产日期7.24/od/双相喵/臭蝈蝻/🏳️‍⚧️/steam好友码：1737257608/究极无敌大抖m 或sub？/无证含糖/已出柜/不知道什么党/不要靠近我，我只会让你伤心/主人： @Amour761",
+                                "entities": {
+                                  "description": {
+                                    "mentions": [
+                                      {
+                                        "start": 103,
+                                        "end": 112,
+                                        "username": "Amour761"
+                                      }
+                                    ]
+                                  }
+                                },
+                                "id": "1704469304077611008",
+                                "location": "狗笼里",
+                                "name": "椒盐菠萝🍥",
+                                "profile_image_url": "https://pbs.twimg.com/profile_images/2009379005779333121/NgNbuIP0_normal.jpg",
+                                "protected": false,
+                                "public_metrics": {
+                                  "followers_count": 3831,
+                                  "following_count": 2938,
+                                  "tweet_count": 3866,
+                                  "listed_count": 10,
+                                  "like_count": 18948,
+                                  "media_count": 1111
+                                },
+                                "username": "jiaoyanboluooo",
+                                "verified": false
+                              }
+                            ],
+                            "tweets": [
+                              {
+                                "article": {},
+                                "attachments": {},
+                                "author_id": "1741993395910811648",
+                                "conversation_id": "2012151614837342331",
+                                "created_at": "2026-01-16T18:49:08.000Z",
+                                "edit_controls": {
+                                  "edits_remaining": 5,
+                                  "is_edit_eligible": false,
+                                  "editable_until": "2026-01-16T19:49:08.000Z"
+                                },
+                                "edit_history_tweet_ids": [
+                                  "2012235689971056891"
+                                ],
+                                "entities": {
+                                  "mentions": [
+                                    {
+                                      "start": 0,
+                                      "end": 15,
+                                      "username": "jiaoyanboluooo",
+                                      "id": "1704469304077611008"
+                                    }
+                                  ]
+                                },
+                                "geo": {},
+                                "id": "2012235689971056891",
+                                "in_reply_to_user_id": "1704469304077611008",
+                                "lang": "zh",
+                                "note_tweet": {
+                                  "entities": {}
+                                },
+                                "possibly_sensitive": false,
+                                "public_metrics": {
+                                  "retweet_count": 0,
+                                  "reply_count": 0,
+                                  "like_count": 0,
+                                  "quote_count": 0,
+                                  "bookmark_count": 0,
+                                  "impression_count": 0
+                                },
+                                "referenced_tweets": [
+                                  {
+                                    "type": "replied_to",
+                                    "id": "2012232842806272173"
+                                  }
+                                ],
+                                "reply_settings": "everyone",
+                                "text": "@jiaoyanboluooo 吃玉米片也比这个好呀...\n减少食欲我第一个想到的是专注达（）但是可能不便宜...也不好获取\n抗抑郁药，嗯，正常剂量（强调）下的ssri/snri对一部分人也是抑制食欲的"
+                              },
+                              {
+                                "article": {},
+                                "attachments": {},
+                                "author_id": "1704469304077611008",
+                                "conversation_id": "2012151614837342331",
+                                "created_at": "2026-01-16T18:37:49.000Z",
+                                "edit_controls": {
+                                  "edits_remaining": 5,
+                                  "is_edit_eligible": false,
+                                  "editable_until": "2026-01-16T19:37:49.000Z"
+                                },
+                                "edit_history_tweet_ids": [
+                                  "2012232842806272173"
+                                ],
+                                "entities": {
+                                  "mentions": [
+                                    {
+                                      "start": 0,
+                                      "end": 16,
+                                      "username": "AnIncandescence",
+                                      "id": "1741993395910811648"
+                                    }
+                                  ]
+                                },
+                                "geo": {},
+                                "id": "2012232842806272173",
+                                "in_reply_to_user_id": "1741993395910811648",
+                                "lang": "zh",
+                                "note_tweet": {
+                                  "entities": {}
+                                },
+                                "possibly_sensitive": false,
+                                "public_metrics": {
+                                  "retweet_count": 0,
+                                  "reply_count": 1,
+                                  "like_count": 0,
+                                  "quote_count": 0,
+                                  "bookmark_count": 0,
+                                  "impression_count": 5
+                                },
+                                "referenced_tweets": [
+                                  {
+                                    "type": "replied_to",
+                                    "id": "2012218967041978603"
+                                  }
+                                ],
+                                "reply_settings": "everyone",
+                                "text": "@AnIncandescence 那还有什么药便宜能减少很多食欲😿"
+                              }
+                            ]
+                          },
+                          "_pale_fire": {
+                            "x_api_reply_chains": {
+                              "2012218967041978603": {
+                                "version": 1,
+                                "fetched_at": "2026-04-18T01:24:31Z",
+                                "max_depth": 63,
+                                "posts": [
+                                  {
+                                    "id": "2012218967041978603",
+                                    "source": "local_json",
+                                    "payload": {
+                                      "data": {
+                                        "article": {},
+                                        "attachments": {},
+                                        "author_id": "1741993395910811648",
+                                        "conversation_id": "2012151614837342331",
+                                        "created_at": "2026-01-16T17:42:41.000Z",
+                                        "edit_controls": {
+                                          "edits_remaining": 5,
+                                          "is_edit_eligible": false,
+                                          "editable_until": "2026-01-16T18:42:41.000Z"
+                                        },
+                                        "edit_history_tweet_ids": [
+                                          "2012218967041978603"
+                                        ],
+                                        "entities": {
+                                          "mentions": [
+                                            {
+                                              "start": 0,
+                                              "end": 15,
+                                              "username": "jiaoyanboluooo",
+                                              "id": "1704469304077611008"
+                                            }
+                                          ]
+                                        },
+                                        "geo": {},
+                                        "id": "2012218967041978603",
+                                        "in_reply_to_user_id": "1704469304077611008",
+                                        "lang": "zh",
+                                        "note_tweet": {
+                                          "entities": {}
+                                        },
+                                        "possibly_sensitive": false,
+                                        "public_metrics": {
+                                          "retweet_count": 0,
+                                          "reply_count": 0,
+                                          "like_count": 0,
+                                          "quote_count": 0,
+                                          "bookmark_count": 0,
+                                          "impression_count": 0
+                                        },
+                                        "referenced_tweets": [
+                                          {
+                                            "type": "replied_to",
+                                            "id": "2012151614837342331"
+                                          }
+                                        ],
+                                        "reply_settings": "everyone",
+                                        "text": "@jiaoyanboluooo 能不能别o金刚烷胺😢"
+                                      },
+                                      "includes": {
+                                        "media": [
+                                          {
+                                            "height": 2048,
+                                            "media_key": "3_2012151601583271936",
+                                            "public_metrics": {},
+                                            "type": "photo",
+                                            "url": "https://pbs.twimg.com/media/G-yZOIaasAA3bk6.jpg",
+                                            "width": 1542
+                                          }
+                                        ],
+                                        "users": [
+                                          {
+                                            "created_at": "2024-01-02T01:22:57.000Z",
+                                            "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+                                            "entities": {
+                                              "url": {
+                                                "urls": [
+                                                  {
+                                                    "start": 0,
+                                                    "end": 23,
+                                                    "url": "https://t.co/iO6MRJNm9j",
+                                                    "expanded_url": "https://ngl.link/anincandescence1",
+                                                    "display_url": "ngl.link/anincandescenc…"
+                                                  }
+                                                ]
+                                              }
+                                            },
+                                            "id": "1741993395910811648",
+                                            "location": "天鹅座X-1",
+                                            "name": "炽烈已极",
+                                            "pinned_tweet_id": "2010452086539145687",
+                                            "profile_image_url": "https://pbs.twimg.com/profile_images/2006317223414255617/jGT_GZyG_normal.jpg",
+                                            "protected": false,
+                                            "public_metrics": {
+                                              "followers_count": 1525,
+                                              "following_count": 225,
+                                              "tweet_count": 5197,
+                                              "listed_count": 5,
+                                              "like_count": 12862,
+                                              "media_count": 984
+                                            },
+                                            "url": "https://t.co/iO6MRJNm9j",
+                                            "username": "AnIncandescence",
+                                            "verified": true
+                                          },
+                                          {
+                                            "created_at": "2023-09-20T12:15:32.000Z",
+                                            "description": "ISFP/mtf/生产日期7.24/od/双相喵/臭蝈蝻/🏳️‍⚧️/steam好友码：1737257608/究极无敌大抖m 或sub？/无证含糖/已出柜/不知道什么党/不要靠近我，我只会让你伤心/主人： @Amour761",
+                                            "entities": {
+                                              "description": {
+                                                "mentions": [
+                                                  {
+                                                    "start": 103,
+                                                    "end": 112,
+                                                    "username": "Amour761"
+                                                  }
+                                                ]
+                                              }
+                                            },
+                                            "id": "1704469304077611008",
+                                            "location": "狗笼里",
+                                            "name": "椒盐菠萝🍥",
+                                            "profile_image_url": "https://pbs.twimg.com/profile_images/2009379005779333121/NgNbuIP0_normal.jpg",
+                                            "protected": false,
+                                            "public_metrics": {
+                                              "followers_count": 3831,
+                                              "following_count": 2937,
+                                              "tweet_count": 3864,
+                                              "listed_count": 10,
+                                              "like_count": 18944,
+                                              "media_count": 1111
+                                            },
+                                            "username": "jiaoyanboluooo",
+                                            "verified": false
+                                          }
+                                        ],
+                                        "tweets": [
+                                          {
+                                            "article": {},
+                                            "attachments": {},
+                                            "author_id": "1741993395910811648",
+                                            "conversation_id": "2012151614837342331",
+                                            "created_at": "2026-01-16T17:42:41.000Z",
+                                            "edit_controls": {
+                                              "edits_remaining": 5,
+                                              "is_edit_eligible": false,
+                                              "editable_until": "2026-01-16T18:42:41.000Z"
+                                            },
+                                            "edit_history_tweet_ids": [
+                                              "2012218967041978603"
+                                            ],
+                                            "entities": {
+                                              "mentions": [
+                                                {
+                                                  "start": 0,
+                                                  "end": 15,
+                                                  "username": "jiaoyanboluooo",
+                                                  "id": "1704469304077611008"
+                                                }
+                                              ]
+                                            },
+                                            "geo": {},
+                                            "id": "2012218967041978603",
+                                            "in_reply_to_user_id": "1704469304077611008",
+                                            "lang": "zh",
+                                            "note_tweet": {
+                                              "entities": {}
+                                            },
+                                            "possibly_sensitive": false,
+                                            "public_metrics": {
+                                              "retweet_count": 0,
+                                              "reply_count": 0,
+                                              "like_count": 0,
+                                              "quote_count": 0,
+                                              "bookmark_count": 0,
+                                              "impression_count": 0
+                                            },
+                                            "referenced_tweets": [
+                                              {
+                                                "type": "replied_to",
+                                                "id": "2012151614837342331"
+                                              }
+                                            ],
+                                            "reply_settings": "everyone",
+                                            "text": "@jiaoyanboluooo 能不能别o金刚烷胺😢"
+                                          },
+                                          {
+                                            "article": {},
+                                            "attachments": {
+                                              "media_keys": [
+                                                "3_2012151601583271936"
+                                              ]
+                                            },
+                                            "author_id": "1704469304077611008",
+                                            "conversation_id": "2012151614837342331",
+                                            "created_at": "2026-01-16T13:15:03.000Z",
+                                            "edit_controls": {
+                                              "edits_remaining": 5,
+                                              "is_edit_eligible": true,
+                                              "editable_until": "2026-01-16T14:15:03.000Z"
+                                            },
+                                            "edit_history_tweet_ids": [
+                                              "2012151614837342331"
+                                            ],
+                                            "entities": {
+                                              "urls": [
+                                                {
+                                                  "start": 47,
+                                                  "end": 70,
+                                                  "url": "https://t.co/un2zrgzfK3",
+                                                  "expanded_url": "https://x.com/jiaoyanboluooo/status/2012151614837342331/photo/1",
+                                                  "display_url": "pic.x.com/un2zrgzfK3",
+                                                  "media_key": "3_2012151601583271936"
+                                                }
+                                              ]
+                                            },
+                                            "geo": {},
+                                            "id": "2012151614837342331",
+                                            "lang": "zh",
+                                            "note_tweet": {
+                                              "entities": {}
+                                            },
+                                            "possibly_sensitive": false,
+                                            "public_metrics": {
+                                              "retweet_count": 0,
+                                              "reply_count": 2,
+                                              "like_count": 5,
+                                              "quote_count": 0,
+                                              "bookmark_count": 0,
+                                              "impression_count": 250
+                                            },
+                                            "reply_settings": "everyone",
+                                            "text": "o了pr80后多久才能o金刚烷胺😿\n还有o金刚烷胺后多久才能oPr80😿\n我很需要这个答案🥺 https://t.co/un2zrgzfK3"
+                                          }
+                                        ]
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "id": "2012151614837342331",
+                                    "source": "local_json",
+                                    "payload": {
+                                      "data": {
+                                        "article": {},
+                                        "attachments": {},
+                                        "author_id": "1741993395910811648",
+                                        "conversation_id": "2012151614837342331",
+                                        "created_at": "2026-01-16T17:42:41.000Z",
+                                        "edit_controls": {
+                                          "edits_remaining": 5,
+                                          "is_edit_eligible": false,
+                                          "editable_until": "2026-01-16T18:42:41.000Z"
+                                        },
+                                        "edit_history_tweet_ids": [
+                                          "2012218967041978603"
+                                        ],
+                                        "entities": {
+                                          "mentions": [
+                                            {
+                                              "start": 0,
+                                              "end": 15,
+                                              "username": "jiaoyanboluooo",
+                                              "id": "1704469304077611008"
+                                            }
+                                          ]
+                                        },
+                                        "geo": {},
+                                        "id": "2012218967041978603",
+                                        "in_reply_to_user_id": "1704469304077611008",
+                                        "lang": "zh",
+                                        "note_tweet": {
+                                          "entities": {}
+                                        },
+                                        "possibly_sensitive": false,
+                                        "public_metrics": {
+                                          "retweet_count": 0,
+                                          "reply_count": 0,
+                                          "like_count": 0,
+                                          "quote_count": 0,
+                                          "bookmark_count": 0,
+                                          "impression_count": 0
+                                        },
+                                        "referenced_tweets": [
+                                          {
+                                            "type": "replied_to",
+                                            "id": "2012151614837342331"
+                                          }
+                                        ],
+                                        "reply_settings": "everyone",
+                                        "text": "@jiaoyanboluooo 能不能别o金刚烷胺😢"
+                                      },
+                                      "includes": {
+                                        "media": [
+                                          {
+                                            "height": 2048,
+                                            "media_key": "3_2012151601583271936",
+                                            "public_metrics": {},
+                                            "type": "photo",
+                                            "url": "https://pbs.twimg.com/media/G-yZOIaasAA3bk6.jpg",
+                                            "width": 1542
+                                          }
+                                        ],
+                                        "users": [
+                                          {
+                                            "created_at": "2024-01-02T01:22:57.000Z",
+                                            "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+                                            "entities": {
+                                              "url": {
+                                                "urls": [
+                                                  {
+                                                    "start": 0,
+                                                    "end": 23,
+                                                    "url": "https://t.co/iO6MRJNm9j",
+                                                    "expanded_url": "https://ngl.link/anincandescence1",
+                                                    "display_url": "ngl.link/anincandescenc…"
+                                                  }
+                                                ]
+                                              }
+                                            },
+                                            "id": "1741993395910811648",
+                                            "location": "天鹅座X-1",
+                                            "name": "炽烈已极",
+                                            "pinned_tweet_id": "2010452086539145687",
+                                            "profile_image_url": "https://pbs.twimg.com/profile_images/2006317223414255617/jGT_GZyG_normal.jpg",
+                                            "protected": false,
+                                            "public_metrics": {
+                                              "followers_count": 1525,
+                                              "following_count": 225,
+                                              "tweet_count": 5197,
+                                              "listed_count": 5,
+                                              "like_count": 12862,
+                                              "media_count": 984
+                                            },
+                                            "url": "https://t.co/iO6MRJNm9j",
+                                            "username": "AnIncandescence",
+                                            "verified": true
+                                          },
+                                          {
+                                            "created_at": "2023-09-20T12:15:32.000Z",
+                                            "description": "ISFP/mtf/生产日期7.24/od/双相喵/臭蝈蝻/🏳️‍⚧️/steam好友码：1737257608/究极无敌大抖m 或sub？/无证含糖/已出柜/不知道什么党/不要靠近我，我只会让你伤心/主人： @Amour761",
+                                            "entities": {
+                                              "description": {
+                                                "mentions": [
+                                                  {
+                                                    "start": 103,
+                                                    "end": 112,
+                                                    "username": "Amour761"
+                                                  }
+                                                ]
+                                              }
+                                            },
+                                            "id": "1704469304077611008",
+                                            "location": "狗笼里",
+                                            "name": "椒盐菠萝🍥",
+                                            "profile_image_url": "https://pbs.twimg.com/profile_images/2009379005779333121/NgNbuIP0_normal.jpg",
+                                            "protected": false,
+                                            "public_metrics": {
+                                              "followers_count": 3831,
+                                              "following_count": 2937,
+                                              "tweet_count": 3864,
+                                              "listed_count": 10,
+                                              "like_count": 18944,
+                                              "media_count": 1111
+                                            },
+                                            "username": "jiaoyanboluooo",
+                                            "verified": false
+                                          }
+                                        ],
+                                        "tweets": [
+                                          {
+                                            "article": {},
+                                            "attachments": {},
+                                            "author_id": "1741993395910811648",
+                                            "conversation_id": "2012151614837342331",
+                                            "created_at": "2026-01-16T17:42:41.000Z",
+                                            "edit_controls": {
+                                              "edits_remaining": 5,
+                                              "is_edit_eligible": false,
+                                              "editable_until": "2026-01-16T18:42:41.000Z"
+                                            },
+                                            "edit_history_tweet_ids": [
+                                              "2012218967041978603"
+                                            ],
+                                            "entities": {
+                                              "mentions": [
+                                                {
+                                                  "start": 0,
+                                                  "end": 15,
+                                                  "username": "jiaoyanboluooo",
+                                                  "id": "1704469304077611008"
+                                                }
+                                              ]
+                                            },
+                                            "geo": {},
+                                            "id": "2012218967041978603",
+                                            "in_reply_to_user_id": "1704469304077611008",
+                                            "lang": "zh",
+                                            "note_tweet": {
+                                              "entities": {}
+                                            },
+                                            "possibly_sensitive": false,
+                                            "public_metrics": {
+                                              "retweet_count": 0,
+                                              "reply_count": 0,
+                                              "like_count": 0,
+                                              "quote_count": 0,
+                                              "bookmark_count": 0,
+                                              "impression_count": 0
+                                            },
+                                            "referenced_tweets": [
+                                              {
+                                                "type": "replied_to",
+                                                "id": "2012151614837342331"
+                                              }
+                                            ],
+                                            "reply_settings": "everyone",
+                                            "text": "@jiaoyanboluooo 能不能别o金刚烷胺😢"
+                                          },
+                                          {
+                                            "article": {},
+                                            "attachments": {
+                                              "media_keys": [
+                                                "3_2012151601583271936"
+                                              ]
+                                            },
+                                            "author_id": "1704469304077611008",
+                                            "conversation_id": "2012151614837342331",
+                                            "created_at": "2026-01-16T13:15:03.000Z",
+                                            "edit_controls": {
+                                              "edits_remaining": 5,
+                                              "is_edit_eligible": true,
+                                              "editable_until": "2026-01-16T14:15:03.000Z"
+                                            },
+                                            "edit_history_tweet_ids": [
+                                              "2012151614837342331"
+                                            ],
+                                            "entities": {
+                                              "urls": [
+                                                {
+                                                  "start": 47,
+                                                  "end": 70,
+                                                  "url": "https://t.co/un2zrgzfK3",
+                                                  "expanded_url": "https://x.com/jiaoyanboluooo/status/2012151614837342331/photo/1",
+                                                  "display_url": "pic.x.com/un2zrgzfK3",
+                                                  "media_key": "3_2012151601583271936"
+                                                }
+                                              ]
+                                            },
+                                            "geo": {},
+                                            "id": "2012151614837342331",
+                                            "lang": "zh",
+                                            "note_tweet": {
+                                              "entities": {}
+                                            },
+                                            "possibly_sensitive": false,
+                                            "public_metrics": {
+                                              "retweet_count": 0,
+                                              "reply_count": 2,
+                                              "like_count": 5,
+                                              "quote_count": 0,
+                                              "bookmark_count": 0,
+                                              "impression_count": 250
+                                            },
+                                            "reply_settings": "everyone",
+                                            "text": "o了pr80后多久才能o金刚烷胺😿\n还有o金刚烷胺后多久才能oPr80😿\n我很需要这个答案🥺 https://t.co/un2zrgzfK3"
+                                          }
+                                        ]
+                                      }
+                                    }
+                                  }
+                                ]
+                              }
+                            }
+                          }
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

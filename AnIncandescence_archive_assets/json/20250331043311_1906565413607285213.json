@@ -1,1 +1,595 @@
-{"data":{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1906355354658910228","created_at":"2025-03-31T04:33:11.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-03-31T05:33:11.000Z"},"edit_history_tweet_ids":["1906565413607285213"],"entities":{"mentions":[{"start":0,"end":11,"username":"Temsir6999","id":"1555479788261109761"},{"start":12,"end":22,"username":"SalviaSWC","id":"1659962043460354050"}]},"geo":{},"id":"1906565413607285213","in_reply_to_user_id":"1555479788261109761","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1906509756350783940"}],"reply_settings":"everyone","text":"@Temsir6999 @SalviaSWC 可能是游离碱和盐酸盐的区别？"},"includes":{"users":[{"created_at":"2024-01-02T01:22:57.000Z","description":"互fo欢迎！ 猫，诗歌，精神动力学。艺术，C#，波粒二象性。回归曲线上的量子生物，无攻击性。 | “我们彻夜飞旋，直至没入火焰。” | 阴暗碎碎念纯享版@TauCeti_10700 | 🚪88/158 |  提问箱👇","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/MuEKSg3VTk","expanded_url":"https://ngl.link/anincandescence","display_url":"ngl.link/anincandescence"}]},"description":{"mentions":[{"start":76,"end":90,"username":"TauCeti_10700"}]}},"id":"1741993395910811648","location":"0°00′N 260°00′E Mars","name":"炽烈已极","pinned_tweet_id":"1905895186867400960","profile_image_url":"https://pbs.twimg.com/profile_images/1789433740277567488/d3KhwUX1_normal.jpg","protected":false,"public_metrics":{"followers_count":446,"following_count":181,"tweet_count":2034,"listed_count":1,"like_count":5591,"media_count":460},"url":"https://t.co/MuEKSg3VTk","username":"AnIncandescence","verified":false},{"created_at":"2022-08-05T09:04:35.000Z","description":"","id":"1555479788261109761","location":"United States","name":"21st_scizPerson","profile_image_url":"https://pbs.twimg.com/profile_images/1809268422590754819/WI4T2GYU_normal.jpg","protected":false,"public_metrics":{"followers_count":4,"following_count":21,"tweet_count":10,"listed_count":0,"like_count":134,"media_count":0},"username":"Temsir6999","verified":false},{"created_at":"2023-05-20T16:39:35.000Z","description":"07丨上海丨退役OIer丨虚无主义者丨\n会发各种东西 欢迎任何人🌈 互fo🉑","id":"1659962043460354050","name":"鼠尾草🌿","profile_image_url":"https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg","protected":false,"public_metrics":{"followers_count":20,"following_count":39,"tweet_count":141,"listed_count":0,"like_count":117,"media_count":4},"username":"SalviaSWC","verified":false}],"tweets":[{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1906355354658910228","created_at":"2025-03-31T04:33:11.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-03-31T05:33:11.000Z"},"edit_history_tweet_ids":["1906565413607285213"],"entities":{"mentions":[{"start":0,"end":11,"username":"Temsir6999","id":"1555479788261109761"},{"start":12,"end":22,"username":"SalviaSWC","id":"1659962043460354050"}]},"geo":{},"id":"1906565413607285213","in_reply_to_user_id":"1555479788261109761","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1906509756350783940"}],"reply_settings":"everyone","text":"@Temsir6999 @SalviaSWC 可能是游离碱和盐酸盐的区别？"},{"article":{},"attachments":{},"author_id":"1555479788261109761","conversation_id":"1906355354658910228","created_at":"2025-03-31T00:52:01.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-03-31T01:52:01.000Z"},"edit_history_tweet_ids":["1906509756350783940"],"entities":{"mentions":[{"start":0,"end":10,"username":"SalviaSWC","id":"1659962043460354050"},{"start":11,"end":27,"username":"AnIncandescence","id":"1741993395910811648"}]},"geo":{},"id":"1906509756350783940","in_reply_to_user_id":"1659962043460354050","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":2,"like_count":1,"quote_count":0,"bookmark_count":0,"impression_count":39},"referenced_tweets":[{"type":"replied_to","id":"1906476911737372693"}],"reply_settings":"everyone","text":"@SalviaSWC @AnIncandescence 不建议鼻吸，因为这个实在是太辣了，差点给我鼻腔黏膜干废"}]}}
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741993395910811648",
+    "conversation_id": "1906355354658910228",
+    "created_at": "2025-03-31T04:33:11.000Z",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2025-03-31T05:33:11.000Z"
+    },
+    "edit_history_tweet_ids": [
+      "1906565413607285213"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 11,
+          "username": "Temsir6999",
+          "id": "1555479788261109761"
+        },
+        {
+          "start": 12,
+          "end": 22,
+          "username": "SalviaSWC",
+          "id": "1659962043460354050"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906565413607285213",
+    "in_reply_to_user_id": "1555479788261109761",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1906509756350783940"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Temsir6999 @SalviaSWC 可能是游离碱和盐酸盐的区别？"
+  },
+  "includes": {
+    "users": [
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "互fo欢迎！ 猫，诗歌，精神动力学。艺术，C#，波粒二象性。回归曲线上的量子生物，无攻击性。 | “我们彻夜飞旋，直至没入火焰。” | 阴暗碎碎念纯享版@TauCeti_10700 | 🚪88/158 |  提问箱👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/MuEKSg3VTk",
+                "expanded_url": "https://ngl.link/anincandescence",
+                "display_url": "ngl.link/anincandescence"
+              }
+            ]
+          },
+          "description": {
+            "mentions": [
+              {
+                "start": 76,
+                "end": 90,
+                "username": "TauCeti_10700"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "0°00′N 260°00′E Mars",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "1905895186867400960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789433740277567488/d3KhwUX1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 181,
+          "tweet_count": 2034,
+          "listed_count": 1,
+          "like_count": 5591,
+          "media_count": 460
+        },
+        "url": "https://t.co/MuEKSg3VTk",
+        "username": "AnIncandescence",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-05T09:04:35.000Z",
+        "description": "",
+        "id": "1555479788261109761",
+        "location": "United States",
+        "name": "21st_scizPerson",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809268422590754819/WI4T2GYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 21,
+          "tweet_count": 10,
+          "listed_count": 0,
+          "like_count": 134,
+          "media_count": 0
+        },
+        "username": "Temsir6999",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n会发各种东西 欢迎任何人🌈 互fo🉑",
+        "id": "1659962043460354050",
+        "name": "鼠尾草🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 39,
+          "tweet_count": 141,
+          "listed_count": 0,
+          "like_count": 117,
+          "media_count": 4
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741993395910811648",
+        "conversation_id": "1906355354658910228",
+        "created_at": "2025-03-31T04:33:11.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2025-03-31T05:33:11.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1906565413607285213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 11,
+              "username": "Temsir6999",
+              "id": "1555479788261109761"
+            },
+            {
+              "start": 12,
+              "end": 22,
+              "username": "SalviaSWC",
+              "id": "1659962043460354050"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906565413607285213",
+        "in_reply_to_user_id": "1555479788261109761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1906509756350783940"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Temsir6999 @SalviaSWC 可能是游离碱和盐酸盐的区别？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1555479788261109761",
+        "conversation_id": "1906355354658910228",
+        "created_at": "2025-03-31T00:52:01.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2025-03-31T01:52:01.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1906509756350783940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 10,
+              "username": "SalviaSWC",
+              "id": "1659962043460354050"
+            },
+            {
+              "start": 11,
+              "end": 27,
+              "username": "AnIncandescence",
+              "id": "1741993395910811648"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906509756350783940",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 39
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1906476911737372693"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC @AnIncandescence 不建议鼻吸，因为这个实在是太辣了，差点给我鼻腔黏膜干废"
+      }
+    ]
+  },
+  "_pale_fire": {
+    "x_api_reply_chains": {
+      "1906476911737372693": {
+        "version": 1,
+        "fetched_at": "2026-04-18T00:08:15Z",
+        "max_depth": 63,
+        "posts": [
+          {
+            "id": "1906476911737372693",
+            "source": "x_api",
+            "payload": {
+              "data": {
+                "text": "@AnIncandescence 口服效率很低的()可以鼻吸",
+                "lang": "zh",
+                "reply_settings": "everyone",
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 0,
+                      "end": 16,
+                      "username": "AnIncandescence",
+                      "id": "1741993395910811648"
+                    }
+                  ]
+                },
+                "id": "1906476911737372693",
+                "author_id": "1659962043460354050",
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 284
+                },
+                "edit_history_tweet_ids": [
+                  "1906476911737372693"
+                ],
+                "possibly_sensitive": false,
+                "conversation_id": "1906355354658910228",
+                "created_at": "2025-03-30T22:41:31.000Z",
+                "in_reply_to_user_id": "1741993395910811648",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2025-03-30T23:41:31.000Z"
+                },
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "1906355354658910228"
+                  }
+                ]
+              },
+              "includes": {
+                "users": [
+                  {
+                    "id": "1659962043460354050",
+                    "name": "鼠尾草～🌿",
+                    "verified": false,
+                    "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+                    "username": "SalviaSWC",
+                    "url": "https://t.co/20q0OtAeQd",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/20q0OtAeQd",
+                            "expanded_url": "https://freeodwiki.org",
+                            "display_url": "freeodwiki.org"
+                          }
+                        ]
+                      },
+                      "description": {
+                        "urls": [
+                          {
+                            "start": 92,
+                            "end": 115,
+                            "url": "https://t.co/ki2TerCl7C",
+                            "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                            "display_url": "github.com/SalviaSWC/Free…"
+                          }
+                        ],
+                        "mentions": [
+                          {
+                            "start": 54,
+                            "end": 65,
+                            "username": "DXM8964LXM"
+                          }
+                        ]
+                      }
+                    },
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+                    "public_metrics": {
+                      "followers_count": 3800,
+                      "following_count": 976,
+                      "tweet_count": 6969,
+                      "listed_count": 8,
+                      "like_count": 22105,
+                      "media_count": 438
+                    },
+                    "created_at": "2023-05-20T16:39:35.000Z",
+                    "protected": false
+                  }
+                ]
+              },
+              "errors": [
+                {
+                  "parameter": "in_reply_to_user_id",
+                  "resource_id": "1741993395910811648",
+                  "value": "1741993395910811648",
+                  "detail": "User has been suspended: [1741993395910811648].",
+                  "title": "Forbidden",
+                  "resource_type": "user",
+                  "type": "https://api.twitter.com/2/problems/resource-not-found"
+                },
+                {
+                  "resource_id": "1906355354658910228",
+                  "parameter": "referenced_tweets.id",
+                  "resource_type": "tweet",
+                  "section": "includes",
+                  "title": "Authorization Error",
+                  "value": "1906355354658910228",
+                  "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1906355354658910228].",
+                  "type": "https://api.twitter.com/2/problems/not-authorized-for-resource"
+                }
+              ]
+            }
+          },
+          {
+            "id": "1906355354658910228",
+            "source": "local_json",
+            "payload": {
+              "data": {
+                "article": {},
+                "attachments": {},
+                "author_id": "1741993395910811648",
+                "conversation_id": "1906355354658910228",
+                "created_at": "2025-03-31T07:44:36.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2025-03-31T08:44:36.000Z"
+                },
+                "edit_history_tweet_ids": [
+                  "1906613583053730241"
+                ],
+                "entities": {},
+                "geo": {},
+                "id": "1906613583053730241",
+                "in_reply_to_user_id": "1741993395910811648",
+                "lang": "zh",
+                "note_tweet": {
+                  "entities": {}
+                },
+                "possibly_sensitive": false,
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 0
+                },
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "1906355354658910228"
+                  }
+                ],
+                "reply_settings": "everyone",
+                "text": "烦哎睡着了，又要转cd"
+              },
+              "includes": {
+                "media": [
+                  {
+                    "height": 4032,
+                    "media_key": "3_1906355328826150912",
+                    "public_metrics": {},
+                    "type": "photo",
+                    "url": "https://pbs.twimg.com/media/GnS8Ej5bEAAiDLx.jpg",
+                    "width": 3024
+                  }
+                ],
+                "users": [
+                  {
+                    "created_at": "2024-01-02T01:22:57.000Z",
+                    "description": "互fo欢迎！ 猫，诗歌，精神动力学。艺术，C#，波粒二象性。回归曲线上的量子生物，无攻击性。 | “我们彻夜飞旋，直至没入火焰。” | 阴暗碎碎念纯享版@TauCeti_10700 | 🚪88/158 |  提问箱👇",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/MuEKSg3VTk",
+                            "expanded_url": "https://ngl.link/anincandescence",
+                            "display_url": "ngl.link/anincandescence"
+                          }
+                        ]
+                      },
+                      "description": {
+                        "mentions": [
+                          {
+                            "start": 76,
+                            "end": 90,
+                            "username": "TauCeti_10700"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1741993395910811648",
+                    "location": "0°00′N 260°00′E Mars",
+                    "name": "炽烈已极",
+                    "pinned_tweet_id": "1905895186867400960",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1789433740277567488/d3KhwUX1_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 446,
+                      "following_count": 181,
+                      "tweet_count": 2037,
+                      "listed_count": 1,
+                      "like_count": 5596,
+                      "media_count": 460
+                    },
+                    "url": "https://t.co/MuEKSg3VTk",
+                    "username": "AnIncandescence",
+                    "verified": false
+                  }
+                ],
+                "tweets": [
+                  {
+                    "article": {},
+                    "attachments": {},
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "1906355354658910228",
+                    "created_at": "2025-03-31T07:44:36.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2025-03-31T08:44:36.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "1906613583053730241"
+                    ],
+                    "entities": {},
+                    "geo": {},
+                    "id": "1906613583053730241",
+                    "in_reply_to_user_id": "1741993395910811648",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 0,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 0
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "1906355354658910228"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "烦哎睡着了，又要转cd"
+                  },
+                  {
+                    "article": {},
+                    "attachments": {
+                      "media_keys": [
+                        "3_1906355328826150912"
+                      ]
+                    },
+                    "author_id": "1741993395910811648",
+                    "context_annotations": [
+                      {
+                        "domain": {
+                          "id": "46",
+                          "name": "Business Taxonomy",
+                          "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                        },
+                        "entity": {
+                          "id": "1557696888568045569",
+                          "name": "Food & Beverage Business",
+                          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers."
+                        }
+                      }
+                    ],
+                    "conversation_id": "1906355354658910228",
+                    "created_at": "2025-03-30T14:38:29.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2025-03-30T15:38:29.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "1906355354658910228"
+                    ],
+                    "entities": {
+                      "urls": [
+                        {
+                          "start": 16,
+                          "end": 39,
+                          "url": "https://t.co/PDteYY4zTO",
+                          "expanded_url": "https://x.com/AnIncandescence/status/1906355354658910228/photo/1",
+                          "display_url": "pic.x.com/PDteYY4zTO",
+                          "media_key": "3_1906355328826150912"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "1906355354658910228",
+                    "lang": "ja",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 7,
+                      "like_count": 2,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 497
+                    },
+                    "reply_settings": "everyone",
+                    "text": "说干就干！(๑•̀ㅂ•́)و✧ https://t.co/PDteYY4zTO"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,1 +1,416 @@
-{"data":{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1903098438956486836","created_at":"2025-03-22T10:47:54.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-03-22T11:47:54.000Z"},"edit_history_tweet_ids":["1903398224670695706"],"entities":{"mentions":[{"start":0,"end":11,"username":"AlyssaNeko","id":"1539448307985944576"}]},"geo":{},"id":"1903398224670695706","in_reply_to_user_id":"1539448307985944576","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1903385705197257196"}],"reply_settings":"everyone","text":"@AlyssaNeko 为什么啊这个也会被盯上吗"},"includes":{"users":[{"created_at":"2024-01-02T01:22:57.000Z","description":"互fo欢迎！ 猫，诗歌，精神动力学。艺术，C#，波粒二象性。回归曲线上的量子生物，无攻击性。“我们彻夜飞旋，直至没入火焰。”阴暗碎碎念纯享版@TauCeti_10700 提问箱👇","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/MuEKSg4tIS","expanded_url":"https://ngl.link/anincandescence","display_url":"ngl.link/anincandescence"}]},"description":{"mentions":[{"start":70,"end":84,"username":"TauCeti_10700"}]}},"id":"1741993395910811648","location":"0°00′N 260°00′E Mars","name":"炽烈已极","pinned_tweet_id":"1903361084842516739","profile_image_url":"https://pbs.twimg.com/profile_images/1789433740277567488/d3KhwUX1_normal.jpg","protected":false,"public_metrics":{"followers_count":368,"following_count":170,"tweet_count":1805,"listed_count":1,"like_count":5157,"media_count":426},"url":"https://t.co/MuEKSg4tIS","username":"AnIncandescence","verified":false},{"created_at":"2022-06-22T03:21:11.000Z","description":"艾蕾莎(莎莎），22年7月🍥持证含糖MTF，167/55，年龄隐藏\n出柜了，家暴党，外向性格反击中，要么紫砂要么反杀逃家\n努力社交，正常情况有攻击性！政治🌈🇺🇲🇯🇵\n分裂情感障碍，看压力OD，可能NSSI，短期计划重开，主人格更换，多人格呈辅助性关系\n曾经喜欢玩游戏现在提不起劲，喜欢美食，对象汐雾aya","id":"1539448307985944576","location":"New Zealand","name":"艾蕾莎Alyssa🍥","pinned_tweet_id":"1817208572608163907","profile_image_url":"https://pbs.twimg.com/profile_images/1745836025891721216/R1PQNBUf_normal.jpg","protected":false,"public_metrics":{"followers_count":4366,"following_count":1422,"tweet_count":12012,"listed_count":11,"like_count":15198,"media_count":1444},"username":"AlyssaNeko","verified":false}],"tweets":[{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1903098438956486836","created_at":"2025-03-22T10:47:54.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-03-22T11:47:54.000Z"},"edit_history_tweet_ids":["1903398224670695706"],"entities":{"mentions":[{"start":0,"end":11,"username":"AlyssaNeko","id":"1539448307985944576"}]},"geo":{},"id":"1903398224670695706","in_reply_to_user_id":"1539448307985944576","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1903385705197257196"}],"reply_settings":"everyone","text":"@AlyssaNeko 为什么啊这个也会被盯上吗"},{"article":{},"attachments":{},"author_id":"1539448307985944576","conversation_id":"1903098438956486836","created_at":"2025-03-22T09:58:09.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-03-22T10:58:09.000Z"},"edit_history_tweet_ids":["1903385705197257196"],"entities":{"mentions":[{"start":0,"end":16,"username":"AnIncandescence","id":"1741993395910811648"}]},"geo":{},"id":"1903385705197257196","in_reply_to_user_id":"1741993395910811648","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":1,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":11},"referenced_tweets":[{"type":"replied_to","id":"1903098438956486836"}],"reply_settings":"everyone","text":"@AnIncandescence 最好别买检测板"}]}}
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741993395910811648",
+    "conversation_id": "1903098438956486836",
+    "created_at": "2025-03-22T10:47:54.000Z",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2025-03-22T11:47:54.000Z"
+    },
+    "edit_history_tweet_ids": [
+      "1903398224670695706"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 11,
+          "username": "AlyssaNeko",
+          "id": "1539448307985944576"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903398224670695706",
+    "in_reply_to_user_id": "1539448307985944576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1903385705197257196"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AlyssaNeko 为什么啊这个也会被盯上吗"
+  },
+  "includes": {
+    "users": [
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "互fo欢迎！ 猫，诗歌，精神动力学。艺术，C#，波粒二象性。回归曲线上的量子生物，无攻击性。“我们彻夜飞旋，直至没入火焰。”阴暗碎碎念纯享版@TauCeti_10700 提问箱👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/MuEKSg4tIS",
+                "expanded_url": "https://ngl.link/anincandescence",
+                "display_url": "ngl.link/anincandescence"
+              }
+            ]
+          },
+          "description": {
+            "mentions": [
+              {
+                "start": 70,
+                "end": 84,
+                "username": "TauCeti_10700"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "0°00′N 260°00′E Mars",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "1903361084842516739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789433740277567488/d3KhwUX1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 170,
+          "tweet_count": 1805,
+          "listed_count": 1,
+          "like_count": 5157,
+          "media_count": 426
+        },
+        "url": "https://t.co/MuEKSg4tIS",
+        "username": "AnIncandescence",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-22T03:21:11.000Z",
+        "description": "艾蕾莎(莎莎），22年7月🍥持证含糖MTF，167/55，年龄隐藏\n出柜了，家暴党，外向性格反击中，要么紫砂要么反杀逃家\n努力社交，正常情况有攻击性！政治🌈🇺🇲🇯🇵\n分裂情感障碍，看压力OD，可能NSSI，短期计划重开，主人格更换，多人格呈辅助性关系\n曾经喜欢玩游戏现在提不起劲，喜欢美食，对象汐雾aya",
+        "id": "1539448307985944576",
+        "location": "New Zealand",
+        "name": "艾蕾莎Alyssa🍥",
+        "pinned_tweet_id": "1817208572608163907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745836025891721216/R1PQNBUf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4366,
+          "following_count": 1422,
+          "tweet_count": 12012,
+          "listed_count": 11,
+          "like_count": 15198,
+          "media_count": 1444
+        },
+        "username": "AlyssaNeko",
+        "verified": false
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741993395910811648",
+        "conversation_id": "1903098438956486836",
+        "created_at": "2025-03-22T10:47:54.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2025-03-22T11:47:54.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1903398224670695706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 11,
+              "username": "AlyssaNeko",
+              "id": "1539448307985944576"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903398224670695706",
+        "in_reply_to_user_id": "1539448307985944576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1903385705197257196"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AlyssaNeko 为什么啊这个也会被盯上吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1539448307985944576",
+        "conversation_id": "1903098438956486836",
+        "created_at": "2025-03-22T09:58:09.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2025-03-22T10:58:09.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1903385705197257196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 16,
+              "username": "AnIncandescence",
+              "id": "1741993395910811648"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903385705197257196",
+        "in_reply_to_user_id": "1741993395910811648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1903098438956486836"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnIncandescence 最好别买检测板"
+      }
+    ]
+  },
+  "_pale_fire": {
+    "x_api_reply_chains": {
+      "1903098438956486836": {
+        "version": 1,
+        "fetched_at": "2026-04-18T00:07:16Z",
+        "max_depth": 63,
+        "posts": [
+          {
+            "id": "1903098438956486836",
+            "source": "local_json",
+            "payload": {
+              "data": {
+                "article": {},
+                "attachments": {
+                  "media_keys": [
+                    "3_1903098427132768256",
+                    "3_1903098427086606339"
+                  ]
+                },
+                "author_id": "1741993395910811648",
+                "conversation_id": "1903098438956486836",
+                "created_at": "2025-03-21T14:56:40.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": true,
+                  "editable_until": "2025-03-21T15:56:40.000Z"
+                },
+                "edit_history_tweet_ids": [
+                  "1903098438956486836"
+                ],
+                "entities": {
+                  "urls": [
+                    {
+                      "start": 19,
+                      "end": 42,
+                      "url": "https://t.co/kTKEHghy4Y",
+                      "expanded_url": "https://x.com/AnIncandescence/status/1903098438956486836/photo/1",
+                      "display_url": "pic.x.com/kTKEHghy4Y",
+                      "media_key": "3_1903098427132768256"
+                    },
+                    {
+                      "start": 19,
+                      "end": 42,
+                      "url": "https://t.co/kTKEHghy4Y",
+                      "expanded_url": "https://x.com/AnIncandescence/status/1903098438956486836/photo/1",
+                      "display_url": "pic.x.com/kTKEHghy4Y",
+                      "media_key": "3_1903098427086606339"
+                    }
+                  ]
+                },
+                "geo": {},
+                "id": "1903098438956486836",
+                "lang": "zh",
+                "note_tweet": {
+                  "entities": {}
+                },
+                "possibly_sensitive": false,
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 0
+                },
+                "reply_settings": "everyone",
+                "text": "试剂盒无法索敌，只好我亲自试试了（） https://t.co/kTKEHghy4Y"
+              },
+              "includes": {
+                "media": [
+                  {
+                    "height": 4032,
+                    "media_key": "3_1903098427132768256",
+                    "public_metrics": {},
+                    "type": "photo",
+                    "url": "https://pbs.twimg.com/media/Gmkp77nacAArmGB.jpg",
+                    "width": 3024
+                  },
+                  {
+                    "height": 4032,
+                    "media_key": "3_1903098427086606339",
+                    "public_metrics": {},
+                    "type": "photo",
+                    "url": "https://pbs.twimg.com/media/Gmkp77caEAM7Snw.jpg",
+                    "width": 3024
+                  }
+                ],
+                "users": [
+                  {
+                    "created_at": "2024-01-02T01:22:57.000Z",
+                    "description": "互fo欢迎！ 猫，诗歌，精神动力学。艺术，C#，波粒二象性。回归曲线上的量子生物，无攻击性。“我们彻夜飞旋，直至没入火焰。”阴暗碎碎念纯享版@TauCeti_10700 提问箱👇",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/MuEKSg4tIS",
+                            "expanded_url": "https://ngl.link/anincandescence",
+                            "display_url": "ngl.link/anincandescence"
+                          }
+                        ]
+                      },
+                      "description": {
+                        "mentions": [
+                          {
+                            "start": 70,
+                            "end": 84,
+                            "username": "TauCeti_10700"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1741993395910811648",
+                    "location": "0°00′N 260°00′E Mars",
+                    "name": "炽烈已极",
+                    "pinned_tweet_id": "1896009323920404722",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1789433740277567488/d3KhwUX1_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 358,
+                      "following_count": 169,
+                      "tweet_count": 1785,
+                      "listed_count": 1,
+                      "like_count": 5127,
+                      "media_count": 422
+                    },
+                    "url": "https://t.co/MuEKSg4tIS",
+                    "username": "AnIncandescence",
+                    "verified": false
+                  }
+                ],
+                "tweets": [
+                  {
+                    "article": {},
+                    "attachments": {
+                      "media_keys": [
+                        "3_1903098427132768256",
+                        "3_1903098427086606339"
+                      ]
+                    },
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "1903098438956486836",
+                    "created_at": "2025-03-21T14:56:40.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": true,
+                      "editable_until": "2025-03-21T15:56:40.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "1903098438956486836"
+                    ],
+                    "entities": {
+                      "urls": [
+                        {
+                          "start": 19,
+                          "end": 42,
+                          "url": "https://t.co/kTKEHghy4Y",
+                          "expanded_url": "https://x.com/AnIncandescence/status/1903098438956486836/photo/1",
+                          "display_url": "pic.x.com/kTKEHghy4Y",
+                          "media_key": "3_1903098427132768256"
+                        },
+                        {
+                          "start": 19,
+                          "end": 42,
+                          "url": "https://t.co/kTKEHghy4Y",
+                          "expanded_url": "https://x.com/AnIncandescence/status/1903098438956486836/photo/1",
+                          "display_url": "pic.x.com/kTKEHghy4Y",
+                          "media_key": "3_1903098427086606339"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "1903098438956486836",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 0,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 0
+                    },
+                    "reply_settings": "everyone",
+                    "text": "试剂盒无法索敌，只好我亲自试试了（） https://t.co/kTKEHghy4Y"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

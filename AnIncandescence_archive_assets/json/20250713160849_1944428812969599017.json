@@ -1,1 +1,535 @@
-{"data":{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1944332934271349227","created_at":"2025-07-13T16:08:49.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-07-13T17:08:49.000Z"},"edit_history_tweet_ids":["1944428812969599017"],"entities":{"mentions":[{"start":0,"end":10,"username":"SalviaSWC","id":"1659962043460354050"},{"start":11,"end":23,"username":"NashiMoe233","id":"1726969617850286080"}]},"geo":{},"id":"1944428812969599017","in_reply_to_user_id":"1659962043460354050","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1944372176464863742"}],"reply_settings":"everyone","text":"@SalviaSWC @NashiMoe233 结构上不应该是三环吗（？）"},"includes":{"users":[{"created_at":"2024-01-02T01:22:57.000Z","description":"猫，诗歌，精神动力学。艺术，C#，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158 | 不卖东西","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/MuEKSg4tIS","expanded_url":"https://ngl.link/anincandescence","display_url":"ngl.link/anincandescence"}]}},"id":"1741993395910811648","location":"天鹅座X-1","name":"炽烈已极","pinned_tweet_id":"1926637878257311824","profile_image_url":"https://pbs.twimg.com/profile_images/1930288376399155200/A42NAeD9_normal.jpg","protected":false,"public_metrics":{"followers_count":1049,"following_count":204,"tweet_count":3212,"listed_count":1,"like_count":8984,"media_count":656},"url":"https://t.co/MuEKSg4tIS","username":"AnIncandescence","verified":false},{"created_at":"2023-05-20T16:39:35.000Z","description":"07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰","id":"1659962043460354050","name":"鼠尾草～🌿","pinned_tweet_id":"1943305386372796756","profile_image_url":"https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg","protected":false,"public_metrics":{"followers_count":637,"following_count":289,"tweet_count":1510,"listed_count":1,"like_count":4283,"media_count":50},"username":"SalviaSWC","verified":false},{"created_at":"2023-11-21T14:23:48.000Z","description":"晴铃系统 可以统一叫梨子丨any pronouns 丨intp-t丨精分 osdd丨谜语人碎碎念推丨情绪垃圾桶丨看点自己喜欢的丨不做药物滥用咨询丨大概是永久锁推当推推空间发了","id":"1726969617850286080","location":"玻璃蝴蝶的破碎 也会将我一并带走吧","name":"涙の販売機","pinned_tweet_id":"1942953404315394445","profile_image_url":"https://pbs.twimg.com/profile_images/1942966233961578496/nABfm9yy_normal.jpg","protected":true,"public_metrics":{"followers_count":1735,"following_count":169,"tweet_count":10120,"listed_count":2,"like_count":18075,"media_count":548},"username":"NashiMoe233","verified":false}],"tweets":[{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1944332934271349227","created_at":"2025-07-13T16:08:49.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-07-13T17:08:49.000Z"},"edit_history_tweet_ids":["1944428812969599017"],"entities":{"mentions":[{"start":0,"end":10,"username":"SalviaSWC","id":"1659962043460354050"},{"start":11,"end":23,"username":"NashiMoe233","id":"1726969617850286080"}]},"geo":{},"id":"1944428812969599017","in_reply_to_user_id":"1659962043460354050","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1944372176464863742"}],"reply_settings":"everyone","text":"@SalviaSWC @NashiMoe233 结构上不应该是三环吗（？）"},{"article":{},"attachments":{},"author_id":"1659962043460354050","conversation_id":"1944332934271349227","created_at":"2025-07-13T12:23:46.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-07-13T13:23:46.000Z"},"edit_history_tweet_ids":["1944372176464863742"],"entities":{"mentions":[{"start":0,"end":12,"username":"NashiMoe233","id":"1726969617850286080"}]},"geo":{},"id":"1944372176464863742","in_reply_to_user_id":"1726969617850286080","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":2,"like_count":2,"quote_count":0,"bookmark_count":0,"impression_count":28},"referenced_tweets":[{"type":"replied_to","id":"1944333841466048810"}],"reply_settings":"everyone","text":"@NashiMoe233 tianeptine是阿片类，抗抑郁效果器不可能不好\n它是不溶于水的，无法吸入。口服利用率已经是100了，而且服用混合粉末与水的浊液，药效来得很快，无需通过鼻息提效"}]}}
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741993395910811648",
+    "conversation_id": "1944332934271349227",
+    "created_at": "2025-07-13T16:08:49.000Z",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2025-07-13T17:08:49.000Z"
+    },
+    "edit_history_tweet_ids": [
+      "1944428812969599017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 10,
+          "username": "SalviaSWC",
+          "id": "1659962043460354050"
+        },
+        {
+          "start": 11,
+          "end": 23,
+          "username": "NashiMoe233",
+          "id": "1726969617850286080"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944428812969599017",
+    "in_reply_to_user_id": "1659962043460354050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1944372176464863742"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SalviaSWC @NashiMoe233 结构上不应该是三环吗（？）"
+  },
+  "includes": {
+    "users": [
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，C#，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158 | 不卖东西",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/MuEKSg4tIS",
+                "expanded_url": "https://ngl.link/anincandescence",
+                "display_url": "ngl.link/anincandescence"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "天鹅座X-1",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "1926637878257311824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930288376399155200/A42NAeD9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1049,
+          "following_count": 204,
+          "tweet_count": 3212,
+          "listed_count": 1,
+          "like_count": 8984,
+          "media_count": 656
+        },
+        "url": "https://t.co/MuEKSg4tIS",
+        "username": "AnIncandescence",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "1943305386372796756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 637,
+          "following_count": 289,
+          "tweet_count": 1510,
+          "listed_count": 1,
+          "like_count": 4283,
+          "media_count": 50
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-21T14:23:48.000Z",
+        "description": "晴铃系统 可以统一叫梨子丨any pronouns 丨intp-t丨精分 osdd丨谜语人碎碎念推丨情绪垃圾桶丨看点自己喜欢的丨不做药物滥用咨询丨大概是永久锁推当推推空间发了",
+        "id": "1726969617850286080",
+        "location": "玻璃蝴蝶的破碎 也会将我一并带走吧",
+        "name": "涙の販売機",
+        "pinned_tweet_id": "1942953404315394445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942966233961578496/nABfm9yy_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1735,
+          "following_count": 169,
+          "tweet_count": 10120,
+          "listed_count": 2,
+          "like_count": 18075,
+          "media_count": 548
+        },
+        "username": "NashiMoe233",
+        "verified": false
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741993395910811648",
+        "conversation_id": "1944332934271349227",
+        "created_at": "2025-07-13T16:08:49.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2025-07-13T17:08:49.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1944428812969599017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 10,
+              "username": "SalviaSWC",
+              "id": "1659962043460354050"
+            },
+            {
+              "start": 11,
+              "end": 23,
+              "username": "NashiMoe233",
+              "id": "1726969617850286080"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944428812969599017",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1944372176464863742"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC @NashiMoe233 结构上不应该是三环吗（？）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1944332934271349227",
+        "created_at": "2025-07-13T12:23:46.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2025-07-13T13:23:46.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1944372176464863742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 12,
+              "username": "NashiMoe233",
+              "id": "1726969617850286080"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944372176464863742",
+        "in_reply_to_user_id": "1726969617850286080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 2,
+          "like_count": 2,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1944333841466048810"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NashiMoe233 tianeptine是阿片类，抗抑郁效果器不可能不好\n它是不溶于水的，无法吸入。口服利用率已经是100了，而且服用混合粉末与水的浊液，药效来得很快，无需通过鼻息提效"
+      }
+    ]
+  },
+  "_pale_fire": {
+    "x_api_reply_chains": {
+      "1944333841466048810": {
+        "version": 1,
+        "fetched_at": "2026-04-18T00:21:08Z",
+        "max_depth": 63,
+        "posts": [
+          {
+            "id": "1944333841466048810",
+            "source": "x_api",
+            "payload": {
+              "data": {
+                "author_id": "1726969617850286080",
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "1944333229021856099"
+                  }
+                ],
+                "possibly_sensitive": false,
+                "lang": "zh",
+                "conversation_id": "1944332934271349227",
+                "edit_history_tweet_ids": [
+                  "1944333841466048810"
+                ],
+                "id": "1944333841466048810",
+                "in_reply_to_user_id": "1726969617850286080",
+                "reply_settings": "everyone",
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 4,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 310
+                },
+                "text": "如果这东西急性抗玉玉效果不好我就去弄替来他命或者其它pcp衍生物了 这东西做成吸入剂起效还是很快的",
+                "created_at": "2025-07-13T09:51:26.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2025-07-13T10:51:26.000Z"
+                }
+              },
+              "includes": {
+                "users": [
+                  {
+                    "location": "天目山路305号",
+                    "description": "梨子丨我的情感应该被埋葬在马里亚纳海沟下丨intp-t丨non-binary丨osdd-1a丨碎碎念推丨不回答药物滥用相关问题",
+                    "protected": false,
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2042151256266043392/ZqvxTlaY_normal.jpg",
+                    "name": "涙の販売機",
+                    "created_at": "2023-11-21T14:23:48.000Z",
+                    "public_metrics": {
+                      "followers_count": 1833,
+                      "following_count": 213,
+                      "tweet_count": 13681,
+                      "listed_count": 3,
+                      "like_count": 24855,
+                      "media_count": 681
+                    },
+                    "id": "1726969617850286080",
+                    "username": "Kikunashi30712",
+                    "url": "https://t.co/5udd6ZSL5y",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/5udd6ZSL5y",
+                            "expanded_url": "http://t.me/Kikunashi",
+                            "display_url": "t.me/Kikunashi"
+                          }
+                        ]
+                      }
+                    },
+                    "verified": false
+                  }
+                ],
+                "tweets": [
+                  {
+                    "author_id": "1726969617850286080",
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "1944332934271349227"
+                      }
+                    ],
+                    "possibly_sensitive": false,
+                    "lang": "zh",
+                    "conversation_id": "1944332934271349227",
+                    "edit_history_tweet_ids": [
+                      "1944333229021856099"
+                    ],
+                    "id": "1944333229021856099",
+                    "in_reply_to_user_id": "1726969617850286080",
+                    "reply_settings": "everyone",
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 1,
+                      "like_count": 2,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 297
+                    },
+                    "text": "个人对致幻剂和兴奋剂不感兴趣 所以玩玩这个就行 而且价格还算亲民",
+                    "created_at": "2025-07-13T09:49:00.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2025-07-13T10:49:00.000Z"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "1944333229021856099",
+            "source": "x_api",
+            "payload": {
+              "data": {
+                "created_at": "2025-07-13T09:49:00.000Z",
+                "text": "个人对致幻剂和兴奋剂不感兴趣 所以玩玩这个就行 而且价格还算亲民",
+                "lang": "zh",
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "1944332934271349227"
+                  }
+                ],
+                "conversation_id": "1944332934271349227",
+                "possibly_sensitive": false,
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2025-07-13T10:49:00.000Z"
+                },
+                "author_id": "1726969617850286080",
+                "in_reply_to_user_id": "1726969617850286080",
+                "reply_settings": "everyone",
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 297
+                },
+                "id": "1944333229021856099",
+                "edit_history_tweet_ids": [
+                  "1944333229021856099"
+                ]
+              },
+              "includes": {
+                "users": [
+                  {
+                    "name": "涙の販売機",
+                    "id": "1726969617850286080",
+                    "public_metrics": {
+                      "followers_count": 1833,
+                      "following_count": 213,
+                      "tweet_count": 13681,
+                      "listed_count": 3,
+                      "like_count": 24855,
+                      "media_count": 681
+                    },
+                    "username": "Kikunashi30712",
+                    "created_at": "2023-11-21T14:23:48.000Z",
+                    "location": "天目山路305号",
+                    "url": "https://t.co/5udd6ZSL5y",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/5udd6ZSL5y",
+                            "expanded_url": "http://t.me/Kikunashi",
+                            "display_url": "t.me/Kikunashi"
+                          }
+                        ]
+                      }
+                    },
+                    "verified": false,
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2042151256266043392/ZqvxTlaY_normal.jpg",
+                    "protected": false,
+                    "description": "梨子丨我的情感应该被埋葬在马里亚纳海沟下丨intp-t丨non-binary丨osdd-1a丨碎碎念推丨不回答药物滥用相关问题"
+                  }
+                ],
+                "tweets": [
+                  {
+                    "created_at": "2025-07-13T09:47:50.000Z",
+                    "text": "感觉应该给家里备个纳洛酮喷雾 以后自杀想法严重的时候可能会使用大剂量tianeptine",
+                    "lang": "zh",
+                    "conversation_id": "1944332934271349227",
+                    "possibly_sensitive": false,
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2025-07-13T10:47:50.000Z"
+                    },
+                    "author_id": "1726969617850286080",
+                    "reply_settings": "everyone",
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 3,
+                      "like_count": 6,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 561
+                    },
+                    "id": "1944332934271349227",
+                    "edit_history_tweet_ids": [
+                      "1944332934271349227"
+                    ]
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "1944332934271349227",
+            "source": "x_api",
+            "payload": {
+              "data": {
+                "author_id": "1726969617850286080",
+                "conversation_id": "1944332934271349227",
+                "created_at": "2025-07-13T09:47:50.000Z",
+                "lang": "zh",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2025-07-13T10:47:50.000Z"
+                },
+                "id": "1944332934271349227",
+                "edit_history_tweet_ids": [
+                  "1944332934271349227"
+                ],
+                "text": "感觉应该给家里备个纳洛酮喷雾 以后自杀想法严重的时候可能会使用大剂量tianeptine",
+                "possibly_sensitive": false,
+                "reply_settings": "everyone",
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 3,
+                  "like_count": 6,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 561
+                }
+              },
+              "includes": {
+                "users": [
+                  {
+                    "id": "1726969617850286080",
+                    "description": "梨子丨我的情感应该被埋葬在马里亚纳海沟下丨intp-t丨non-binary丨osdd-1a丨碎碎念推丨不回答药物滥用相关问题",
+                    "created_at": "2023-11-21T14:23:48.000Z",
+                    "verified": false,
+                    "url": "https://t.co/5udd6ZSL5y",
+                    "username": "Kikunashi30712",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2042151256266043392/ZqvxTlaY_normal.jpg",
+                    "name": "涙の販売機",
+                    "public_metrics": {
+                      "followers_count": 1833,
+                      "following_count": 213,
+                      "tweet_count": 13681,
+                      "listed_count": 3,
+                      "like_count": 24855,
+                      "media_count": 681
+                    },
+                    "protected": false,
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/5udd6ZSL5y",
+                            "expanded_url": "http://t.me/Kikunashi",
+                            "display_url": "t.me/Kikunashi"
+                          }
+                        ]
+                      }
+                    },
+                    "location": "天目山路305号"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,1 +1,444 @@
-{"data":{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1918941443760275820","created_at":"2025-05-05T03:42:13.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-05-05T04:42:13.000Z"},"edit_history_tweet_ids":["1919236161953783952"],"entities":{"mentions":[{"start":0,"end":11,"username":"kansj68531","id":"1699445300950093824"}]},"geo":{},"id":"1919236161953783952","in_reply_to_user_id":"1699445300950093824","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1919203327168110721"}],"reply_settings":"everyone","text":"@kansj68531 😡程序的问题"},"includes":{"users":[{"created_at":"2024-01-02T01:22:57.000Z","description":"猫，诗歌，精神动力学。艺术，C#，波粒二象性。不断寻找着广播塔的星际候鸟。 | 求式性 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/MuEKSg4tIS","expanded_url":"https://ngl.link/anincandescence","display_url":"ngl.link/anincandescence"}]}},"id":"1741993395910811648","location":"夜航忒修斯","name":"炽烈已极","pinned_tweet_id":"1917636544921493819","profile_image_url":"https://pbs.twimg.com/profile_images/1789433740277567488/d3KhwUX1_normal.jpg","protected":false,"public_metrics":{"followers_count":906,"following_count":189,"tweet_count":2681,"listed_count":1,"like_count":7428,"media_count":543},"url":"https://t.co/MuEKSg4tIS","username":"AnIncandescence","verified":true},{"created_at":"2023-09-06T15:31:58.000Z","description":"药圈第一个地雷女科普系博主，会回复用药咨询，想聊天请过🚪。","id":"1699445300950093824","location":"Macau","name":"林讨厌你","pinned_tweet_id":"1907251008314687503","profile_image_url":"https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg","protected":false,"public_metrics":{"followers_count":4768,"following_count":60,"tweet_count":34,"listed_count":10,"like_count":722,"media_count":12},"username":"kansj68531","verified":false}],"tweets":[{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1918941443760275820","created_at":"2025-05-05T03:42:13.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-05-05T04:42:13.000Z"},"edit_history_tweet_ids":["1919236161953783952"],"entities":{"mentions":[{"start":0,"end":11,"username":"kansj68531","id":"1699445300950093824"}]},"geo":{},"id":"1919236161953783952","in_reply_to_user_id":"1699445300950093824","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1919203327168110721"}],"reply_settings":"everyone","text":"@kansj68531 😡程序的问题"},{"article":{},"attachments":{},"author_id":"1699445300950093824","conversation_id":"1918941443760275820","created_at":"2025-05-05T01:31:44.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-05-05T02:31:44.000Z"},"edit_history_tweet_ids":["1919203327168110721"],"entities":{"mentions":[{"start":0,"end":16,"username":"AnIncandescence","id":"1741993395910811648"}]},"geo":{},"id":"1919203327168110721","in_reply_to_user_id":"1741993395910811648","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":1,"like_count":2,"quote_count":0,"bookmark_count":0,"impression_count":43},"referenced_tweets":[{"type":"replied_to","id":"1918941443760275820"}],"reply_settings":"everyone","text":"@AnIncandescence 小白为什么没有我🥺🥺🥺"}]}}
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741993395910811648",
+    "conversation_id": "1918941443760275820",
+    "created_at": "2025-05-05T03:42:13.000Z",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2025-05-05T04:42:13.000Z"
+    },
+    "edit_history_tweet_ids": [
+      "1919236161953783952"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 11,
+          "username": "kansj68531",
+          "id": "1699445300950093824"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919236161953783952",
+    "in_reply_to_user_id": "1699445300950093824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1919203327168110721"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kansj68531 😡程序的问题"
+  },
+  "includes": {
+    "users": [
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，C#，波粒二象性。不断寻找着广播塔的星际候鸟。 | 求式性 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/MuEKSg4tIS",
+                "expanded_url": "https://ngl.link/anincandescence",
+                "display_url": "ngl.link/anincandescence"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "夜航忒修斯",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "1917636544921493819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789433740277567488/d3KhwUX1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 906,
+          "following_count": 189,
+          "tweet_count": 2681,
+          "listed_count": 1,
+          "like_count": 7428,
+          "media_count": 543
+        },
+        "url": "https://t.co/MuEKSg4tIS",
+        "username": "AnIncandescence",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "description": "药圈第一个地雷女科普系博主，会回复用药咨询，想聊天请过🚪。",
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林讨厌你",
+        "pinned_tweet_id": "1907251008314687503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4768,
+          "following_count": 60,
+          "tweet_count": 34,
+          "listed_count": 10,
+          "like_count": 722,
+          "media_count": 12
+        },
+        "username": "kansj68531",
+        "verified": false
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741993395910811648",
+        "conversation_id": "1918941443760275820",
+        "created_at": "2025-05-05T03:42:13.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2025-05-05T04:42:13.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1919236161953783952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 11,
+              "username": "kansj68531",
+              "id": "1699445300950093824"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919236161953783952",
+        "in_reply_to_user_id": "1699445300950093824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1919203327168110721"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kansj68531 😡程序的问题"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699445300950093824",
+        "conversation_id": "1918941443760275820",
+        "created_at": "2025-05-05T01:31:44.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2025-05-05T02:31:44.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1919203327168110721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 16,
+              "username": "AnIncandescence",
+              "id": "1741993395910811648"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919203327168110721",
+        "in_reply_to_user_id": "1741993395910811648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 2,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 43
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1918941443760275820"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnIncandescence 小白为什么没有我🥺🥺🥺"
+      }
+    ]
+  },
+  "_pale_fire": {
+    "x_api_reply_chains": {
+      "1918941443760275820": {
+        "version": 1,
+        "fetched_at": "2026-04-18T00:15:11Z",
+        "max_depth": 63,
+        "posts": [
+          {
+            "id": "1918941443760275820",
+            "source": "local_json",
+            "payload": {
+              "data": {
+                "article": {},
+                "attachments": {
+                  "media_keys": [
+                    "3_1918941441650532352"
+                  ]
+                },
+                "author_id": "1741993395910811648",
+                "context_annotations": [
+                  {
+                    "domain": {
+                      "id": "47",
+                      "name": "Brand",
+                      "description": "Brands and Companies"
+                    },
+                    "entity": {
+                      "id": "10045225402",
+                      "name": "X"
+                    }
+                  }
+                ],
+                "conversation_id": "1918941443760275820",
+                "created_at": "2025-05-04T08:11:07.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": true,
+                  "editable_until": "2025-05-04T09:11:07.000Z"
+                },
+                "edit_history_tweet_ids": [
+                  "1918941443760275820"
+                ],
+                "entities": {
+                  "urls": [
+                    {
+                      "start": 17,
+                      "end": 40,
+                      "url": "https://t.co/jvb7CMgI7y",
+                      "expanded_url": "https://infinityweet.me/interaction-circle?lang=zh",
+                      "display_url": "infinityweet.me/interaction-ci…",
+                      "images": [
+                        {
+                          "url": "https://pbs.twimg.com/news_img/1916412451836588032/705Vg9Gn?format=jpg&name=orig",
+                          "width": 3600,
+                          "height": 1884
+                        },
+                        {
+                          "url": "https://pbs.twimg.com/news_img/1916412451836588032/705Vg9Gn?format=jpg&name=150x150",
+                          "width": 150,
+                          "height": 150
+                        }
+                      ],
+                      "status": 200,
+                      "title": "Interaction Circle • Infinitweet",
+                      "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+                      "unwound_url": "https://infinityweet.me/interaction-circle?lang=zh"
+                    },
+                    {
+                      "start": 41,
+                      "end": 64,
+                      "url": "https://t.co/eZKVMHH6j2",
+                      "expanded_url": "https://x.com/AnIncandescence/status/1918941443760275820/photo/1",
+                      "display_url": "pic.x.com/eZKVMHH6j2",
+                      "media_key": "3_1918941441650532352"
+                    }
+                  ]
+                },
+                "geo": {},
+                "id": "1918941443760275820",
+                "lang": "zh",
+                "note_tweet": {
+                  "entities": {}
+                },
+                "possibly_sensitive": false,
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 0
+                },
+                "reply_settings": "everyone",
+                "text": "我的Twitter互动圈\n\n➡️ https://t.co/jvb7CMgI7y https://t.co/eZKVMHH6j2"
+              },
+              "includes": {
+                "media": [
+                  {
+                    "height": 1000,
+                    "media_key": "3_1918941441650532352",
+                    "public_metrics": {},
+                    "type": "photo",
+                    "url": "https://pbs.twimg.com/media/GqFzEv5bIAA9D1g.jpg",
+                    "width": 1000
+                  }
+                ],
+                "users": [
+                  {
+                    "created_at": "2024-01-02T01:22:57.000Z",
+                    "description": "猫，诗歌，精神动力学。艺术，C#，波粒二象性。不断寻找着广播塔的星际候鸟。 | 求式性 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/MuEKSg4tIS",
+                            "expanded_url": "https://ngl.link/anincandescence",
+                            "display_url": "ngl.link/anincandescence"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1741993395910811648",
+                    "location": "夜航忒修斯",
+                    "name": "炽烈已极",
+                    "pinned_tweet_id": "1917636544921493819",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1789433740277567488/d3KhwUX1_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 903,
+                      "following_count": 193,
+                      "tweet_count": 2674,
+                      "listed_count": 2,
+                      "like_count": 7395,
+                      "media_count": 541
+                    },
+                    "url": "https://t.co/MuEKSg4tIS",
+                    "username": "AnIncandescence",
+                    "verified": true
+                  }
+                ],
+                "tweets": [
+                  {
+                    "article": {},
+                    "attachments": {
+                      "media_keys": [
+                        "3_1918941441650532352"
+                      ]
+                    },
+                    "author_id": "1741993395910811648",
+                    "context_annotations": [
+                      {
+                        "domain": {
+                          "id": "47",
+                          "name": "Brand",
+                          "description": "Brands and Companies"
+                        },
+                        "entity": {
+                          "id": "10045225402",
+                          "name": "X"
+                        }
+                      }
+                    ],
+                    "conversation_id": "1918941443760275820",
+                    "created_at": "2025-05-04T08:11:07.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": true,
+                      "editable_until": "2025-05-04T09:11:07.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "1918941443760275820"
+                    ],
+                    "entities": {
+                      "urls": [
+                        {
+                          "start": 17,
+                          "end": 40,
+                          "url": "https://t.co/jvb7CMgI7y",
+                          "expanded_url": "https://infinityweet.me/interaction-circle?lang=zh",
+                          "display_url": "infinityweet.me/interaction-ci…",
+                          "images": [
+                            {
+                              "url": "https://pbs.twimg.com/news_img/1916412451836588032/705Vg9Gn?format=jpg&name=orig",
+                              "width": 3600,
+                              "height": 1884
+                            },
+                            {
+                              "url": "https://pbs.twimg.com/news_img/1916412451836588032/705Vg9Gn?format=jpg&name=150x150",
+                              "width": 150,
+                              "height": 150
+                            }
+                          ],
+                          "status": 200,
+                          "title": "Interaction Circle • Infinitweet",
+                          "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+                          "unwound_url": "https://infinityweet.me/interaction-circle?lang=zh"
+                        },
+                        {
+                          "start": 41,
+                          "end": 64,
+                          "url": "https://t.co/eZKVMHH6j2",
+                          "expanded_url": "https://x.com/AnIncandescence/status/1918941443760275820/photo/1",
+                          "display_url": "pic.x.com/eZKVMHH6j2",
+                          "media_key": "3_1918941441650532352"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "1918941443760275820",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 0,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 0
+                    },
+                    "reply_settings": "everyone",
+                    "text": "我的Twitter互动圈\n\n➡️ https://t.co/jvb7CMgI7y https://t.co/eZKVMHH6j2"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

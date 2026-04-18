@@ -1,1 +1,458 @@
-{"data":{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"2030324107624272034","created_at":"2026-03-07T17:06:42.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2026-03-07T18:06:42.000Z"},"edit_history_tweet_ids":["2030329305071276053"],"entities":{"mentions":[{"start":0,"end":9,"username":"Kakuko42","id":"2007465888438706176"}]},"geo":{},"id":"2030329305071276053","in_reply_to_user_id":"2007465888438706176","lang":"ja","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"2030329121612456183"}],"reply_settings":"everyone","text":"@Kakuko42 贴贴核子(づ′▽`)づ"},"includes":{"users":[{"created_at":"2024-01-02T01:22:57.000Z","description":"猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 倒影@TauCeti_10700 计划这个号机的浓度更高一些 | 🚪88/158","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/iO6MRJNTYR","expanded_url":"https://ngl.link/anincandescence1","display_url":"ngl.link/anincandescenc…"}]},"description":{"mentions":[{"start":62,"end":76,"username":"TauCeti_10700"}]}},"id":"1741993395910811648","location":"天鹅座X-1 //⬇️ 匿名提问箱","name":"炽烈已极","pinned_tweet_id":"2024076888923365667","profile_image_url":"https://pbs.twimg.com/profile_images/2027047460930023425/YHzQxhYF_normal.jpg","protected":false,"public_metrics":{"followers_count":1760,"following_count":239,"tweet_count":6281,"listed_count":5,"like_count":15027,"media_count":1123},"url":"https://t.co/iO6MRJNTYR","username":"AnIncandescence","verified":false},{"created_at":"2026-01-03T14:55:51.000Z","description":"=核子/Kakuko｜20⬆️｜enby｜飛び込んでみたいと 思う｜不在国内不卖药｜Lay Back and Dive.","id":"2007465888438706176","location":"眠れない 午前二時","name":"核子融合炉 #室宿一","pinned_tweet_id":"2026304498721865911","profile_image_url":"https://pbs.twimg.com/profile_images/2017663558406873088/puT6sL5a_normal.jpg","protected":false,"public_metrics":{"followers_count":98,"following_count":143,"tweet_count":64,"listed_count":0,"like_count":1094,"media_count":1},"username":"Kakuko42","verified":false}],"tweets":[{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"2030324107624272034","created_at":"2026-03-07T17:06:42.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2026-03-07T18:06:42.000Z"},"edit_history_tweet_ids":["2030329305071276053"],"entities":{"mentions":[{"start":0,"end":9,"username":"Kakuko42","id":"2007465888438706176"}]},"geo":{},"id":"2030329305071276053","in_reply_to_user_id":"2007465888438706176","lang":"ja","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"2030329121612456183"}],"reply_settings":"everyone","text":"@Kakuko42 贴贴核子(づ′▽`)づ"},{"article":{},"attachments":{},"author_id":"2007465888438706176","conversation_id":"2030324107624272034","created_at":"2026-03-07T17:05:58.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2026-03-07T18:05:58.000Z"},"edit_history_tweet_ids":["2030329121612456183"],"entities":{"mentions":[{"start":0,"end":16,"username":"AnIncandescence","id":"1741993395910811648"}]},"geo":{},"id":"2030329121612456183","in_reply_to_user_id":"1741993395910811648","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":1,"like_count":1,"quote_count":0,"bookmark_count":0,"impression_count":1},"referenced_tweets":[{"type":"replied_to","id":"2030324107624272034"}],"reply_settings":"everyone","text":"@AnIncandescence 贴贴小炽(=´∀｀)人(´∀｀=)"}]}}
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741993395910811648",
+    "conversation_id": "2030324107624272034",
+    "created_at": "2026-03-07T17:06:42.000Z",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2026-03-07T18:06:42.000Z"
+    },
+    "edit_history_tweet_ids": [
+      "2030329305071276053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 9,
+          "username": "Kakuko42",
+          "id": "2007465888438706176"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030329305071276053",
+    "in_reply_to_user_id": "2007465888438706176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "2030329121612456183"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kakuko42 贴贴核子(づ′▽`)づ"
+  },
+  "includes": {
+    "users": [
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 倒影@TauCeti_10700 计划这个号机的浓度更高一些 | 🚪88/158",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/iO6MRJNTYR",
+                "expanded_url": "https://ngl.link/anincandescence1",
+                "display_url": "ngl.link/anincandescenc…"
+              }
+            ]
+          },
+          "description": {
+            "mentions": [
+              {
+                "start": 62,
+                "end": 76,
+                "username": "TauCeti_10700"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "天鹅座X-1 //⬇️ 匿名提问箱",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "2024076888923365667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027047460930023425/YHzQxhYF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1760,
+          "following_count": 239,
+          "tweet_count": 6281,
+          "listed_count": 5,
+          "like_count": 15027,
+          "media_count": 1123
+        },
+        "url": "https://t.co/iO6MRJNTYR",
+        "username": "AnIncandescence",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-03T14:55:51.000Z",
+        "description": "=核子/Kakuko｜20⬆️｜enby｜飛び込んでみたいと 思う｜不在国内不卖药｜Lay Back and Dive.",
+        "id": "2007465888438706176",
+        "location": "眠れない 午前二時",
+        "name": "核子融合炉 #室宿一",
+        "pinned_tweet_id": "2026304498721865911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017663558406873088/puT6sL5a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 143,
+          "tweet_count": 64,
+          "listed_count": 0,
+          "like_count": 1094,
+          "media_count": 1
+        },
+        "username": "Kakuko42",
+        "verified": false
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741993395910811648",
+        "conversation_id": "2030324107624272034",
+        "created_at": "2026-03-07T17:06:42.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2026-03-07T18:06:42.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "2030329305071276053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 9,
+              "username": "Kakuko42",
+              "id": "2007465888438706176"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030329305071276053",
+        "in_reply_to_user_id": "2007465888438706176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "2030329121612456183"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kakuko42 贴贴核子(づ′▽`)づ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007465888438706176",
+        "conversation_id": "2030324107624272034",
+        "created_at": "2026-03-07T17:05:58.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2026-03-07T18:05:58.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "2030329121612456183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 16,
+              "username": "AnIncandescence",
+              "id": "1741993395910811648"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030329121612456183",
+        "in_reply_to_user_id": "1741993395910811648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "2030324107624272034"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnIncandescence 贴贴小炽(=´∀｀)人(´∀｀=)"
+      }
+    ]
+  },
+  "_pale_fire": {
+    "x_api_reply_chains": {
+      "2030324107624272034": {
+        "version": 1,
+        "fetched_at": "2026-04-18T01:33:31Z",
+        "max_depth": 63,
+        "posts": [
+          {
+            "id": "2030324107624272034",
+            "source": "local_json",
+            "payload": {
+              "data": {
+                "article": {},
+                "attachments": {},
+                "author_id": "1741993395910811648",
+                "conversation_id": "2030324107624272034",
+                "created_at": "2026-03-07T17:05:11.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2026-03-07T18:05:11.000Z"
+                },
+                "edit_history_tweet_ids": [
+                  "2030328921023975437"
+                ],
+                "entities": {},
+                "geo": {},
+                "id": "2030328921023975437",
+                "in_reply_to_user_id": "1741993395910811648",
+                "lang": "zh",
+                "note_tweet": {
+                  "entities": {}
+                },
+                "possibly_sensitive": false,
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 0
+                },
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "2030324107624272034"
+                  }
+                ],
+                "reply_settings": "everyone",
+                "text": "问图中猫的数量，进猫咖了！"
+              },
+              "includes": {
+                "media": [
+                  {
+                    "height": 1000,
+                    "media_key": "3_2030324102079377408",
+                    "public_metrics": {},
+                    "type": "photo",
+                    "url": "https://pbs.twimg.com/media/HC0pA4Na8AAML7Q.jpg",
+                    "width": 1000
+                  }
+                ],
+                "users": [
+                  {
+                    "created_at": "2024-01-02T01:22:57.000Z",
+                    "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 倒影@TauCeti_10700 计划这个号机的浓度更高一些 | 🚪88/158",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/iO6MRJNTYR",
+                            "expanded_url": "https://ngl.link/anincandescence1",
+                            "display_url": "ngl.link/anincandescenc…"
+                          }
+                        ]
+                      },
+                      "description": {
+                        "mentions": [
+                          {
+                            "start": 62,
+                            "end": 76,
+                            "username": "TauCeti_10700"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1741993395910811648",
+                    "location": "天鹅座X-1 //⬇️ 匿名提问箱",
+                    "name": "炽烈已极",
+                    "pinned_tweet_id": "2024076888923365667",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/2027047460930023425/YHzQxhYF_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 1760,
+                      "following_count": 239,
+                      "tweet_count": 6280,
+                      "listed_count": 5,
+                      "like_count": 15026,
+                      "media_count": 1123
+                    },
+                    "url": "https://t.co/iO6MRJNTYR",
+                    "username": "AnIncandescence",
+                    "verified": false
+                  }
+                ],
+                "tweets": [
+                  {
+                    "article": {},
+                    "attachments": {},
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "2030324107624272034",
+                    "created_at": "2026-03-07T17:05:11.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2026-03-07T18:05:11.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "2030328921023975437"
+                    ],
+                    "entities": {},
+                    "geo": {},
+                    "id": "2030328921023975437",
+                    "in_reply_to_user_id": "1741993395910811648",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 0,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 0
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "2030324107624272034"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "问图中猫的数量，进猫咖了！"
+                  },
+                  {
+                    "article": {},
+                    "attachments": {
+                      "media_keys": [
+                        "3_2030324102079377408"
+                      ]
+                    },
+                    "author_id": "1741993395910811648",
+                    "context_annotations": [
+                      {
+                        "domain": {
+                          "id": "47",
+                          "name": "Brand",
+                          "description": "Brands and Companies"
+                        },
+                        "entity": {
+                          "id": "10045225402",
+                          "name": "X"
+                        }
+                      }
+                    ],
+                    "conversation_id": "2030324107624272034",
+                    "created_at": "2026-03-07T16:46:03.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2026-03-07T17:46:03.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "2030324107624272034"
+                    ],
+                    "entities": {
+                      "urls": [
+                        {
+                          "start": 17,
+                          "end": 40,
+                          "url": "https://t.co/gIezi5V5Go",
+                          "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+                          "display_url": "infinitetweet.me/interaction-ci…",
+                          "images": [
+                            {
+                              "url": "https://pbs.twimg.com/news_img/2028112396590698496/0n2tOOjC?format=jpg&name=orig",
+                              "width": 3600,
+                              "height": 1884
+                            },
+                            {
+                              "url": "https://pbs.twimg.com/news_img/2028112396590698496/0n2tOOjC?format=jpg&name=150x150",
+                              "width": 150,
+                              "height": 150
+                            }
+                          ],
+                          "status": 200,
+                          "title": "Interaction Circle • Infinitweet",
+                          "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+                          "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh"
+                        },
+                        {
+                          "start": 41,
+                          "end": 64,
+                          "url": "https://t.co/2GxxpTKscG",
+                          "expanded_url": "https://x.com/AnIncandescence/status/2030324107624272034/photo/1",
+                          "display_url": "pic.x.com/2GxxpTKscG",
+                          "media_key": "3_2030324102079377408"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "2030324107624272034",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 4,
+                      "like_count": 8,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 55
+                    },
+                    "reply_settings": "everyone",
+                    "text": "我的Twitter互动圈\n\n➡️ https://t.co/gIezi5V5Go https://t.co/2GxxpTKscG"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

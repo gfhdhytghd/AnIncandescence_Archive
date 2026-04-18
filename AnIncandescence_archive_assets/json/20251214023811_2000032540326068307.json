@@ -1,1 +1,414 @@
-{"data":{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1998796029739827611","created_at":"2025-12-14T02:38:11.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-12-14T03:38:11.000Z"},"edit_history_tweet_ids":["2000032540326068307"],"entities":{"mentions":[{"start":0,"end":13,"username":"willa_citrus","id":"1767161673566359552"}]},"geo":{},"id":"2000032540326068307","in_reply_to_user_id":"1767161673566359552","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1999905125821993058"}],"reply_settings":"everyone","text":"@willa_citrus “林地生长于漫宿墙外。每一个研习诸史的人都知道，漫宿无墙。”"},"includes":{"users":[{"created_at":"2024-01-02T01:22:57.000Z","description":"猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/iO6MRJNm9j","expanded_url":"https://ngl.link/anincandescence1","display_url":"ngl.link/anincandescenc…"}]}},"id":"1741993395910811648","location":"天鹅座X-1","name":"炽烈已极","pinned_tweet_id":"1991299586002935866","profile_image_url":"https://pbs.twimg.com/profile_images/1999154150693797888/7aGBwxD0_normal.jpg","protected":false,"public_metrics":{"followers_count":1332,"following_count":220,"tweet_count":4705,"listed_count":4,"like_count":11733,"media_count":899},"url":"https://t.co/iO6MRJNm9j","username":"AnIncandescence","verified":false},{"created_at":"2024-03-11T12:12:39.000Z","description":"想当个可爱的孩子 / 杭州三本工科PhD在读 / 怪猎&魂 / 漫宿研习者 / 彻夜飞旋，直至甜美的生诞 / 多给我点赞啊！/ 碰到漂亮或者说话好玩的孩子就会试图交朋友 / 如果空下来一定要做个播客节目 / 甜甜同居五年啦 @rat_miyari","entities":{"description":{"mentions":[{"start":112,"end":123,"username":"rat_miyari"}]}},"id":"1767161673566359552","location":"杭州","name":"王小檬𝖂𝖎𝖑𝖑𝖆🍋","profile_image_url":"https://pbs.twimg.com/profile_images/1978691032192782336/2rH_jGCj_normal.jpg","protected":false,"public_metrics":{"followers_count":11735,"following_count":198,"tweet_count":6147,"listed_count":31,"like_count":4614,"media_count":263},"username":"willa_citrus","verified":false}],"tweets":[{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1998796029739827611","created_at":"2025-12-14T02:38:11.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-12-14T03:38:11.000Z"},"edit_history_tweet_ids":["2000032540326068307"],"entities":{"mentions":[{"start":0,"end":13,"username":"willa_citrus","id":"1767161673566359552"}]},"geo":{},"id":"2000032540326068307","in_reply_to_user_id":"1767161673566359552","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1999905125821993058"}],"reply_settings":"everyone","text":"@willa_citrus “林地生长于漫宿墙外。每一个研习诸史的人都知道，漫宿无墙。”"},{"article":{},"attachments":{},"author_id":"1767161673566359552","conversation_id":"1998796029739827611","created_at":"2025-12-13T18:11:53.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-12-13T19:11:53.000Z"},"edit_history_tweet_ids":["1999905125821993058"],"entities":{"mentions":[{"start":0,"end":16,"username":"AnIncandescence","id":"1741993395910811648"}]},"geo":{},"id":"1999905125821993058","in_reply_to_user_id":"1741993395910811648","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":1,"like_count":2,"quote_count":0,"bookmark_count":0,"impression_count":100},"referenced_tweets":[{"type":"replied_to","id":"1998796029739827611"}],"reply_settings":"everyone","text":"@AnIncandescence 漫宿研习者 虽然看不到太多类似内容 但知道不是只有我一个人在探索就很安心"}]}}
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741993395910811648",
+    "conversation_id": "1998796029739827611",
+    "created_at": "2025-12-14T02:38:11.000Z",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2025-12-14T03:38:11.000Z"
+    },
+    "edit_history_tweet_ids": [
+      "2000032540326068307"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 13,
+          "username": "willa_citrus",
+          "id": "1767161673566359552"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000032540326068307",
+    "in_reply_to_user_id": "1767161673566359552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1999905125821993058"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@willa_citrus “林地生长于漫宿墙外。每一个研习诸史的人都知道，漫宿无墙。”"
+  },
+  "includes": {
+    "users": [
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/iO6MRJNm9j",
+                "expanded_url": "https://ngl.link/anincandescence1",
+                "display_url": "ngl.link/anincandescenc…"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "天鹅座X-1",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "1991299586002935866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999154150693797888/7aGBwxD0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1332,
+          "following_count": 220,
+          "tweet_count": 4705,
+          "listed_count": 4,
+          "like_count": 11733,
+          "media_count": 899
+        },
+        "url": "https://t.co/iO6MRJNm9j",
+        "username": "AnIncandescence",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-11T12:12:39.000Z",
+        "description": "想当个可爱的孩子 / 杭州三本工科PhD在读 / 怪猎&魂 / 漫宿研习者 / 彻夜飞旋，直至甜美的生诞 / 多给我点赞啊！/ 碰到漂亮或者说话好玩的孩子就会试图交朋友 / 如果空下来一定要做个播客节目 / 甜甜同居五年啦 @rat_miyari",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "start": 112,
+                "end": 123,
+                "username": "rat_miyari"
+              }
+            ]
+          }
+        },
+        "id": "1767161673566359552",
+        "location": "杭州",
+        "name": "王小檬𝖂𝖎𝖑𝖑𝖆🍋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978691032192782336/2rH_jGCj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11735,
+          "following_count": 198,
+          "tweet_count": 6147,
+          "listed_count": 31,
+          "like_count": 4614,
+          "media_count": 263
+        },
+        "username": "willa_citrus",
+        "verified": false
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741993395910811648",
+        "conversation_id": "1998796029739827611",
+        "created_at": "2025-12-14T02:38:11.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2025-12-14T03:38:11.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "2000032540326068307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 13,
+              "username": "willa_citrus",
+              "id": "1767161673566359552"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000032540326068307",
+        "in_reply_to_user_id": "1767161673566359552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1999905125821993058"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@willa_citrus “林地生长于漫宿墙外。每一个研习诸史的人都知道，漫宿无墙。”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767161673566359552",
+        "conversation_id": "1998796029739827611",
+        "created_at": "2025-12-13T18:11:53.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2025-12-13T19:11:53.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1999905125821993058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 16,
+              "username": "AnIncandescence",
+              "id": "1741993395910811648"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999905125821993058",
+        "in_reply_to_user_id": "1741993395910811648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 2,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 100
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1998796029739827611"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnIncandescence 漫宿研习者 虽然看不到太多类似内容 但知道不是只有我一个人在探索就很安心"
+      }
+    ]
+  },
+  "_pale_fire": {
+    "x_api_reply_chains": {
+      "1998796029739827611": {
+        "version": 1,
+        "fetched_at": "2026-04-18T01:15:25Z",
+        "max_depth": 63,
+        "posts": [
+          {
+            "id": "1998796029739827611",
+            "source": "local_json",
+            "payload": {
+              "data": {
+                "article": {},
+                "attachments": {},
+                "author_id": "1741993395910811648",
+                "conversation_id": "1998796029739827611",
+                "created_at": "2025-12-11T05:55:28.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2025-12-11T06:55:28.000Z"
+                },
+                "edit_history_tweet_ids": [
+                  "1998995025762636201"
+                ],
+                "entities": {},
+                "geo": {},
+                "id": "1998995025762636201",
+                "in_reply_to_user_id": "1741993395910811648",
+                "lang": "zh",
+                "note_tweet": {
+                  "entities": {}
+                },
+                "possibly_sensitive": false,
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 0
+                },
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "1998796029739827611"
+                  }
+                ],
+                "reply_settings": "everyone",
+                "text": "竟然！没有人来！！😭"
+              },
+              "includes": {
+                "media": [
+                  {
+                    "height": 885,
+                    "media_key": "3_1998796024970883074",
+                    "public_metrics": {},
+                    "type": "photo",
+                    "url": "https://pbs.twimg.com/media/G70mZQbaMAIuxdx.jpg",
+                    "width": 986
+                  }
+                ],
+                "users": [
+                  {
+                    "created_at": "2024-01-02T01:22:57.000Z",
+                    "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/iO6MRJNm9j",
+                            "expanded_url": "https://ngl.link/anincandescence1",
+                            "display_url": "ngl.link/anincandescenc…"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1741993395910811648",
+                    "location": "天鹅座X-1",
+                    "name": "炽烈已极",
+                    "pinned_tweet_id": "1991299586002935866",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1967287311504465922/Z7d-hW5p_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 1323,
+                      "following_count": 215,
+                      "tweet_count": 4641,
+                      "listed_count": 4,
+                      "like_count": 11607,
+                      "media_count": 888
+                    },
+                    "url": "https://t.co/iO6MRJNm9j",
+                    "username": "AnIncandescence",
+                    "verified": false
+                  }
+                ],
+                "tweets": [
+                  {
+                    "article": {},
+                    "attachments": {},
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "1998796029739827611",
+                    "created_at": "2025-12-11T05:55:28.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2025-12-11T06:55:28.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "1998995025762636201"
+                    ],
+                    "entities": {},
+                    "geo": {},
+                    "id": "1998995025762636201",
+                    "in_reply_to_user_id": "1741993395910811648",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 0,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 0
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "1998796029739827611"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "竟然！没有人来！！😭"
+                  },
+                  {
+                    "article": {},
+                    "attachments": {
+                      "media_keys": [
+                        "3_1998796024970883074"
+                      ]
+                    },
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "1998796029739827611",
+                    "created_at": "2025-12-10T16:44:43.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2025-12-10T17:44:43.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "1998796029739827611"
+                    ],
+                    "entities": {
+                      "urls": [
+                        {
+                          "start": 19,
+                          "end": 42,
+                          "url": "https://t.co/OLTf8zfGOe",
+                          "expanded_url": "https://x.com/AnIncandescence/status/1998796029739827611/photo/1",
+                          "display_url": "pic.x.com/OLTf8zfGOe",
+                          "media_key": "3_1998796024970883074"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "1998796029739827611",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 2,
+                      "like_count": 3,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 168
+                    },
+                    "reply_settings": "everyone",
+                    "text": "..我还要再忍受多少次这个数字更迭呢 https://t.co/OLTf8zfGOe"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

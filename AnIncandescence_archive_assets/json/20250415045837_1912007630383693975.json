@@ -1,1 +1,1057 @@
-{"data":{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1911845420441149827","created_at":"2025-04-15T04:58:37.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-04-15T05:58:37.000Z"},"edit_history_tweet_ids":["1912007630383693975"],"entities":{"mentions":[{"start":0,"end":10,"username":"SalviaSWC","id":"1659962043460354050"}]},"geo":{},"id":"1912007630383693975","in_reply_to_user_id":"1659962043460354050","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1912006731003224551"}],"reply_settings":"everyone","text":"@SalviaSWC 而且很贵！"},"includes":{"users":[{"created_at":"2024-01-02T01:22:57.000Z","description":"猫，诗歌，精神动力学。艺术，C#，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 小小炽 @TauCeti_10700 | 匿名提问箱👇 | tg同名 | 🚪88/158","entities":{"url":{"urls":[{"start":0,"end":23,"url":"https://t.co/MuEKSg4tIS","expanded_url":"https://ngl.link/anincandescence","display_url":"ngl.link/anincandescence"}]},"description":{"mentions":[{"start":63,"end":77,"username":"TauCeti_10700"}]}},"id":"1741993395910811648","location":"0°00′N 260°00′E Mars","name":"炽烈已极","pinned_tweet_id":"1905895186867400960","profile_image_url":"https://pbs.twimg.com/profile_images/1789433740277567488/d3KhwUX1_normal.jpg","protected":false,"public_metrics":{"followers_count":793,"following_count":174,"tweet_count":2405,"listed_count":2,"like_count":6532,"media_count":507},"url":"https://t.co/MuEKSg4tIS","username":"AnIncandescence","verified":true},{"created_at":"2023-05-20T16:39:35.000Z","description":"07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政\n会发各种东西 欢迎任何人🌈 互fo🉑","id":"1659962043460354050","name":"鼠尾草～🌿","profile_image_url":"https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg","protected":false,"public_metrics":{"followers_count":47,"following_count":53,"tweet_count":336,"listed_count":0,"like_count":509,"media_count":13},"username":"SalviaSWC","verified":false}],"tweets":[{"article":{},"attachments":{},"author_id":"1741993395910811648","conversation_id":"1911845420441149827","created_at":"2025-04-15T04:58:37.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-04-15T05:58:37.000Z"},"edit_history_tweet_ids":["1912007630383693975"],"entities":{"mentions":[{"start":0,"end":10,"username":"SalviaSWC","id":"1659962043460354050"}]},"geo":{},"id":"1912007630383693975","in_reply_to_user_id":"1659962043460354050","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":0,"like_count":0,"quote_count":0,"bookmark_count":0,"impression_count":0},"referenced_tweets":[{"type":"replied_to","id":"1912006731003224551"}],"reply_settings":"everyone","text":"@SalviaSWC 而且很贵！"},{"article":{},"attachments":{},"author_id":"1659962043460354050","conversation_id":"1911845420441149827","created_at":"2025-04-15T04:55:02.000Z","edit_controls":{"edits_remaining":5,"is_edit_eligible":false,"editable_until":"2025-04-15T05:55:02.000Z"},"edit_history_tweet_ids":["1912006731003224551"],"entities":{"mentions":[{"start":0,"end":16,"username":"AnIncandescence","id":"1741993395910811648"}]},"geo":{},"id":"1912006731003224551","in_reply_to_user_id":"1741993395910811648","lang":"zh","note_tweet":{"entities":{}},"possibly_sensitive":false,"public_metrics":{"retweet_count":0,"reply_count":1,"like_count":1,"quote_count":0,"bookmark_count":0,"impression_count":2},"referenced_tweets":[{"type":"replied_to","id":"1911985068785926393"}],"reply_settings":"everyone","text":"@AnIncandescence 钠盐作用时间太短了，好像撤药反应比较也严重()"}]}}
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741993395910811648",
+    "conversation_id": "1911845420441149827",
+    "created_at": "2025-04-15T04:58:37.000Z",
+    "edit_controls": {
+      "edits_remaining": 5,
+      "is_edit_eligible": false,
+      "editable_until": "2025-04-15T05:58:37.000Z"
+    },
+    "edit_history_tweet_ids": [
+      "1912007630383693975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 10,
+          "username": "SalviaSWC",
+          "id": "1659962043460354050"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912007630383693975",
+    "in_reply_to_user_id": "1659962043460354050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1912006731003224551"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SalviaSWC 而且很贵！"
+  },
+  "includes": {
+    "users": [
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，C#，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 小小炽 @TauCeti_10700 | 匿名提问箱👇 | tg同名 | 🚪88/158",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/MuEKSg4tIS",
+                "expanded_url": "https://ngl.link/anincandescence",
+                "display_url": "ngl.link/anincandescence"
+              }
+            ]
+          },
+          "description": {
+            "mentions": [
+              {
+                "start": 63,
+                "end": 77,
+                "username": "TauCeti_10700"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "0°00′N 260°00′E Mars",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "1905895186867400960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789433740277567488/d3KhwUX1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 793,
+          "following_count": 174,
+          "tweet_count": 2405,
+          "listed_count": 2,
+          "like_count": 6532,
+          "media_count": 507
+        },
+        "url": "https://t.co/MuEKSg4tIS",
+        "username": "AnIncandescence",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政\n会发各种东西 欢迎任何人🌈 互fo🉑",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 53,
+          "tweet_count": 336,
+          "listed_count": 0,
+          "like_count": 509,
+          "media_count": 13
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741993395910811648",
+        "conversation_id": "1911845420441149827",
+        "created_at": "2025-04-15T04:58:37.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2025-04-15T05:58:37.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1912007630383693975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 10,
+              "username": "SalviaSWC",
+              "id": "1659962043460354050"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912007630383693975",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1912006731003224551"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 而且很贵！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1911845420441149827",
+        "created_at": "2025-04-15T04:55:02.000Z",
+        "edit_controls": {
+          "edits_remaining": 5,
+          "is_edit_eligible": false,
+          "editable_until": "2025-04-15T05:55:02.000Z"
+        },
+        "edit_history_tweet_ids": [
+          "1912006731003224551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 16,
+              "username": "AnIncandescence",
+              "id": "1741993395910811648"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912006731003224551",
+        "in_reply_to_user_id": "1741993395910811648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "bookmark_count": 0,
+          "impression_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1911985068785926393"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnIncandescence 钠盐作用时间太短了，好像撤药反应比较也严重()"
+      }
+    ]
+  },
+  "_pale_fire": {
+    "x_api_reply_chains": {
+      "1911985068785926393": {
+        "version": 1,
+        "fetched_at": "2026-04-18T00:13:02Z",
+        "max_depth": 63,
+        "posts": [
+          {
+            "id": "1911985068785926393",
+            "source": "local_json",
+            "payload": {
+              "data": {
+                "article": {},
+                "attachments": {},
+                "author_id": "1741993395910811648",
+                "conversation_id": "1911845420441149827",
+                "created_at": "2025-04-15T03:28:58.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2025-04-15T04:28:58.000Z"
+                },
+                "edit_history_tweet_ids": [
+                  "1911985068785926393"
+                ],
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 0,
+                      "end": 10,
+                      "username": "SalviaSWC",
+                      "id": "1659962043460354050"
+                    }
+                  ]
+                },
+                "geo": {},
+                "id": "1911985068785926393",
+                "in_reply_to_user_id": "1659962043460354050",
+                "lang": "zh",
+                "note_tweet": {
+                  "entities": {}
+                },
+                "possibly_sensitive": false,
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 0
+                },
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "1911904299262652874"
+                  }
+                ],
+                "reply_settings": "everyone",
+                "text": "@SalviaSWC 本来我首选是钠盐的，但直觉上就是这个副作用要更恐怖一点(ó﹏ò｡)💦"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "created_at": "2024-01-02T01:22:57.000Z",
+                    "description": "猫，诗歌，精神动力学。艺术，C#，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 小小炽 @TauCeti_10700 | 匿名提问箱👇 | tg同名 | 🚪88/158",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/MuEKSg4tIS",
+                            "expanded_url": "https://ngl.link/anincandescence",
+                            "display_url": "ngl.link/anincandescence"
+                          }
+                        ]
+                      },
+                      "description": {
+                        "mentions": [
+                          {
+                            "start": 63,
+                            "end": 77,
+                            "username": "TauCeti_10700"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1741993395910811648",
+                    "location": "0°00′N 260°00′E Mars",
+                    "name": "炽烈已极",
+                    "pinned_tweet_id": "1905895186867400960",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1789433740277567488/d3KhwUX1_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 793,
+                      "following_count": 174,
+                      "tweet_count": 2401,
+                      "listed_count": 2,
+                      "like_count": 6521,
+                      "media_count": 506
+                    },
+                    "url": "https://t.co/MuEKSg4tIS",
+                    "username": "AnIncandescence",
+                    "verified": true
+                  },
+                  {
+                    "created_at": "2023-05-20T16:39:35.000Z",
+                    "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政\n会发各种东西 欢迎任何人🌈 互fo🉑",
+                    "id": "1659962043460354050",
+                    "name": "鼠尾草～🌿",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 47,
+                      "following_count": 53,
+                      "tweet_count": 332,
+                      "listed_count": 0,
+                      "like_count": 505,
+                      "media_count": 13
+                    },
+                    "username": "SalviaSWC",
+                    "verified": false
+                  }
+                ],
+                "tweets": [
+                  {
+                    "article": {},
+                    "attachments": {},
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "1911845420441149827",
+                    "created_at": "2025-04-15T03:28:58.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2025-04-15T04:28:58.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "1911985068785926393"
+                    ],
+                    "entities": {
+                      "mentions": [
+                        {
+                          "start": 0,
+                          "end": 10,
+                          "username": "SalviaSWC",
+                          "id": "1659962043460354050"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "1911985068785926393",
+                    "in_reply_to_user_id": "1659962043460354050",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 0,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 0
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "1911904299262652874"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "@SalviaSWC 本来我首选是钠盐的，但直觉上就是这个副作用要更恐怖一点(ó﹏ò｡)💦"
+                  },
+                  {
+                    "article": {},
+                    "attachments": {},
+                    "author_id": "1659962043460354050",
+                    "conversation_id": "1911845420441149827",
+                    "created_at": "2025-04-14T22:08:01.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2025-04-14T23:08:01.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "1911904299262652874"
+                    ],
+                    "entities": {
+                      "mentions": [
+                        {
+                          "start": 0,
+                          "end": 16,
+                          "username": "AnIncandescence",
+                          "id": "1741993395910811648"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "1911904299262652874",
+                    "in_reply_to_user_id": "1741993395910811648",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 1,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 8
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "1911845420441149827"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "@AnIncandescence 半硫酸盐确实比钠作用时间长，适合神经保护，不适合娱乐()"
+                  }
+                ]
+              },
+              "_pale_fire": {
+                "x_api_reply_chains": {
+                  "1911845420441149827": {
+                    "version": 1,
+                    "fetched_at": "2026-04-18T00:12:53Z",
+                    "max_depth": 63,
+                    "posts": [
+                      {
+                        "id": "1911845420441149827",
+                        "source": "local_json",
+                        "payload": {
+                          "data": {
+                            "article": {},
+                            "attachments": {},
+                            "author_id": "1741993395910811648",
+                            "conversation_id": "1911845420441149827",
+                            "created_at": "2025-04-14T18:24:11.000Z",
+                            "edit_controls": {
+                              "edits_remaining": 5,
+                              "is_edit_eligible": false,
+                              "editable_until": "2025-04-14T19:24:11.000Z"
+                            },
+                            "edit_history_tweet_ids": [
+                              "1911847971383366137"
+                            ],
+                            "entities": {},
+                            "geo": {},
+                            "id": "1911847971383366137",
+                            "in_reply_to_user_id": "1741993395910811648",
+                            "lang": "zh",
+                            "note_tweet": {
+                              "entities": {}
+                            },
+                            "possibly_sensitive": false,
+                            "public_metrics": {
+                              "retweet_count": 0,
+                              "reply_count": 0,
+                              "like_count": 0,
+                              "quote_count": 0,
+                              "bookmark_count": 0,
+                              "impression_count": 0
+                            },
+                            "referenced_tweets": [
+                              {
+                                "type": "replied_to",
+                                "id": "1911845420441149827"
+                              }
+                            ],
+                            "reply_settings": "everyone",
+                            "text": "阿片u+胆碱能副交感调节？\n但在抗抑郁剂量下它间接调节谷氨酸 - 胆碱能 - HPA轴反馈的机制更多是有益的，虽然说阿片这块抗抑郁的作用现在也有研究，我感觉这个药还是低剂量比较划算🤔"
+                          },
+                          "includes": {
+                            "users": [
+                              {
+                                "created_at": "2024-01-02T01:22:57.000Z",
+                                "description": "猫，诗歌，精神动力学。艺术，C#，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 小小炽 @TauCeti_10700 | 匿名提问箱👇 | tg同名 | 🚪88/158",
+                                "entities": {
+                                  "url": {
+                                    "urls": [
+                                      {
+                                        "start": 0,
+                                        "end": 23,
+                                        "url": "https://t.co/MuEKSg4tIS",
+                                        "expanded_url": "https://ngl.link/anincandescence",
+                                        "display_url": "ngl.link/anincandescence"
+                                      }
+                                    ]
+                                  },
+                                  "description": {
+                                    "mentions": [
+                                      {
+                                        "start": 63,
+                                        "end": 77,
+                                        "username": "TauCeti_10700"
+                                      }
+                                    ]
+                                  }
+                                },
+                                "id": "1741993395910811648",
+                                "location": "0°00′N 260°00′E Mars",
+                                "name": "炽烈已极",
+                                "pinned_tweet_id": "1905895186867400960",
+                                "profile_image_url": "https://pbs.twimg.com/profile_images/1789433740277567488/d3KhwUX1_normal.jpg",
+                                "protected": false,
+                                "public_metrics": {
+                                  "followers_count": 783,
+                                  "following_count": 174,
+                                  "tweet_count": 2400,
+                                  "listed_count": 2,
+                                  "like_count": 6521,
+                                  "media_count": 506
+                                },
+                                "url": "https://t.co/MuEKSg4tIS",
+                                "username": "AnIncandescence",
+                                "verified": true
+                              }
+                            ],
+                            "tweets": [
+                              {
+                                "article": {},
+                                "attachments": {},
+                                "author_id": "1741993395910811648",
+                                "conversation_id": "1911845420441149827",
+                                "created_at": "2025-04-14T18:24:11.000Z",
+                                "edit_controls": {
+                                  "edits_remaining": 5,
+                                  "is_edit_eligible": false,
+                                  "editable_until": "2025-04-14T19:24:11.000Z"
+                                },
+                                "edit_history_tweet_ids": [
+                                  "1911847971383366137"
+                                ],
+                                "entities": {},
+                                "geo": {},
+                                "id": "1911847971383366137",
+                                "in_reply_to_user_id": "1741993395910811648",
+                                "lang": "zh",
+                                "note_tweet": {
+                                  "entities": {}
+                                },
+                                "possibly_sensitive": false,
+                                "public_metrics": {
+                                  "retweet_count": 0,
+                                  "reply_count": 0,
+                                  "like_count": 0,
+                                  "quote_count": 0,
+                                  "bookmark_count": 0,
+                                  "impression_count": 0
+                                },
+                                "referenced_tweets": [
+                                  {
+                                    "type": "replied_to",
+                                    "id": "1911845420441149827"
+                                  }
+                                ],
+                                "reply_settings": "everyone",
+                                "text": "阿片u+胆碱能副交感调节？\n但在抗抑郁剂量下它间接调节谷氨酸 - 胆碱能 - HPA轴反馈的机制更多是有益的，虽然说阿片这块抗抑郁的作用现在也有研究，我感觉这个药还是低剂量比较划算🤔"
+                              },
+                              {
+                                "article": {},
+                                "attachments": {},
+                                "author_id": "1741993395910811648",
+                                "conversation_id": "1911845420441149827",
+                                "created_at": "2025-04-14T18:14:03.000Z",
+                                "edit_controls": {
+                                  "edits_remaining": 5,
+                                  "is_edit_eligible": false,
+                                  "editable_until": "2025-04-14T19:14:03.000Z"
+                                },
+                                "edit_history_tweet_ids": [
+                                  "1911845420441149827"
+                                ],
+                                "entities": {
+                                  "urls": [
+                                    {
+                                      "start": 134,
+                                      "end": 157,
+                                      "url": "https://t.co/WmtyShBKk2",
+                                      "expanded_url": "https://twitter.com/anincandescence/status/1910754191498498344",
+                                      "display_url": "x.com/anincandescenc…"
+                                    }
+                                  ]
+                                },
+                                "geo": {},
+                                "id": "1911845420441149827",
+                                "lang": "zh",
+                                "note_tweet": {
+                                  "entities": {}
+                                },
+                                "possibly_sensitive": false,
+                                "public_metrics": {
+                                  "retweet_count": 0,
+                                  "reply_count": 1,
+                                  "like_count": 0,
+                                  "quote_count": 0,
+                                  "bookmark_count": 0,
+                                  "impression_count": 57
+                                },
+                                "referenced_tweets": [
+                                  {
+                                    "type": "quoted",
+                                    "id": "1910754191498498344"
+                                  }
+                                ],
+                                "reply_settings": "everyone",
+                                "text": "Tianeptine（半硫酸盐）\n我只测试了几次相对偏高的剂量，其中一次在情绪波动很大的时候效果尤其出色，比起压制更像是一种能想通的感觉（？）\n\n目前还没有观察到有情绪反弹的现象\n\n但大剂量也会让延后出现的胃肠道副作用更明显，可能我又要滴定个合适的剂量范围了...哎 https://t.co/WmtyShBKk2"
+                              }
+                            ]
+                          }
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          },
+          {
+            "id": "1911904299262652874",
+            "source": "local_json",
+            "payload": {
+              "data": {
+                "article": {},
+                "attachments": {},
+                "author_id": "1741993395910811648",
+                "conversation_id": "1911845420441149827",
+                "created_at": "2025-04-15T03:28:58.000Z",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": false,
+                  "editable_until": "2025-04-15T04:28:58.000Z"
+                },
+                "edit_history_tweet_ids": [
+                  "1911985068785926393"
+                ],
+                "entities": {
+                  "mentions": [
+                    {
+                      "start": 0,
+                      "end": 10,
+                      "username": "SalviaSWC",
+                      "id": "1659962043460354050"
+                    }
+                  ]
+                },
+                "geo": {},
+                "id": "1911985068785926393",
+                "in_reply_to_user_id": "1659962043460354050",
+                "lang": "zh",
+                "note_tweet": {
+                  "entities": {}
+                },
+                "possibly_sensitive": false,
+                "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "bookmark_count": 0,
+                  "impression_count": 0
+                },
+                "referenced_tweets": [
+                  {
+                    "type": "replied_to",
+                    "id": "1911904299262652874"
+                  }
+                ],
+                "reply_settings": "everyone",
+                "text": "@SalviaSWC 本来我首选是钠盐的，但直觉上就是这个副作用要更恐怖一点(ó﹏ò｡)💦"
+              },
+              "includes": {
+                "users": [
+                  {
+                    "created_at": "2024-01-02T01:22:57.000Z",
+                    "description": "猫，诗歌，精神动力学。艺术，C#，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 小小炽 @TauCeti_10700 | 匿名提问箱👇 | tg同名 | 🚪88/158",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/MuEKSg4tIS",
+                            "expanded_url": "https://ngl.link/anincandescence",
+                            "display_url": "ngl.link/anincandescence"
+                          }
+                        ]
+                      },
+                      "description": {
+                        "mentions": [
+                          {
+                            "start": 63,
+                            "end": 77,
+                            "username": "TauCeti_10700"
+                          }
+                        ]
+                      }
+                    },
+                    "id": "1741993395910811648",
+                    "location": "0°00′N 260°00′E Mars",
+                    "name": "炽烈已极",
+                    "pinned_tweet_id": "1905895186867400960",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1789433740277567488/d3KhwUX1_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 793,
+                      "following_count": 174,
+                      "tweet_count": 2401,
+                      "listed_count": 2,
+                      "like_count": 6521,
+                      "media_count": 506
+                    },
+                    "url": "https://t.co/MuEKSg4tIS",
+                    "username": "AnIncandescence",
+                    "verified": true
+                  },
+                  {
+                    "created_at": "2023-05-20T16:39:35.000Z",
+                    "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政\n会发各种东西 欢迎任何人🌈 互fo🉑",
+                    "id": "1659962043460354050",
+                    "name": "鼠尾草～🌿",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+                    "protected": false,
+                    "public_metrics": {
+                      "followers_count": 47,
+                      "following_count": 53,
+                      "tweet_count": 332,
+                      "listed_count": 0,
+                      "like_count": 505,
+                      "media_count": 13
+                    },
+                    "username": "SalviaSWC",
+                    "verified": false
+                  }
+                ],
+                "tweets": [
+                  {
+                    "article": {},
+                    "attachments": {},
+                    "author_id": "1741993395910811648",
+                    "conversation_id": "1911845420441149827",
+                    "created_at": "2025-04-15T03:28:58.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2025-04-15T04:28:58.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "1911985068785926393"
+                    ],
+                    "entities": {
+                      "mentions": [
+                        {
+                          "start": 0,
+                          "end": 10,
+                          "username": "SalviaSWC",
+                          "id": "1659962043460354050"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "1911985068785926393",
+                    "in_reply_to_user_id": "1659962043460354050",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 0,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 0
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "1911904299262652874"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "@SalviaSWC 本来我首选是钠盐的，但直觉上就是这个副作用要更恐怖一点(ó﹏ò｡)💦"
+                  },
+                  {
+                    "article": {},
+                    "attachments": {},
+                    "author_id": "1659962043460354050",
+                    "conversation_id": "1911845420441149827",
+                    "created_at": "2025-04-14T22:08:01.000Z",
+                    "edit_controls": {
+                      "edits_remaining": 5,
+                      "is_edit_eligible": false,
+                      "editable_until": "2025-04-14T23:08:01.000Z"
+                    },
+                    "edit_history_tweet_ids": [
+                      "1911904299262652874"
+                    ],
+                    "entities": {
+                      "mentions": [
+                        {
+                          "start": 0,
+                          "end": 16,
+                          "username": "AnIncandescence",
+                          "id": "1741993395910811648"
+                        }
+                      ]
+                    },
+                    "geo": {},
+                    "id": "1911904299262652874",
+                    "in_reply_to_user_id": "1741993395910811648",
+                    "lang": "zh",
+                    "note_tweet": {
+                      "entities": {}
+                    },
+                    "possibly_sensitive": false,
+                    "public_metrics": {
+                      "retweet_count": 0,
+                      "reply_count": 1,
+                      "like_count": 0,
+                      "quote_count": 0,
+                      "bookmark_count": 0,
+                      "impression_count": 8
+                    },
+                    "referenced_tweets": [
+                      {
+                        "type": "replied_to",
+                        "id": "1911845420441149827"
+                      }
+                    ],
+                    "reply_settings": "everyone",
+                    "text": "@AnIncandescence 半硫酸盐确实比钠作用时间长，适合神经保护，不适合娱乐()"
+                  }
+                ]
+              },
+              "_pale_fire": {
+                "x_api_reply_chains": {
+                  "1911845420441149827": {
+                    "version": 1,
+                    "fetched_at": "2026-04-18T00:12:53Z",
+                    "max_depth": 63,
+                    "posts": [
+                      {
+                        "id": "1911845420441149827",
+                        "source": "local_json",
+                        "payload": {
+                          "data": {
+                            "article": {},
+                            "attachments": {},
+                            "author_id": "1741993395910811648",
+                            "conversation_id": "1911845420441149827",
+                            "created_at": "2025-04-14T18:24:11.000Z",
+                            "edit_controls": {
+                              "edits_remaining": 5,
+                              "is_edit_eligible": false,
+                              "editable_until": "2025-04-14T19:24:11.000Z"
+                            },
+                            "edit_history_tweet_ids": [
+                              "1911847971383366137"
+                            ],
+                            "entities": {},
+                            "geo": {},
+                            "id": "1911847971383366137",
+                            "in_reply_to_user_id": "1741993395910811648",
+                            "lang": "zh",
+                            "note_tweet": {
+                              "entities": {}
+                            },
+                            "possibly_sensitive": false,
+                            "public_metrics": {
+                              "retweet_count": 0,
+                              "reply_count": 0,
+                              "like_count": 0,
+                              "quote_count": 0,
+                              "bookmark_count": 0,
+                              "impression_count": 0
+                            },
+                            "referenced_tweets": [
+                              {
+                                "type": "replied_to",
+                                "id": "1911845420441149827"
+                              }
+                            ],
+                            "reply_settings": "everyone",
+                            "text": "阿片u+胆碱能副交感调节？\n但在抗抑郁剂量下它间接调节谷氨酸 - 胆碱能 - HPA轴反馈的机制更多是有益的，虽然说阿片这块抗抑郁的作用现在也有研究，我感觉这个药还是低剂量比较划算🤔"
+                          },
+                          "includes": {
+                            "users": [
+                              {
+                                "created_at": "2024-01-02T01:22:57.000Z",
+                                "description": "猫，诗歌，精神动力学。艺术，C#，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 小小炽 @TauCeti_10700 | 匿名提问箱👇 | tg同名 | 🚪88/158",
+                                "entities": {
+                                  "url": {
+                                    "urls": [
+                                      {
+                                        "start": 0,
+                                        "end": 23,
+                                        "url": "https://t.co/MuEKSg4tIS",
+                                        "expanded_url": "https://ngl.link/anincandescence",
+                                        "display_url": "ngl.link/anincandescence"
+                                      }
+                                    ]
+                                  },
+                                  "description": {
+                                    "mentions": [
+                                      {
+                                        "start": 63,
+                                        "end": 77,
+                                        "username": "TauCeti_10700"
+                                      }
+                                    ]
+                                  }
+                                },
+                                "id": "1741993395910811648",
+                                "location": "0°00′N 260°00′E Mars",
+                                "name": "炽烈已极",
+                                "pinned_tweet_id": "1905895186867400960",
+                                "profile_image_url": "https://pbs.twimg.com/profile_images/1789433740277567488/d3KhwUX1_normal.jpg",
+                                "protected": false,
+                                "public_metrics": {
+                                  "followers_count": 783,
+                                  "following_count": 174,
+                                  "tweet_count": 2400,
+                                  "listed_count": 2,
+                                  "like_count": 6521,
+                                  "media_count": 506
+                                },
+                                "url": "https://t.co/MuEKSg4tIS",
+                                "username": "AnIncandescence",
+                                "verified": true
+                              }
+                            ],
+                            "tweets": [
+                              {
+                                "article": {},
+                                "attachments": {},
+                                "author_id": "1741993395910811648",
+                                "conversation_id": "1911845420441149827",
+                                "created_at": "2025-04-14T18:24:11.000Z",
+                                "edit_controls": {
+                                  "edits_remaining": 5,
+                                  "is_edit_eligible": false,
+                                  "editable_until": "2025-04-14T19:24:11.000Z"
+                                },
+                                "edit_history_tweet_ids": [
+                                  "1911847971383366137"
+                                ],
+                                "entities": {},
+                                "geo": {},
+                                "id": "1911847971383366137",
+                                "in_reply_to_user_id": "1741993395910811648",
+                                "lang": "zh",
+                                "note_tweet": {
+                                  "entities": {}
+                                },
+                                "possibly_sensitive": false,
+                                "public_metrics": {
+                                  "retweet_count": 0,
+                                  "reply_count": 0,
+                                  "like_count": 0,
+                                  "quote_count": 0,
+                                  "bookmark_count": 0,
+                                  "impression_count": 0
+                                },
+                                "referenced_tweets": [
+                                  {
+                                    "type": "replied_to",
+                                    "id": "1911845420441149827"
+                                  }
+                                ],
+                                "reply_settings": "everyone",
+                                "text": "阿片u+胆碱能副交感调节？\n但在抗抑郁剂量下它间接调节谷氨酸 - 胆碱能 - HPA轴反馈的机制更多是有益的，虽然说阿片这块抗抑郁的作用现在也有研究，我感觉这个药还是低剂量比较划算🤔"
+                              },
+                              {
+                                "article": {},
+                                "attachments": {},
+                                "author_id": "1741993395910811648",
+                                "conversation_id": "1911845420441149827",
+                                "created_at": "2025-04-14T18:14:03.000Z",
+                                "edit_controls": {
+                                  "edits_remaining": 5,
+                                  "is_edit_eligible": false,
+                                  "editable_until": "2025-04-14T19:14:03.000Z"
+                                },
+                                "edit_history_tweet_ids": [
+                                  "1911845420441149827"
+                                ],
+                                "entities": {
+                                  "urls": [
+                                    {
+                                      "start": 134,
+                                      "end": 157,
+                                      "url": "https://t.co/WmtyShBKk2",
+                                      "expanded_url": "https://twitter.com/anincandescence/status/1910754191498498344",
+                                      "display_url": "x.com/anincandescenc…"
+                                    }
+                                  ]
+                                },
+                                "geo": {},
+                                "id": "1911845420441149827",
+                                "lang": "zh",
+                                "note_tweet": {
+                                  "entities": {}
+                                },
+                                "possibly_sensitive": false,
+                                "public_metrics": {
+                                  "retweet_count": 0,
+                                  "reply_count": 1,
+                                  "like_count": 0,
+                                  "quote_count": 0,
+                                  "bookmark_count": 0,
+                                  "impression_count": 57
+                                },
+                                "referenced_tweets": [
+                                  {
+                                    "type": "quoted",
+                                    "id": "1910754191498498344"
+                                  }
+                                ],
+                                "reply_settings": "everyone",
+                                "text": "Tianeptine（半硫酸盐）\n我只测试了几次相对偏高的剂量，其中一次在情绪波动很大的时候效果尤其出色，比起压制更像是一种能想通的感觉（？）\n\n目前还没有观察到有情绪反弹的现象\n\n但大剂量也会让延后出现的胃肠道副作用更明显，可能我又要滴定个合适的剂量范围了...哎 https://t.co/WmtyShBKk2"
+                              }
+                            ]
+                          }
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
