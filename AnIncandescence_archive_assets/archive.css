@@ -28,6 +28,7 @@ p{margin:4px 0 0;font-size:15px;color:var(--ink);line-height:1.5;overflow-wrap:a
 .tweet-media-item img{display:block;width:100%;height:auto;cursor:zoom-in;background:var(--line);transition:opacity .15s}
 .tweet-media-item video{display:block;width:100%;height:auto;background:#000}
 .tweet-media-item img:hover{opacity:.88}
+.tweet-media-unavailable{color:var(--muted);font-size:14px}
 .tweet-ref{margin:10px 0 4px;padding:12px;border:1px solid var(--line);border-radius:12px;background:var(--bg)}
 .tweet-ref p{margin:4px 0 0;font-size:14px;color:var(--ink);line-height:1.45}
 .tweet-ref-header{display:flex;align-items:baseline;gap:6px;flex-wrap:wrap}
@@ -51,6 +52,7 @@ a:hover{text-decoration:underline}
 .lightbox-image{display:block;max-width:min(100vw - 48px,1400px);max-height:calc(100vh - 48px);border-radius:12px;background:#000}
 body.lightbox-open{overflow:hidden}
 @media (max-width:600px){.archive-shell{border-left:none;border-right:none}.tweet{padding:10px 16px}.tweet-media{border-radius:12px}}
+@media (prefers-color-scheme:dark){:root{--bg:#000;--hover:#080808;--ink:#f7f9f9;--muted:#8b98a5;--line:#2f3336;--accent:#1d9bf0}.archive-sticky-bar{background:rgba(0,0,0,.85)}.tweet-media-item img{background:var(--line)}.lightbox-image{background:var(--bg)}}
 
 
 .archive-controls{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 4px;padding:12px 16px;border-bottom:1px solid var(--line)}
@@ -94,6 +96,7 @@ body.lightbox-open{overflow:hidden}
 .detail-post .tweet-media{display:grid;grid-template-columns:1fr;gap:2px;margin:10px 0 4px;border-radius:16px;overflow:hidden}
 .detail-post .tweet-media-item img{display:block;width:100%;height:auto;background:var(--line)}
 .detail-post .tweet-media-item video{display:block;width:100%;height:auto;background:#000}
+.detail-post .tweet-media-unavailable,.detail-comments .tweet-media-unavailable{color:var(--muted)}
 .detail-post .tweet-ref{margin:10px 0 4px;padding:12px;border:1px solid var(--line);border-radius:12px;background:var(--bg)}
 .detail-post .tweet-ref p{font-size:14px}
 .detail-post a{color:var(--accent);text-decoration:none}
