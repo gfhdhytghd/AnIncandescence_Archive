@@ -1,5 +1,6 @@
 
 (() => {
+  let deferredData = null;
   const TWEET_FILTERS = [
     {
       key: "repost",
@@ -57,24 +58,19 @@
   setupDetailPanel();
 
   function setupArchiveTabs(tweets, container) {
-    const tabKey = `${getArchiveStorageNamespace()}-archive-tab`;
+    const tabKey = `${getArchiveStorageNamespace()}-archive-tab-v2`;
     const posts = tweets.filter((t) => t.dataset.isReply !== "true");
     const replyTweets = tweets.filter((t) => t.dataset.isReply === "true");
-    const commentIds = new Set();
-    tweets.forEach((tweet) => {
-      tweet.querySelectorAll(".tweet-comments [data-comment-id]").forEach((node) => {
-        if (node.dataset.commentId) commentIds.add(node.dataset.commentId);
-      });
-    });
-    const threadRoots = tweets.filter((t) => t.querySelector(".tweet-comments") && !commentIds.has(t.dataset.tweetId));
-    const orphanReplies = replyTweets.filter((t) => !commentIds.has(t.dataset.tweetId));
-    const replyViewTweets = new Set([...threadRoots, ...orphanReplies]);
+    const threadRoots = tweets.filter((t) => t.dataset.hasComments === "true" && t.dataset.isComment !== "true");
+    const replyViewTweets = new Set([...threadRoots, ...replyTweets]);
     if (!replyTweets.length && !threadRoots.length) return;
 
     const tabBar = document.createElement("div");
     tabBar.className = "archive-tabs";
     tabBar.innerHTML =
-      `<button class="archive-tab active" data-archive-tab="posts">` +
+      `<button class="archive-tab active" data-archive-tab="all">` +
+      `全部<span class="archive-tab-meta">${tweets.length}</span></button>` +
+    `<button class="archive-tab" data-archive-tab="posts">` +
       `帖子<span class="archive-tab-meta">${posts.length}</span></button>` +
     `<button class="archive-tab" data-archive-tab="replies">` +
       `回复<span class="archive-tab-meta">${replyTweets.length}</span></button>`;
@@ -82,12 +78,11 @@
     container.appendChild(tabBar);
 
     const tabButtons = Array.from(tabBar.querySelectorAll(".archive-tab"));
-    const scrollPositions = { posts: 0, replies: 0 };
-    const originalOrder = new Map(tweets.map((tweet, index) => [tweet, index]));
-    let currentTab = "posts";
+    const scrollPositions = { all: 0, posts: 0, replies: 0 };
+    let currentTab = "all";
 
     const saved = readTabState(tabKey);
-    if (saved && saved !== "posts") {
+    if (saved && saved !== "all") {
       activateTab(saved, true);
     }
 
@@ -100,7 +95,6 @@
       currentTab = name;
       tabButtons.forEach((b) => b.classList.toggle("active", b.dataset.archiveTab === name));
       writeTabState(tabKey, name);
-      orderTweetsForTab(name);
       tweets.forEach((tweet) => {
         const isRepost = tweet.classList.contains("tweet-is-repost");
         const hiddenByFilter = isRepost && (document.querySelector("[data-filter-key=\"repost\"]")?.checked || false);
@@ -111,25 +105,13 @@
     }
 
     function tabAllowsTweet(tweet, name) {
+      if (name === "all") return true;
       if (name === "posts") return tweet.dataset.isReply !== "true";
       return replyViewTweets.has(tweet);
     }
 
-    function orderTweetsForTab(name) {
-      const shell = document.querySelector(".archive-shell");
-      if (!shell) return;
-      const ordered = tweets.slice().sort((a, b) => {
-        if (name !== "replies") return originalOrder.get(a) - originalOrder.get(b);
-        const aVisible = tabAllowsTweet(a, "replies") ? 1 : 0;
-        const bVisible = tabAllowsTweet(b, "replies") ? 1 : 0;
-        if (aVisible !== bVisible) return bVisible - aVisible;
-        return originalOrder.get(a) - originalOrder.get(b);
-      });
-      ordered.forEach((tweet) => shell.appendChild(tweet));
-    }
-
     function readTabState(key) {
-      try { return window.localStorage.getItem(key) || "posts"; } catch { return "posts"; }
+      try { return window.localStorage.getItem(key) || "all"; } catch { return "all"; }
     }
     function writeTabState(key, value) {
       try { window.localStorage.setItem(key, value); } catch {}
@@ -138,7 +120,7 @@
     // Expose for coordination with filters
     window._archiveActiveTab = () => {
       const active = tabBar.querySelector(".archive-tab.active");
-      return active ? active.dataset.archiveTab : "posts";
+      return active ? active.dataset.archiveTab : "all";
     };
     window._archiveTabAllowsTweet = tabAllowsTweet;
     window._archiveRefreshTab = () => {
@@ -185,7 +167,7 @@
 
   function setupCommentExpansion(tweets, ctrls) {
     const expandKey = `${getArchiveStorageNamespace()}-default-expand-comments`;
-    const tweetsWithComments = tweets.filter((t) => t.querySelector(".tweet-comments"));
+    const tweetsWithComments = tweets.filter((t) => t.dataset.hasComments === "true" || t.querySelector(".tweet-comments"));
     if (!tweetsWithComments.length) return;
 
     const defaultExpand = readFilterState(expandKey);
@@ -212,7 +194,7 @@
       if (btn) {
         btn.addEventListener("click", (e) => {
           e.stopPropagation();
-          const comments = tweet.querySelector(".tweet-comments");
+          const comments = ensureComments(tweet);
           if (comments) setCommentState(tweet, comments.hidden);
         });
       }
@@ -221,18 +203,14 @@
     applyCommentExpansionForActiveTab();
 
     function applyCommentExpansionForActiveTab() {
-      const activeTab = window._archiveActiveTab ? window._archiveActiveTab() : "posts";
       tweetsWithComments.forEach((tweet) => {
-        const forceExpanded = activeTab === "replies"
-          && window._archiveTabAllowsTweet
-          && window._archiveTabAllowsTweet(tweet, "replies");
-        setCommentState(tweet, forceExpanded || globalCheckbox.checked);
+        setCommentState(tweet, globalCheckbox.checked);
       });
     }
   }
 
   function setCommentState(tweet, expanded) {
-    const comments = tweet.querySelector(".tweet-comments");
+    const comments = expanded ? ensureComments(tweet) : tweet.querySelector(".tweet-comments");
     const btn = tweet.querySelector(".tweet-expand-btn");
     if (comments) comments.hidden = !expanded;
     if (btn) {
@@ -264,13 +242,22 @@
       writeFilterState(expandKey, globalCheckbox.checked);
       tweetsWithChain.forEach((tweet) => {
         const chain = tweet.querySelector(".tweet-reply-chain");
-        if (chain) chain.open = globalCheckbox.checked;
+        if (chain) {
+          if (globalCheckbox.checked) hydrateReplyChain(tweet, chain);
+          chain.open = globalCheckbox.checked;
+        }
       });
     });
 
     tweetsWithChain.forEach((tweet) => {
       const chain = tweet.querySelector(".tweet-reply-chain");
-      if (chain) chain.open = defaultExpand;
+      if (chain) {
+        chain.addEventListener("toggle", () => {
+          if (chain.open) hydrateReplyChain(tweet, chain);
+        });
+        if (defaultExpand) hydrateReplyChain(tweet, chain);
+        chain.open = defaultExpand;
+      }
     });
   }
 
@@ -281,11 +268,11 @@
     const closeBtn = panel.querySelector(".detail-panel-close");
     const panelBody = panel.querySelector(".detail-panel-body");
 
-    document.querySelectorAll(".tweet").forEach((tweet) => {
-      tweet.addEventListener("click", (e) => {
-        if (e.target.closest("a, button, video, input, .lightbox")) return;
-        openPanel(tweet);
-      });
+    document.querySelector(".archive-shell")?.addEventListener("click", (e) => {
+      const tweet = e.target.closest(".tweet");
+      if (!tweet) return;
+      if (e.target.closest("a, button, video, input, .lightbox")) return;
+      openPanel(tweet);
     });
 
     function openPanel(tweet) {
@@ -293,10 +280,14 @@
 
       // Referenced / replied-to content (shown above post)
       const replyChain = tweet.querySelector(".tweet-reply-chain");
-      if (replyChain) {
+      const record = getDeferredRecord(tweet);
+      if (replyChain && record.r) {
         const ctx = document.createElement("div");
         ctx.className = "detail-context";
         const chainClone = replyChain.cloneNode(true);
+        if (!chainClone.querySelector(".tweet-ref")) {
+          chainClone.insertAdjacentHTML("beforeend", record.r);
+        }
         chainClone.open = true;
         ctx.appendChild(chainClone);
         panelBody.appendChild(ctx);
@@ -316,13 +307,14 @@
 
       // Comments (shown below post)
       const comments = tweet.querySelector(".tweet-comments");
-      const commentCount = comments ? Number(comments.dataset.commentTotal || comments.children.length || 0) : 0;
-      if (comments && commentCount) {
+      const commentHtml = comments ? comments.innerHTML : extractDeferredCommentsInnerHtml(record.c || "");
+      const commentCount = Number(record.cc || (comments ? comments.dataset.commentTotal || comments.children.length || 0 : 0));
+      if (commentHtml && commentCount) {
         const section = document.createElement("div");
         section.className = "detail-comments";
         section.innerHTML =
           "<div class='detail-comments-header'>评论 (" + commentCount + ")</div>" +
-          comments.innerHTML +
+          commentHtml +
           "<p class='detail-note'>仅包含本地存档及已缓存回复链中可见的评论，并按父子回复关系嵌套显示</p>";
         panelBody.appendChild(section);
       }
@@ -380,6 +372,57 @@
     return (scratch.textContent || "").trim();
   }
 
+  function readDeferredData() {
+    if (deferredData) return deferredData;
+    const node = document.getElementById("archive-deferred-data");
+    if (!node) {
+      deferredData = {};
+      return deferredData;
+    }
+    try {
+      deferredData = JSON.parse(node.textContent || "{}");
+    } catch {
+      deferredData = {};
+    }
+    return deferredData;
+  }
+
+  function getDeferredRecord(tweet) {
+    const id = tweet?.dataset?.tweetId;
+    const data = readDeferredData();
+    return id && data[id] ? data[id] : {};
+  }
+
+  function ensureComments(tweet) {
+    let comments = tweet.querySelector(".tweet-comments");
+    if (comments) return comments;
+    const record = getDeferredRecord(tweet);
+    if (!record.c) return null;
+    const footer = tweet.querySelector(".tweet-footer");
+    if (footer) {
+      footer.insertAdjacentHTML("beforebegin", record.c);
+      comments = footer.previousElementSibling;
+    } else {
+      tweet.insertAdjacentHTML("beforeend", record.c);
+      comments = tweet.lastElementChild;
+    }
+    return comments?.matches(".tweet-comments") ? comments : tweet.querySelector(".tweet-comments");
+  }
+
+  function hydrateReplyChain(tweet, chain) {
+    if (!chain || chain.querySelector(".tweet-ref")) return;
+    const record = getDeferredRecord(tweet);
+    if (record.r) chain.insertAdjacentHTML("beforeend", record.r);
+  }
+
+  function extractDeferredCommentsInnerHtml(html) {
+    if (!html) return "";
+    const template = document.createElement("template");
+    template.innerHTML = html;
+    const comments = template.content.querySelector(".tweet-comments");
+    return comments ? comments.innerHTML : "";
+  }
+
   function getArchiveStorageNamespace() {
     const file = (window.location.pathname.split("/").pop() || "archive.html").replace(/\.html$/i, "");
     return file.replace(/_(time_desc|media_first_time_desc|text_length_desc|text_entropy_desc)$/i, "");
@@ -428,17 +471,6 @@
     document.body.classList.add("lightbox-open");
   }
 
-  function prepareImage(image) {
-    image.loading = "lazy";
-    image.decoding = "async";
-    image.tabIndex = 0;
-    image.setAttribute("role", "button");
-  }
-
-  function prepareImages(root) {
-    root.querySelectorAll(".tweet-media-item img").forEach(prepareImage);
-  }
-
   lightbox.addEventListener("click", closeLightbox);
 
   document.addEventListener("click", (event) => {
@@ -465,17 +497,4 @@
     event.stopPropagation();
     openLightbox(image);
   }, true);
-
-  prepareImages(document);
-
-  const observer = new MutationObserver((mutations) => {
-    mutations.forEach((mutation) => {
-      mutation.addedNodes.forEach((node) => {
-        if (!(node instanceof Element)) return;
-        if (node.matches(".tweet-media-item img")) prepareImage(node);
-        prepareImages(node);
-      });
-    });
-  });
-  observer.observe(document.body, { childList: true, subtree: true });
 })();
